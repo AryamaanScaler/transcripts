@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:06,640
+Hello, I am speaking with Nupur. Hello. Hello. Yes. Yeah, Nupur. Hi. Good evening.
+
+2
+00:00:06,640 --> 00:00:13,200
+Sumit Desai, Senior Program Manager from Scala. How are you? I am good sir. I hope you remember
+
+3
+00:00:13,200 --> 00:00:19,000
+we spoke in the morning, right? You told me to call around eight o'clock. Yes. Good time
+
+4
+00:00:19,000 --> 00:00:27,000
+to talk now. Just for one minute. Yeah. Yeah. Not a problem.
+
+5
+00:00:27,000 --> 00:00:40,000
+Hello. Yeah, Nupur. Yes. Can you hear me? I can hear you but the voice. I need to call
+
+6
+00:00:40,000 --> 00:00:48,000
+back. Sorry. Hello. Yeah. Yeah. Please, please go on. I want to join the full start course
+
+7
+00:00:48,000 --> 00:00:55,000
+of Scala. You want to join the full start development program of Scala? Yes. All right.
+
+8
+00:00:55,000 --> 00:00:59,000
+But at Scala we are not taking enrollment for every person, right? It is a invite based
+
+9
+00:00:59,000 --> 00:01:03,000
+platform only. We check the eligibility of the learner and understand whether you are
+
+10
+00:01:03,000 --> 00:01:08,000
+qualified enough and relevant enough for the platform. So, Nupur, you have also requested
+
+11
+00:01:08,000 --> 00:01:14,000
+for a call back from my team, right? And I see that you have also registered for a master
+
+12
+00:01:14,000 --> 00:01:22,000
+event. What does it take to become a Microsoft developer, correct? Yes. So, may I understand
+
+13
+00:01:22,000 --> 00:01:26,000
+about your background? What exactly you have been doing and what is the education background
+
+14
+00:01:26,000 --> 00:01:35,000
+as well? Actually, I completed my reading in computer science. All right. I am working
+
+15
+00:01:35,000 --> 00:01:44,000
+as a software developer, website developer actually. You are working as a web stack developer?
+
+16
+00:01:45,000 --> 00:01:54,000
+Website developer. All right. So, you are on the UX side or UI side? Back end. Back end.
+
+17
+00:01:54,000 --> 00:02:02,000
+Experience. All right. So, since how long you have been working, Nupur? Hello. Yeah.
+
+18
+00:02:02,000 --> 00:02:08,000
+I am audible to you, Nupur. Yes. Your voice is breaking in between. I don't know why.
+
+19
+00:02:08,000 --> 00:02:13,000
+I think I suppose that there is some network problem. I am traveling going to home. All
+
+20
+00:02:13,000 --> 00:02:19,000
+right. All right. Okay. So, how far your home is there currently in Bangalore? No. No.
+
+21
+00:02:19,000 --> 00:02:25,000
+In Maharashtra. Maharashtra. In Maharashtra. I have a lot more people coming from Maharashtra,
+
+22
+00:02:25,000 --> 00:02:33,000
+Pune, Nasik. How did you come to know about Scalar by the way? Actually, my husband joining,
+
+23
+00:02:33,000 --> 00:02:39,000
+already doing the AI code. All right. Your husband is already doing the program with
+
+24
+00:02:39,000 --> 00:02:45,000
+Scalar. What is the name of your husband? I might be having his detail on the dashboard.
+
+25
+00:02:45,000 --> 00:02:55,000
+Kritesh Kumawat. Kritesh Kumawat. Yes. Just give me a second. Which company is working into currently?
+
+26
+00:02:55,000 --> 00:03:07,000
+After India Technology. Small scale company. All right. So, when has he joined the platform?
+
+27
+00:03:07,000 --> 00:03:17,000
+This month only or last month? Hello. Talking about the... Yeah. I am asking about the starting date.
+
+28
+00:03:17,000 --> 00:03:25,000
+Yeah. I am asking about the starting date of your husband. I think two, three months ago.
+
+29
+00:03:25,000 --> 00:03:33,000
+Two, three months ago. And how is the experience? Not exactly. It's good. Okay. But...
+
+30
+00:03:33,000 --> 00:03:41,000
+He doesn't have time. So, he has skipped in between. He is going to rejoin next batch.
+
+31
+00:03:41,000 --> 00:03:47,000
+Okay. He is going to rejoin. So, what was the reason for skipping? Yes. And workload.
+
+32
+00:03:47,000 --> 00:03:53,000
+Okay. Workload. He has got a job. All right. So, you... He is going to join. Okay.
+
+33
+00:03:53,000 --> 00:03:59,000
+Okay. So, have you done any research about Scalar? Your husband is already associated with
+
+34
+00:03:59,000 --> 00:04:07,000
+Data Science Machine Learning program. So, how to do full stack development? Because you have been working as a back end developer, right?
+
+35
+00:04:07,000 --> 00:04:15,000
+And I see that you are a 2015 graduate. Is it correct? Yes. It is already nine years, right?
+
+36
+00:04:15,000 --> 00:04:21,000
+You have been working in the industry. So, you are not on the initial run. You are already experienced for...
+
+37
+00:04:21,000 --> 00:04:29,000
+Okay. Correct. Hello. Actually, I have only two years of technical experience. Okay. Before that, I am in teaching field.
+
+38
+00:04:29,000 --> 00:04:37,000
+Teaching field. All right. So, from teaching to website development, how does this exactly happen?
+
+39
+00:04:37,000 --> 00:04:43,000
+Because this is quite interesting. I hope you don't mind sharing your story with me as well.
+
+40
+00:04:43,000 --> 00:04:47,000
+Hello.
+
+41
+00:04:47,000 --> 00:04:55,000
+Hello.
+
+42
+00:04:55,000 --> 00:05:01,000
+All right. So, which company are you working for, Panupur? What is your name?
+
+43
+00:05:01,000 --> 00:05:07,000
+I told you, Optin India Technologies. Optin India is your company's name? Yes.
+
+44
+00:05:07,000 --> 00:05:15,000
+All right. My husband is working with BSNL. BSNL? Yes. All right. All right.
+
+45
+00:05:15,000 --> 00:05:23,000
+Okay. Panupur, there is a little disturbance in your voice. How much time do you have free time?
+
+46
+00:05:23,000 --> 00:05:27,000
+I will give you a call at that time. I will ask one of my team members to give you a call.
+
+47
+00:05:27,000 --> 00:05:33,000
+8.30. 8.30. I mean...
+
+48
+00:05:33,000 --> 00:05:39,000
+There will be 100% possibility. Hello.
+
+49
+00:05:39,000 --> 00:05:45,000
+Hello.
+
+50
+00:05:45,000 --> 00:05:51,000
+Hello.
+
+51
+00:05:51,000 --> 00:05:57,000
+Okay.
+
+52
+00:05:57,000 --> 00:06:03,000
+Okay.
+
+53
+00:06:03,000 --> 00:06:09,000
+Okay.
+
+54
+00:06:09,000 --> 00:06:15,000
+Okay.
+
+55
+00:06:15,000 --> 00:06:19,000
+Okay. Okay, Panupur. Thank you. Nice talking to you. Bye.
+
+56
+00:06:19,000 --> 00:06:21,000
+Thank you. Bye.
+

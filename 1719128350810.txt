@@ -1,0 +1,440 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hi Anand, yeah tell me.
+
+2
+00:00:03,000 --> 00:00:05,000
+Ma'am sorry I have to disturb you.
+
+3
+00:00:05,000 --> 00:00:07,000
+No problem, tell me what to do.
+
+4
+00:00:07,000 --> 00:00:12,000
+Ma'am, as you said, first you will start with analysis.
+
+5
+00:00:12,000 --> 00:00:17,000
+Then you will go to intermediate and advanced.
+
+6
+00:00:17,000 --> 00:00:19,000
+No, first beginner and intermediate.
+
+7
+00:00:19,000 --> 00:00:22,000
+This is your foundation for 8 months.
+
+8
+00:00:22,000 --> 00:00:27,000
+So if you see the curriculum, it has 4 months beginner and 4 months intermediate.
+
+9
+00:00:27,000 --> 00:00:33,000
+When this is completed, you are eligible for data analyst, business analyst or any analytical role.
+
+10
+00:00:33,000 --> 00:00:37,000
+When 8 months are completed, you will start sitting in placements.
+
+11
+00:00:37,000 --> 00:00:44,000
+Where you will sit in any of these roles like product analyst or data analyst.
+
+12
+00:00:44,000 --> 00:00:49,000
+When your placement is done, you have to complete your advanced level.
+
+13
+00:00:49,000 --> 00:00:54,000
+Again, as I discussed that the scaler teaches for long term perspective, not only for the first placement.
+
+14
+00:00:54,000 --> 00:01:00,000
+So even after placement, you will continue your advanced level in data science.
+
+15
+00:01:00,000 --> 00:01:06,000
+When that is completed, if you feel you should sit for better opportunity, then again sit in interview.
+
+16
+00:01:06,000 --> 00:01:12,000
+If you feel the company you have met is right, first I will work here for 2-3 years and then I will switch.
+
+17
+00:01:12,000 --> 00:01:17,000
+So after working there for 2-3 years, you will have knowledge of proper projects.
+
+18
+00:01:17,000 --> 00:01:20,000
+Then you will switch to data science.
+
+19
+00:01:20,000 --> 00:01:25,000
+There is no switch. After one role, you can go to another role.
+
+20
+00:01:25,000 --> 00:01:28,000
+Like if there is an executive, then he becomes a manager.
+
+21
+00:01:28,000 --> 00:01:32,000
+So after working as an executive, he gets promotion as a manager.
+
+22
+00:01:32,000 --> 00:01:37,000
+Similarly, after data analyst, he gets promotion as a data scientist.
+
+23
+00:01:40,000 --> 00:01:43,000
+Okay. So I talked to him.
+
+24
+00:01:43,000 --> 00:01:46,000
+I have a relation with him.
+
+25
+00:01:46,000 --> 00:01:52,000
+He said that there will be an advanced data structure.
+
+26
+00:01:52,000 --> 00:01:56,000
+That is also there. Advanced DSA is important.
+
+27
+00:01:56,000 --> 00:02:01,000
+Look, advanced DSA means problem solving skills.
+
+28
+00:02:01,000 --> 00:02:03,000
+Data Structure is an algorithm.
+
+29
+00:02:03,000 --> 00:02:08,000
+If you study data structure and algorithm, then only you will be a good problem solver of a company.
+
+30
+00:02:08,000 --> 00:02:13,000
+Look, Anirvind, the company does not hire you for these things that you know Python and SQL.
+
+31
+00:02:13,000 --> 00:02:15,000
+Anyone can learn that.
+
+32
+00:02:15,000 --> 00:02:19,000
+Like I told you, then in your, say, if there is a fresher or in a 10-year experience,
+
+33
+00:02:19,000 --> 00:02:22,000
+what will be the difference if you just have to learn Python and SQL?
+
+34
+00:02:22,000 --> 00:02:25,000
+This is a tool and language, right? How well will you learn?
+
+35
+00:02:25,000 --> 00:02:28,000
+But the company hires you from the approach of problem solving.
+
+36
+00:02:28,000 --> 00:02:31,000
+That the other person is a good problem solver.
+
+37
+00:02:31,000 --> 00:02:33,000
+That is why you have to study advanced DSA.
+
+38
+00:02:33,000 --> 00:02:35,000
+And that is already included in the curriculum.
+
+39
+00:02:35,000 --> 00:02:37,000
+Okay, and it is in the analyst.
+
+40
+00:02:37,000 --> 00:02:41,000
+Yes, in the whole curriculum you will be taught DSA and all these things.
+
+41
+00:02:41,000 --> 00:02:43,000
+Okay.
+
+42
+00:02:43,000 --> 00:02:45,000
+DSA is taught to you in the starting only.
+
+43
+00:02:45,000 --> 00:02:48,000
+Advanced DSA is taught to you in the advanced batch.
+
+44
+00:02:48,000 --> 00:02:51,000
+When you go for data scientist etc.
+
+45
+00:02:51,000 --> 00:02:52,000
+Okay.
+
+46
+00:02:52,000 --> 00:02:54,000
+First you will study for the analyst.
+
+47
+00:02:54,000 --> 00:02:57,000
+Then you will go for the interview.
+
+48
+00:02:57,000 --> 00:02:58,000
+Then if I...
+
+49
+00:02:58,000 --> 00:03:00,000
+Did you see the basic roadmap?
+
+50
+00:03:00,000 --> 00:03:02,000
+I sent you a basic roadmap yesterday.
+
+51
+00:03:02,000 --> 00:03:03,000
+Yes, that is what I saw.
+
+52
+00:03:03,000 --> 00:03:05,000
+So open that basic roadmap.
+
+53
+00:03:05,000 --> 00:03:06,000
+Okay.
+
+54
+00:03:06,000 --> 00:03:09,000
+So you will get the data analysis, product analysis,
+
+55
+00:03:09,000 --> 00:03:10,000
+and resume etc.
+
+56
+00:03:10,000 --> 00:03:13,000
+And all these things will be done according to the analyst.
+
+57
+00:03:13,000 --> 00:03:15,000
+And then you will get the placement.
+
+58
+00:03:15,000 --> 00:03:18,000
+After the placement, we will again take a mock interview
+
+59
+00:03:18,000 --> 00:03:21,000
+to check the transition to see if you understood everything.
+
+60
+00:03:21,000 --> 00:03:23,000
+Then we will put you in the advance.
+
+61
+00:03:23,000 --> 00:03:25,000
+When your advance is completed,
+
+62
+00:03:25,000 --> 00:03:28,000
+then you will get the placement for data scientist machine learning roles.
+
+63
+00:03:28,000 --> 00:03:29,000
+Okay.
+
+64
+00:03:29,000 --> 00:03:30,000
+Okay.
+
+65
+00:03:30,000 --> 00:03:31,000
+Okay.
+
+66
+00:03:31,000 --> 00:03:32,000
+Okay.
+
+67
+00:03:32,000 --> 00:03:33,000
+Okay.
+
+68
+00:03:33,000 --> 00:03:36,000
+Any other query?
+
+69
+00:03:36,000 --> 00:03:39,000
+Look Anirban, everything is included in this.
+
+70
+00:03:39,000 --> 00:03:41,000
+Whatever is required in the industry,
+
+71
+00:03:41,000 --> 00:03:43,000
+every topic will be included.
+
+72
+00:03:43,000 --> 00:03:46,000
+Nothing will be required in data analyst or data science
+
+73
+00:03:46,000 --> 00:03:48,000
+and the scaler is not being taught.
+
+74
+00:03:48,000 --> 00:03:50,000
+Because as I told you,
+
+75
+00:03:50,000 --> 00:03:53,000
+we designed this curriculum after talking to many people.
+
+76
+00:03:53,000 --> 00:03:55,000
+I will send you a video.
+
+77
+00:03:55,000 --> 00:03:58,000
+That video is how the curriculum of scaler is designed.
+
+78
+00:03:58,000 --> 00:04:00,000
+You watch this video, you will know.
+
+79
+00:04:00,000 --> 00:04:02,000
+I have talked to many data scientists,
+
+80
+00:04:02,000 --> 00:04:04,000
+CTOs, CEOs,
+
+81
+00:04:04,000 --> 00:04:07,000
+that if you are hiring in a company,
+
+82
+00:04:07,000 --> 00:04:09,000
+then what kind of people do you need?
+
+83
+00:04:09,000 --> 00:04:13,000
+You mainly hire on the basis of projects or skillsets.
+
+84
+00:04:13,000 --> 00:04:16,000
+Then this whole curriculum is designed.
+
+85
+00:04:16,000 --> 00:04:17,000
+Okay.
+
+86
+00:04:17,000 --> 00:04:19,000
+So watch this video, you will understand.
+
+87
+00:04:19,000 --> 00:04:21,000
+And this is also as I told you,
+
+88
+00:04:21,000 --> 00:04:23,000
+if something new comes in the future,
+
+89
+00:04:23,000 --> 00:04:25,000
+then we will have to add that in the curriculum.
+
+90
+00:04:25,000 --> 00:04:28,000
+Like you have seen, GenAI is included in the curriculum.
+
+91
+00:04:28,000 --> 00:04:30,000
+Did you check?
+
+92
+00:04:30,000 --> 00:04:32,000
+No, GenAI is included.
+
+93
+00:04:32,000 --> 00:04:34,000
+Why is GenAI included?
+
+94
+00:04:34,000 --> 00:04:36,000
+Because people are asking for GenAI in the company.
+
+95
+00:04:36,000 --> 00:04:38,000
+It was not included before,
+
+96
+00:04:38,000 --> 00:04:40,000
+two or three months ago it was not included in the curriculum.
+
+97
+00:04:40,000 --> 00:04:42,000
+But now we have included it.
+
+98
+00:04:42,000 --> 00:04:44,000
+So the old people who are studying from us,
+
+99
+00:04:44,000 --> 00:04:46,000
+they can also do GenAI.
+
+100
+00:04:46,000 --> 00:04:48,000
+It's not like they paid the fees before,
+
+101
+00:04:48,000 --> 00:04:50,000
+so the curriculum changed, so we will not teach them.
+
+102
+00:04:50,000 --> 00:04:53,000
+Everything will be included in the industry that will be required.
+
+103
+00:04:53,000 --> 00:04:54,000
+Okay.
+
+104
+00:04:54,000 --> 00:04:56,000
+Any other doubts?
+
+105
+00:04:56,000 --> 00:04:58,000
+And you can mail me,
+
+106
+00:04:58,000 --> 00:05:00,000
+your mail has not come yet.
+
+107
+00:05:00,000 --> 00:05:02,000
+Yes, I will do it.
+
+108
+00:05:02,000 --> 00:05:04,000
+Please mail me.
+
+109
+00:05:04,000 --> 00:05:06,000
+If there is anything, then call me.
+
+110
+00:05:06,000 --> 00:05:08,000
+Thank you.
+

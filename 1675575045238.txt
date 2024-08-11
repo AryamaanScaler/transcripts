@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello?
+
+2
+00:00:01,000 --> 00:00:02,000
+Hello?
+
+3
+00:00:02,000 --> 00:00:03,000
+Yes, is this Mr. Siva Selvakumar?
+
+4
+00:00:03,000 --> 00:00:04,000
+Yes
+
+5
+00:00:04,000 --> 00:00:07,000
+Hello Mr. Siva Vaishnavi this side, Program Manager from Scalar?
+
+6
+00:00:07,000 --> 00:00:08,000
+Okay
+
+7
+00:00:08,000 --> 00:00:25,920
+Yes, I believe Siva your profile has been into the system for some time now and you had like
+
+8
+00:00:25,920 --> 00:00:30,920
+multiple conversations with few of our counselors, right?
+
+9
+00:00:30,920 --> 00:00:31,920
+Regarding data science
+
+10
+00:00:31,920 --> 00:00:32,920
+I am sorry?
+
+11
+00:00:32,920 --> 00:00:33,920
+Regarding?
+
+12
+00:00:33,920 --> 00:00:34,920
+Regarding data science?
+
+13
+00:00:34,920 --> 00:00:35,920
+Okay, yeah yeah yeah
+
+14
+00:00:35,920 --> 00:00:42,920
+Right, you are working as a support database in the engineer currently at Tech Mahindra?
+
+15
+00:00:42,920 --> 00:00:43,920
+Yes ma'am
+
+16
+00:00:43,920 --> 00:00:51,920
+Right, so looking at your, there was also a test scheduled which you gave, after that
+
+17
+00:00:51,920 --> 00:00:57,920
+we couldn't reach you out, this time again your profile was selected by the recruitment
+
+18
+00:00:57,920 --> 00:01:02,920
+team for the upcoming batch for the placement mentoring, so may I know what is the current
+
+19
+00:01:02,920 --> 00:01:03,920
+scenario Mr. Siva?
+
+20
+00:01:03,920 --> 00:01:12,920
+Actually ma'am, right now, last one month I am in native place, I am not touching the
+
+21
+00:01:13,920 --> 00:01:22,920
+So I couldn't reach your team, here in my native place there is no internet connection
+
+22
+00:01:22,920 --> 00:01:31,920
+and all, so it is basically available, I plan to come with, February 15th only I plan to
+
+23
+00:01:31,920 --> 00:01:36,920
+come to resume with the Chennai location, once I resume with the Chennai location I will
+
+24
+00:01:36,920 --> 00:01:43,920
+be able to attend the seminar process
+
+25
+00:01:43,920 --> 00:01:51,920
+So right now you cannot access internet or anything?
+
+26
+00:01:51,920 --> 00:01:56,920
+Yeah, it is a very basic speed of internet only ma'am, just that if you are having a
+
+27
+00:01:56,920 --> 00:02:04,920
+VPN connection I will support my job in a VPN connection only, not in a full-fledged of
+
+28
+00:02:04,920 --> 00:02:10,920
+network facilities, because I am in remote area, it is my native place actually, I am
+
+29
+00:02:10,920 --> 00:02:18,920
+coming for some personal commitments, so I am not able to attend this, other
+
+30
+00:02:18,920 --> 00:02:24,920
+So actually Mr. Siva, I think you gave the test earlier also, right?
+
+31
+00:02:24,920 --> 00:02:30,920
+The test was to understand where your current knowledge set stands, now if you want to,
+
+32
+00:02:30,920 --> 00:02:34,920
+if you are looking forward to upscale and get that better compensation, right?
+
+33
+00:02:34,920 --> 00:02:39,920
+And get that better opportunity, the test is little important, right?
+
+34
+00:02:39,920 --> 00:02:45,920
+First thing that, secondly the test can be done with minimum internet connection also,
+
+35
+00:02:45,920 --> 00:02:52,920
+second that, third at least we will be on the same page that, can you move forward with us or not?
+
+36
+00:02:52,920 --> 00:02:58,920
+And then we can understand that how, because see, if the upcoming batch that your profile is
+
+37
+00:02:58,920 --> 00:03:04,920
+selected, we are assuming that by this year end you will be sitting at a position where your
+
+38
+00:03:04,920 --> 00:03:10,920
+compensation is also more and the profile has also more roles and responsibility in a better
+
+39
+00:03:10,920 --> 00:03:16,920
+organization, so that will be delayed because of loss of opportunity.
+
+40
+00:03:16,920 --> 00:03:22,920
+So this I want you to think about a little, I seriously want you to do that, that's why none of my
+
+41
+00:03:22,920 --> 00:03:28,920
+counsellor called, I gave a call because I can see the profile, it is intended, you have worked for
+
+42
+00:03:28,920 --> 00:03:31,920
+five years of experience, you are already holding.
+
+43
+00:03:31,920 --> 00:03:40,920
+I understand ma'am, but that may, unfortunately there is many, many, back to back there is some personal commitment.
+
+44
+00:03:40,920 --> 00:03:48,920
+It is not a personal commitment, it is like a land validation and registration works are going on,
+
+45
+00:03:48,920 --> 00:03:58,920
+so I can't be able to focus on, other than that, only focusing on my official work, other than that I can't be able to focus until now.
+
+46
+00:03:58,920 --> 00:04:01,920
+That's the reason.
+
+47
+00:04:01,920 --> 00:04:07,920
+If you are working in a remote area, I want to know Siva, how are you working from home?
+
+48
+00:04:07,920 --> 00:04:16,920
+Yeah, it's a basic VPN connection, there is only VPN connection available, there is my friend having the VPN connection,
+
+49
+00:04:16,920 --> 00:04:19,920
+using that friend's VPN I work from.
+
+50
+00:04:19,920 --> 00:04:25,920
+Because obviously then it will be very difficult for you to work also, right?
+
+51
+00:04:25,920 --> 00:04:28,920
+Yeah, I will manage some more.
+
+52
+00:04:28,920 --> 00:04:34,920
+So you tell me Siva, do you wish to close your profile, what is the status?
+
+53
+00:04:34,920 --> 00:04:52,920
+If you wait for Feb 15, I will resume to my metropolitan city and I will be able to continue, otherwise you can just, if you want, please close the profile.
+
+54
+00:04:52,920 --> 00:04:57,920
+Alright, I will tell the backend team, if they can hold for Feb 15, that would be great.
+
+55
+00:04:57,920 --> 00:05:00,920
+Otherwise you can just close.
+
+56
+00:05:00,920 --> 00:05:03,920
+I will only contact you if they will be holding the profile.
+
+57
+00:05:03,920 --> 00:05:04,920
+Alright.
+
+58
+00:05:04,920 --> 00:05:06,920
+Thank you Siva.
+

@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, hello, hi am I speaking with Tripal?
+
+2
+00:00:04,000 --> 00:00:06,000
+Hi this is Tripal
+
+3
+00:00:06,000 --> 00:00:10,000
+Hi Tripal, I'm calling you from the team of Keerad Academy, I hope you are doing well
+
+4
+00:00:10,000 --> 00:00:13,000
+Yeah, yeah, can I call back to you?
+
+5
+00:00:13,000 --> 00:00:15,000
+Sure, sure
+
+6
+00:00:15,000 --> 00:00:18,000
+Sure, 10 minutes, I just came to Keerad school now
+
+7
+00:00:18,000 --> 00:00:20,000
+Okay, okay, sure
+

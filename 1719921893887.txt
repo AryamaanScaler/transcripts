@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello Hello
+
+2
+00:00:02,000 --> 00:00:07,000
+Hi Anubhan, Chinmay here from Scalar
+
+3
+00:00:07,000 --> 00:00:10,000
+Hi, how are you?
+
+4
+00:00:10,000 --> 00:00:12,000
+Fine, thank you
+
+5
+00:00:12,000 --> 00:00:18,000
+So Anubhan, tomorrow let's say at 7pm are you available for 15 minutes?
+
+6
+00:00:18,000 --> 00:00:20,000
+Yes, yes
+
+7
+00:00:20,000 --> 00:00:24,000
+So Anubhan, I am conducting a one to one dashboard walkthrough session tomorrow
+
+8
+00:00:24,000 --> 00:00:27,000
+in which your whole dashboard will be explained in detail
+
+9
+00:00:27,000 --> 00:00:28,000
+Okay
+
+10
+00:00:28,000 --> 00:00:32,000
+Okay, so I am locking your calendar for 7pm, make sure you join on time
+
+11
+00:00:32,000 --> 00:00:34,000
+Okay, okay, I will join
+
+12
+00:00:34,000 --> 00:00:36,000
+Okay, see you then, bye bye
+
+13
+00:00:36,000 --> 00:00:38,000
+Okay
+

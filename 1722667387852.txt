@@ -1,0 +1,1132 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hello, hello, yes, hi Mr. Pawan, yes speaking, yeah good afternoon Mr. Pawan, this is Durva,
+
+2
+00:00:07,000 --> 00:00:11,000
+I was actually calling you on behalf of Interview Bit Scalar Academy, how you doing?
+
+3
+00:00:11,000 --> 00:00:12,000
+Sorry, you are calling from?
+
+4
+00:00:12,000 --> 00:00:15,000
+I am calling from Interview Bit Scalar Academy.
+
+5
+00:00:15,000 --> 00:00:17,000
+Okay, Scalar Academy.
+
+6
+00:00:17,000 --> 00:00:20,000
+Correct, correct, so Interview Bit is the parent company for Scalar.
+
+7
+00:00:20,000 --> 00:00:23,000
+Okay, correct, correct, how you doing Mr. Pawan?
+
+8
+00:00:23,000 --> 00:00:25,000
+I am doing, please tell me.
+
+9
+00:00:25,000 --> 00:00:30,000
+Right, correct, actually I got to see that you know very recently you came across our platform once again,
+
+10
+00:00:30,000 --> 00:00:36,000
+I believe you have been active for almost a year on the platform and recently you came back and registered for couple of master classes,
+
+11
+00:00:36,000 --> 00:00:39,000
+but for some reason you were not able to attend either of those.
+
+12
+00:00:39,000 --> 00:00:40,000
+Yes, yes.
+
+13
+00:00:40,000 --> 00:00:45,000
+Could you try to understand like you know what went wrong from our end, what were your expectations which you were not able to parallel match with?
+
+14
+00:00:45,000 --> 00:00:49,000
+So, actually I work for a sales organization.
+
+15
+00:00:49,000 --> 00:00:50,000
+Okay.
+
+16
+00:00:50,000 --> 00:00:58,000
+So, unfortunately I did not get time and there were some other meetings aligned at the same time.
+
+17
+00:00:58,000 --> 00:01:01,000
+So, are you not from a tech background, is that what you mean?
+
+18
+00:01:01,000 --> 00:01:10,000
+No, I am not from a tech background, but see as I told you we are a IT sales organization.
+
+19
+00:01:10,000 --> 00:01:12,000
+Right, okay, so tech sales is what you are based on.
+
+20
+00:01:12,000 --> 00:01:15,000
+Yes, yes, yes, yes, tech sales we do.
+
+21
+00:01:15,000 --> 00:01:25,000
+So, I was very curious to learn because we also get some opportunity to learn directly from the OEM itself.
+
+22
+00:01:25,000 --> 00:01:26,000
+Okay.
+
+23
+00:01:26,000 --> 00:01:32,000
+So, we are partners for Dell, Oracle, Nutanix and such kind of OEMs.
+
+24
+00:01:32,000 --> 00:01:39,000
+So, we also get directly courses from OEM platform itself because we are a partner.
+
+25
+00:01:39,000 --> 00:01:40,000
+Okay.
+
+26
+00:01:40,000 --> 00:01:45,000
+So, they give us a partner portal and we also get the access for their courses also.
+
+27
+00:01:45,000 --> 00:01:48,000
+In fact, we get the course for AWS also.
+
+28
+00:01:48,000 --> 00:01:49,000
+Okay.
+
+29
+00:01:49,000 --> 00:01:57,000
+So, I thought of learning somewhat in depth so that would be helpful for my career.
+
+30
+00:01:57,000 --> 00:01:58,000
+Okay.
+
+31
+00:01:58,000 --> 00:02:01,000
+So, like how many years of experience do you entail as of today?
+
+32
+00:02:01,000 --> 00:02:03,000
+So, it's like 10 years.
+
+33
+00:02:03,000 --> 00:02:08,000
+10 years of experience and is it like purely sales experience or do you have any tech background as well?
+
+34
+00:02:08,000 --> 00:02:16,000
+See, I have tech in the sense I don't have any coding experience or I cannot deploy anything.
+
+35
+00:02:16,000 --> 00:02:17,000
+Okay.
+
+36
+00:02:17,000 --> 00:02:19,000
+But I can talk about technology.
+
+37
+00:02:19,000 --> 00:02:20,000
+Got it, got it.
+
+38
+00:02:20,000 --> 00:02:21,000
+Yeah.
+
+39
+00:02:21,000 --> 00:02:25,000
+Yeah, of course, I mean since you are coming from that background you must be aware of what exactly the industry trends are.
+
+40
+00:02:25,000 --> 00:02:26,000
+Correct, correct, correct.
+
+41
+00:02:26,000 --> 00:02:29,000
+So, like what exactly is your purpose to learn more about tech?
+
+42
+00:02:29,000 --> 00:02:35,000
+Like is it for you to incorporate it more around your sales role or let's say for the revenue generation?
+
+43
+00:02:35,000 --> 00:02:36,000
+Yes.
+
+44
+00:02:36,000 --> 00:02:38,000
+Or is it that you want to get into tech?
+
+45
+00:02:38,000 --> 00:02:46,000
+No, I just wanted to learn because only to improve my knowledge on the technology.
+
+46
+00:02:46,000 --> 00:02:47,000
+Okay.
+
+47
+00:02:47,000 --> 00:02:53,000
+And that would be helpful when I am in front of the customer I can speak about it, yeah.
+
+48
+00:02:53,000 --> 00:02:54,000
+Okay, okay.
+
+49
+00:02:54,000 --> 00:02:56,000
+So, your purpose to learn is more about your current role only.
+
+50
+00:02:56,000 --> 00:02:57,000
+Yes, yes, yes.
+
+51
+00:02:57,000 --> 00:02:58,000
+Okay, makes sense.
+
+52
+00:02:58,000 --> 00:03:04,000
+See, apparently Scalar does help, you know, for people who want to learn more about tech.
+
+53
+00:03:04,000 --> 00:03:10,000
+But certainly with the purpose that you have I feel that, you know, the open sources which is the InterviewBit platform that we entail,
+
+54
+00:03:10,000 --> 00:03:18,000
+that's a free of course platform which you can, you know, register for a number of classes, have reading material, even give tests, etc. if you want to.
+
+55
+00:03:18,000 --> 00:03:20,000
+But InterviewBit is the platform which you can refer for.
+
+56
+00:03:20,000 --> 00:03:27,000
+The Scalar platform, however, is, you know, for people who want to get into IT because this is much more in depth of a program.
+
+57
+00:03:27,000 --> 00:03:28,000
+Okay.
+
+58
+00:03:28,000 --> 00:03:35,000
+So, of course, if you want to get, because now we get a lot of people who are coming from finance or marketing backgrounds who want to get into data sciences
+
+59
+00:03:35,000 --> 00:03:42,000
+because that is something like a less coding involvement job, but of course as rewarding as other IT jobs.
+
+60
+00:03:42,000 --> 00:03:43,000
+Right.
+
+61
+00:03:43,000 --> 00:03:49,000
+You see a data scientist or let's say a machine learning engineer, of course there is not an amount of coding, but there is another roles like data analyst,
+
+62
+00:03:49,000 --> 00:03:53,000
+which is more around visualization which of course people in sales also take care of.
+
+63
+00:03:53,000 --> 00:03:54,000
+Okay.
+
+64
+00:03:54,000 --> 00:03:55,000
+Okay.
+
+65
+00:03:55,000 --> 00:04:01,000
+So that is the reason why particularly people from finance and you know people from marketing tend to get into these kind of roles of data analyst,
+
+66
+00:04:01,000 --> 00:04:05,000
+you know, dealing with numbers because that is something that they are already also doing.
+
+67
+00:04:05,000 --> 00:04:06,000
+What role?
+
+68
+00:04:06,000 --> 00:04:14,000
+But the opportunities that they get as a data analyst in terms of their financial remuneration as well as the exposure definitely, you know, gets higher.
+
+69
+00:04:14,000 --> 00:04:23,000
+So let's say, you know, for a marketing person starting their career, particularly in India, let's say, start from somewhere around 7 to, you know, 5 to 7 LP starting
+
+70
+00:04:23,000 --> 00:04:28,000
+and then goes up till let's say, you know, 15, 20 depending on very good companies if you're working on lead role.
+
+71
+00:04:28,000 --> 00:04:29,000
+Right.
+
+72
+00:04:29,000 --> 00:04:37,000
+Right. But on the same side, let's say as a data analyst, the starting package for someone with 0 to 3 years of experience also starts from 12 to 15 lakhs in good companies.
+
+73
+00:04:37,000 --> 00:04:39,000
+How much? 10 to 15?
+
+74
+00:04:39,000 --> 00:04:40,000
+12 to 15.
+
+75
+00:04:40,000 --> 00:04:41,000
+Okay, 12 to 15.
+
+76
+00:04:41,000 --> 00:04:42,000
+Yes.
+
+77
+00:04:42,000 --> 00:04:43,000
+Okay.
+
+78
+00:04:43,000 --> 00:04:47,000
+So that is the starting package that companies offer and of course if you have good command, you will also import 18 to 20 lakhs.
+
+79
+00:04:47,000 --> 00:04:48,000
+Okay.
+
+80
+00:04:48,000 --> 00:04:57,000
+So I mean, of course, this is like more of a, and one more thing is that, you know, it is more of like, you know, brain involved job because numbers is something that you have to consciously be aware of.
+
+81
+00:04:57,000 --> 00:04:58,000
+Right.
+
+82
+00:04:58,000 --> 00:05:06,000
+So again, in that manner, people from finance and those backgrounds feel that, you know, their sort of expertise can be used in a better direction.
+
+83
+00:05:06,000 --> 00:05:11,000
+And of course, if it's better paying, then exposure and all of those things also come into play.
+
+84
+00:05:11,000 --> 00:05:12,000
+Right.
+
+85
+00:05:12,000 --> 00:05:13,000
+So that is there for us.
+
+86
+00:05:13,000 --> 00:05:24,000
+But unfortunately, we do not have anything for people who are particularly only looking for, you know, learning for not, you know, incorporating into the job because this will be very intense to be honest with you.
+
+87
+00:05:24,000 --> 00:05:29,000
+And it wouldn't be useful for you to take up a year long program or one and a half year long program.
+
+88
+00:05:29,000 --> 00:05:33,000
+Okay.
+
+89
+00:05:33,000 --> 00:05:39,000
+But generally, I just wanted to also know how much do you, what is the cost for data analyst?
+
+90
+00:05:39,000 --> 00:05:42,000
+So I would like to explain you that further.
+
+91
+00:05:42,000 --> 00:05:48,000
+But what we do is we have multiple different patterns and let's say three structures to just begin with.
+
+92
+00:05:48,000 --> 00:05:52,000
+In simple language, what I can say is we have two to three different programs.
+
+93
+00:05:52,000 --> 00:05:54,000
+The fee structure for all of them is the same.
+
+94
+00:05:54,000 --> 00:05:55,000
+Right.
+
+95
+00:05:55,000 --> 00:05:58,000
+But Scalar, to be honest with you, is not a placement engine.
+
+96
+00:05:58,000 --> 00:06:08,000
+Like particularly for people to come to Scalar, we do not aim for them to be coming with the purpose of getting into a company or getting into, let's say, a particular package.
+
+97
+00:06:08,000 --> 00:06:12,000
+But having said that, we are sitting at starts of somewhere around 96% right now.
+
+98
+00:06:12,000 --> 00:06:13,000
+Okay.
+
+99
+00:06:13,000 --> 00:06:14,000
+Particularly for the DSM program.
+
+100
+00:06:14,000 --> 00:06:19,000
+So again, when you talk about the program, the entire program fees will be somewhere around 3.69 lakhs.
+
+101
+00:06:19,000 --> 00:06:25,000
+But it comes with certain amount of scholarships and certain amount of EMI structures, you know, 0% EMI and all those things.
+
+102
+00:06:25,000 --> 00:06:26,000
+Okay.
+
+103
+00:06:26,000 --> 00:06:27,000
+Which we try to benefit from this way.
+
+104
+00:06:27,000 --> 00:06:29,000
+So particularly, yeah, this is how we function.
+
+105
+00:06:29,000 --> 00:06:34,000
+But I can tell you that, you know, this is an eight to nine month long program, even for a data analyst.
+
+106
+00:06:34,000 --> 00:06:38,000
+So it would not be something which is, you know, let's say, I think like quick money.
+
+107
+00:06:38,000 --> 00:06:40,000
+It is not like short term course.
+
+108
+00:06:40,000 --> 00:06:46,000
+No, we do not, you know, have any short term courses because it's not a short term course.
+
+109
+00:06:46,000 --> 00:06:47,000
+Right.
+
+110
+00:06:47,000 --> 00:06:48,000
+Yeah, it's not a short term course.
+
+111
+00:06:48,000 --> 00:06:49,000
+That's what I'm saying.
+
+112
+00:06:49,000 --> 00:06:56,000
+Because we've seen that, you know, those have not given the same output because what people usually do is they take like, you know, five to six different short term courses.
+
+113
+00:06:56,000 --> 00:06:59,000
+It's difficult to track the growth of those courses.
+
+114
+00:06:59,000 --> 00:07:03,000
+Again, you know, there are a lot of courses, 500 rupees, 5000 rupees, those kind of courses.
+
+115
+00:07:03,000 --> 00:07:04,000
+I know.
+
+116
+00:07:04,000 --> 00:07:06,000
+But it just doesn't give the same amount of, you know, returns.
+
+117
+00:07:06,000 --> 00:07:07,000
+This is what we have seen.
+
+118
+00:07:07,000 --> 00:07:08,000
+Plus, it's very unorganized.
+
+119
+00:07:08,000 --> 00:07:09,000
+Correct.
+
+120
+00:07:09,000 --> 00:07:15,000
+So again, here at Scalar, we have people who are coming from top product based companies, you know, startups, these kind of instructors.
+
+121
+00:07:15,000 --> 00:07:16,000
+So we do not have teachers.
+
+122
+00:07:16,000 --> 00:07:18,000
+We have people who are coming from the industry.
+
+123
+00:07:18,000 --> 00:07:22,000
+We give you personalized mentors, access to community, a closed community.
+
+124
+00:07:22,000 --> 00:07:26,000
+So those kind of benefits when we give, it is more like a holistic platform.
+
+125
+00:07:26,000 --> 00:07:28,000
+It is not something that you can see in isolation.
+
+126
+00:07:28,000 --> 00:07:32,000
+So it's more like a career transitioning, you know, lifestyle that we give.
+
+127
+00:07:32,000 --> 00:07:33,000
+Understood.
+
+128
+00:07:33,000 --> 00:07:43,000
+So if that is something that you know, you would like to be known about or you would like to know more about, first of all, I'd also like to help you with one thing that this is an invite only program.
+
+129
+00:07:43,000 --> 00:07:47,000
+When I told you that this is 96% placement stats, right, Mr. Fahun?
+
+130
+00:07:47,000 --> 00:07:51,000
+For us to make sure that we are hitting placements on those parameters.
+
+131
+00:07:51,000 --> 00:07:56,000
+Of course, we are not aiming for only placements, but that is also something that we feel is important for ROI purposes.
+
+132
+00:07:56,000 --> 00:07:57,000
+All right.
+
+133
+00:07:58,000 --> 00:08:05,000
+So in that manner, when we talk about placements, I could tell you that there's somewhere around 112% average CTC height that we've observed.
+
+134
+00:08:05,000 --> 00:08:14,000
+And to make sure that these kind of numbers and statistics are either growing or at least in the same stability, we have to keep a very strong screening for our program.
+
+135
+00:08:14,000 --> 00:08:18,000
+So we have multiple rounds of screening, test, psychometric, all of those go.
+
+136
+00:08:18,000 --> 00:08:20,000
+And this is hence an invite only program.
+
+137
+00:08:20,000 --> 00:08:22,000
+OK.
+
+138
+00:08:22,000 --> 00:08:26,000
+So this is all about, like, you know, how scalar functions in a nutshell for you.
+
+139
+00:08:26,000 --> 00:08:28,000
+OK, got it.
+
+140
+00:08:28,000 --> 00:08:34,000
+So as you told, so I am not currently looking out for any change or anything.
+
+141
+00:08:34,000 --> 00:08:37,000
+So I just wanted to upscale my knowledge itself.
+
+142
+00:08:37,000 --> 00:08:41,000
+That is the only one just registered for the scalar even.
+
+143
+00:08:41,000 --> 00:08:43,000
+Correct, correct. I got your point right.
+
+144
+00:08:43,000 --> 00:08:49,000
+See, of course, I mean, for your sort of, you know, years of experience, if you're comfortable, like, you know, what is your sort of current package?
+
+145
+00:08:49,000 --> 00:08:51,000
+What is your, you know, ambition package?
+
+146
+00:08:51,000 --> 00:08:56,000
+Let's say if you're learning more things, there's something we call an economics called as the opportunity cost rate.
+
+147
+00:08:56,000 --> 00:09:01,000
+So what exactly is sort of your current package and what is the mission that you're aiming in next two years?
+
+148
+00:09:01,000 --> 00:09:06,000
+So actually, my current package is 20.
+
+149
+00:09:06,000 --> 00:09:10,000
+And what is your aim in next two years?
+
+150
+00:09:10,000 --> 00:09:15,000
+So we're around 20% growth year on year.
+
+151
+00:09:15,000 --> 00:09:19,000
+I get from my current company.
+
+152
+00:09:19,000 --> 00:09:24,000
+Is this like a hybrid job or do you have like a remote job or maybe something?
+
+153
+00:09:24,000 --> 00:09:26,000
+No, this is not a remote job.
+
+154
+00:09:26,000 --> 00:09:30,000
+And this is like, yeah, this is a field sales job.
+
+155
+00:09:30,000 --> 00:09:34,000
+OK, we really go and meet the end customers.
+
+156
+00:09:34,000 --> 00:09:35,000
+We talk about the technology.
+
+157
+00:09:35,000 --> 00:09:37,000
+We get the orders.
+
+158
+00:09:37,000 --> 00:09:38,000
+Right, right, right.
+
+159
+00:09:38,000 --> 00:09:43,000
+So, I mean, of course, sales being like a very sort of engaging and demanding job.
+
+160
+00:09:43,000 --> 00:09:44,000
+Yes.
+
+161
+00:09:44,000 --> 00:09:49,000
+For the time that you dedicate must be, is it like eight to nine hours that you get to work or is it more than that?
+
+162
+00:09:49,000 --> 00:09:54,000
+Sometimes it will be more like half day also.
+
+163
+00:09:54,000 --> 00:09:55,000
+That should be.
+
+164
+00:09:55,000 --> 00:09:59,000
+It depends. It depends on how it is, how the day is planned and all those things.
+
+165
+00:09:59,000 --> 00:10:01,000
+Yeah. Right. Got it. Got it.
+
+166
+00:10:01,000 --> 00:10:05,000
+So, of course, like you mentioned that 20, I believe that would be a fixed CTC and then since sales it is.
+
+167
+00:10:05,000 --> 00:10:09,000
+So you might have incentives and folks apart from that as well.
+
+168
+00:10:09,000 --> 00:10:10,000
+Correct. Correct. Yes.
+
+169
+00:10:10,000 --> 00:10:14,000
+So, I mean, of course, as long as it is rewarding to you in this field, it is great.
+
+170
+00:10:14,000 --> 00:10:21,000
+But of course, for an individual with 10 years of experience who also has a certain amount of technical background, you know, understanding of those things.
+
+171
+00:10:21,000 --> 00:10:27,000
+Even if you're not planning to consider Scalar as a platform, I would still suggest you to go ahead and read a little bit about it.
+
+172
+00:10:27,000 --> 00:10:34,000
+Because if you see in a particular manner of, let's say, you know, the industry, I believe that, you know, it is really rewarding.
+
+173
+00:10:34,000 --> 00:10:37,000
+And of course, there is something which is called as the first over advantage.
+
+174
+00:10:37,000 --> 00:10:42,000
+But again, if you like, let's start your journey five years down the line, maybe with 15 years of experience, you might be a little more hesitant.
+
+175
+00:10:42,000 --> 00:10:48,000
+But of course, if this is something that you find your passion, then there's no point.
+
+176
+00:10:48,000 --> 00:11:01,000
+The one thing I like when you were talking is you will do a screening before we directly jump into the course joining, right?
+
+177
+00:11:01,000 --> 00:11:02,000
+Of course. Of course. Yes.
+
+178
+00:11:02,000 --> 00:11:10,000
+So I would be interested because I wanted to also evaluate myself also.
+
+179
+00:11:10,000 --> 00:11:17,000
+I want to change the role, whether I am capable to do the role change.
+
+180
+00:11:17,000 --> 00:11:23,000
+I need to evaluate myself. So can you this evaluation?
+
+181
+00:11:23,000 --> 00:11:27,000
+Surely, I mean, I can have, you know, a spot for you.
+
+182
+00:11:27,000 --> 00:11:32,000
+I mean, that is something that I can definitely would like to help you with because end of the day interview bit is an open source platform.
+
+183
+00:11:32,000 --> 00:11:36,000
+Right. But I would also like to understand if this is something that you would be considering.
+
+184
+00:11:36,000 --> 00:11:41,000
+I mean, of course, I'm not saying that right after the test, you will have to take up the program.
+
+185
+00:11:41,000 --> 00:11:53,000
+That's not what I mean. What I mean is that if this is something that is somewhere on your cards, which you feel, OK, that maybe as a data analyst, maybe as a person who's working into tech, of course, even for coding based jobs,
+
+186
+00:11:54,000 --> 00:12:01,000
+even for the full stack developer role that we have, we start the program from scratch because we have divided into three batches.
+
+187
+00:12:01,000 --> 00:12:06,000
+I'll just give you a gist of it. If you've heard of Morgan Stanley, FinTech company.
+
+188
+00:12:06,000 --> 00:12:20,000
+Yes, Morgan Stanley. Correct. Correct. So the companies like Morgan Stanley, companies like Cognizant, even the Apple VT here in India, all these three companies, the VPs who are 18 plus years of experience, 25 years of experience, these people are also part of Scalar as learners.
+
+189
+00:12:21,000 --> 00:12:33,000
+OK, so they of course wouldn't be comfortable sitting in the same batch as someone who's just starting into this is the reason why we have divided the entire program into three parts, which is the intermediate, advanced and of course, the beginner.
+
+190
+00:12:33,000 --> 00:12:43,000
+OK, OK. So let's say if you know we are going forward with your profile or let's say even the short list of the profile for further, you can still consider for tech based options.
+
+191
+00:12:43,000 --> 00:12:48,000
+If you are some someone who's comfortable learning coding, is that something that you would want to do?
+
+192
+00:12:48,000 --> 00:12:58,000
+See, coding, I am not much interested in. So something on the data analyst kind of a thing, then definitely I would like to explore.
+
+193
+00:12:58,000 --> 00:13:12,000
+OK, and how about, you know, learning about cloud and development operations or more about, you know, DevOps basically, more about learning about cloud pipelines, CICD basically facilitating the flow of, you know, overall development.
+
+194
+00:13:12,000 --> 00:13:21,000
+So basically tech, but not on a full tech side, which is how I can explain it better is in a non tech terminology, we can say that 70 percent of full stack developers job is all about coding.
+
+195
+00:13:21,000 --> 00:13:26,000
+OK, for a DevOps engineer, it might come down to 30, 35 percent if that makes sense to you.
+
+196
+00:13:26,000 --> 00:13:30,000
+So there's more tools involved. We will give you equipment of those kind of tools.
+
+197
+00:13:30,000 --> 00:13:35,000
+How exactly you can use those tools. We can give you also the real life scenarios where you can use those tools.
+
+198
+00:13:35,000 --> 00:13:38,000
+So you get a practical experience because Scalar is all about practical experience.
+
+199
+00:13:39,000 --> 00:13:43,000
+I would say only 40 percent of the entire program is theory. That's everything is practical.
+
+200
+00:13:43,000 --> 00:13:49,000
+OK, so when we designed the program, this is something that we started in 2019.
+
+201
+00:13:49,000 --> 00:13:55,000
+So just to give you a background, we've improvised a lot in this period because we got, you know, sort of learners from very different backgrounds.
+
+202
+00:13:55,000 --> 00:13:58,000
+And this set has worked the best for us so far.
+
+203
+00:13:59,000 --> 00:14:15,000
+So this is the reason why I would like to also understand that, you know, how about you, like, you know, are you comfortable of a thought where you would have to learn certain things about, you know, maybe development operations about, you know, certain tools and a little bit of coding as well along with that little bit of programming.
+
+204
+00:14:18,000 --> 00:14:22,000
+See, so that was the starting from.
+
+205
+00:14:23,000 --> 00:14:27,000
+Sorry, that would be from the basic right?
+
+206
+00:14:27,000 --> 00:14:32,000
+Of course, of course. Yeah, everything that you know, if you're starting from tech, you would be treating you as a complete newbie.
+
+207
+00:14:32,000 --> 00:14:35,000
+Like you wouldn't be expecting you to already know things.
+
+208
+00:14:35,000 --> 00:14:40,000
+Yeah, because in coding, I have zero experience and zero knowledge.
+
+209
+00:14:40,000 --> 00:14:44,000
+That's totally fine. That's not an issue. But as long as seen.
+
+210
+00:14:44,000 --> 00:14:46,000
+Right.
+
+211
+00:14:46,000 --> 00:14:55,000
+When we talk about, yeah, when we talk about like on the industrial scale today, something that is valued more by employers is the technical know-how.
+
+212
+00:14:55,000 --> 00:15:00,000
+Now, if you're learning it now, or if you've already learned it over the period, that is not a problem for them.
+
+213
+00:15:00,000 --> 00:15:09,000
+Okay. Even when today we see people, because like I mentioned before, we have a lot of people who are coming from finance, HR, tech backgrounds, non-tech backgrounds, and they are now transitioning.
+
+214
+00:15:09,000 --> 00:15:16,000
+So of course, for them as well, it is not something that is coming in very handy, not something which is already, you know, about things that they've learned.
+
+215
+00:15:16,000 --> 00:15:20,000
+Right. But in spite of that, let's say, okay, just take your example for yourself.
+
+216
+00:15:20,000 --> 00:15:34,000
+Let's say if you are starting into tech now, a DevOps engineer again, you know, earn somewhere around or a cloud engineer or a cloud associate on somewhere around, you know, on the same lines of 18 to 20 and goes up to like, you know, 22, 25 as well.
+
+217
+00:15:34,000 --> 00:15:38,000
+On the same page, if you know, you are starting your career 10 years later.
+
+218
+00:15:38,000 --> 00:15:42,000
+Okay. But in DevOps, you're starting from scratch, which is zero to three years of experience.
+
+219
+00:15:42,000 --> 00:15:44,000
+But again, the payback is matching for you.
+
+220
+00:15:44,000 --> 00:15:49,000
+And of course, in the meanwhile, you're also getting to learn new skills and get a field which is much more exposure based.
+
+221
+00:15:49,000 --> 00:16:01,000
+And having said that, for top product, because we do not deal with any client based companies, we do not deal with any product, like service based companies, TCS, Infosys, those companies we do not have as our hiring partners.
+
+222
+00:16:01,000 --> 00:16:06,000
+So out of these 950 to 970 hiring partners that we have, these are all product based companies.
+
+223
+00:16:06,000 --> 00:16:13,000
+Okay. So when we talk about product based companies, you've seen companies like, you know, Google, what kind of work flexibility and employee benefits they offer.
+
+224
+00:16:13,000 --> 00:16:18,000
+So this is the kind of, you know, culture that we are also trying to promote.
+
+225
+00:16:18,000 --> 00:16:22,000
+If that makes sense to you.
+
+226
+00:16:22,000 --> 00:16:27,000
+Okay.
+
+227
+00:16:27,000 --> 00:16:32,000
+So yeah, Mr. Pavan, this is like, you know, all about what exactly we can do in order to help you.
+
+228
+00:16:32,000 --> 00:16:37,000
+But are you particularly like a little bit confirmed about if you could learn something from scratch?
+
+229
+00:16:37,000 --> 00:16:43,000
+Like, are you comfortable to be in that zone where you can be, you know, learning things from scratch?
+
+230
+00:16:43,000 --> 00:16:45,000
+Yes, I would.
+
+231
+00:16:45,000 --> 00:16:50,000
+Okay. So what I'll do is something that we can do for you is maybe you can take up the test.
+
+232
+00:16:50,000 --> 00:16:56,000
+Once you clear the test, I will try to arrange your profile, sort of screening with one of my program managers.
+
+233
+00:16:56,000 --> 00:16:59,000
+And then he can also give his insights about what can be the best for you.
+
+234
+00:16:59,000 --> 00:17:01,000
+If that helps.
+
+235
+00:17:01,000 --> 00:17:05,000
+Yes, yes, that perfectly. I think it is perfectly fine. Yeah.
+
+236
+00:17:05,000 --> 00:17:07,000
+Okay.
+
+237
+00:17:07,000 --> 00:17:14,000
+Just to, you know, give you the entire structure about because this is something that I would like you to know before, you know, I roll out the test for you.
+
+238
+00:17:14,000 --> 00:17:29,000
+The first thing is for the program. Since this is an effort intensive program, wherein you will have to put effort from your end, because this is something that we give you everything, all the resources which are required right from mentors, industry experts, all those things, mock interviews, practice, TV screening, all those things.
+
+239
+00:17:29,000 --> 00:17:34,000
+But having said that, all of those things will require you to put your time and effort.
+
+240
+00:17:34,000 --> 00:17:40,000
+Okay. So this is the reason why the more you put effort, the more you can regain from the platform.
+
+241
+00:17:40,000 --> 00:17:48,000
+So something that we also keep in mind when we screen candidates is the first thing that we need a time dedication of somewhere around 12 hours on a weekly basis.
+
+242
+00:17:48,000 --> 00:17:57,000
+So 12 to 15 hours is the margin that we have. Is that something that is possible for you based on your current job and based on your current professional, personal sort of management?
+
+243
+00:17:57,000 --> 00:18:00,000
+Mr.
+
+244
+00:18:00,000 --> 00:18:02,000
+Your voice is breaking for me.
+
+245
+00:18:02,000 --> 00:18:07,000
+Sorry, once again. Yeah, it's better. Yes, I can do that. Yes, I can do that. Okay, that's possible for you. Then that's great.
+
+246
+00:18:07,000 --> 00:18:14,000
+And the second thing is just to give the fee structure to you once again. The overall fee structure is 3.69 lakhs. Okay.
+
+247
+00:18:14,000 --> 00:18:21,000
+Once you've cleared the screening rounds, you might be eligible for a scholarship up to 45,000 rupees. Okay. Okay.
+
+248
+00:18:21,000 --> 00:18:31,000
+That brings down the price to somewhere around 325,000. Okay. Out of that 325,000, 20,000 rupees is the initial registration fees that we have.
+
+249
+00:18:31,000 --> 00:18:42,000
+To confirm your candidature, post that we allow our learners to have a 0% EMI for 24 months. The per month EMI goes somewhere around 12 to 13,000 rupees. Okay. Okay.
+
+250
+00:18:42,000 --> 00:18:49,000
+But having said that, the placements usually start for us at the company somewhere around six to seventh month.
+
+251
+00:18:49,000 --> 00:18:54,000
+But of course, I would like to tell you that smart learners also, you know, sort of use the program in the right direction.
+
+252
+00:18:54,000 --> 00:19:05,000
+They pay the 0% EMI at around 13,000 per month. And then, you know, after placements, they sort of, you know, use their joining bonuses and package hikes again to the program to sort of, you know, not have the financial burden to themselves.
+
+253
+00:19:05,000 --> 00:19:13,000
+Right. Right. So this is one strategy that, you know, some people have used. But having said that, the fee structure is something that I would like to also highlight for you once again.
+
+254
+00:19:13,000 --> 00:19:20,000
+So is that clear to you as well? Yeah, fee structure, I am just thinking about it. Just give me some time.
+
+255
+00:19:20,000 --> 00:19:25,000
+Sorry, I missed your name. My name is Durba.
+
+256
+00:19:25,000 --> 00:19:38,000
+Durba. Durba. Yeah. Okay. Durba. So let's think about regarding the fee structure because recently I moved to other location. Previously, I was working for Hyderabad.
+
+257
+00:19:38,000 --> 00:19:41,000
+Okay. Now I moved to Mumbai. Okay.
+
+258
+00:19:41,000 --> 00:19:51,000
+So there is some big challenge on the financial thing. So let me check. Let me check the financials and I can come back to you by Monday. Is that okay for you?
+
+259
+00:19:51,000 --> 00:20:01,000
+Yeah, Mr. Bhavan, just one thing that, you know, since you were trying to take up the test, what I can do for you is you can at least take up the test and keep. So I will also take some time to get your reports in hand.
+
+260
+00:20:01,000 --> 00:20:14,000
+Yeah, sure. The test is not something that we charge anything for. So you can take it for yourself. Having said that, I understand that somewhere, you know, financially you feel that this might be slightly on a steeper side because I would tell you that Scalar is something that is a premiumly placed program.
+
+261
+00:20:14,000 --> 00:20:23,000
+Okay. It is definitely a program which, because we started in 2019, right? Somewhere we had the market leaders. So when we think on that perspective, definitely it is a premiumly priced program.
+
+262
+00:20:24,000 --> 00:20:33,000
+But having said that, when people sort of, you know, think of things in a longer term, because we don't give any one month, two month program, right? We are not settling for, you know, your next job or next maybe, you know, competition. That's not what we do.
+
+263
+00:20:33,000 --> 00:20:39,000
+So when we think of things in a longer picture, learners are able to justify the ROI to themselves.
+
+264
+00:20:39,000 --> 00:20:47,000
+Okay. So I would like to give more details about this. But first I would also require you to clear the test because without which Scalar unfortunately cannot add any value to you.
+
+265
+00:20:47,000 --> 00:20:52,000
+Yes. Yes. I understand that. So let us schedule this test once.
+
+266
+00:20:52,000 --> 00:20:59,000
+So is it possible for you to take up the test anytime today? It is a 45 minute test.
+
+267
+00:20:59,000 --> 00:21:04,000
+Today, actually I'll be traveling post lunch after 2.
+
+268
+00:21:04,000 --> 00:21:11,000
+Okay. See what I can do for you is if that is possible for you, like I'm not sure what time you could be reaching home or anything like that.
+
+269
+00:21:11,000 --> 00:21:17,000
+But let's say what I can do for you is I can give you a flexible link up till let's say 12 a.m. tonight.
+
+270
+00:21:17,000 --> 00:21:25,000
+Okay. So what that does is you can open the link anytime and take up the test. So instead of taking up a slot, you can also do this. If that facilitates anything.
+
+271
+00:21:25,000 --> 00:21:29,000
+Yes. Yes. That would be perfect. I can do that.
+
+272
+00:21:29,000 --> 00:21:34,000
+So what I can do is the testing could be somewhere around because I already have a test ongoing right now.
+
+273
+00:21:34,000 --> 00:21:39,000
+So the only start which is available is around one. Okay.
+
+274
+00:21:39,000 --> 00:21:44,000
+So maybe before leaving, if you're able to take it great, otherwise you can also take it anytime before 12 a.m.
+
+275
+00:21:44,000 --> 00:21:53,000
+Sure thing. Sure thing. We can do that. Yeah. Perfect. Just to give you a gist, I'm giving you a test which not includes any amount of coding because you told me that you're not confident with that.
+
+276
+00:21:53,000 --> 00:21:59,000
+But it will have certain amount of MCQ questions around statistics, maths. You might need a pen and paper and have a test.
+
+277
+00:21:59,000 --> 00:22:04,000
+Okay. Sure. I'll get that. I would roll out the test for you in some time. The operations team personally might get in touch with you to just check for any technical assistance or anything if you require.
+
+278
+00:22:04,000 --> 00:22:09,000
+Okay. These are going to be all MCQ questions. Just to keep in mind, once you click on the link, it will be active only for 45 minutes. Okay.
+
+279
+00:22:09,000 --> 00:22:14,000
+Right. Any questions Mr. Mohan? No, nothing. You can share with me the link. I can try.
+
+280
+00:22:14,000 --> 00:22:19,000
+I would like to confirm your email address. Okay.
+
+281
+00:22:19,000 --> 00:22:24,000
+So, the email which I have with me says pavan.koyala.com. Correct. Yeah. All right. So, I will be rolling out the test for you soon. Okay. And then you can take it as for your self-choice. Sure.
+
+282
+00:22:24,000 --> 00:22:29,000
+Wish you all the very best. Have a good day. Thank you.
+
+283
+00:22:49,000 --> 00:22:52,000
+Thank you. Bye. Thank you. Bye.
+

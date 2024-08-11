@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello, Hello, Mehol bhai?
+
+2
+00:00:02,000 --> 00:00:04,000
+Darshan?
+
+3
+00:00:04,000 --> 00:00:08,000
+Darshan, this is a call from Scalar Academy
+
+4
+00:00:08,000 --> 00:00:10,000
+Okay, yes yes
+
+5
+00:00:10,000 --> 00:00:12,000
+I hope this is a good time to talk to you
+
+6
+00:00:12,000 --> 00:00:16,000
+Mehol, can we please connect after 15 minutes maybe?
+
+7
+00:00:16,000 --> 00:00:20,000
+If you want I will call you back on this number after 15 to 20 minutes
+
+8
+00:00:20,000 --> 00:00:24,000
+No problem, now it is 410, can I call you by 430?
+
+9
+00:00:24,000 --> 00:00:26,000
+Yeah that will be fine
+
+10
+00:00:26,000 --> 00:00:30,000
+It was an important discussion and that's why I wanted to convey the message
+
+11
+00:00:30,000 --> 00:00:32,000
+So around 430 I will call you
+
+12
+00:00:32,000 --> 00:00:34,000
+Okay, thank you
+

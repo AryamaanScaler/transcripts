@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:12,000
+Hello, hello. Hi, this is Kranthi. Yes, I'm Kranthi. Can I know who is this? Hi, Chinmoy here from Scalar Academy.
+
+2
+00:00:12,000 --> 00:00:23,000
+Yeah, hi Chinmoy. Hi, how are you? I'm doing good, how are you doing? I'm good, I'm good. Good time to talk now? Yeah, yeah, sure.
+
+3
+00:00:23,000 --> 00:00:34,000
+Okay, so first of all Kranthi, very warm welcome to Scalar. Thank you, thank you. Yeah, so I'm your learner success manager here and I'll be helping you with the onboarding process.
+
+4
+00:00:34,000 --> 00:00:42,000
+Okay. Yeah, so few details Kranthi wanted to know first of all before I reach out to my team to build your profile.
+
+5
+00:00:42,000 --> 00:00:53,000
+So you have enrolled here for the software development program, correct? Yeah. Okay, and your registered Google account is Kranthi Kiran Kogikar, at gmail.com.
+
+6
+00:00:53,000 --> 00:01:04,000
+Okay. And this is a registered mobile number, where we're talking? Yes, exactly. Okay, same on WhatsApp, right? Yes, yes, yes.
+
+7
+00:01:04,000 --> 00:01:29,000
+So what's your residential PIN code Kranthi? It's 500037. 500037. Yeah, 537. Which company are you employed in as of now? It's Oval Edge India Private Limited.
+
+8
+00:01:29,000 --> 00:01:48,000
+Can you spell the name? Oval Edge India. Yeah, yeah. Okay. And currently what's the package here as of now? As of now it's like 25 LPA. 25, alright. And your current designation? Senior software engineer.
+
+9
+00:01:48,000 --> 00:02:03,000
+As in backend, full stack? What is it exactly? It's a backend, backend. Backend, alright. And total experience that you have in the tech domain? How much? Like it's around 6.5 years of chinmoy.
+
+10
+00:02:03,000 --> 00:02:25,000
+Okay, 6.5 years. And your coding experience is also equivalent to this or it's less than that? No, no, it's completely equal to this. 6.5, yeah. Alright. So as of now, what are your main expectations Kranthi from this group? Like since you're enrolled here at Scala, what are your main goals that you're looking to achieve after this?
+
+11
+00:02:25,000 --> 00:02:41,000
+So Chinmoy, as of now I'm drawing good amount, like I'm getting some decent package. What I'm missing is that I've joined as a pressure in the organization. It's been five years I'm working for the same company.
+
+12
+00:02:41,000 --> 00:03:01,000
+Okay. I've learned how to work and how to resolve everyday issues, whatever the task was coming, I was doing that. Other than that, I did not learn algorithms, I did not learn system designing, I did not do something that will make a difference from other employees, other than my colleagues.
+
+13
+00:03:01,000 --> 00:03:03,000
+Okay.
+
+14
+00:03:03,000 --> 00:03:25,000
+To get into giant organizations like Meta, Google, Apple, they require an engineer like they expect everything from the engineer like that he has to design best systems, he has to write best code. He should be aware of like algorithms, he has to write time complexity code like which is space complexity related code, best code they expect like that.
+
+15
+00:03:25,000 --> 00:03:43,000
+But so far what I did is like I was looking brute force code. Nowhere I like, I mean, I try to maintain coding standards but I don't try to maintain like, I mean, not, I don't write code in such a way that Facebook, Facebook employees write, WhatsApp employees write, I mean Facebook engineers write. I'm not like them.
+
+16
+00:03:43,000 --> 00:03:59,000
+I have to be like them. I have to be like them. I have to develop my own application. I mean, it's not known like in eight to ten years I want to come up with my own application in the market like I want to be an entrepreneur. To be an entrepreneur, whatever I have to do, it has to be perfect.
+
+17
+00:03:59,000 --> 00:04:18,000
+But as of now I don't have a mentor. I don't have any guru to tell me like you have to start from here to have to go to that place. So I was searching like what are the things that are required, whatever. I know like data studies and algorithms always plays key role. But who will teach me them? Who is the perfect teacher in the market like that?
+
+18
+00:04:18,000 --> 00:04:42,000
+One thing is like I always seen scalars, but there's ones more than like any other this one. So one day I tried to register and then it was an inference test. So like that person, the person who represented me and she told me that direct attempt test. I did not answer all of the questions. After seeing the questions my mind got blocked.
+
+19
+00:04:42,000 --> 00:05:04,000
+I don't know the data structures. I don't know binary. I don't know anything. Then I realized when I have to join, I have to learn. I have to learn everything regarding development and then go to some big organizations, be with the people who are like intellect. And then one day you will become intellect and then you can work on your entrepreneurship.
+
+20
+00:05:04,000 --> 00:05:14,000
+No, just if I want to tell you a nutshell, I want to be perfect in my area. That's why I came to Scalar.
+
+21
+00:05:14,000 --> 00:05:23,000
+No, no, got your point. Got your point. Perfectly. So before Scalar also like any other online programs you have used in the past basically for upscaling yourself or this is the first one?
+
+22
+00:05:23,000 --> 00:05:38,000
+No, nothing. This is the only first one. Last year during November or somewhere like I bought a Udemy course, data structures and algorithms, which I have seen only three or four lectures, 30 minutes or 40 minutes lectures. That's it. But still there I am not using it.
+
+23
+00:05:38,000 --> 00:05:46,000
+That is not going to work out. I will class as a level mentor. That will work out for me. That's why I registered here and joined here.
+
+24
+00:05:46,000 --> 00:05:54,000
+Got it. Got it. So Kranthi as of now, like your loan process and all, this is still pending or is it completed?
+
+25
+00:05:54,000 --> 00:05:58,000
+It's completed. It's completed all the process.
+
+26
+00:05:58,000 --> 00:06:00,000
+So what is the tenure you have opted for?
+
+27
+00:06:00,000 --> 00:06:02,000
+It's 20,000.
+
+28
+00:06:02,000 --> 00:06:08,000
+Two years, no question. So I hope you clear with the monthly EMI dates, all these things, right?
+
+29
+00:06:08,000 --> 00:06:15,000
+Yeah, monthly it consists of around 12,250 somewhere.
+
+30
+00:06:15,000 --> 00:06:30,000
+Okay, got it. Now apart from that, let's talk about your little bit about your work schedule also. So I'm able to understand like how this program will fit into your day to day work. So you're currently working like work from office or home. How is it like?
+
+31
+00:06:30,000 --> 00:06:33,000
+I'm working from office.
+
+32
+00:06:33,000 --> 00:06:36,000
+Okay, and your timing, so work timing?
+
+33
+00:06:36,000 --> 00:06:42,000
+My timings are from morning 11 o'clock to evening 8 o'clock.
+
+34
+00:06:42,000 --> 00:06:44,000
+Okay, 9 hours working. All right.
+
+35
+00:06:44,000 --> 00:06:45,000
+Yeah.
+
+36
+00:06:45,000 --> 00:06:51,000
+And why I was asking this is because you might know that there is an option. You can choose morning or evening batch.
+
+37
+00:06:51,000 --> 00:06:52,000
+Right.
+
+38
+00:06:52,000 --> 00:06:55,000
+So what would you prefer between these two?
+
+39
+00:06:55,000 --> 00:06:58,000
+I prefer morning.
+
+40
+00:06:58,000 --> 00:07:01,000
+Morning at what time will that be, Chinoy?
+
+41
+00:07:01,000 --> 00:07:03,000
+7 to 9.30.
+
+42
+00:07:03,000 --> 00:07:05,000
+7 to 9.30.
+
+43
+00:07:05,000 --> 00:07:06,000
+Yes.
+
+44
+00:07:06,000 --> 00:07:10,000
+So two and a half hours is the duration of each class.
+
+45
+00:07:10,000 --> 00:07:12,000
+And evening?
+
+46
+00:07:12,000 --> 00:07:15,000
+Evening it's 9 to 11.30.
+
+47
+00:07:15,000 --> 00:07:16,000
+9 to 11.30.
+
+48
+00:07:16,000 --> 00:07:17,000
+Yes.
+
+49
+00:07:17,000 --> 00:07:21,000
+Oh, 9 to 11.30, okay.
+
+50
+00:07:21,000 --> 00:07:24,000
+Okay.
+
+51
+00:07:24,000 --> 00:07:29,000
+So should I opt in now itself or like?
+
+52
+00:07:29,000 --> 00:07:34,000
+No, no. Just asking you what would you prefer. Just normally asking.
+
+53
+00:07:34,000 --> 00:07:45,000
+Okay. Like what I'm thinking is, Chinoy, like I want to go with daytime because I learned the concept also during the daytime or like after coming home and practice.
+
+54
+00:07:45,000 --> 00:07:54,000
+So I prefer 9 to 11.30 like after that, I'm going to do to enter the exhaust and the practice.
+
+55
+00:07:54,000 --> 00:08:06,000
+So I prefer morning time. But what I'm thinking is I'm currently serving the notice. I mean, if I switch to other organization, like how about the timing in that organization that I'm thinking?
+
+56
+00:08:06,000 --> 00:08:11,000
+Okay.
+
+57
+00:08:11,000 --> 00:08:19,000
+Anyhow, let's say you have an office at around 10 a.m. You can leave the class early and go to the recordings once you're available.
+
+58
+00:08:19,000 --> 00:08:22,000
+Yeah, yeah. Yeah, that's fine. We can.
+
+59
+00:08:22,000 --> 00:08:24,000
+Your office will be around 9 o'clock.
+
+60
+00:08:24,000 --> 00:08:35,000
+You can change your batch timing. That's not an issue. In future if you feel that timing is not working out for me, you can change your batch from the last one. Like the timing, of course.
+
+61
+00:08:35,000 --> 00:08:45,000
+Okay. So that's fine. Yeah. Yeah. Yeah. After each class, we'll get some assignments also that will take an hour or so that you'll do in your own time.
+
+62
+00:08:45,000 --> 00:08:53,000
+Overall, in a week, minimum 15 hours per week is something that we recommend you should say, including your life classes, self-study, everything.
+
+63
+00:08:53,000 --> 00:08:59,000
+Okay. All right. And that's manageable, right? 15 hours per week.
+
+64
+00:08:59,000 --> 00:09:02,000
+Yeah, I think I can spend more because I'm serious about this.
+
+65
+00:09:02,000 --> 00:09:08,000
+That is something minimum that we are recommending, but of course it can be more or less depending on. Okay.
+
+66
+00:09:08,000 --> 00:09:15,000
+And in the weekends, like how's your schedule? Like you're at home, you travel, how's your schedule?
+
+67
+00:09:15,000 --> 00:09:24,000
+Generally, I'll be at home. Mostly I'll be at home until unless if there is one like anything, anywhere specific I have to go out. Generally I'll be at home only.
+
+68
+00:09:24,000 --> 00:09:36,000
+Okay. Okay. Got it. So why was asking, let's say the assignments are pending or if any classes you missed in the weekdays, you can catch up with those in the weekends. Right? Not an issue?
+
+69
+00:09:36,000 --> 00:09:39,000
+Yes, not an issue.
+
+70
+00:09:39,000 --> 00:09:46,000
+So apart from that, I think on the time in front, we are clear. Now what you need to do, you need to log into a dashboard.
+
+71
+00:09:46,000 --> 00:09:54,000
+Just visit scaler.com and do a Google login using Kranti Kiran Govika Reddroid email.com.
+
+72
+00:09:54,000 --> 00:10:04,000
+Not now after this call, whenever you're getting there, visit scaler.com and do Google login using this. Okay.
+
+73
+00:10:04,000 --> 00:10:09,000
+Any doubts? Sorry.
+
+74
+00:10:09,000 --> 00:10:16,000
+I'm not hearing you properly, Kranti.
+
+75
+00:10:16,000 --> 00:10:26,000
+While I was in the session today with your team, I tried to log in with my mobile number and OTP. So it's on the login, I guess.
+
+76
+00:10:26,000 --> 00:10:30,000
+Should I continue with that or should I like...
+
+77
+00:10:30,000 --> 00:10:34,000
+You can just go ahead with a Google login once you get time today.
+
+78
+00:10:34,000 --> 00:10:35,000
+Alright. Okay.
+
+79
+00:10:35,000 --> 00:10:42,000
+And what you need to do first, you need to update your profile. Okay. From the top right side, you can go ahead and update it.
+
+80
+00:10:42,000 --> 00:10:49,000
+Secondly, select your mentor. Now mentors are the people who help you with your career related doubts and queries.
+
+81
+00:10:49,000 --> 00:10:50,000
+Okay.
+
+82
+00:10:50,000 --> 00:10:51,000
+Alright.
+
+83
+00:10:51,000 --> 00:10:55,000
+Third thing, there is a test that you're supposed to get called SAT, Scalar Assessment Test.
+
+84
+00:10:55,000 --> 00:11:00,000
+And based on your performance in this test, you'll get an idea of which batch you're supposed to start with.
+
+85
+00:11:00,000 --> 00:11:01,000
+Okay.
+
+86
+00:11:01,000 --> 00:11:07,000
+Okay. So complete this test. Which batch I mean, beginner, intermediate, advanced. Three options are there.
+
+87
+00:11:07,000 --> 00:11:10,000
+Anyone, you can select among us.
+
+88
+00:11:10,000 --> 00:11:12,000
+Sorry, sorry, it's in the last point.
+
+89
+00:11:12,000 --> 00:11:17,000
+There are three choices, obviously, beginner, intermediate or advanced.
+
+90
+00:11:17,000 --> 00:11:21,000
+So based on your score in the test, you'll get an idea which batch to start with.
+
+91
+00:11:21,000 --> 00:11:22,000
+Oh, okay, okay. Okay.
+
+92
+00:11:22,000 --> 00:11:23,000
+Alright.
+
+93
+00:11:23,000 --> 00:11:28,000
+Complete this test in case any...there is also a form, by the way, in the dashboard. It's called...
+
+94
+00:11:28,000 --> 00:11:29,000
+Okay.
+
+95
+00:11:29,000 --> 00:11:31,000
+Expectation form.
+
+96
+00:11:31,000 --> 00:11:35,000
+Expectation form. Hardly it will take three to four minutes.
+
+97
+00:11:35,000 --> 00:11:39,000
+Take two to three minutes and fill that form also in priority.
+
+98
+00:11:39,000 --> 00:11:40,000
+Okay.
+
+99
+00:11:40,000 --> 00:11:46,000
+Any doubts, confusions, feel free to reach out to me. I'm available Wednesday to Sunday, 11 a.m. to 8 p.m.
+
+100
+00:11:46,000 --> 00:11:47,000
+Okay.
+
+101
+00:11:47,000 --> 00:11:53,000
+Okay. And apart from that, like, there's also a dedicated support team whom you can reach out to.
+
+102
+00:11:53,000 --> 00:11:55,000
+And there will be a point of contact throughout the program.
+
+103
+00:11:55,000 --> 00:12:00,000
+Support team is available Monday to Friday, 11 a.m. to 8 p.m. through call or chat.
+
+104
+00:12:00,000 --> 00:12:07,000
+Okay. If I want to connect with your Kranti, on this number, are you available during the weekdays, weekends?
+
+105
+00:12:07,000 --> 00:12:09,000
+Yeah, I'll...
+
+106
+00:12:09,000 --> 00:12:12,000
+It's great. Great.
+
+107
+00:12:12,000 --> 00:12:18,000
+What you can do is you can just save my number. If I have something important I want to inform you, I can just give you a call directly.
+
+108
+00:12:18,000 --> 00:12:19,000
+Sure. Sure.
+
+109
+00:12:19,000 --> 00:12:20,000
+Alright.
+
+110
+00:12:20,000 --> 00:12:25,000
+The things that we discussed, Kranti, please make sure you complete that in the dashboard and just let me know if you need any doubts or anything.
+
+111
+00:12:25,000 --> 00:12:28,000
+Okay. We'll connect in shortly in the coming few days.
+
+112
+00:12:28,000 --> 00:12:31,000
+Okay. Okay.
+
+113
+00:12:31,000 --> 00:12:34,000
+Alright. Alright. Take care, Kranti. Bye.
+
+114
+00:12:34,000 --> 00:12:36,000
+Bye. Bye.
+

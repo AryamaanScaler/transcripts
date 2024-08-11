@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello, yeah hi am I talking to Swagat
+
+3
+00:00:04,000 --> 00:00:06,000
+Yeah hi
+
+4
+00:00:06,000 --> 00:00:08,000
+Swagat Abhishek this side from scalar
+
+5
+00:00:08,000 --> 00:00:10,000
+How are you doing?
+
+6
+00:00:10,000 --> 00:00:12,000
+Yeah I am doing good, this is regarding?
+
+7
+00:00:12,000 --> 00:00:14,000
+Yeah we had a discussion regarding the masters program
+
+8
+00:00:14,000 --> 00:00:16,000
+Few days back, you remember?
+
+9
+00:00:16,000 --> 00:00:18,000
+Yeah yeah correct
+
+10
+00:00:18,000 --> 00:00:20,000
+So can we, I am in the middle of something
+
+11
+00:00:20,000 --> 00:00:22,000
+Can we have a call tomorrow?
+
+12
+00:00:22,000 --> 00:00:24,000
+Tomorrow, yeah sure
+
+13
+00:00:24,000 --> 00:00:26,000
+Like any specific time would you like to mention?
+
+14
+00:00:26,000 --> 00:00:28,000
+This time, this time it's fine
+
+15
+00:00:28,000 --> 00:00:30,000
+Alright, so let's connect tomorrow at 3
+
+16
+00:00:30,000 --> 00:00:32,000
+Okay
+
+17
+00:00:32,000 --> 00:00:34,000
+Thank you, bye bye
+

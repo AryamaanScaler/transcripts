@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello Hello
+
+2
+00:00:02,000 --> 00:00:06,000
+Hello Is it Pratik speaking?
+
+3
+00:00:06,000 --> 00:00:08,000
+Yes Hi Pratik
+
+4
+00:00:08,000 --> 00:00:14,000
+Hello Pratik Pratik Prachinath from scalar academy
+
+5
+00:00:14,000 --> 00:00:16,000
+Ok
+
+6
+00:00:16,000 --> 00:00:24,000
+So I believe you have test at 10 pm sorry 9.30 correct?
+
+7
+00:00:24,000 --> 00:00:28,000
+Sorry? So you are supposed to take the test no?
+
+8
+00:00:28,000 --> 00:00:38,000
+Ok ok ok I was sorry I was working I was busy with some other work I didn't appear for the test but I will definitely finish it off before you leave
+
+9
+00:00:38,000 --> 00:00:42,000
+So ok you will complete it today anytime?
+
+10
+00:00:42,000 --> 00:00:43,000
+Yes yes
+
+11
+00:00:43,000 --> 00:00:51,000
+Ok I will just you know reschedule it ok? So make sure that you are taking the test ok before 12 anytime?
+
+12
+00:00:51,000 --> 00:00:53,000
+Yes yes
+
+13
+00:00:53,000 --> 00:00:55,000
+Ok then Pratik call the very best
+
+14
+00:00:55,000 --> 00:00:57,000
+Yes yes thank you thank you
+

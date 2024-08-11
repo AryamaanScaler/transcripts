@@ -1,0 +1,692 @@
+1
+00:00:00,000 --> 00:00:13,120
+Hello. Hi, is this Shalini speaking? Yes. Hi Shalini, I am calling you from Scalar Academy.
+
+2
+00:00:13,120 --> 00:00:20,280
+How are you? I am good. Great. Shalini, the reason I called you is regarding your registration
+
+3
+00:00:20,280 --> 00:00:27,000
+on the Scalar Academy's website. When did I do it? Okay, regarding what? So I believe
+
+4
+00:00:27,000 --> 00:00:32,200
+on 5th of August, you registered on the Scalar Academy's website for a master class regarding
+
+5
+00:00:32,200 --> 00:00:37,840
+data science program, right? Correct, correct. But you were somehow unable to attend this
+
+6
+00:00:37,840 --> 00:00:43,440
+event. I just wanted to understand what was the reason behind like not attending the event.
+
+7
+00:00:43,440 --> 00:00:50,120
+I was not having the information only. Did you check your email? No, I didn't check.
+
+8
+00:00:50,120 --> 00:00:54,840
+So the meeting link and everything was sent to you in your email? Okay, okay. I didn't
+
+9
+00:00:55,080 --> 00:01:00,120
+check. Generally, I'm more on WhatsApp and then official email ID. So that was my personal.
+
+10
+00:01:00,120 --> 00:01:07,480
+So probably I missed it out. No issue, no issue. So Shalini, I wanted to understand, like why
+
+11
+00:01:07,480 --> 00:01:12,120
+did you register for this event? Like what were you looking for basically? I would like
+
+12
+00:01:12,120 --> 00:01:20,320
+to do this course. Basically, for the data scientist, I've heard there is online some
+
+13
+00:01:20,320 --> 00:01:27,240
+one year or six months duration course. So I would like to do it. But why would you choose
+
+14
+00:01:27,240 --> 00:01:33,440
+Scalar Academy's platform to do this? Now I put it on the website, Google and your record
+
+15
+00:01:33,440 --> 00:01:39,840
+only came. So that's the reason. No other reason for it. But like why do you want to do data
+
+16
+00:01:39,840 --> 00:01:49,520
+science? Something I wanted to do. No, that is fine. Like currently, you must also be
+
+17
+00:01:49,520 --> 00:01:56,480
+working currently, right? Yeah. So apart from your own domain, do you work in the same domain?
+
+18
+00:01:58,640 --> 00:02:03,200
+No, I don't work. So why do you want to shift your domain and work in data science domain?
+
+19
+00:02:03,200 --> 00:02:11,040
+Why do you want to do that? Actually, my daughter is going to US. So I have to also shift. And
+
+20
+00:02:11,040 --> 00:02:17,920
+currently where I'm working is is the front end job. Okay, more on marketing and sales. So I'm
+
+21
+00:02:17,920 --> 00:02:28,320
+looking for a good job in US. So that is the reason somebody suggested that. So computers and
+
+22
+00:02:28,320 --> 00:02:38,320
+those courses are very difficult for me. Okay, going through and just checking it out. So it is
+
+23
+00:02:38,320 --> 00:02:44,400
+for me. Okay, okay. So Shalini, like your daughter is going to US for her education.
+
+24
+00:02:45,200 --> 00:02:48,160
+Yes. Like is it a college education that she's going on into?
+
+25
+00:02:50,960 --> 00:02:57,760
+Okay, okay. So Shalini, what I want to understand is, you have almost a work experience of almost
+
+26
+00:02:57,760 --> 00:03:05,040
+15-17 years. Yeah. So now you are working in the front end. Why don't you upskill only in front
+
+27
+00:03:05,040 --> 00:03:09,040
+end and full stack development and get a job outside? Why do you want to do data science?
+
+28
+00:03:10,000 --> 00:03:18,240
+I mean, I have been advised by my friends that maybe front end they may not take the
+
+29
+00:03:21,200 --> 00:03:29,680
+Indians because they want to make for marketing and sales. So if you have something,
+
+30
+00:03:29,680 --> 00:03:34,000
+expertise, technical expertise in back end job, so that is going to help you more.
+
+31
+00:03:34,800 --> 00:03:41,920
+So back end also you can do. So why would you learn data science?
+
+32
+00:03:43,360 --> 00:03:46,240
+Oh, that is being suggested by my friends. Yeah.
+
+33
+00:03:48,080 --> 00:03:54,720
+Okay. So basically, Shalini, what I'm trying to explain you here is, if you start learning
+
+34
+00:03:54,720 --> 00:04:00,560
+data science and data analytics and get into data science related job, right? All the front end that
+
+35
+00:04:00,560 --> 00:04:04,960
+you have known for all these 15-16 years is not going to be useful for you anymore.
+
+36
+00:04:06,560 --> 00:04:09,520
+Yeah. Right. So are you okay with that?
+
+37
+00:04:11,040 --> 00:04:17,920
+You know, I'm looking at something which can give me job in US and with a better salary. So
+
+38
+00:04:17,920 --> 00:04:24,160
+we go my friend who is a cardio surgeon, they are suggesting a person with his friends that this is
+
+39
+00:04:24,160 --> 00:04:29,920
+the kind of job which is doing well in US. So I don't even learn this. If you get something,
+
+40
+00:04:29,920 --> 00:04:32,480
+it is good. If you get something off your own, it is fine.
+
+41
+00:04:33,440 --> 00:04:40,960
+Right. Right. See, Shalini, now the thing that arises over here is, let's assume you have studied
+
+42
+00:04:40,960 --> 00:04:45,520
+data science, you have studied data analytics and all these things. Now, how are you going to apply
+
+43
+00:04:45,520 --> 00:04:55,760
+for jobs? I'm not saying by applying to your thing, I just went for something. I'm saying I was
+
+44
+00:04:55,760 --> 00:05:01,600
+exploring that. Yeah, yeah. Yeah, yeah. That is understood. Now what I'm asking you is,
+
+45
+00:05:02,480 --> 00:05:08,400
+we are aiming for a job in US, right? Let's assume you have studied the relevant skills that are
+
+46
+00:05:08,400 --> 00:05:13,840
+required for a job in US. You have understood all the things. Now, how are you going to go ahead
+
+47
+00:05:13,840 --> 00:05:21,360
+and apply? Same way the way others apply. Like how? What will be your way I want to understand?
+
+48
+00:05:22,320 --> 00:05:24,560
+Through the net, through LinkedIn, through the net.
+
+49
+00:05:25,120 --> 00:05:33,200
+Yeah, LinkedIn and all of this. So have you targeted anything or I can understand currently
+
+50
+00:05:33,200 --> 00:05:41,200
+you are in the exploration phase only. So you might not be having a like a total understanding.
+
+51
+00:05:41,760 --> 00:05:48,000
+No, I don't have any understanding. I just need to know what is data science about and what are
+
+52
+00:05:48,480 --> 00:05:56,960
+possibilities which you would generally be able to achieve and all. So I'm going to take a job
+
+53
+00:05:56,960 --> 00:06:04,320
+for say. Right, right. See, now what you would want to understand is that this data science
+
+54
+00:06:04,320 --> 00:06:09,360
+journey is going to take 8 to 12 months, 15 months because the total program duration
+
+55
+00:06:10,160 --> 00:06:18,480
+is 15 months. Okay, these 15 months you will be starting from scratch understanding how Python,
+
+56
+00:06:18,480 --> 00:06:25,360
+SQL, Excel works, right? Okay. Once you have done this, then you go into understanding how applied
+
+57
+00:06:25,360 --> 00:06:30,560
+statuses and probability works, how all the other things like product analytics, how the different
+
+58
+00:06:30,560 --> 00:06:36,320
+Python libraries work in this domain. Yeah. This is going, then this will make data analytics
+
+59
+00:06:36,320 --> 00:06:41,840
+complete for you in the first 8 months. After that, when you talk about data science, then
+
+60
+00:06:41,840 --> 00:06:45,120
+you will start learning about machine learning. What is the math behind machine learning,
+
+61
+00:06:45,120 --> 00:06:49,440
+advanced Python and all of this. Going to take 15 months of your time. Okay.
+
+62
+00:06:56,160 --> 00:07:01,600
+You don't need? I don't need to leave, I mean resign from my job and learn this, right? No,
+
+63
+00:07:01,600 --> 00:07:05,760
+not at all. Not at all. Everything will be going on with your current work that is going on.
+
+64
+00:07:06,960 --> 00:07:13,360
+Okay. Now the thing is I can totally help you with all the, like I can totally help you with
+
+65
+00:07:13,360 --> 00:07:18,640
+the profile making relevant over here and I can also help you with all the companies, all the
+
+66
+00:07:18,640 --> 00:07:26,320
+possibilities that are here also in India. Okay. We do not cater people who are aiming for US,
+
+67
+00:07:26,880 --> 00:07:31,840
+but the learning that you are going to get because scalar is a worldwide certified program.
+
+68
+00:07:31,920 --> 00:07:37,040
+Okay. Okay. So this will also help you to get jobs over there also. But anyways,
+
+69
+00:07:37,040 --> 00:07:43,600
+the learning journey will be good for you. I still feel that you still have scope to upscale
+
+70
+00:07:43,600 --> 00:07:47,440
+in your software domain. Also, can you tell me what is the current salary you're working on?
+
+71
+00:07:48,640 --> 00:07:55,680
+Sorry? What is the current salary CTC you're working on? Oh, it's INR 30 lakhs.
+
+72
+00:07:56,640 --> 00:08:01,600
+30 lakhs per annum. 15 years of experience currently earning 30 lakhs
+
+73
+00:08:02,560 --> 00:08:06,480
+as an understandable position. I took a lot of breaks in my career. So,
+
+74
+00:08:06,960 --> 00:08:10,320
+what I was earning 11 years back, I'm at this same salary.
+
+75
+00:08:11,840 --> 00:08:19,840
+So 11 years back also you were at 30 LPA? Yeah. I was on 24. So 11 years back when my second
+
+76
+00:08:19,840 --> 00:08:25,760
+daughter was born, I was working on 24. So then in between, I was not working for six, seven years.
+
+77
+00:08:26,480 --> 00:08:32,400
+Then I restarted. So restarted at the same salary from last three years because I've been taking
+
+78
+00:08:33,040 --> 00:08:39,920
+for a comfortable job, which is not very fun because kids being young. But Shalini,
+
+79
+00:08:40,560 --> 00:08:46,400
+that is tremendous. That is tremendous for like, like you already were at the peak
+
+80
+00:08:47,280 --> 00:08:52,640
+given in the career point, right? No, it is not the peak. It is very low. No, no, peak. What I'm
+
+81
+00:08:52,640 --> 00:08:57,120
+trying to say is 11 years back only you were somewhere on 24, 25 LPA, right? That time I was
+
+82
+00:08:57,120 --> 00:09:01,600
+doing well, but then I took a break. Obviously, obviously these things happen, you know, like
+
+83
+00:09:01,600 --> 00:09:08,800
+these are the sacrifices we need to make sometimes. Right. But see, that is why your profile is a very
+
+84
+00:09:08,800 --> 00:09:11,840
+good profile. You also know that just brushing.
+
+85
+00:09:26,960 --> 00:09:31,760
+Definitely, definitely. See, the pattern of learning that you will be going through here,
+
+86
+00:09:31,760 --> 00:09:38,080
+the job application for you will be very easy now. Okay. Because we will be applying in global
+
+87
+00:09:38,080 --> 00:09:43,840
+sites, which is a well-found angel list, all these sites. Okay. So this is something that
+
+88
+00:09:43,840 --> 00:09:48,640
+is going to help you with the US placements also. And also we will help you with the referral
+
+89
+00:09:48,640 --> 00:09:54,960
+opportunities that are available over there. Okay. Now I want to understand how soon are you
+
+90
+00:09:54,960 --> 00:10:01,040
+going to start this journey? How hectic is the timing? What is the timing and what are the,
+
+91
+00:10:01,040 --> 00:10:11,920
+the, yeah, basically what are your work timings in a day? Oh, mine is from 10.30 to 6.37. Then I
+
+92
+00:10:11,920 --> 00:10:18,400
+reach home by eight o'clock. Okay, great. See the classes of scalar academy will be three days a
+
+93
+00:10:18,400 --> 00:10:24,320
+week on alternate days. Okay. It will be Monday, Wednesday, Friday, or it can be Tuesday, Thursday,
+
+94
+00:10:24,320 --> 00:10:31,840
+Saturday. Okay. Now the scenario is you will be given two time slots for your classes. You
+
+95
+00:10:31,840 --> 00:10:37,520
+can pick any one of this. Either you can pick a morning slot from 7 a.m. to 9 a.m. or you can
+
+96
+00:10:37,520 --> 00:10:48,400
+pick a night slot from 9 p.m. to 11 p.m. Evening what time you're thinking? Yeah,
+
+97
+00:10:48,400 --> 00:10:54,960
+evening 9 p.m. to 11 p.m. only I'm telling you. No, I'm always free night or 11. Yeah. So one in
+
+98
+00:10:54,960 --> 00:11:00,800
+the morning, 7 a.m. to 9 a.m. Another in the night, which is from 9 p.m. to 11 p.m. These two slots
+
+99
+00:11:00,800 --> 00:11:07,280
+will be there. You can pick any one of this. Okay. All the classes that happen on scalar academy's
+
+100
+00:11:07,280 --> 00:11:15,680
+platform are live classes. These classes will be taken up by only the industry people and not,
+
+101
+00:11:15,680 --> 00:11:21,040
+not just like any company, but only the top tier one product based companies like Amazon,
+
+102
+00:11:21,040 --> 00:11:29,360
+Microsoft, Google, Facebook, all these people are going to teach you. Okay. And this is how we make
+
+103
+00:11:29,360 --> 00:11:35,520
+sure your learning is unhinged. You will be assigned with a mentor who will be a data scientist.
+
+104
+00:11:36,720 --> 00:11:41,680
+Okay. This mentor will be with you throughout the program, helping you understand each and every
+
+105
+00:11:41,680 --> 00:11:46,720
+aspect, helping you go ahead in the program, solving all your doubts and queries also.
+
+106
+00:11:48,720 --> 00:11:52,080
+Just like an elder brother or elder sibling to give you a proper guidance.
+
+107
+00:11:54,080 --> 00:12:03,280
+Okay. So this is about the program. Okay. And the most important thing is, yeah. What did you say?
+
+108
+00:12:03,360 --> 00:12:10,640
+Okay. Yeah. Just before telling the fees, just telling you one more point.
+
+109
+00:12:11,440 --> 00:12:16,960
+The most important part of the program is our projects. Okay. These projects are going to be
+
+110
+00:12:16,960 --> 00:12:22,880
+the way for you to get into the companies at the U.S. Now telling you the fees part, fees.
+
+111
+00:12:27,040 --> 00:12:32,400
+What kind of projects? Okay. We will only be doing industry relevant projects that are
+
+112
+00:12:32,480 --> 00:12:38,080
+only coming from product based companies. So we have the MOU signed with these product based
+
+113
+00:12:38,080 --> 00:12:42,320
+companies. So you will have the raw data of these companies in your projects.
+
+114
+00:12:44,400 --> 00:12:48,080
+These projects will be industry recognized all over the world.
+
+115
+00:12:48,080 --> 00:12:51,120
+That is how you will be able to get into the better job roles.
+
+116
+00:12:55,040 --> 00:13:01,520
+Okay. So we, your voice is coming from a distant
+
+117
+00:13:02,400 --> 00:13:10,480
+field. I am saying for this also, I don't need to leave. I'll be doing online only.
+
+118
+00:13:11,520 --> 00:13:18,000
+Everything is online. No need to leave job. Anything because see, six hours of classes is
+
+119
+00:13:18,000 --> 00:13:24,000
+there in one week. Additional six hours you invest by yourself as your own self-study into the program.
+
+120
+00:13:24,000 --> 00:13:28,720
+Right. Overall in a week, if you're investing 12 hours, 12 to 15 hours, that's more than enough for you.
+
+121
+00:13:28,720 --> 00:13:37,040
+Okay. Okay. But yeah, we will be regular with our studies. That is the one only major thing important.
+
+122
+00:13:37,680 --> 00:13:44,160
+Don't worry. I'm a studious person. I've always been studious. Actually, I wanted to do MCA,
+
+123
+00:13:44,160 --> 00:13:52,800
+but by mistake, I went to MBA. I thought probably I'll leave and do it, but somehow I did MBA.
+
+124
+00:13:53,440 --> 00:13:59,600
+Oh, okay. Okay. No issue. No issue. So this was regarding the overall program, the fee structure.
+
+125
+00:13:59,600 --> 00:14:06,320
+Now I'm going to tell you. Yes. The fees are the best piece that you can offer me. I'll tell you.
+
+126
+00:14:06,320 --> 00:14:12,720
+I'll tell you the fees that is given to you is three lakh sixty nine thousand. The whole program's
+
+127
+00:14:12,720 --> 00:14:18,560
+cost is three lakh sixty nine thousand. We have a screening test. If you clear that screening test
+
+128
+00:14:18,560 --> 00:14:23,360
+and score good enough marks, you will be given a scholarship of forty five thousand rupees.
+
+129
+00:14:24,880 --> 00:14:31,200
+That will make the final amount to become three lakh twenty four thousand. Okay. Okay. Out of this,
+
+130
+00:14:31,840 --> 00:14:36,880
+twenty thousand is paid as a registration amount. Remaining three lakh four thousand
+
+131
+00:14:36,880 --> 00:14:43,760
+for your own ease is converted into EMI format. Okay. You have two options for EMI. Either you
+
+132
+00:14:43,760 --> 00:14:48,480
+can go forward with a no cost EMI of twelve thousand six hundred rupees per month,
+
+133
+00:14:49,440 --> 00:14:53,040
+which is a flat no cost EMI, no processing charge, no hidden cost, nothing.
+
+134
+00:14:54,320 --> 00:14:58,560
+Or if you want to go forward with the interest based EMI, it is for seven thousand eight hundred
+
+135
+00:14:58,560 --> 00:15:05,680
+rupees per month for a duration of twelve thousand. Okay. So this is regarding the whole program.
+
+136
+00:15:05,680 --> 00:15:10,400
+Now I want to understand what are you thinking? Okay. Tell me one thing with the screening,
+
+137
+00:15:10,400 --> 00:15:16,320
+what you're talking about. What kind of is it? See for the screening test, I have two kinds of
+
+138
+00:15:16,320 --> 00:15:21,120
+tests with me. Okay. Two types. Basically, when will be a coding test? When will be a non-coding
+
+139
+00:15:21,120 --> 00:15:27,520
+test? Currently, I believe you already work in the front end. So Python basics and time complexity
+
+140
+00:15:27,520 --> 00:15:34,800
+is something which will be clear for you, right? Come again, please. Like this. Yeah. Basically,
+
+141
+00:15:35,280 --> 00:15:41,040
+we just all about basically we have two types of screening test. One will be a coding test.
+
+142
+00:15:41,040 --> 00:15:46,320
+One will be a non-coding test. If you are comfortable with the Korean non-Korean,
+
+143
+00:15:46,320 --> 00:15:52,560
+no, no, not Korean coding or non-coding. Okay. Coding and non-coding. Fine. Yeah. If you're
+
+144
+00:15:52,560 --> 00:15:57,040
+comfortable with the coding test, then I will tell you the details about it because it requires
+
+145
+00:15:57,040 --> 00:16:04,640
+some Python time complexity and these things. Yeah. That is
+
+146
+00:16:04,640 --> 00:16:11,360
+why we will roll out the non-coding test for you. This non-coding test will have logical reasoning
+
+147
+00:16:11,360 --> 00:16:19,040
+and aptitude questions in it. Okay. That's fine. This is going to check your logical reasoning,
+
+148
+00:16:19,040 --> 00:16:23,280
+how your problem solving skills are based on it. We are going to determine,
+
+149
+00:16:23,280 --> 00:16:29,120
+are you a fit for the program or not? All right. Sure. Now tell me what are you thinking?
+
+150
+00:16:29,840 --> 00:16:36,400
+Okay. Yeah, fine. So I can go for the test first so that I also know whether I'm
+
+151
+00:16:40,400 --> 00:16:45,680
+there for this kind of thing or not. Correct. So let me give you a little more detail about this
+
+152
+00:16:45,680 --> 00:16:51,840
+test. This test is a 15-20 minute test that you can easily give with your phone also.
+
+153
+00:16:52,400 --> 00:16:55,840
+You will have 15 questions. It should be MCQ questions given to you.
+
+154
+00:16:56,800 --> 00:17:01,200
+Okay. So now I just want to understand what time are you comfortable giving this test?
+
+155
+00:17:02,400 --> 00:17:13,120
+Oh, tomorrow afternoon between 1 to 2. See, it's only a 20-minute test.
+
+156
+00:17:13,120 --> 00:17:16,400
+Almost 20 minutes we have also been talking. It will be very grateful if you will...
+
+157
+00:17:17,520 --> 00:17:24,240
+I'm just assuring you the timing because maybe if some Zoom call or meeting comes all of a sudden,
+
+158
+00:17:24,960 --> 00:17:30,000
+then there will be a problem. See, can you give the test today 9 p.m. at night also? No issue with
+
+159
+00:17:30,000 --> 00:17:37,600
+that. 9 p.m. Okay. After working or see because let me tell you, once you give the test today,
+
+160
+00:17:37,600 --> 00:17:44,960
+no, we will have a clarity. Where do you currently stand? Based on that, tomorrow afternoon or
+
+161
+00:17:44,960 --> 00:17:49,440
+tomorrow evening, I will connect with you once again. All right. After you have given the test,
+
+162
+00:17:49,440 --> 00:17:54,240
+we will understand how are you feeling about the program and everything. After that...
+
+163
+00:17:54,240 --> 00:17:58,800
+But I can give the test now also. Now also, right? Yeah.
+
+164
+00:17:58,800 --> 00:18:03,520
+So, okay. What I'll do is I'll roll out the test to you right now in the next five minutes.
+
+165
+00:18:03,520 --> 00:18:06,720
+The test link is going to come up on your email. Okay.
+
+166
+00:18:06,720 --> 00:18:11,760
+Okay. Give the test right now. I will also send you some research material. Read about it
+
+167
+00:18:12,400 --> 00:18:15,440
+and like see the videos tomorrow. Then we will connect once again.
+
+168
+00:18:15,920 --> 00:18:19,920
+Because you know offices are more comfortable to give the test rather than home.
+
+169
+00:18:21,040 --> 00:18:25,360
+Correct. Correct. Totally right. Let me roll out the test to you right now
+
+170
+00:18:26,080 --> 00:18:30,160
+and I'll just ping you on WhatsApp once the test has reached your email. Okay?
+
+171
+00:18:30,160 --> 00:18:35,920
+Okay. Okay, Shalini. Thank you so much. Have a great day. Sending you details to me in the
+
+172
+00:18:35,920 --> 00:18:38,240
+next five minutes. Okay? Yeah. Thank you.
+
+173
+00:18:38,240 --> 00:18:40,320
+Okay. Okay, Shalini. Thank you. Bye.
+

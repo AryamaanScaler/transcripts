@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hello, Hi, Hi, I am Sohan. I was in some meeting. I will be there sometime.
+
+2
+00:00:07,000 --> 00:00:12,000
+How long? In how much time? 15 minutes.
+
+3
+00:00:12,000 --> 00:00:15,000
+Okay, should we reschedule for tomorrow?
+
+4
+00:00:15,000 --> 00:00:20,000
+Tomorrow we are starting right?
+
+5
+00:00:20,000 --> 00:00:22,000
+Yeah, 9 pm.
+
+6
+00:00:22,000 --> 00:00:24,000
+At night right?
+
+7
+00:00:24,000 --> 00:00:26,000
+Night 9 pm, yes.
+
+8
+00:00:26,000 --> 00:00:28,000
+Morning is not there?
+
+9
+00:00:28,000 --> 00:00:31,000
+Morning time is there but these are the introduction classes.
+
+10
+00:00:31,000 --> 00:00:37,000
+So it will run in the evening slots only for like 2-3 days and after that if you want you can take morning classes as well.
+
+11
+00:00:37,000 --> 00:00:39,000
+Okay, okay.
+
+12
+00:00:39,000 --> 00:00:41,000
+So should we connect tomorrow then?
+
+13
+00:00:41,000 --> 00:00:43,000
+Yeah, it's fine. Tomorrow we can connect.
+
+14
+00:00:43,000 --> 00:00:47,000
+Okay, and what else? You do one thing. Once you are free you drop me a message as well. Okay?
+
+15
+00:00:47,000 --> 00:00:49,000
+Fine, yeah.
+
+16
+00:00:49,000 --> 00:00:51,000
+Thank you, good day, bye.
+

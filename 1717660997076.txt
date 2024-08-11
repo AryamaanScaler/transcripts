@@ -1,0 +1,1496 @@
+1
+00:00:00,000 --> 00:00:14,360
+Hello, Prabhat Kumar. Prabhat, this is Neha from Scalar. Hello. Yeah, Prabhat, this is
+
+2
+00:00:14,360 --> 00:00:21,760
+Neha from Scalar. Yes, yes, Scalar. Lately you registered for a live webinar for low level
+
+3
+00:00:21,760 --> 00:00:27,640
+designs. Do you remember? Yes, yes, yes. Yeah, since you were not able to join the live webinar,
+
+4
+00:00:27,640 --> 00:00:31,960
+I have connected with you personally. So can you help me understanding what was the motivation
+
+5
+00:00:31,960 --> 00:00:44,160
+behind registration this time? No, I just want to understand like I... Hello. Yeah. I just want to
+
+6
+00:00:44,160 --> 00:00:52,600
+like understand the flow like somewhere I looked this session webinar advertisement. So that's why
+
+7
+00:00:52,600 --> 00:00:59,920
+I registered at that time. Like I am working in banking sector, so I am working on application
+
+8
+00:00:59,920 --> 00:01:08,640
+team. So for that purpose, I just want to understand what is the flow and architecture. That's why I
+
+9
+00:01:08,640 --> 00:01:15,640
+joined. I registered in this webinar. Okay. And did somebody recommended you like how you got in touch?
+
+10
+00:01:15,640 --> 00:01:23,880
+Sorry, can you repeat? Did somebody recommended you the platform or about this registration about
+
+11
+00:01:23,880 --> 00:01:33,120
+this upcoming webinar? No, I have seen somewhere in that. I think in India. Okay. And so this time
+
+12
+00:01:33,120 --> 00:01:38,960
+are you looking out for a dedicated comprehensive learning or this time again, this is just for some
+
+13
+00:01:38,960 --> 00:01:46,560
+free interactions and you know, theoretical understanding. First of all, like I'll overview the
+
+14
+00:01:46,560 --> 00:01:57,520
+like first level of like how this process is going on, then I'll maybe jump into the... No, I'm trying to
+
+15
+00:01:57,520 --> 00:02:03,680
+understand like what is the end goal behind your research? Like when we are looking out for a when
+
+16
+00:02:03,680 --> 00:02:09,480
+we are browsing, right? There are there are generally two intentions. One that people are
+
+17
+00:02:09,480 --> 00:02:14,280
+dedicatedly looking out for some outcome. And based on that, they are comprehensively looking,
+
+18
+00:02:14,280 --> 00:02:20,800
+researching and comparing the outcomes about the training and platform. And hence, then the final
+
+19
+00:02:20,800 --> 00:02:27,360
+after doing some research for a few days, they, you know, bend down to one platform and they, you
+
+20
+00:02:27,360 --> 00:02:33,480
+know, start the learning scenario. Otherwise, is that there is no such intention and we are
+
+21
+00:02:33,480 --> 00:02:39,440
+just casually browsing to, you know, invest our spare time and there is no intention of dedicated
+
+22
+00:02:39,440 --> 00:02:44,280
+or shortlisting anything. So what's your intention behind that? That is what I'm trying to understand.
+
+23
+00:02:44,280 --> 00:02:53,440
+So my final ultimate intention is key like just to learn the application architecture and all the
+
+24
+00:02:53,440 --> 00:03:02,800
+thing. My ultimate goal and intention. Okay. You are more comfortable in English or you are more comfortable in Hindi as well?
+
+25
+00:03:02,800 --> 00:03:05,760
+Hindi. Okay. Okay.
+
+26
+00:03:05,760 --> 00:03:14,040
+I'm asking you because I think you did some similar sort of registrations in July last year as well.
+
+27
+00:03:14,040 --> 00:03:21,520
+And you had a lot of discussions with our executives. And at that time, you said that you don't have much in-depth
+
+28
+00:03:21,520 --> 00:03:27,400
+understanding about the core software development scenarios. And at that time, you didn't have any
+
+29
+00:03:27,400 --> 00:03:37,120
+immediate mindset that you want to go into proper comprehensive training. Right. It's been about 10-11 months.
+
+30
+00:03:37,120 --> 00:03:43,280
+So when you are doing the registration again, are you still in a similar mindset or have some things changed?
+
+31
+00:03:44,280 --> 00:03:55,680
+No, I still have some things to learn. I need like some course or a dedicated course where I can learn on the architecture level,
+
+32
+00:03:55,680 --> 00:03:59,280
+design level of application.
+
+33
+00:03:59,280 --> 00:04:03,960
+What is your profile now? You are in ICICI Bank.
+
+34
+00:04:03,960 --> 00:04:05,280
+Yes, that's right.
+
+35
+00:04:05,280 --> 00:04:08,880
+Okay. What is your profile there?
+
+36
+00:04:09,480 --> 00:04:10,880
+I'm an IT analyst.
+
+37
+00:04:10,880 --> 00:04:14,880
+So what do you do in your day-to-day scenario?
+
+38
+00:04:14,880 --> 00:04:24,280
+Right now, I have an application here. I'm on ICICI application.
+
+39
+00:04:24,280 --> 00:04:33,880
+So there are changes at the architecture level, server and cloud, security level.
+
+40
+00:04:33,880 --> 00:04:43,880
+So I'm in all these things. I mean, in comprehensive understanding, I will learn from somewhere.
+
+41
+00:04:43,880 --> 00:04:53,880
+Okay. So Prabhat, you mean the core software development, like you said, banks are all based on their own applications.
+
+42
+00:04:53,880 --> 00:04:59,880
+Like ICICI is based on iMobile, SBI is based on UNO, HDFC is also based on its own, all the banks have it.
+
+43
+00:04:59,880 --> 00:05:09,880
+And generally, customers use it through their UPI and mobile banking.
+
+44
+00:05:09,880 --> 00:05:18,880
+And now UPI has also become an option that instead of third party UPI, you can use the safe UPI mode of your bank,
+
+45
+00:05:18,880 --> 00:05:23,880
+to avoid any scenario.
+
+46
+00:05:23,880 --> 00:05:29,880
+So if you want to learn in that, then you want to learn from the perspective of proper core software development,
+
+47
+00:05:29,880 --> 00:05:40,880
+learning courses, or just from the perspective of what you need in your bank.
+
+48
+00:05:40,880 --> 00:05:50,880
+No, no, I don't need it for the bank because I'm in future, I'm switching to another company.
+
+49
+00:05:50,880 --> 00:05:54,880
+So I don't need it overall.
+
+50
+00:05:54,880 --> 00:06:03,880
+So you want to understand the overall full stack or backend scenario so that you can switch to job switching.
+
+51
+00:06:03,880 --> 00:06:09,880
+Yes, so there will be some understanding, and then there will be some other kind of
+
+52
+00:06:09,880 --> 00:06:15,880
+D&R case, so overall there will be a complete understanding.
+
+53
+00:06:15,880 --> 00:06:19,880
+Okay. So can you tell us a little bit about your graduation or education background?
+
+54
+00:06:19,880 --> 00:06:23,880
+You have written here that you graduated from NIT Patna in 2021, is that correct?
+
+55
+00:06:23,880 --> 00:06:25,880
+Yes, right, right.
+
+56
+00:06:25,880 --> 00:06:30,880
+So can you tell us a little bit about your background in education and how your journey is going?
+
+57
+00:06:30,880 --> 00:06:43,880
+I did mechanical engineering, mechanical branch, but parallelly, I don't have any knowledge of coding.
+
+58
+00:06:43,880 --> 00:06:55,880
+So I don't have to jump into coding, but here at the architecture level or security level,
+
+59
+00:06:55,880 --> 00:07:02,880
+So you don't have to go into coding level, you are from a mechanical background, you don't have to go into software development,
+
+60
+00:07:02,880 --> 00:07:07,880
+but you have to be related to IT as well.
+
+61
+00:07:07,880 --> 00:07:12,880
+Where there is SPL and all, it will work.
+
+62
+00:07:12,880 --> 00:07:22,880
+So it comes in data science, SQL, Python, your Tabli, Kafka, Numpy, Panda, all these things come in data science.
+
+63
+00:07:22,880 --> 00:07:30,880
+Okay. And in data science, there is not much involvement of the architecture level in system designing.
+
+64
+00:07:30,880 --> 00:07:32,880
+Because that responsibility...
+
+65
+00:07:32,880 --> 00:07:42,880
+Yes, in most of the banks, we get the products from our windows, like the coding part and all.
+
+66
+00:07:42,880 --> 00:07:52,880
+So for us, there is no requirement of such a house, but from the point of view of application, I should have all the understanding.
+
+67
+00:07:52,880 --> 00:08:00,880
+Look, if you are in any role related to the application, whether it is a developer or something,
+
+68
+00:08:00,880 --> 00:08:07,880
+then you need to have the knowledge of coding, and if you are not getting that knowledge,
+
+69
+00:08:07,880 --> 00:08:11,880
+then it becomes very difficult for you to handle things on-job.
+
+70
+00:08:11,880 --> 00:08:19,880
+As you said, you are not coming from a tech background, and you are not interested in coding, and you don't want to pursue your career in it.
+
+71
+00:08:19,880 --> 00:08:21,880
+Right?
+
+72
+00:08:21,880 --> 00:08:32,880
+So if you are coming from an analyst background, then you can explore the data science and machine learning field.
+
+73
+00:08:32,880 --> 00:08:38,880
+You have seen something like this in the past 10-11 months. What research have you done?
+
+74
+00:08:38,880 --> 00:08:44,880
+If you want to transition, what will be the main goal of your business?
+
+75
+00:08:44,880 --> 00:08:49,880
+Because if you talk only about courses, then there are many courses available in the market.
+
+76
+00:08:49,880 --> 00:08:55,880
+How will you shortlist? What is right for you? And what will take you where you want to go?
+
+77
+00:08:56,880 --> 00:09:02,880
+I have finalized a data analyst.
+
+78
+00:09:02,880 --> 00:09:07,880
+It has SQL queries, and there is no coding involved.
+
+79
+00:09:07,880 --> 00:09:10,880
+There is a little bit of a problem.
+
+80
+00:09:10,880 --> 00:09:16,880
+So I had planned somewhere there, but I haven't started anything there yet.
+
+81
+00:09:16,880 --> 00:09:23,880
+What are the options available in the industry regarding SQL Python and Data Science Machine Learning?
+
+82
+00:09:23,880 --> 00:09:27,880
+Are you inclined to learn about the career tracks?
+
+83
+00:09:27,880 --> 00:09:35,880
+Or do you want to stay in the same mindset that you have learned and you can work?
+
+84
+00:09:35,880 --> 00:09:37,880
+No, no.
+
+85
+00:09:37,880 --> 00:09:50,880
+Right now, the basic level is there, but for the future, I want to do it completely.
+
+86
+00:09:50,880 --> 00:09:54,880
+You want a very intensive scenario.
+
+87
+00:09:54,880 --> 00:09:57,880
+How old are you?
+
+88
+00:09:57,880 --> 00:10:00,880
+I am 1.8 years old.
+
+89
+00:10:00,880 --> 00:10:03,880
+How long does your CTC last?
+
+90
+00:10:03,880 --> 00:10:08,880
+13,000 per month.
+
+91
+00:10:08,880 --> 00:10:11,880
+No, it is 13 LP.
+
+92
+00:10:11,880 --> 00:10:15,880
+Okay, around 89,000 per month.
+
+93
+00:10:15,880 --> 00:10:19,880
+What are the courses you have seen of data analysts and data scientists?
+
+94
+00:10:19,880 --> 00:10:22,880
+What did you find out about data science?
+
+95
+00:10:22,880 --> 00:10:25,880
+Did you do any research in the industry?
+
+96
+00:10:25,880 --> 00:10:28,880
+What is the career track of a data analyst and data scientist?
+
+97
+00:10:28,880 --> 00:10:33,880
+I have not done any research, but I have done research for the prerequisite test.
+
+98
+00:10:33,880 --> 00:10:37,880
+First of all, I need to learn SQL.
+
+99
+00:10:37,880 --> 00:10:41,880
+Then I need to develop a tool.
+
+100
+00:10:41,880 --> 00:10:44,880
+I have done all the basic prerequisites.
+
+101
+00:10:44,880 --> 00:10:49,880
+If I want to move to that, I need to know what I should be doing first.
+
+102
+00:10:49,880 --> 00:10:52,880
+And what is the scope of career wise?
+
+103
+00:10:52,880 --> 00:10:55,880
+I keep discussing this with my friends.
+
+104
+00:10:55,880 --> 00:10:58,880
+What is the scope of career wise?
+
+105
+00:10:58,880 --> 00:11:03,880
+If you go into comprehensive learning, where can you reach in the next year?
+
+106
+00:11:03,880 --> 00:11:08,880
+And where can you reach in the next 2-5 years in this field?
+
+107
+00:11:08,880 --> 00:11:12,880
+I have not done any research on the detail level.
+
+108
+00:11:12,880 --> 00:11:15,880
+But I have done research on data.
+
+109
+00:11:15,880 --> 00:11:19,880
+Because in the future, there will be data in banks and all.
+
+110
+00:11:19,880 --> 00:11:25,880
+And in our banking, there are other teams where data analysts have a role.
+
+111
+00:11:25,880 --> 00:11:28,880
+Right, right.
+
+112
+00:11:28,880 --> 00:11:32,880
+This is how data is evolving.
+
+113
+00:11:32,880 --> 00:11:37,880
+And how fast we are getting digitalized.
+
+114
+00:11:37,880 --> 00:11:44,880
+When everything is digitalized, you need to maintain all the data digitally.
+
+115
+00:11:44,880 --> 00:11:48,880
+Career probability is very good.
+
+116
+00:11:48,880 --> 00:11:52,880
+This is something that is the demand of today.
+
+117
+00:11:52,880 --> 00:11:57,880
+The sooner you move in this, the better for your future.
+
+118
+00:11:57,880 --> 00:12:05,880
+Because when opportunities are fulfilled, people will grow.
+
+119
+00:12:05,880 --> 00:12:12,880
+Data is growing, and different domains are being created.
+
+120
+00:12:12,880 --> 00:12:15,880
+People are hiring heavily.
+
+121
+00:12:15,880 --> 00:12:18,880
+Because the shift is sudden.
+
+122
+00:12:18,880 --> 00:12:21,880
+From manual to digital.
+
+123
+00:12:21,880 --> 00:12:24,880
+Especially in the last 5 years.
+
+124
+00:12:24,880 --> 00:12:32,880
+And even now, in the election results, PM is very focused on online digitalization.
+
+125
+00:12:32,880 --> 00:12:35,880
+And towards that.
+
+126
+00:12:35,880 --> 00:12:38,880
+That everything is on your pin point.
+
+127
+00:12:38,880 --> 00:12:44,880
+So this is a said thing that in the next 10 years, things will be such that manual things will be digital.
+
+128
+00:12:44,880 --> 00:12:55,880
+If you want to build a career in this, chances are very high that the scenario of a software engineer is similar for data scientists.
+
+129
+00:12:55,880 --> 00:13:01,880
+Given the fact, if you have comprehensive skills.
+
+130
+00:13:01,880 --> 00:13:06,880
+And in data science, people generally talk about SQL, Tableau and Python.
+
+131
+00:13:06,880 --> 00:13:09,880
+But this is a very basic thing.
+
+132
+00:13:09,880 --> 00:13:12,880
+This is a very entry-level scenario.
+
+133
+00:13:12,880 --> 00:13:15,880
+If you want to grow in this, there are many things in it.
+
+134
+00:13:15,880 --> 00:13:22,880
+Numpy, Panda, Kafka, big data sets, Haroop, Spark Apache, etc.
+
+135
+00:13:22,880 --> 00:13:26,880
+So there is a comprehensive training on Scalar.
+
+136
+00:13:26,880 --> 00:13:29,880
+In which you work on 45 plus technologies.
+
+137
+00:13:29,880 --> 00:13:32,880
+You work on more than 80 business case studies.
+
+138
+00:13:32,880 --> 00:13:36,880
+And based on that, you also get opportunities.
+
+139
+00:13:36,880 --> 00:13:39,880
+But this is an invite-based program.
+
+140
+00:13:39,880 --> 00:13:42,880
+This is not for everyone.
+
+141
+00:13:42,880 --> 00:13:48,880
+And this is an invite-based program where we are only looking out for 150-200 people for data science and machine learning training.
+
+142
+00:13:48,880 --> 00:13:53,880
+Where for the next 9-15 months, we will allocate you in a batch.
+
+143
+00:13:53,880 --> 00:14:00,880
+And your comprehensive, hyper-personalized overall training will be there.
+
+144
+00:14:00,880 --> 00:14:06,880
+Where initially, as you said, you do not have such a deep knowledge.
+
+145
+00:14:06,880 --> 00:14:09,880
+You have not been able to do research in depth.
+
+146
+00:14:09,880 --> 00:14:16,880
+So in the initial days, if we talk about today, tomorrow, the day after tomorrow, in the first 3 days, my job will be that
+
+147
+00:14:16,880 --> 00:14:20,880
+you will have a comprehensive understanding of the data science industry.
+
+148
+00:14:20,880 --> 00:14:24,880
+But you should be clear about what is in this industry.
+
+149
+00:14:24,880 --> 00:14:26,880
+What career trajectories are there.
+
+150
+00:14:26,880 --> 00:14:30,880
+In the next 1 year, what can be your milestone.
+
+151
+00:14:30,880 --> 00:14:34,880
+With respect to if your skills are aligned.
+
+152
+00:14:34,880 --> 00:14:37,880
+And for the next 5 years, how far can you reach.
+
+153
+00:14:37,880 --> 00:14:42,880
+For the next 10-15 years, what can be your next 20 years' career trajectory.
+
+154
+00:14:42,880 --> 00:14:49,880
+Because this training is for working professionals.
+
+155
+00:14:49,880 --> 00:14:55,880
+Where people who are already data scientists, data analysts in the industry.
+
+156
+00:14:55,880 --> 00:15:00,880
+You practice with them, you discuss with them.
+
+157
+00:15:00,880 --> 00:15:03,880
+And you do mock interviews with them.
+
+158
+00:15:03,880 --> 00:15:09,880
+So that when we refer to you, you are confident enough.
+
+159
+00:15:09,880 --> 00:15:12,880
+You have already prepared for it.
+
+160
+00:15:12,880 --> 00:15:17,880
+And your probability of getting shortlisted is very high.
+
+161
+00:15:17,880 --> 00:15:23,880
+So this is your outcome.
+
+162
+00:15:23,880 --> 00:15:28,880
+Outcome oriented and scalars standing with 22 lakhs average package.
+
+163
+00:15:28,880 --> 00:15:34,880
+22 LP average package of Scalar Data Science Machine Learning last year.
+
+164
+00:15:34,880 --> 00:15:37,880
+That too for entry level designation.
+
+165
+00:15:37,880 --> 00:15:40,880
+For data scientist one role.
+
+166
+00:15:40,880 --> 00:15:44,880
+Because this is the average of the industry.
+
+167
+00:15:44,880 --> 00:15:50,880
+10-30 lakhs is the bracket of data scientist one role entry level designation.
+
+168
+00:15:50,880 --> 00:15:54,880
+So you can see yourself anywhere in this.
+
+169
+00:15:54,880 --> 00:16:01,880
+And in your existing CTC, you can expect a certain amount of high.
+
+170
+00:16:01,880 --> 00:16:07,880
+It depends on how relevant you are.
+
+171
+00:16:07,880 --> 00:16:10,880
+So that is there.
+
+172
+00:16:10,880 --> 00:16:14,880
+Having said that, what is your mindset?
+
+173
+00:16:14,880 --> 00:16:16,880
+What kind of course do you want to do?
+
+174
+00:16:16,880 --> 00:16:19,880
+Do you have a hard and fast budget in mind?
+
+175
+00:16:19,880 --> 00:16:22,880
+That no matter what, I have to do this much of programming.
+
+176
+00:16:22,880 --> 00:16:28,880
+Or are you in an open mindset where you want to invest on yourself.
+
+177
+00:16:28,880 --> 00:16:31,880
+So that your outcome can be secure.
+
+178
+00:16:31,880 --> 00:16:34,880
+What is your mindset?
+
+179
+00:16:34,880 --> 00:16:38,880
+I have not done any financial research.
+
+180
+00:16:38,880 --> 00:16:44,880
+If I get the competency course then that is fine.
+
+181
+00:16:44,880 --> 00:16:47,880
+So I am asking you the same question.
+
+182
+00:16:47,880 --> 00:16:53,880
+Because when you talk about data science, you have a curriculum of 20,000 data science courses.
+
+183
+00:16:53,880 --> 00:16:55,880
+Under 20,000.
+
+184
+00:16:55,880 --> 00:17:00,880
+And the programs of data science and machine learning are being done in Canada, US, UK.
+
+185
+00:17:00,880 --> 00:17:02,880
+So that the industry can be ready.
+
+186
+00:17:02,880 --> 00:17:05,880
+We are spending 10-15 lakhs.
+
+187
+00:17:05,880 --> 00:17:13,880
+So that they can be in the top 20-30% of the competition level.
+
+188
+00:17:13,880 --> 00:17:17,880
+And they should be preferred over anybody where they apply.
+
+189
+00:17:17,880 --> 00:17:20,880
+What is your mindset?
+
+190
+00:17:20,880 --> 00:17:23,880
+Because you will see the curriculum less or more similarly.
+
+191
+00:17:23,880 --> 00:17:26,880
+Because data science will remain data science.
+
+192
+00:17:26,880 --> 00:17:27,880
+It will not change.
+
+193
+00:17:27,880 --> 00:17:30,880
+In that there will be Python, SQL, Tablo, all these things.
+
+194
+00:17:30,880 --> 00:17:33,880
+So that thing will not change.
+
+195
+00:17:33,880 --> 00:17:37,880
+There will be differentiation that you are doing practical learning, theoretical learning.
+
+196
+00:17:37,880 --> 00:17:40,880
+What is your process of learning?
+
+197
+00:17:40,880 --> 00:17:45,880
+Like in college, the difference is that which college you are going to.
+
+198
+00:17:45,880 --> 00:17:48,880
+More or less, the curriculum is the same for everyone.
+
+199
+00:17:48,880 --> 00:17:52,880
+Where the faculty is good, where the exposure is good.
+
+200
+00:17:52,880 --> 00:17:56,880
+Where the industrial visit is good, the students are able to do better.
+
+201
+00:17:56,880 --> 00:17:59,880
+Because they are in smarter peers.
+
+202
+00:17:59,880 --> 00:18:01,880
+So what is your scenario?
+
+203
+00:18:01,880 --> 00:18:03,880
+Tell me on that basis.
+
+204
+00:18:03,880 --> 00:18:07,880
+On that basis, I will understand and tell you.
+
+205
+00:18:07,880 --> 00:18:16,880
+Right now, if I join a weekly course, then there will be something time wise.
+
+206
+00:18:16,880 --> 00:18:25,880
+And budget wise, we don't have much idea about the market, what is offline for this course.
+
+207
+00:18:25,880 --> 00:18:28,880
+Do you want to do an offline course or an online course?
+
+208
+00:18:28,880 --> 00:18:30,880
+Online, online.
+
+209
+00:18:30,880 --> 00:18:33,880
+Why do you want to do an online course and not an offline course?
+
+210
+00:18:33,880 --> 00:18:37,880
+Offline means...
+
+211
+00:18:37,880 --> 00:18:41,880
+Offline means that you are going to some institute physically.
+
+212
+00:18:41,880 --> 00:18:44,880
+Like you do tuition in childhood.
+
+213
+00:18:44,880 --> 00:18:45,880
+Right?
+
+214
+00:18:45,880 --> 00:18:47,880
+Yes, that is right.
+
+215
+00:18:47,880 --> 00:18:51,880
+For working, it will be difficult.
+
+216
+00:18:51,880 --> 00:18:56,880
+So when you want to do an online course, what is your preference?
+
+217
+00:18:56,880 --> 00:18:59,880
+What kind of people do you want to learn from?
+
+218
+00:18:59,880 --> 00:19:01,880
+How do you want to learn?
+
+219
+00:19:01,880 --> 00:19:03,880
+Explain to me.
+
+220
+00:19:03,880 --> 00:19:07,880
+So you want weekend classes only or continuous?
+
+221
+00:19:07,880 --> 00:19:09,880
+Weekend, weekend.
+
+222
+00:19:09,880 --> 00:19:10,880
+Okay.
+
+223
+00:19:10,880 --> 00:19:11,880
+Weekend classes.
+
+224
+00:19:11,880 --> 00:19:13,880
+So you want to do weekend classes only?
+
+225
+00:19:13,880 --> 00:19:16,880
+Why do you want to do weekend classes only?
+
+226
+00:19:19,880 --> 00:19:22,880
+There are two ways.
+
+227
+00:19:22,880 --> 00:19:25,880
+One is for 2 hours daily.
+
+228
+00:19:25,880 --> 00:19:29,880
+The other is for 8-10 hours on weekends.
+
+229
+00:19:29,880 --> 00:19:32,880
+That is the daily way.
+
+230
+00:19:32,880 --> 00:19:35,880
+For 2 hours, that is fine.
+
+231
+00:19:35,880 --> 00:19:38,880
+But for 6-5 hours daily...
+
+232
+00:19:38,880 --> 00:19:42,880
+For 5-6 hours daily, being a working professional is not possible.
+
+233
+00:19:42,880 --> 00:19:44,880
+That is out of the picture.
+
+234
+00:19:44,880 --> 00:19:48,880
+So daily, 1-2 hours session, that is fine.
+
+235
+00:19:48,880 --> 00:19:52,880
+Otherwise, on weekdays also, 8-10 hours.
+
+236
+00:19:52,880 --> 00:19:54,880
+You are not a college student, right?
+
+237
+00:19:54,880 --> 00:19:56,880
+I am telling you that you don't study in college.
+
+238
+00:19:56,880 --> 00:19:58,880
+You are a working professional.
+
+239
+00:19:58,880 --> 00:20:02,880
+So anyway, it is impossible to take 4-5 hours.
+
+240
+00:20:02,880 --> 00:20:05,880
+So that is not in the discussion.
+
+241
+00:20:05,880 --> 00:20:09,880
+I am asking because the training in Scalar is not done on weekends.
+
+242
+00:20:09,880 --> 00:20:11,880
+Reason being, I will tell you the logic.
+
+243
+00:20:11,880 --> 00:20:15,880
+If you are studying for 8-10 hours on Saturdays and Sundays.
+
+244
+00:20:15,880 --> 00:20:21,880
+First thing is that it is a study that you can't concentrate more than 40 minutes.
+
+245
+00:20:21,880 --> 00:20:25,880
+Second thing is that if you are studying for 8-10 hours, you will be very very exhausted.
+
+246
+00:20:25,880 --> 00:20:28,880
+You won't understand more than half of the things.
+
+247
+00:20:28,880 --> 00:20:32,880
+Because you will physically and mentally get very exhausted.
+
+248
+00:20:32,880 --> 00:20:34,880
+Third important thing is that you studied on Saturdays and Sundays.
+
+249
+00:20:34,880 --> 00:20:36,880
+You didn't do anything for the remaining 5 days.
+
+250
+00:20:36,880 --> 00:20:38,880
+After that, when you are sitting next Saturday,
+
+251
+00:20:38,880 --> 00:20:42,880
+you will get exhausted and over-push yourself.
+
+252
+00:20:42,880 --> 00:20:44,880
+You will learn the same way.
+
+253
+00:20:44,880 --> 00:20:46,880
+Let's suppose you have absorbed 30%.
+
+254
+00:20:46,880 --> 00:20:51,880
+By next week, you will forget 30-40% of that 30%.
+
+255
+00:20:51,880 --> 00:20:54,880
+Then you will have to start from square one.
+
+256
+00:20:54,880 --> 00:20:59,880
+In those situations, being able to transition is very expanded.
+
+257
+00:20:59,880 --> 00:21:02,880
+You can do it in 2-3 years or 4 years.
+
+258
+00:21:05,880 --> 00:21:08,880
+So, daily wise, you will come and study for 1 hour.
+
+259
+00:21:08,880 --> 00:21:12,880
+Yes, because this training is placement oriented.
+
+260
+00:21:12,880 --> 00:21:16,880
+So, your entire curriculum is designed in such a way that
+
+261
+00:21:16,880 --> 00:21:19,880
+you can qualify for basics in 6-7 months.
+
+262
+00:21:19,880 --> 00:21:24,880
+So that you can sit in the interviews of data scientist one role.
+
+263
+00:21:25,880 --> 00:21:29,880
+And you can continue your training along with the interviews.
+
+264
+00:21:31,880 --> 00:21:33,880
+So, you have 3 classes in a week.
+
+265
+00:21:33,880 --> 00:21:37,880
+Monday, Wednesday, Friday, Tuesday, Thursday, Saturday.
+
+266
+00:21:37,880 --> 00:21:40,880
+In the morning, it is from 9 am to 7 am.
+
+267
+00:21:40,880 --> 00:21:43,880
+Normal class or in the night, it is from 9 am.
+
+268
+00:21:43,880 --> 00:21:46,880
+So, you can choose what is comfortable for you.
+
+269
+00:21:48,880 --> 00:21:49,880
+It is okay.
+
+270
+00:21:49,880 --> 00:21:52,880
+If there are 3 days in a week, then that is fine.
+
+271
+00:21:52,880 --> 00:21:57,880
+Because, to maintain the consistency, you are doing one day of class.
+
+272
+00:21:57,880 --> 00:22:01,880
+The second day, you are practicing for that class for 1-2 hours.
+
+273
+00:22:01,880 --> 00:22:04,880
+The third day, you are doing the class again.
+
+274
+00:22:04,880 --> 00:22:07,880
+The next day, you are practicing so that your consistency is maintained.
+
+275
+00:22:07,880 --> 00:22:09,880
+And you are not breaking.
+
+276
+00:22:09,880 --> 00:22:12,880
+And when the consistency is maintained, then only it is possible that
+
+277
+00:22:12,880 --> 00:22:15,880
+in the next 6-7 months, you are genuinely, I mean, confidently,
+
+278
+00:22:15,880 --> 00:22:19,880
+you are able to give an interview where you can get a package of 20-25 lakhs.
+
+279
+00:22:20,880 --> 00:22:26,880
+Otherwise, there is no magic wand that we get an opportunity like this in 6-7 months.
+
+280
+00:22:29,880 --> 00:22:34,880
+The second thing, with respect to fees, I was asking you because the fees of the scaler
+
+281
+00:22:34,880 --> 00:22:36,880
+is currently 3.5 lakhs.
+
+282
+00:22:38,880 --> 00:22:43,880
+In which, if you are shortlisted, the shortlisting process will be of 2 days.
+
+283
+00:22:43,880 --> 00:22:48,880
+In which, I will help you a lot in researching, understanding the data science industry,
+
+284
+00:22:48,880 --> 00:22:52,880
+in evaluating you, how much gap you have, what you need to understand,
+
+285
+00:22:52,880 --> 00:22:54,880
+in doing all the things.
+
+286
+00:22:54,880 --> 00:22:59,880
+After that, if we are on the same page, then only you will get the admission offer.
+
+287
+00:22:59,880 --> 00:23:03,880
+In which you can expect 55,000 scholarships.
+
+288
+00:23:04,880 --> 00:23:07,880
+In that scenario, your fees will be 3.14 lakhs.
+
+289
+00:23:08,880 --> 00:23:15,880
+In which, if you are not 100% confident in yourself,
+
+290
+00:23:15,880 --> 00:23:19,880
+in any dicey situation, you are thinking that whether you can do it or not.
+
+291
+00:23:20,880 --> 00:23:23,880
+In that situation, you will only deposit 20,000 in the beginning,
+
+292
+00:23:23,880 --> 00:23:25,880
+which will be security fees.
+
+293
+00:23:25,880 --> 00:23:28,880
+And you will be on experience till 25th June.
+
+294
+00:23:28,880 --> 00:23:30,880
+You will be on observation.
+
+295
+00:23:30,880 --> 00:23:32,880
+Where you are learning with data scientists,
+
+296
+00:23:32,880 --> 00:23:36,880
+with them, between 9-11 in the morning, whenever you feel like,
+
+297
+00:23:36,880 --> 00:23:39,880
+you can sit on one-on-one video call with the teaching assistant,
+
+298
+00:23:39,880 --> 00:23:42,880
+asking doubts, discussing, taking guidance.
+
+299
+00:23:42,880 --> 00:23:46,880
+One mock interview will be conducted with the mentor.
+
+300
+00:23:46,880 --> 00:23:49,880
+You will not take your final high on 25th June.
+
+301
+00:23:49,880 --> 00:23:53,880
+If you are understanding things, you are thinking that you have a cup of tea,
+
+302
+00:23:53,880 --> 00:23:55,880
+then you can move ahead.
+
+303
+00:23:55,880 --> 00:23:59,880
+So, from July, your per month fees will start.
+
+304
+00:23:59,880 --> 00:24:02,880
+In the form of per month EMIs, you can pay your per month fees.
+
+305
+00:24:02,880 --> 00:24:04,880
+You have been given interest for even 1 rupee.
+
+306
+00:24:06,880 --> 00:24:10,880
+If you feel that, despite doing such a heavy experience,
+
+307
+00:24:10,880 --> 00:24:14,880
+you are not able to do up-up in data science,
+
+308
+00:24:14,880 --> 00:24:18,880
+because technically, there will be some things involved in it.
+
+309
+00:24:18,880 --> 00:24:22,880
+It will not be possible that technicality is not involved at all.
+
+310
+00:24:22,880 --> 00:24:26,880
+If you feel that, no, I am not comfortable,
+
+311
+00:24:26,880 --> 00:24:29,880
+I am not getting confidence, I do not have a cup of tea,
+
+312
+00:24:29,880 --> 00:24:35,880
+then you can back off, cancel your admission.
+
+313
+00:24:36,880 --> 00:24:40,880
+If you take partitions, in that scenario, you will not have to pay even 1 rupee.
+
+314
+00:24:40,880 --> 00:24:44,880
+You will get back 20,000 rupees, and your EMI will not be started again.
+
+315
+00:24:48,880 --> 00:24:53,880
+Sorry!
+
+316
+00:24:53,880 --> 00:25:00,880
+I will send you the selection process in two days,
+
+317
+00:25:00,880 --> 00:25:04,880
+because your research has to be done.
+
+318
+00:25:04,880 --> 00:25:05,880
+research.
+
+319
+00:25:05,880 --> 00:25:06,880
+It's an invite based program.
+
+320
+00:25:06,880 --> 00:25:11,880
+We want to shortlist only 150 to 200 working professionals because it is placement oriented
+
+321
+00:25:11,880 --> 00:25:12,880
+training.
+
+322
+00:25:12,880 --> 00:25:17,880
+We want such working professionals who have motivation and confidence in data science to
+
+323
+00:25:17,880 --> 00:25:20,880
+genuinely get into that career.
+
+324
+00:25:20,880 --> 00:25:25,880
+We want such professionals who have confidence in data science to get into that career.
+
+325
+00:25:25,880 --> 00:25:30,880
+We want such professionals who have confidence in data science to get into that career.
+
+326
+00:25:31,880 --> 00:25:36,880
+We want such professionals who have motivation and confidence in data science to get into
+
+327
+00:25:36,880 --> 00:25:37,880
+that career.
+
+328
+00:25:37,880 --> 00:25:42,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+329
+00:25:42,880 --> 00:25:47,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+330
+00:25:47,880 --> 00:25:52,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+331
+00:25:52,880 --> 00:25:57,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+332
+00:25:57,880 --> 00:26:02,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+333
+00:26:02,880 --> 00:26:07,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+334
+00:26:07,880 --> 00:26:12,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+335
+00:26:12,880 --> 00:26:17,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+336
+00:26:17,880 --> 00:26:22,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+337
+00:26:22,880 --> 00:26:27,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+338
+00:26:27,880 --> 00:26:32,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+339
+00:26:32,880 --> 00:26:37,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+340
+00:26:37,880 --> 00:26:42,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+341
+00:26:42,880 --> 00:26:47,880
+We want such professionals who have experience in Bank of America, Paypal, Razorpay, etc.
+
+342
+00:26:47,880 --> 00:26:50,880
+You will get a mail on this.
+
+343
+00:26:50,880 --> 00:26:52,880
+You have to open the mail.
+
+344
+00:26:52,880 --> 00:26:56,880
+There will be 16 questions for non-coding MCQ based evaluation.
+
+345
+00:26:56,880 --> 00:27:01,880
+You will get a detailed research mail after submitting it.
+
+346
+00:27:01,880 --> 00:27:03,880
+Tomorrow morning, the merit list will be issued.
+
+347
+00:27:03,880 --> 00:27:07,880
+So today you take out 20 minutes and do the evaluation.
+
+348
+00:27:07,880 --> 00:27:11,880
+After that, you do the research for the documentation that you will get.
+
+349
+00:27:11,880 --> 00:27:13,880
+Then tomorrow morning I will connect with you.
+
+350
+00:27:13,880 --> 00:27:17,880
+We will look out for any doubts, doubts, questions.
+
+351
+00:27:17,880 --> 00:27:21,880
+If we are aligning on the same page, then only we will move forward.
+
+352
+00:27:21,880 --> 00:27:24,880
+So what time will you be able to give the test?
+
+353
+00:27:24,880 --> 00:27:26,880
+Prabhat, tell me today.
+
+354
+00:27:26,880 --> 00:27:29,880
+6.30 or 6 pm.
+
+355
+00:27:29,880 --> 00:27:31,880
+After 6.30 pm.
+
+356
+00:27:31,880 --> 00:27:33,880
+Okay.
+
+357
+00:27:33,880 --> 00:27:34,880
+Okay, Prabhat.
+
+358
+00:27:34,880 --> 00:27:36,880
+You will get your email in 5-10 minutes.
+
+359
+00:27:36,880 --> 00:27:39,880
+At 6.30 pm, the operations team will call you.
+
+360
+00:27:39,880 --> 00:27:47,880
+If your number is on WhatsApp, 8360, then I will send you some data related to data science.
+
+361
+00:27:47,880 --> 00:27:52,880
+Which we have discussed so that you can see it and absorb other things.
+
+362
+00:27:52,880 --> 00:27:55,880
+So that you can have a more comprehensive understanding.
+
+363
+00:27:55,880 --> 00:27:56,880
+Okay?
+
+364
+00:27:56,880 --> 00:27:57,880
+Okay.
+
+365
+00:27:57,880 --> 00:27:58,880
+Alright, Prabhat.
+
+366
+00:27:58,880 --> 00:28:00,880
+Do you want to ask anything else?
+
+367
+00:28:00,880 --> 00:28:01,880
+No, no.
+
+368
+00:28:01,880 --> 00:28:03,880
+I have a new call.
+
+369
+00:28:03,880 --> 00:28:04,880
+Okay, okay.
+
+370
+00:28:04,880 --> 00:28:05,880
+Cool, Prabhat.
+
+371
+00:28:05,880 --> 00:28:07,880
+Then we will talk to you after the test.
+
+372
+00:28:07,880 --> 00:28:08,880
+Okay.
+
+373
+00:28:08,880 --> 00:28:09,880
+Oh, thank you.
+
+374
+00:28:09,880 --> 00:28:10,880
+Oh.
+

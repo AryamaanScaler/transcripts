@@ -1,0 +1,500 @@
+1
+00:00:00,000 --> 00:00:07,600
+Hello. Hello. Hey, hi. This is Omar Ghassan. I'm from Scale Out. Yeah, yeah, tell me.
+
+2
+00:00:07,600 --> 00:00:12,800
+Hi. Yes, I believe I'm speaking with Gulaam. Yeah, yeah. Hello. Hi, how are you?
+
+3
+00:00:12,800 --> 00:00:19,360
+I'm doing good. How are you? I'm also doing great. Thanks for asking. So, I can
+
+4
+00:00:19,360 --> 00:00:24,800
+see that you have enrolled with our data science and machine learning. Mm-hmm.
+
+5
+00:00:25,040 --> 00:00:33,200
+Right. And it says that you're currently, your registered mail id with us is gulaam.sardar888.gmail.com.
+
+6
+00:00:34,320 --> 00:00:39,280
+Correct, yes. Right. So, actually your profile was shared with me by your counselor Monica
+
+7
+00:00:39,280 --> 00:00:43,040
+and I'm your learner success manager. I'm from the onboarding team of Scale Out.
+
+8
+00:00:44,560 --> 00:00:49,120
+Sorry. I will be discussing a few things around the same. I hope you are okay with that.
+
+9
+00:00:49,120 --> 00:00:54,080
+Yeah, yeah, sure. Wonderful. Once again, really congratulations as you are starting your learning
+
+10
+00:00:54,080 --> 00:01:00,960
+journey. Yep. And as I mentioned, like your registered email id is gulaam.sardar888.gmail.com.
+
+11
+00:01:00,960 --> 00:01:10,240
+Your registered phone number is 9619-776-255. Yes, correct. Also, I can see that you're currently
+
+12
+00:01:10,240 --> 00:01:18,240
+working with KPMG as a data engineer. Mm-hmm. And you have somewhere around 10 plus years of
+
+13
+00:01:18,240 --> 00:01:29,360
+experience. Yes. Okay. And your current CTC is 31 LPA. Correct. Okay. So, as a data engineer,
+
+14
+00:01:29,360 --> 00:01:34,560
+may I understand what, like, what are the tech steps which you have experience in or that you
+
+15
+00:01:34,560 --> 00:01:44,880
+used to follow? Yeah, sure. So, actually, here I'm more of a, like, solutions designer currently.
+
+16
+00:01:45,520 --> 00:01:52,560
+So, I'm actually working on our homegrown data platform, okay, from KPMG. Okay. So,
+
+17
+00:01:52,560 --> 00:01:59,120
+we are actually building that up and we are designing and, like, developing that as well.
+
+18
+00:01:59,680 --> 00:02:07,600
+So, mostly in Azure, so we are a full Microsoft shop, okay. So, we, everything is from Microsoft.
+
+19
+00:02:07,600 --> 00:02:13,600
+So, we are using Azure's cloud platform. And on top of that, we are using Azure tools,
+
+20
+00:02:13,600 --> 00:02:18,880
+Azure data tools, right. Like, we have Azure data factory, Azure synapse, Azure SQL server.
+
+21
+00:02:18,880 --> 00:02:23,600
+Okay. So, we are Azure data lake. So, all these things are mostly, this is what the tools that
+
+22
+00:02:23,600 --> 00:02:29,760
+we are using. Okay. So, almost two years back, I was into hardcore programming. I mean, like,
+
+23
+00:02:30,960 --> 00:02:37,920
+doing some manipulation with data, right, using Spark and Scala as a language. Okay.
+
+24
+00:02:38,880 --> 00:02:45,440
+But then there came a policy of a no code policy from KPMG, which actually, because the platform
+
+25
+00:02:45,440 --> 00:02:51,760
+that we are building, that is mostly for business tax users who would be coming in and doing some
+
+26
+00:02:52,320 --> 00:02:57,920
+manipulation with their data as well. So, what we are doing is we are actually providing them with a
+
+27
+00:02:59,040 --> 00:03:06,400
+UI platform where they actually do a drag and drop of the transformation that they want to do.
+
+28
+00:03:06,400 --> 00:03:11,200
+For example, they want to join, they want to do filters, they're all drag and drop scenarios
+
+29
+00:03:11,200 --> 00:03:17,840
+there. And then the code actually gets generated at the background, right. And it runs on the
+
+30
+00:03:17,840 --> 00:03:23,680
+Spark framework. So, it's a no code platform that we are building. So, you can see for the last two
+
+31
+00:03:23,680 --> 00:03:29,120
+years, I have not been in that hardcore programming except SQL. So, SQL, I use that as a
+
+32
+00:03:29,840 --> 00:03:39,520
+data in my work. Okay. So, apart from that, like, the data solutioning and like, then
+
+33
+00:03:39,520 --> 00:03:45,600
+whenever a particular request comes, right, so how to tackle that. So, all those things I'm doing in
+
+34
+00:03:45,600 --> 00:03:56,160
+my day-to-day job and definitely managing some juniors as well. Okay, okay, that's great. So,
+
+35
+00:03:56,160 --> 00:04:00,880
+as you are already into an ID industry and working at a such a great profile, have a good
+
+36
+00:04:00,880 --> 00:04:05,680
+experience, how you got interest in upscaling with data science and machine learning? I know,
+
+37
+00:04:05,680 --> 00:04:11,280
+like, what's the inspiration and aim you are looking forward with the help of this course and
+
+38
+00:04:11,280 --> 00:04:18,960
+a scaler? Correct. So, currently, I think this happened since the invent of chat GPT, right. So,
+
+39
+00:04:19,600 --> 00:04:28,560
+now mostly though DSNML is there for quite a long time now, but since this invent of
+
+40
+00:04:29,440 --> 00:04:37,120
+chat GPT, so now everything is AI. Right. So, the future belongs to AI. So, people are
+
+41
+00:04:37,840 --> 00:04:43,680
+afraid that their job might be taken by AI. So, I want, okay, whatever AI does, I'll do that.
+
+42
+00:04:44,320 --> 00:04:52,080
+So, you are relevant to the market, right. And anyways, like, what I see and what I have,
+
+43
+00:04:52,880 --> 00:05:00,720
+the trend that I have seen, I have got some like mentorships from some of my seniors that in IT,
+
+44
+00:05:00,720 --> 00:05:07,520
+you need to upgrade yourself every five years. So, actually, I started my career with a legacy
+
+45
+00:05:08,080 --> 00:05:15,760
+system developer. I mean, I was in mainframes, refactoring codes of people who are 30, 40 years
+
+46
+00:05:16,400 --> 00:05:24,080
+older than me. I see. Then I worked there for five years. Then I switched, I transitioned myself to
+
+47
+00:05:24,960 --> 00:05:31,120
+big data and cloud. Okay. And I'm working with that same technology for the almost last five years.
+
+48
+00:05:31,600 --> 00:05:39,920
+So, now I think it's time to again, skill and I think there is nothing better than ML and AI.
+
+49
+00:05:39,920 --> 00:05:46,320
+And I am in the same field. I mean, it's not actually a transition because what I do is the
+
+50
+00:05:46,320 --> 00:05:53,280
+very beginning or very, very basic step of what an entire data lifecycle looks like. Right. It's the
+
+51
+00:05:53,280 --> 00:05:59,920
+data cleaning, data integration, data manipulation, data transformation. Right. And then what the data
+
+52
+00:05:59,920 --> 00:06:07,840
+that we actually create and store in the common data model. So, from there, the machine learning
+
+53
+00:06:07,840 --> 00:06:12,240
+team and the data analysis team, they actually pick the data from there and they actually get
+
+54
+00:06:12,240 --> 00:06:18,400
+some meaningful, bring some meaningful insights on the data. So, now I just want to move ahead
+
+55
+00:06:18,400 --> 00:06:24,880
+from there. Okay. Okay. Fair enough. That's a very useful insight which you have given to me. It will
+
+56
+00:06:24,880 --> 00:06:31,360
+definitely help me a lot in building this, in trying to be more personalized with respect to
+
+57
+00:06:31,360 --> 00:06:35,680
+the upcoming journey. Also, I would like to understand how your day-to-day activities look
+
+58
+00:06:35,680 --> 00:06:44,000
+like. Like, do you work from home or from office? It's twice a week from office. And then, yeah,
+
+59
+00:06:44,000 --> 00:06:49,760
+it's hybrid. So, twice a day. And, but again, depends. So, if there are some events and all,
+
+60
+00:06:49,920 --> 00:06:56,960
+need to go office on a regular basis mostly. Yeah. Okay. Okay. So, like those days in which you need
+
+61
+00:06:56,960 --> 00:07:01,760
+to be in the office, are they fixed or you can decide them on your own? We can decide that. We
+
+62
+00:07:01,760 --> 00:07:06,160
+can decide that. There's no issue. There's no limitation of time also. You can just go, you can
+
+63
+00:07:06,160 --> 00:07:11,600
+stay for two hours and come back. Okay. It depends upon how long, how early you can finish up the
+
+64
+00:07:11,600 --> 00:07:16,640
+work. Yes. Yes. Not also the work. It just, you can go and you can just connect with your team
+
+65
+00:07:16,640 --> 00:07:24,240
+because I actually manage few juniors, right? So, I just want to connect with them and then come
+
+66
+00:07:24,240 --> 00:07:32,480
+back. Yeah. Wonderful. So, anyways, like what exactly is the timing in which you need,
+
+67
+00:07:32,480 --> 00:07:40,480
+or which you might be busy? Yeah. So, the data platform that we are currently supporting is
+
+68
+00:07:41,200 --> 00:07:49,520
+US and Germany. Right. So, I'm mostly busy in the night times. Night times. Right. So, that's why
+
+69
+00:07:49,520 --> 00:07:55,040
+during the batch allocation part, I have selected seven to nine. Seven to nine. Yeah. I was saying
+
+70
+00:07:55,040 --> 00:08:00,240
+that. So, you are more like morning person. That is also a kind of... Actually. Yeah. Yeah. I
+
+71
+00:08:01,680 --> 00:08:08,080
+wake up at five almost. So, I think that is my time. That's really cool. And I can do some
+
+72
+00:08:08,240 --> 00:08:13,840
+selfie, I think. Right. That's amazing. And may I know how about your weekends? Like,
+
+73
+00:08:14,800 --> 00:08:18,640
+I believe you're living, you're staying with your family, right? Yeah. Correct. I have a family.
+
+74
+00:08:20,080 --> 00:08:26,160
+Oh, that's wonderful. Yeah. So, weekends are mostly like, I'll be free mostly, but yeah,
+
+75
+00:08:26,160 --> 00:08:32,960
+sometimes I'll be taking my family out. Right. Understood. You see, the reason why I was trying
+
+76
+00:08:32,960 --> 00:08:37,920
+to understand all these points were, as I mentioned, as you're the part of Scalera, I will ensure to
+
+77
+00:08:37,920 --> 00:08:43,360
+help you get the maximum out of it. Yeah. And I believe you do already know that the classes we
+
+78
+00:08:43,360 --> 00:08:48,800
+will be having are going to be on alternate days, three times a week. So, what we expect is that,
+
+79
+00:08:48,800 --> 00:08:52,720
+let's say, if you are attending a class today, tomorrow you can work on the assignments. And
+
+80
+00:08:52,720 --> 00:08:58,000
+before coming to the next class, you can also get your doubts and queries resolved. So, in this way,
+
+81
+00:08:58,000 --> 00:09:03,520
+it will help you to maintain that minimum consistency, which is really required. Also,
+
+82
+00:09:03,520 --> 00:09:09,040
+it will help you to keep up the confidence and I would say the interest level as well.
+
+83
+00:09:09,840 --> 00:09:17,200
+So, on a weekly basis, it will take around 15 hours of your learning time, including the lab
+
+84
+00:09:17,200 --> 00:09:23,280
+classes, including the assignments, everything. I believe you're up for that, right? Yeah, definitely.
+
+85
+00:09:23,280 --> 00:09:30,640
+Wonderful. Also, there is, again, example, let's say, if in case, as you're a working professional,
+
+86
+00:09:30,640 --> 00:09:35,280
+you have a family as well, so there might be chances over certain weeks, you might not be able
+
+87
+00:09:35,280 --> 00:09:40,880
+to give a time either to attend a class or to work on the assignments for a day or two. So,
+
+88
+00:09:40,880 --> 00:09:47,360
+I understand it would be highly likely of you to get the leg covered over the weekends. You will
+
+89
+00:09:47,360 --> 00:09:50,720
+be able to manage that, right? Yeah, yeah, definitely. I'll do that. I'll do that. But,
+
+90
+00:09:51,440 --> 00:09:57,360
+what actually, one of my friends is also a card of Scalera, the same program. Okay. So, what he says
+
+91
+00:09:57,360 --> 00:10:04,560
+is that don't try to skip any assignment or class because, I mean, later time that actually piles up.
+
+92
+00:10:04,560 --> 00:10:09,360
+So, he actually showed me some of the things that already piled up for him because of missing two
+
+93
+00:10:09,360 --> 00:10:15,600
+classes. So, I'll try my best. But again, you don't know like, obviously, obviously, obviously.
+
+94
+00:10:16,240 --> 00:10:20,400
+Wonderful. That's great. It was really nice to understand all the points. I will be sharing
+
+95
+00:10:21,040 --> 00:10:26,000
+a few details with you over the WhatsApp to help you with the time management, with building up
+
+96
+00:10:26,000 --> 00:10:31,360
+a habit of attending classes over the few weeks before the actual batch begins. Okay. Yep. And
+
+97
+00:10:32,000 --> 00:10:37,600
+also, I want to understand a few other aspects. As you have already started exploring the dashboard,
+
+98
+00:10:37,600 --> 00:10:42,880
+you have even given the batch location, right? There are certain other specific features such
+
+99
+00:10:42,880 --> 00:10:48,640
+as the mentor selection and there is an expectation form. So, keep a track on that and try to finish
+
+100
+00:10:48,640 --> 00:10:54,480
+it up within this week itself so that from next week, we can work around the other points, the
+
+101
+00:10:54,480 --> 00:10:59,920
+other major things. Sure. And I hope you know when your batch is going to get started. Yeah,
+
+102
+00:10:59,920 --> 00:11:08,400
+it's 24th July. What is C-Ride? I guess it's 17th of July. 17th July? Okay. Okay. Yes. Okay.
+
+103
+00:11:08,400 --> 00:11:11,840
+Anyways, as I said, like I will be sharing a brochure and one onboarding guide with you,
+
+104
+00:11:11,840 --> 00:11:17,520
+which will help you to get more understanding around the curriculum, around the dashboard,
+
+105
+00:11:17,520 --> 00:11:26,720
+etc. Okay. Okay. Okay. And also, I would like to have a quick 15-20 minutes one-to-one discussion
+
+106
+00:11:26,720 --> 00:11:31,520
+over the Google Meet where I will be explaining you an entire dashboard. Sure. All the features.
+
+107
+00:11:31,520 --> 00:11:40,640
+So, what time would be good for that tomorrow? Tomorrow. So, by what time do you start? So,
+
+108
+00:11:40,720 --> 00:11:48,000
+if I think, how much time you said? 15-20 minutes. Right. I think then that's not an issue. I thought
+
+109
+00:11:48,000 --> 00:11:54,480
+it's too much. So, 15-20 minutes would be I think any part of the time provided that I am not
+
+110
+00:11:54,480 --> 00:12:00,880
+busy. I think 233 in the afternoon that would be perfect. I think. Yeah, 230 works for me as well.
+
+111
+00:12:00,880 --> 00:12:06,880
+Okay. Let's make it for 230 only. Sure. We will receive the invite over your email shortly. Okay.
+
+112
+00:12:07,600 --> 00:12:14,240
+And I will be sharing it with you over WhatsApp as well. No issues. Okay. Okay. Also, please do save
+
+113
+00:12:14,240 --> 00:12:20,960
+my number. Sure. And I am mostly available between 11 to 8. It's just my week-outs are on Mondays and
+
+114
+00:12:20,960 --> 00:12:27,680
+Tuesdays. Okay. Sorry. But as I said, this number is available on WhatsApp as well. Okay. So, let's
+
+115
+00:12:27,680 --> 00:12:33,440
+say if you have any queries, directly reach out to me. Okay. And usually I will revert back
+
+116
+00:12:33,440 --> 00:12:38,000
+immediately. But as I said, like if I am out of my working hours or something, I will get back to
+
+117
+00:12:38,000 --> 00:12:43,040
+you as soon as possible. Okay. And that won't be an issue. You won't face difficulties. Okay.
+
+118
+00:12:43,040 --> 00:12:48,880
+Okay. Okay. Okay. Just one more thing. May I know what is the pin code of your current residence?
+
+119
+00:12:49,600 --> 00:12:58,880
+562125. 562125. Okay. Also, is your finances sorted? As in have you opted for EMI or made a one-time?
+
+120
+00:12:58,880 --> 00:13:04,320
+Yeah, I have opted for EMI and the e-mandate is also completed. Okay. That's great. So, keep
+
+121
+00:13:04,320 --> 00:13:08,240
+a check on that as well. Like the duration, the amount, and from which date it will start to get
+
+122
+00:13:08,240 --> 00:13:13,600
+deducted. If there will be any queries, do let me know. Okay. All right. Okay. Then I will be
+
+123
+00:13:13,600 --> 00:13:17,920
+sharing these documents with you. Go through them. And for tomorrow's session, you will see them very
+
+124
+00:13:17,920 --> 00:13:22,640
+shortly. Okay. Okay. Okay. That's good. That's all. Okay. Thank you so much. Have a nice day. Bye-bye.
+
+125
+00:13:22,640 --> 00:13:24,880
+Yep. Yep. Thank you so much. Bye.
+

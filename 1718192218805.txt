@@ -1,0 +1,744 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+I called you from a different number, I don't know what is happening
+
+3
+00:00:04,000 --> 00:00:06,000
+Is this from your end or from my end?
+
+4
+00:00:06,000 --> 00:00:10,000
+No, I don't think it's from my end
+
+5
+00:00:10,000 --> 00:00:12,000
+No issues, but I think there is a network
+
+6
+00:00:12,000 --> 00:00:14,000
+Fine
+
+7
+00:00:14,000 --> 00:00:18,000
+So, any questions that you are having?
+
+8
+00:00:18,000 --> 00:00:22,000
+Yes, like regarding the time only I had
+
+9
+00:00:22,000 --> 00:00:28,000
+But, okay, so you told me about the 11 months and the 9 months
+
+10
+00:00:28,000 --> 00:00:36,000
+So for the 9 months it will be like from 7 to 12 thousand according to our like manageability
+
+11
+00:00:36,000 --> 00:00:40,000
+Whichever it's manageable towards like that, correct?
+
+12
+00:00:40,000 --> 00:00:42,000
+Yeah
+
+13
+00:00:42,000 --> 00:00:44,000
+And then after that
+
+14
+00:00:48,000 --> 00:00:50,000
+Yeah, please tell me
+
+15
+00:00:50,000 --> 00:00:56,000
+So for the 9 months if I pay 12 thousand
+
+16
+00:00:56,000 --> 00:01:04,000
+Okay, let's say for now like if 7 thousand we are paying then it will be 63 thousand
+
+17
+00:01:04,000 --> 00:01:10,000
+No, see the total fees that is going to be decided after your scholarship test
+
+18
+00:01:10,000 --> 00:01:12,000
+So there is the scholarship test that we take
+
+19
+00:01:12,000 --> 00:01:16,000
+Once the scholarship test is finalized, right?
+
+20
+00:01:16,000 --> 00:01:18,000
+Then we will get the overall fees
+
+21
+00:01:18,000 --> 00:01:24,000
+So obviously the overall fees on the website is 3.69
+
+22
+00:01:24,000 --> 00:01:26,000
+Okay, that is 3.69 thousand
+
+23
+00:01:26,000 --> 00:01:36,000
+Okay, but how much scholarship you are getting and what is the final price that I can tell you once you clear both the rounds
+
+24
+00:01:36,000 --> 00:01:38,000
+Okay, yeah, so there are two rounds
+
+25
+00:01:38,000 --> 00:01:40,000
+Okay, the first round is the test that will be given
+
+26
+00:01:40,000 --> 00:01:44,000
+That's a 30 minutes test
+
+27
+00:01:44,000 --> 00:01:46,000
+Okay, it's an instantaneous test
+
+28
+00:01:46,000 --> 00:01:48,000
+So there is one Anshuman video which I will be sending you
+
+29
+00:01:48,000 --> 00:01:52,000
+After that attending the video you can attend the test
+
+30
+00:01:52,000 --> 00:01:54,000
+That is for 30 minutes
+
+31
+00:01:54,000 --> 00:01:56,000
+Okay, once I get your result
+
+32
+00:01:56,000 --> 00:01:58,000
+Then I can tell you that yeah, what is the next step
+
+33
+00:01:58,000 --> 00:02:02,000
+Okay, so next step can be we can also connect with alumni
+
+34
+00:02:02,000 --> 00:02:04,000
+If we needed that yeah
+
+35
+00:02:04,000 --> 00:02:08,000
+If you want to come with any alumni who has already been with the same journey
+
+36
+00:02:08,000 --> 00:02:10,000
+Right, the journey that you are being with
+
+37
+00:02:10,000 --> 00:02:12,000
+So that alumni is also very important
+
+38
+00:02:12,000 --> 00:02:14,000
+The alumni call is very also important
+
+39
+00:02:14,000 --> 00:02:18,000
+Which he can also judge you that yeah you are the right fit for the program or not
+
+40
+00:02:18,000 --> 00:02:20,000
+And with the help of his experience you are able to see that yeah
+
+41
+00:02:20,000 --> 00:02:24,000
+So that's the kind of change I can expect from Scalar
+
+42
+00:02:24,000 --> 00:02:30,000
+Right, so the change it means we are talking about that you are going to work with a product based company
+
+43
+00:02:30,000 --> 00:02:32,000
+Right, any product based company
+
+44
+00:02:32,000 --> 00:02:34,000
+If I will take the example of Uber right
+
+45
+00:02:34,000 --> 00:02:36,000
+So you are working in a Uber as a SD2
+
+46
+00:02:36,000 --> 00:02:44,000
+The SD2 package in Uber is around like the base is if I will talk about is 35 LPA
+
+47
+00:02:44,000 --> 00:02:48,000
+In stocks and all it will take obviously it goes like 45-50
+
+48
+00:02:48,000 --> 00:02:50,000
+I am just taking the example okay
+
+49
+00:02:50,000 --> 00:02:52,000
+So you are working in a Uber as a SD2
+
+50
+00:02:52,000 --> 00:02:54,000
+You will be having the responsibility that yeah
+
+51
+00:02:54,000 --> 00:02:56,000
+You are going to manage a developers also in your team
+
+52
+00:02:56,000 --> 00:03:02,000
+Plus you are the person who is doing and taking some decision on the designing part
+
+53
+00:03:02,000 --> 00:03:08,000
+Okay, maybe feature change or into addition of any APIs right
+
+54
+00:03:08,000 --> 00:03:12,000
+And maybe building a new product overall right
+
+55
+00:03:12,000 --> 00:03:14,000
+So it's not like you are the only SD2
+
+56
+00:03:14,000 --> 00:03:16,000
+There are so many SD2s will be there in the group
+
+57
+00:03:18,000 --> 00:03:20,000
+So that kind of job you are doing
+
+58
+00:03:20,000 --> 00:03:24,000
+Okay, the work life balance is pretty crazy in product based company right
+
+59
+00:03:24,000 --> 00:03:30,000
+People only work like 6-7 hours because the product build takes 1.5-2 years
+
+60
+00:03:30,000 --> 00:03:32,000
+I hope you know this right
+
+61
+00:03:32,000 --> 00:03:34,000
+So it takes lot of time
+
+62
+00:03:34,000 --> 00:03:38,000
+Okay, so that kind of life you will be having
+
+63
+00:03:38,000 --> 00:03:40,000
+Okay, but yeah it's not going to be easy
+
+64
+00:03:40,000 --> 00:03:44,000
+You need to put that 15 hours of hard work every week
+
+65
+00:03:44,000 --> 00:03:46,000
+Okay
+
+66
+00:03:46,000 --> 00:03:50,000
+To make that consistent obviously you are having so many things
+
+67
+00:03:50,000 --> 00:03:52,000
+Which will help you to make consistent
+
+68
+00:03:52,000 --> 00:03:54,000
+That you will be consistent
+
+69
+00:03:54,000 --> 00:03:56,000
+So yeah when you complete 9 months right
+
+70
+00:03:56,000 --> 00:03:58,000
+So maximum I am talking about when you complete 9 months right
+
+71
+00:03:58,000 --> 00:04:00,000
+After 9 months you are going to be sit for the placements
+
+72
+00:04:00,000 --> 00:04:02,000
+Okay
+
+73
+00:04:02,000 --> 00:04:04,000
+So you are going to be sit for all the companies
+
+74
+00:04:04,000 --> 00:04:06,000
+Like which is coming from the referrals
+
+75
+00:04:06,000 --> 00:04:08,000
+Which is coming from the requirement that we already have
+
+76
+00:04:08,000 --> 00:04:10,000
+From the 950 companies
+
+77
+00:04:10,000 --> 00:04:12,000
+950 companies that we are having
+
+78
+00:04:12,000 --> 00:04:14,000
+Okay
+
+79
+00:04:14,000 --> 00:04:16,000
+So you are going to be sit for the interviews for those companies
+
+80
+00:04:16,000 --> 00:04:18,000
+Okay
+
+81
+00:04:18,000 --> 00:04:20,000
+Yeah
+
+82
+00:04:20,000 --> 00:04:22,000
+Any questions
+
+83
+00:04:22,000 --> 00:04:24,000
+No
+
+84
+00:04:24,000 --> 00:04:26,000
+Okay
+
+85
+00:04:26,000 --> 00:04:28,000
+So firstly we can have
+
+86
+00:04:28,000 --> 00:04:30,000
+So there are 2 rounds
+
+87
+00:04:30,000 --> 00:04:32,000
+Okay
+
+88
+00:04:32,000 --> 00:04:34,000
+Between the 2 rounds we can also have alumni call if it's needed
+
+89
+00:04:34,000 --> 00:04:36,000
+Okay
+
+90
+00:04:36,000 --> 00:04:38,000
+That I will see after the test
+
+91
+00:04:38,000 --> 00:04:40,000
+And after your research
+
+92
+00:04:40,000 --> 00:04:42,000
+There are 2 things that you need
+
+93
+00:04:42,000 --> 00:04:44,000
+Okay
+
+94
+00:04:44,000 --> 00:04:46,000
+Which is going to be done from the founders team
+
+95
+00:04:46,000 --> 00:04:48,000
+If the interview goes well
+
+96
+00:04:48,000 --> 00:04:50,000
+Then you get a acceptance letter
+
+97
+00:04:50,000 --> 00:04:52,000
+From scaler which you call the offer letter
+
+98
+00:04:54,000 --> 00:04:56,000
+Okay
+
+99
+00:04:56,000 --> 00:04:58,000
+Fine
+
+100
+00:04:58,000 --> 00:05:00,000
+So
+
+101
+00:05:00,000 --> 00:05:02,000
+Only 2 things you need to do right now
+
+102
+00:05:02,000 --> 00:05:04,000
+The first thing that you need to do is research on scaler
+
+103
+00:05:04,000 --> 00:05:06,000
+Okay
+
+104
+00:05:06,000 --> 00:05:08,000
+I will send you the research materials
+
+105
+00:05:08,000 --> 00:05:10,000
+That is I will send you on the mail
+
+106
+00:05:10,000 --> 00:05:12,000
+I will send you some videos on the whatsapp as well
+
+107
+00:05:12,000 --> 00:05:14,000
+Make sure you are going through
+
+108
+00:05:14,000 --> 00:05:16,000
+And also go through the scaler website
+
+109
+00:05:16,000 --> 00:05:18,000
+Okay
+
+110
+00:05:18,000 --> 00:05:20,000
+Go through the scaler website as well to know more about
+
+111
+00:05:20,000 --> 00:05:22,000
+Even I will send you the curriculum on your whatsapp
+
+112
+00:05:22,000 --> 00:05:24,000
+That's not a problem
+
+113
+00:05:24,000 --> 00:05:26,000
+Okay
+
+114
+00:05:26,000 --> 00:05:28,000
+And you need to give a test
+
+115
+00:05:28,000 --> 00:05:30,000
+That is for 30 minutes
+
+116
+00:05:30,000 --> 00:05:32,000
+Okay
+
+117
+00:05:32,000 --> 00:05:34,000
+Yeah
+
+118
+00:05:34,000 --> 00:05:36,000
+Anything else
+
+119
+00:05:36,000 --> 00:05:38,000
+On the
+
+120
+00:05:38,000 --> 00:05:40,000
+Last part
+
+121
+00:05:40,000 --> 00:05:42,000
+There are 2 things that you need to do
+
+122
+00:05:42,000 --> 00:05:44,000
+First the research and second one
+
+123
+00:05:44,000 --> 00:05:46,000
+That you need to give a test
+
+124
+00:05:46,000 --> 00:05:48,000
+Okay
+
+125
+00:05:48,000 --> 00:05:50,000
+Yeah on the scaler website
+
+126
+00:05:50,000 --> 00:05:52,000
+But yeah I will send you the link
+
+127
+00:05:52,000 --> 00:05:54,000
+Okay I will send you the link
+
+128
+00:05:54,000 --> 00:05:56,000
+That's not a problem
+
+129
+00:05:56,000 --> 00:05:58,000
+I will schedule it for you
+
+130
+00:05:58,000 --> 00:06:00,000
+Okay
+
+131
+00:06:00,000 --> 00:06:02,000
+So your email id can you confirm me?
+
+132
+00:06:02,000 --> 00:06:04,000
+PL
+
+133
+00:06:04,000 --> 00:06:06,000
+PL Durgi
+
+134
+00:06:06,000 --> 00:06:08,000
+Okay
+
+135
+00:06:08,000 --> 00:06:10,000
+This is the same email id
+
+136
+00:06:10,000 --> 00:06:12,000
+Okay
+
+137
+00:06:12,000 --> 00:06:14,000
+So this is an instantaneous test
+
+138
+00:06:14,000 --> 00:06:16,000
+Can you tell me at what time you can take this test?
+
+139
+00:06:16,000 --> 00:06:18,000
+Not
+
+140
+00:06:18,000 --> 00:06:20,000
+I can't do it now
+
+141
+00:06:20,000 --> 00:06:22,000
+But definitely
+
+142
+00:06:22,000 --> 00:06:24,000
+By the end of February I will definitely
+
+143
+00:06:24,000 --> 00:06:26,000
+Complete it
+
+144
+00:06:26,000 --> 00:06:28,000
+Fine at what time can you tell me?
+
+145
+00:06:28,000 --> 00:06:30,000
+Around
+
+146
+00:06:30,000 --> 00:06:32,000
+10
+
+147
+00:06:32,000 --> 00:06:34,000
+10.30 I will complete it
+
+148
+00:06:34,000 --> 00:06:36,000
+Great so I can give you the test link
+
+149
+00:06:36,000 --> 00:06:38,000
+Which is valid till EOD
+
+150
+00:06:38,000 --> 00:06:40,000
+That is till 12 pm
+
+151
+00:06:40,000 --> 00:06:42,000
+Before 12 pm you can take it anytime
+
+152
+00:06:42,000 --> 00:06:44,000
+Okay it will not take
+
+153
+00:06:44,000 --> 00:06:46,000
+More than 30 minutes
+
+154
+00:06:46,000 --> 00:06:48,000
+Okay
+
+155
+00:06:48,000 --> 00:06:50,000
+You will be having 16 MCQ questions
+
+156
+00:06:50,000 --> 00:06:52,000
+Okay
+
+157
+00:06:52,000 --> 00:06:54,000
+Mathematics basic mathematics will be there
+
+158
+00:06:54,000 --> 00:06:56,000
+Basic logical reasoning will be there
+
+159
+00:06:56,000 --> 00:06:58,000
+Basic time complexity
+
+160
+00:06:58,000 --> 00:07:00,000
+Will be there and basic coding output questions
+
+161
+00:07:00,000 --> 00:07:02,000
+Will be there
+
+162
+00:07:02,000 --> 00:07:04,000
+Okay
+
+163
+00:07:04,000 --> 00:07:06,000
+And once I get a result
+
+164
+00:07:06,000 --> 00:07:08,000
+Then I will show you the result tomorrow
+
+165
+00:07:08,000 --> 00:07:10,000
+Okay
+
+166
+00:07:12,000 --> 00:07:14,000
+Okay Prithik anything else that you want to ask?
+
+167
+00:07:14,000 --> 00:07:16,000
+No
+
+168
+00:07:16,000 --> 00:07:18,000
+Fine this is the same number in your WhatsApp?
+
+169
+00:07:18,000 --> 00:07:20,000
+Yes
+
+170
+00:07:20,000 --> 00:07:22,000
+Okay so once you complete the test
+
+171
+00:07:22,000 --> 00:07:24,000
+Give me
+
+172
+00:07:24,000 --> 00:07:26,000
+Thumbs up that yeah
+
+173
+00:07:26,000 --> 00:07:28,000
+Sajitha have completed the test
+
+174
+00:07:28,000 --> 00:07:30,000
+Okay and
+
+175
+00:07:30,000 --> 00:07:32,000
+You can also fill one form which I will
+
+176
+00:07:32,000 --> 00:07:34,000
+Send you
+
+177
+00:07:34,000 --> 00:07:36,000
+You can fill that form as well
+
+178
+00:07:36,000 --> 00:07:38,000
+And do your research okay
+
+179
+00:07:38,000 --> 00:07:40,000
+Come up with any questions whatever questions
+
+180
+00:07:40,000 --> 00:07:42,000
+You want to ask you can ask all the questions
+
+181
+00:07:42,000 --> 00:07:44,000
+Once I get your test result
+
+182
+00:07:44,000 --> 00:07:46,000
+Okay
+
+183
+00:07:46,000 --> 00:07:48,000
+Okay all the best
+
+184
+00:07:48,000 --> 00:07:50,000
+Bye
+
+185
+00:07:50,000 --> 00:07:52,000
+Yeah same to you
+
+186
+00:07:52,000 --> 00:07:54,000
+Bye all the best
+

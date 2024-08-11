@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi, is this Anirban?
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes, tell me
+
+5
+00:00:08,000 --> 00:00:10,000
+Hi Anirban, Chinmoy here from Scalar Academy
+
+6
+00:00:10,000 --> 00:00:12,000
+Yes, tell me
+
+7
+00:00:12,000 --> 00:00:14,000
+Hi, how are you?
+
+8
+00:00:14,000 --> 00:00:16,000
+Fine, thanks
+
+9
+00:00:16,000 --> 00:00:22,000
+Anirban, I wanted to know like tomorrow let's say around 12.30 pm are you available for let's say 10-15 minutes?
+
+10
+00:00:22,000 --> 00:00:24,000
+Sorry?
+
+11
+00:00:24,000 --> 00:00:28,000
+Tomorrow 12.30 pm are you available for around 10 minutes?
+
+12
+00:00:28,000 --> 00:00:30,000
+Yes, yes
+
+13
+00:00:30,000 --> 00:00:36,000
+Ok, I'll call you tomorrow we'll have an on-boarding call where we'll discuss about your profile and your dashboard also a little bit in detail
+
+14
+00:00:36,000 --> 00:00:38,000
+Ok, ok
+
+15
+00:00:38,000 --> 00:00:40,000
+Ok, alright, see you tomorrow
+
+16
+00:00:40,000 --> 00:00:42,000
+Thank you
+

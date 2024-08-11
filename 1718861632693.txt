@@ -1,0 +1,788 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, Darshan? Yes, yes, yes, yes.
+
+2
+00:00:04,000 --> 00:00:07,000
+Yeah, I hope we can talk now, right?
+
+3
+00:00:07,000 --> 00:00:08,000
+Yeah, we can.
+
+4
+00:00:08,000 --> 00:00:11,000
+Darshan, actually you asked me a question, right?
+
+5
+00:00:11,000 --> 00:00:13,000
+Like you don't have any experience, if I'm correct.
+
+6
+00:00:13,000 --> 00:00:16,000
+DevOps related, relevant experience.
+
+7
+00:00:16,000 --> 00:00:20,000
+Yes, yes, I understood, like into DevOps, like you know how the transition would be possible.
+
+8
+00:00:20,000 --> 00:00:24,000
+See, Darshan, we are having first of all three verticals at Scalar.
+
+9
+00:00:24,000 --> 00:00:28,000
+One is into data science, machine learning. Another one is into software development.
+
+10
+00:00:28,000 --> 00:00:31,000
+Another one is into DevOps and cloud.
+
+11
+00:00:31,000 --> 00:00:36,000
+So any of these programs, if you're opting from Scalar, you will be getting 100% placement assistance.
+
+12
+00:00:36,000 --> 00:00:37,000
+Understood?
+
+13
+00:00:37,000 --> 00:00:44,000
+So irrespective of the experience you carry, let it be like you know, minimum two years it is categorized.
+
+14
+00:00:44,000 --> 00:00:49,000
+But if your background is into, let's say even into arts, you are a lawyer also.
+
+15
+00:00:49,000 --> 00:00:51,000
+So it doesn't matter in the end.
+
+16
+00:00:51,000 --> 00:00:54,000
+So the transition part is what people are looking for right now.
+
+17
+00:00:54,000 --> 00:00:59,000
+We are separately tied up with up to 1000 plus recruitment partners for that purpose only.
+
+18
+00:00:59,000 --> 00:01:00,000
+Okay.
+
+19
+00:01:00,000 --> 00:01:04,000
+Okay, like in the sense seventh or eighth month only, we make sure that placement would be starting.
+
+20
+00:01:04,000 --> 00:01:09,000
+And definitely you can understand that you don't have to wait till the course completed.
+
+21
+00:01:09,000 --> 00:01:10,000
+Right.
+
+22
+00:01:10,000 --> 00:01:15,000
+Okay. So in the end, like before you complete the course, you make sure that you will be giving your best.
+
+23
+00:01:15,000 --> 00:01:19,000
+Because if seven years of experience is, you know, mattering.
+
+24
+00:01:19,000 --> 00:01:23,000
+So, you know, you will be asked questions related to the similar content.
+
+25
+00:01:23,000 --> 00:01:26,000
+What was your previous roles and responsibilities as such.
+
+26
+00:01:26,000 --> 00:01:27,000
+Okay.
+
+27
+00:01:27,000 --> 00:01:35,000
+So for that, we make sure that after every module, you will be conducting mock interviews as well to prepare you for similar topics.
+
+28
+00:01:35,000 --> 00:01:38,000
+For your interview purposes also.
+
+29
+00:01:38,000 --> 00:01:42,000
+So that is going to be taken care from our end only, from your resume preparation.
+
+30
+00:01:42,000 --> 00:01:48,000
+Till and unless like till the placement is completed, 18 months after that, you are going to be giving the assistance.
+
+31
+00:01:48,000 --> 00:01:49,000
+Okay.
+
+32
+00:01:49,000 --> 00:01:50,000
+Okay.
+
+33
+00:01:50,000 --> 00:01:51,000
+So this is the thing.
+
+34
+00:01:51,000 --> 00:01:59,000
+And you don't have to literally, you know, worry like, you know, what would happen because if even though if you are going to, let's say, complete the training.
+
+35
+00:01:59,000 --> 00:02:04,000
+But in the placement time, what if they are going to ask, what was your experience?
+
+36
+00:02:04,000 --> 00:02:08,000
+Was it relevant to IT or like, is it relevant to DevOps?
+
+37
+00:02:08,000 --> 00:02:10,000
+Of course, generally they will ask.
+
+38
+00:02:10,000 --> 00:02:16,000
+So what we make sure that like, let's say if you were a part of DevOps also from last three years.
+
+39
+00:02:16,000 --> 00:02:17,000
+Okay. For example.
+
+40
+00:02:17,000 --> 00:02:24,000
+So what would be the projects you were able to be involved in or develop with some such projects you will be we will be helping you to build here.
+
+41
+00:02:24,000 --> 00:02:33,000
+And we are separately tied up with 80 plus companies to get real life data from in the sense real problems with DevOps people will be working on that particular company.
+
+42
+00:02:33,000 --> 00:02:36,000
+You will be working on similar set of problems itself.
+
+43
+00:02:36,000 --> 00:02:37,000
+You should understand that.
+
+44
+00:02:37,000 --> 00:02:45,000
+But let's say if I'm going to give you a problem where a product based company guy like as a DevOps engineer is working right now, he's working on a problem.
+
+45
+00:02:45,000 --> 00:02:48,000
+For example, he works for Zomato as a DevOps engineer.
+
+46
+00:02:48,000 --> 00:02:54,000
+I'm going to give you a problem like, you know, which is directly that DevOps engineer from Zomato is working on.
+
+47
+00:02:54,000 --> 00:02:57,000
+I will be giving you when you're at Scalar to work on.
+
+48
+00:02:57,000 --> 00:03:01,000
+And someday, like, you know, you will be solving the problem statement and real life case studies.
+
+49
+00:03:01,000 --> 00:03:09,000
+And what will happen once if I'm going to make you sit for an interview at Zomato, you will be, of course, knowing what the DevOps engineer has already done.
+
+50
+00:03:09,000 --> 00:03:12,000
+And you will showcase that from your project portfolio.
+
+51
+00:03:12,000 --> 00:03:18,000
+And one thing that you should understand first round of interview, you will be giving to Scalar's placement team only.
+
+52
+00:03:18,000 --> 00:03:21,000
+Then second round onwards, you will be giving to the companies.
+
+53
+00:03:21,000 --> 00:03:34,000
+So first round is like, you know, will be asked regarding your previous round of interviews and what would be your expectations and roles and responsibilities, educational background, expectations you have from your job.
+
+54
+00:03:34,000 --> 00:03:37,000
+So everything will be taken care in the first round itself.
+
+55
+00:03:37,000 --> 00:03:45,000
+So you just have to understand that irrespective of the, you know, experience or domain they are coming from one thing, you should understand this.
+
+56
+00:03:45,000 --> 00:03:50,000
+So they are able to get 126% of CTC hike on an average basis on an average.
+
+57
+00:03:50,000 --> 00:04:00,000
+I'm telling you. So for me, you should get minimum of like in between at least 25 to 35 lakhs per annum for seven years experience as a senior SRE roles.
+
+58
+00:04:00,000 --> 00:04:02,000
+These kind of roles would be very good for you.
+
+59
+00:04:02,000 --> 00:04:04,000
+OK, that is what I am sticking on.
+
+60
+00:04:04,000 --> 00:04:06,000
+Yesterday also I told you the same today.
+
+61
+00:04:06,000 --> 00:04:15,000
+I just want to make sure that I will get that higher package or not, because I'm a little bit worried because as I told you that I'm spending the three lakhs and obviously I don't have a job right now.
+
+62
+00:04:15,000 --> 00:04:18,000
+Still I'm spending that that amount of money.
+
+63
+00:04:18,000 --> 00:04:24,000
+So obviously one thing I would like to tell you, I just want to make sure one thing I would like to tell you here.
+
+64
+00:04:24,000 --> 00:04:33,000
+See one thing I don't know how much you have done research regarding the base structure of the devops who is working into product based companies.
+
+65
+00:04:33,000 --> 00:04:34,000
+You please check that first.
+
+66
+00:04:34,000 --> 00:04:41,000
+What is the average pay scale of a senior SRE, CITO level engineer working into Amazon?
+
+67
+00:04:41,000 --> 00:04:46,000
+Why I'm telling Amazon because Amazon hires us from scalers from a regular basis.
+
+68
+00:04:46,000 --> 00:04:53,000
+For example, we have got a CTC like you know transition like for example, 3.5 CR that is to Amazon itself directly.
+
+69
+00:04:53,000 --> 00:04:54,000
+OK, OK.
+
+70
+00:04:54,000 --> 00:04:56,000
+So it happened in last couple of years.
+
+71
+00:04:56,000 --> 00:04:59,000
+So that we make sure how this market works.
+
+72
+00:04:59,000 --> 00:05:06,000
+Yeah, so this is the thing is I just want to make sure that at least I will get more than 20.
+
+73
+00:05:06,000 --> 00:05:07,000
+That's it.
+
+74
+00:05:07,000 --> 00:05:18,000
+The first thing and one more query is that once I will get the offer from some of the company or once I will get placed in some of the company, then after the skill will get helped.
+
+75
+00:05:18,000 --> 00:05:23,000
+Sometimes in future if you want to make a change in our job or something like that.
+
+76
+00:05:23,000 --> 00:05:26,000
+OK, switch our job in another company at that time.
+
+77
+00:05:26,000 --> 00:05:32,000
+Will help or once I get the job from scalar, then after it will be no, no, no, no, I will tell you that part.
+
+78
+00:05:32,000 --> 00:05:35,000
+So after you complete the placement, let's say 12 months is done.
+
+79
+00:05:35,000 --> 00:05:38,000
+OK, program is completed from that time.
+
+80
+00:05:38,000 --> 00:05:40,000
+Consider six months again.
+
+81
+00:05:40,000 --> 00:05:48,000
+So let's say you got placed to a company and you go you work there for three months and unnecessarily some due to uncertainties layoff has happened.
+
+82
+00:05:48,000 --> 00:05:51,000
+But that time you can come back to scalar and you can complete that.
+
+83
+00:05:51,000 --> 00:05:54,000
+You know, six months of again period would be there.
+
+84
+00:05:54,000 --> 00:05:57,000
+If assistance would be required, they will definitely help you that way.
+
+85
+00:05:57,000 --> 00:06:02,000
+But within six months and after I am going to come in there.
+
+86
+00:06:02,000 --> 00:06:07,000
+See, one thing I would like to tell you for that purpose only we are having one alumni committee.
+
+87
+00:06:07,000 --> 00:06:08,000
+You should understand this.
+
+88
+00:06:08,000 --> 00:06:13,000
+So what this committee is, it is having up to 40,000 of our developers alumni.
+
+89
+00:06:13,000 --> 00:06:17,000
+So, you know, one thing that the scalar gives placement only into India.
+
+90
+00:06:17,000 --> 00:06:24,000
+But our you know, we were able to place one guy only abroad through our alumni committee in Microsoft Dublin, Ireland.
+
+91
+00:06:24,000 --> 00:06:27,000
+So that is for one point to see our package.
+
+92
+00:06:27,000 --> 00:06:30,000
+So, you know, that will be valid for lifetime for you.
+
+93
+00:06:30,000 --> 00:06:36,000
+And imagine 40,000 people are there, nearly 400 people puts vacancies on one year.
+
+94
+00:06:36,000 --> 00:06:39,000
+So that will be for every day one one opportunity you will be seeing.
+
+95
+00:06:39,000 --> 00:06:41,000
+So it is valid for lifetime.
+
+96
+00:06:41,000 --> 00:06:42,000
+You don't think about for now.
+
+97
+00:06:42,000 --> 00:06:48,000
+I am talking to you in a sense of, for example, let's say, let's say you got a package of 18 lakhs.
+
+98
+00:06:48,000 --> 00:06:49,000
+I'm telling you.
+
+99
+00:06:49,000 --> 00:06:52,000
+And do you think you know that is not sufficient for you?
+
+100
+00:06:52,000 --> 00:06:53,000
+Yeah, right.
+
+101
+00:06:53,000 --> 00:06:57,000
+From seven lakhs as a fixed, I'm talking you forget about variable.
+
+102
+00:06:57,000 --> 00:06:58,000
+Variable is not at all fixed.
+
+103
+00:06:58,000 --> 00:06:59,000
+Always it is variable.
+
+104
+00:06:59,000 --> 00:07:04,000
+So one thing seven point five to let's say 18 LPA is more than 100 percent.
+
+105
+00:07:04,000 --> 00:07:08,000
+And let's say one thing, one thing, one thing, one thing.
+
+106
+00:07:09,000 --> 00:07:16,000
+If you are getting 18 LPA in a good product based company and to reach 36, you would be needing only two years.
+
+107
+00:07:16,000 --> 00:07:17,000
+OK.
+
+108
+00:07:17,000 --> 00:07:21,000
+And again, to get 52, you need again one and a half to two years.
+
+109
+00:07:21,000 --> 00:07:23,000
+So like this, the growth will be there.
+
+110
+00:07:23,000 --> 00:07:27,000
+So that is the reason we are helping people to transit to a good product based companies.
+
+111
+00:07:27,000 --> 00:07:34,000
+So if you are seeing our reviews and all people are from TCS Infosys and everything where they are from service based company.
+
+112
+00:07:34,000 --> 00:07:36,000
+We help them to transit to a product based companies.
+
+113
+00:07:36,000 --> 00:07:38,000
+So which pay scale are really good?
+
+114
+00:07:38,000 --> 00:07:43,000
+If you do the research, how much would be the pay scale of a senior SRE in Amazon?
+
+115
+00:07:43,000 --> 00:07:45,000
+You would definitely understand that.
+
+116
+00:07:45,000 --> 00:07:46,000
+OK.
+
+117
+00:07:46,000 --> 00:07:51,000
+I just want to make sure that I will get this kind of package.
+
+118
+00:07:51,000 --> 00:07:54,000
+That's not just it is not just today.
+
+119
+00:07:54,000 --> 00:07:56,000
+Till you pay a month to scale.
+
+120
+00:07:56,000 --> 00:07:58,000
+It is up to till you complete the program.
+
+121
+00:07:58,000 --> 00:07:59,000
+I will be there.
+
+122
+00:07:59,000 --> 00:08:02,000
+You will be having one learner engagement group where I am.
+
+123
+00:08:02,000 --> 00:08:10,000
+I am already spoken everything where you, me and program manager and another person from operations would be there.
+
+124
+00:08:10,000 --> 00:08:11,000
+That is valid.
+
+125
+00:08:11,000 --> 00:08:16,000
+Like, you know, for lifetime in the sense any queries in future, anything happens, you can put it in that group.
+
+126
+00:08:16,000 --> 00:08:22,000
+So even though during the course, anything happens, you don't have to raise a ticket and we can also take it internally as well.
+
+127
+00:08:22,000 --> 00:08:23,000
+OK, OK, got it.
+
+128
+00:08:23,000 --> 00:08:27,000
+So complete end to end like till you complete program and place, we will be there.
+
+129
+00:08:27,000 --> 00:08:28,000
+OK, OK, got it.
+
+130
+00:08:28,000 --> 00:08:32,000
+OK, OK, don't think it is just you know, I am not calling you from admissions team.
+
+131
+00:08:32,000 --> 00:08:34,000
+I am not here to take your admission.
+
+132
+00:08:34,000 --> 00:08:36,000
+I'm calling you from the careers department.
+
+133
+00:08:36,000 --> 00:08:39,000
+You have to understand that I'm here to show you the right path.
+
+134
+00:08:39,000 --> 00:08:41,000
+OK, OK.
+
+135
+00:08:41,000 --> 00:08:43,000
+So that is the reason I'm telling it is not about only today.
+
+136
+00:08:43,000 --> 00:08:46,000
+That's an today is just a starting today.
+
+137
+00:08:46,000 --> 00:08:47,000
+You will get beginner materials.
+
+138
+00:08:47,000 --> 00:08:49,000
+You will get all the mentor list and everything.
+
+139
+00:08:49,000 --> 00:08:55,000
+Then only you will be thinking of, you know, switching and everything after one year.
+
+140
+00:08:55,000 --> 00:08:56,000
+OK, OK, got it.
+
+141
+00:08:56,000 --> 00:08:57,000
+Thank you, Trish.
+
+142
+00:08:57,000 --> 00:08:58,000
+Thanks a lot.
+
+143
+00:08:58,000 --> 00:08:59,000
+So no problem.
+
+144
+00:08:59,000 --> 00:09:06,000
+Darshan, by the way, like right now, like if it is possible, like through mobile, at least we'll be able to complete the 15 questions test.
+
+145
+00:09:06,000 --> 00:09:14,000
+See, I swear, but right now I'm in a government office or death certificate and I'm in a queue and I'm talking to you at the same time.
+
+146
+00:09:14,000 --> 00:09:15,000
+Because queue is very long.
+
+147
+00:09:15,000 --> 00:09:18,000
+That's why I thought that I can I can talk with you.
+
+148
+00:09:18,000 --> 00:09:19,000
+No problem.
+
+149
+00:09:19,000 --> 00:09:24,000
+It will be completed after 30 minutes to half an hour because my number is third or fourth.
+
+150
+00:09:24,000 --> 00:09:25,000
+OK, OK.
+
+151
+00:09:25,000 --> 00:09:26,000
+It may be completed.
+
+152
+00:09:26,000 --> 00:09:28,000
+I will call you on the same number.
+
+153
+00:09:28,000 --> 00:09:29,000
+Then we can conduct that.
+
+154
+00:09:29,000 --> 00:09:30,000
+No problem.
+
+155
+00:09:30,000 --> 00:09:31,000
+No problem.
+
+156
+00:09:31,000 --> 00:09:34,000
+Like how long you think it can be depends because it is government.
+
+157
+00:09:34,000 --> 00:09:37,000
+But the server was down.
+
+158
+00:09:37,000 --> 00:09:38,000
+So I have to wait.
+
+159
+00:09:38,000 --> 00:09:41,000
+Yeah, today is active.
+
+160
+00:09:41,000 --> 00:09:42,000
+But anytime it is government.
+
+161
+00:09:42,000 --> 00:09:47,000
+You know, that's why I will make sure once it is completed, I will call you back.
+
+162
+00:09:47,000 --> 00:09:48,000
+No problem. No problem.
+
+163
+00:09:48,000 --> 00:09:49,000
+I spoke actually.
+
+164
+00:09:49,000 --> 00:09:53,000
+So what I thought, no, see, we can have the session at three thirty.
+
+165
+00:09:53,000 --> 00:09:58,000
+But like before three thirty, anytime if possible, I thought of like, you know, taking the test done.
+
+166
+00:09:58,000 --> 00:09:59,000
+So what will happen?
+
+167
+00:09:59,000 --> 00:10:04,000
+You complete the test, then come to the session, have a brief talk with the program manager.
+
+168
+00:10:04,000 --> 00:10:05,000
+Sure, sure.
+
+169
+00:10:05,000 --> 00:10:07,000
+Then once it is completed, I will call you.
+
+170
+00:10:07,000 --> 00:10:09,000
+Yes, yes, I'm telling you, I'm telling you.
+
+171
+00:10:09,000 --> 00:10:10,000
+No problem.
+
+172
+00:10:10,000 --> 00:10:15,000
+We can, you know, we can postpone like this test around, like, you know, once your work is completed, there's no problem.
+
+173
+00:10:15,000 --> 00:10:18,000
+But for your doubt clearing purpose, I am talking now.
+
+174
+00:10:18,000 --> 00:10:33,000
+So in case like if you have any doubts or any reiteration part, you can talk to the program manager program manager in the sense he is the person who is involved in all the aspects about program like placement curriculum or what is the benefits of for you doing this program.
+
+175
+00:10:33,000 --> 00:10:35,000
+So everything you can understand.
+
+176
+00:10:35,000 --> 00:10:38,000
+So he is there from scalar from three to four years.
+
+177
+00:10:38,000 --> 00:10:41,000
+So he has seen a lot of transitions.
+
+178
+00:10:41,000 --> 00:10:42,000
+So that is why I'm bringing him only.
+
+179
+00:10:42,000 --> 00:10:46,000
+So where he will be onboarding you on the same session.
+
+180
+00:10:46,000 --> 00:10:47,000
+Okay.
+
+181
+00:10:47,000 --> 00:10:51,000
+And one more thing, which which year were able to choose that?
+
+182
+00:10:51,000 --> 00:10:54,000
+Just give at the same time.
+
+183
+00:10:54,000 --> 00:10:55,000
+I once I will call you after this.
+
+184
+00:10:55,000 --> 00:10:57,000
+My work is done.
+
+185
+00:10:57,000 --> 00:11:00,000
+We will discuss that as well because I'm not sure about seven thousand or twelve thousand.
+
+186
+00:11:00,000 --> 00:11:02,000
+So just give me some time.
+
+187
+00:11:02,000 --> 00:11:03,000
+Okay, okay, sure.
+
+188
+00:11:03,000 --> 00:11:05,000
+Please call me around one or two p.m.
+
+189
+00:11:05,000 --> 00:11:06,000
+At least.
+
+190
+00:11:06,000 --> 00:11:07,000
+Okay, okay.
+
+191
+00:11:07,000 --> 00:11:08,000
+Okay.
+
+192
+00:11:08,000 --> 00:11:09,000
+Fine.
+
+193
+00:11:09,000 --> 00:11:10,000
+Thank you.
+
+194
+00:11:10,000 --> 00:11:11,000
+Thank you so much.
+
+195
+00:11:11,000 --> 00:11:12,000
+Thank you.
+
+196
+00:11:12,000 --> 00:11:13,000
+Thank you.
+
+197
+00:11:13,000 --> 00:11:14,000
+Bye bye.
+

@@ -1,0 +1,6804 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi, I am talking to Pratik
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes
+
+5
+00:00:08,000 --> 00:00:12,000
+Pratik, you are the Raksha Tars senior program manager from Sailor
+
+6
+00:00:12,000 --> 00:00:14,000
+How are you?
+
+7
+00:00:14,000 --> 00:00:16,000
+Yeah, I am doing fine ma'am
+
+8
+00:00:16,000 --> 00:00:20,000
+Pratik, you had a conversation with my counselor recently
+
+9
+00:00:20,000 --> 00:00:22,000
+That is with Sujit though
+
+10
+00:00:22,000 --> 00:00:24,000
+Okay
+
+11
+00:00:24,000 --> 00:00:29,000
+And you said that you are not interested in the program currently because you are focusing on giving interviews and want to have
+
+12
+00:00:29,000 --> 00:00:31,000
+and also having an offer already
+
+13
+00:00:31,000 --> 00:00:33,000
+Correct
+
+14
+00:00:33,000 --> 00:00:37,000
+So which are the types of companies you are giving an interview right now?
+
+15
+00:00:41,000 --> 00:00:43,000
+Sorry?
+
+16
+00:00:43,000 --> 00:00:45,000
+Which are the types of companies you are giving an interview right now?
+
+17
+00:00:45,000 --> 00:00:49,000
+Actually ma'am, I am switching from service desk to service desk
+
+18
+00:00:49,000 --> 00:00:53,000
+Okay, you are switching from SBC to SBC itself
+
+19
+00:00:53,000 --> 00:00:55,000
+Okay
+
+20
+00:00:55,000 --> 00:01:01,000
+Okay, and do you have that as a requirement or okay let's take that way
+
+21
+00:01:01,000 --> 00:01:07,000
+What is your next 3 years and next 5 years of growth you look forward for?
+
+22
+00:01:15,000 --> 00:01:23,000
+I didn't think anything about next 3-5 years but I will definitely like I talked to Sujit
+
+23
+00:01:23,000 --> 00:01:31,000
+I have told him that once I am settled in a new company definitely I will try to reach him out and then we can see
+
+24
+00:01:31,000 --> 00:01:47,000
+Did Sujit inform you that the next batch of the July 17th cohort has increased by 10,000 rupees?
+
+25
+00:01:47,000 --> 00:01:51,000
+Did you get this update from Sujit?
+
+26
+00:01:51,000 --> 00:01:55,000
+No ma'am, actually not
+
+27
+00:01:55,000 --> 00:02:01,000
+Why did he tell you this? Because this has to be conveyed to everybody
+
+28
+00:02:01,000 --> 00:02:09,000
+So listen, it's about an alignment what you are going to understand on your requirement
+
+29
+00:02:09,000 --> 00:02:11,000
+Okay, right?
+
+30
+00:02:11,000 --> 00:02:17,000
+So what you are looking forward for on the other side because see as an everyday experience okay
+
+31
+00:02:17,000 --> 00:02:25,000
+So you have that requirement happening that you have to apply, upgrade, work on scalable projects
+
+32
+00:02:25,000 --> 00:02:27,000
+Correct? Yes or no?
+
+33
+00:02:27,000 --> 00:02:31,000
+So now you have how many 3 years? I think 3 years is written here
+
+34
+00:02:31,000 --> 00:02:35,000
+You are working in Capgemini right?
+
+35
+00:02:35,000 --> 00:02:41,000
+So you are working in Capgemini for 3 years. LB you are a backend developer or what is it?
+
+36
+00:02:41,000 --> 00:02:47,000
+I am a backend developer like I work on Spring Boot and database sites
+
+37
+00:02:47,000 --> 00:02:49,000
+And what is your CTC?
+
+38
+00:02:49,000 --> 00:02:51,000
+Sorry? CTC
+
+39
+00:02:51,000 --> 00:02:53,000
+CTC?
+
+40
+00:02:53,000 --> 00:02:57,000
+Yes, CTC offer. What is your CTC package?
+
+41
+00:02:57,000 --> 00:03:01,000
+Okay, for the next one which I am going to join?
+
+42
+00:03:01,000 --> 00:03:03,000
+The current one and the next one what they offered you
+
+43
+00:03:03,000 --> 00:03:12,000
+So for me the current one is 8 LP and then the one which I will be joining like I am still searching for better opportunities
+
+44
+00:03:12,000 --> 00:03:18,000
+So the one which I have as of now it's of 12 LPF
+
+45
+00:03:18,000 --> 00:03:24,000
+Okay, the one you have offered of 12 LPF but you are looking for better
+
+46
+00:03:24,000 --> 00:03:25,000
+Yes
+
+47
+00:03:25,000 --> 00:03:31,000
+So now I am going to give you little scenario of like what you are looking forward for
+
+48
+00:03:31,000 --> 00:03:36,000
+Okay, right. So now everyday what you are doing is the login logout job right?
+
+49
+00:03:36,000 --> 00:03:40,000
+So you think you are actually doing a job which is yes
+
+50
+00:03:40,000 --> 00:03:50,000
+But on the other side you don't know that everyday your login and logout is adding as one day extra that you are an experienced guy
+
+51
+00:03:50,000 --> 00:03:52,000
+Okay
+
+52
+00:03:52,000 --> 00:03:54,000
+Did you ever think about this right?
+
+53
+00:03:54,000 --> 00:04:02,000
+Because as a 3 years experience, you will be qualified to give an interview for SBE2
+
+54
+00:04:02,000 --> 00:04:04,000
+Right?
+
+55
+00:04:04,000 --> 00:04:06,000
+You will be qualified for SBE2
+
+56
+00:04:06,000 --> 00:04:13,000
+So imagine when you can actually make double the money in the same company
+
+57
+00:04:13,000 --> 00:04:15,000
+Suppose you got an offer from what?
+
+58
+00:04:15,000 --> 00:04:17,000
+Let's take an example
+
+59
+00:04:17,000 --> 00:04:20,000
+Mintra, okay? Mintra is a good product based company
+
+60
+00:04:20,000 --> 00:04:22,000
+Established company, okay?
+
+61
+00:04:22,000 --> 00:04:25,000
+So in Mintra you go as an SBE1
+
+62
+00:04:25,000 --> 00:04:28,000
+What Mintra will pay you, the same you go as an SBE2
+
+63
+00:04:28,000 --> 00:04:30,000
+What you will get paid
+
+64
+00:04:30,000 --> 00:04:32,000
+It's a huge money
+
+65
+00:04:32,000 --> 00:04:35,000
+And along with that responsibilities will also be added
+
+66
+00:04:35,000 --> 00:04:39,000
+So if you are planning for a switch or a transition
+
+67
+00:04:39,000 --> 00:04:45,000
+Start aiming to be working on the efficiency where you are aiming to give an interview for SBE2
+
+68
+00:04:45,000 --> 00:04:47,000
+Okay
+
+69
+00:04:47,000 --> 00:04:49,000
+Because you are already 3 years of experience guy
+
+70
+00:04:49,000 --> 00:04:51,000
+Right?
+
+71
+00:04:51,000 --> 00:04:53,000
+It's not like you just came for a year
+
+72
+00:04:53,000 --> 00:04:55,000
+Doesn't matter how much is the CTC
+
+73
+00:04:55,000 --> 00:04:57,000
+Right?
+
+74
+00:04:57,000 --> 00:05:01,000
+Because according to the industry standard, 3 years experience guy getting A-TLP is less
+
+75
+00:05:01,000 --> 00:05:03,000
+It is less only
+
+76
+00:05:03,000 --> 00:05:11,000
+Right? But according to your standard you should be aiming for handling better responsibility as an app
+
+77
+00:05:11,000 --> 00:05:13,000
+Okay
+
+78
+00:05:13,000 --> 00:05:15,000
+Because as you get experience
+
+79
+00:05:15,000 --> 00:05:20,000
+You will be having advanced level of questions being asked to you in an interview
+
+80
+00:05:20,000 --> 00:05:25,000
+And this all needs a good mentorship my dear
+
+81
+00:05:25,000 --> 00:05:31,000
+Because I called you because Sujit literally came into my cabin today
+
+82
+00:05:31,000 --> 00:05:33,000
+He actually came at 6 o'clock only
+
+83
+00:05:33,000 --> 00:05:36,000
+But I had a meeting so I did not get time to call you up
+
+84
+00:05:36,000 --> 00:05:38,000
+Right?
+
+85
+00:05:38,000 --> 00:05:42,000
+So he came to me and said ma'am this student, this learner has intent
+
+86
+00:05:42,000 --> 00:05:46,000
+He is genuinely having an intent to look forward for a growth
+
+87
+00:05:47,000 --> 00:05:52,000
+But that one thing he has that there is something which I am not able to solve it for him
+
+88
+00:05:52,000 --> 00:05:58,000
+He has a confusion, he has something which I am not able to help him get connected with me
+
+89
+00:05:58,000 --> 00:06:00,000
+Right? So can you please take up a call?
+
+90
+00:06:00,000 --> 00:06:06,000
+Because I being a senior program manager, I only take the calls who have more than 15 years of experience
+
+91
+00:06:06,000 --> 00:06:08,000
+Who are solution and tech architects
+
+92
+00:06:08,000 --> 00:06:10,000
+Okay
+
+93
+00:06:10,000 --> 00:06:14,000
+Because obviously their tech level questions and understanding is very high right?
+
+94
+00:06:14,000 --> 00:06:18,000
+If they are investing in the Scalar program
+
+95
+00:06:18,000 --> 00:06:20,000
+They will already see that I already know so much
+
+96
+00:06:20,000 --> 00:06:22,000
+What will you teach me?
+
+97
+00:06:22,000 --> 00:06:27,000
+Right? They are already leading and they are already on 80 LPA, 90 LPA
+
+98
+00:06:27,000 --> 00:06:32,000
+Now they will come to us to crack an interview for 1.5 CR, 1.3 CR
+
+99
+00:06:32,000 --> 00:06:35,000
+So expert level of questions will come
+
+100
+00:06:35,000 --> 00:06:38,000
+So I have to be there to help them understand the things
+
+101
+00:06:38,000 --> 00:06:40,000
+Otherwise I don't take up a call
+
+102
+00:06:40,000 --> 00:06:44,000
+This is because Sujit came into me so I had to take this for you right?
+
+103
+00:06:44,000 --> 00:06:48,000
+So have an alignment that where you are looking forward for yourself
+
+104
+00:06:48,000 --> 00:06:51,000
+This will do a lot of matters
+
+105
+00:06:51,000 --> 00:06:53,000
+Because everyone wants to upskill right?
+
+106
+00:06:53,000 --> 00:07:01,000
+Everybody and upskilling is the only magic and logic and the solution for your security of your job for the future
+
+107
+00:07:01,000 --> 00:07:03,000
+You know this right?
+
+108
+00:07:03,000 --> 00:07:08,000
+This is the only thing, there is no other thing which is going to happen which is going to save your job
+
+109
+00:07:10,000 --> 00:07:11,000
+Right?
+
+110
+00:07:11,000 --> 00:07:14,000
+So that is something which you have to understand
+
+111
+00:07:14,000 --> 00:07:18,000
+That if I am thinking or planning
+
+112
+00:07:18,000 --> 00:07:20,000
+Because now you are planning for an interview
+
+113
+00:07:20,000 --> 00:07:24,000
+You have got one, 9 to 12 LPA is not a great money
+
+114
+00:07:24,000 --> 00:07:27,000
+Correct? You won't even know if it has increased or not
+
+115
+00:07:27,000 --> 00:07:29,000
+Right? Obviously
+
+116
+00:07:29,000 --> 00:07:32,000
+But if you get 15 LPAs, think about it
+
+117
+00:07:32,000 --> 00:07:38,000
+You get 15 LPAs but still according to 15 LPAs your commitments will also increase
+
+118
+00:07:39,000 --> 00:07:45,000
+Right? According to that, the money that was saving on 9 will also save on 15 LPAs
+
+119
+00:07:47,000 --> 00:07:52,000
+Right? So you already know that Scalar is not a trading platform
+
+120
+00:07:52,000 --> 00:07:54,000
+Scalar is not a gaming platform
+
+121
+00:07:54,000 --> 00:07:57,000
+Scalar is a full fledged upskilling platform
+
+122
+00:07:57,000 --> 00:07:58,000
+Correct?
+
+123
+00:07:58,000 --> 00:08:01,000
+Right? Anyone who is coming on a platform
+
+124
+00:08:01,000 --> 00:08:05,000
+Okay? That means they are looking for upskilling
+
+125
+00:08:05,000 --> 00:08:06,000
+Right? Of course
+
+126
+00:08:06,000 --> 00:08:07,000
+Of course
+
+127
+00:08:07,000 --> 00:08:10,000
+Whatever activity you are doing, you are upskilling
+
+128
+00:08:10,000 --> 00:08:13,000
+Right? Now that is the job of the counselor to check
+
+129
+00:08:13,000 --> 00:08:16,000
+What is your profile? What is your background?
+
+130
+00:08:16,000 --> 00:08:21,000
+What you are looking forward for and is Scalar matching your requirements?
+
+131
+00:08:21,000 --> 00:08:23,000
+That is the job, they are getting paid for that
+
+132
+00:08:23,000 --> 00:08:25,000
+Correct? Right?
+
+133
+00:08:25,000 --> 00:08:30,000
+So now you have to see that I am struggling anyway wherever you are
+
+134
+00:08:30,000 --> 00:08:32,000
+Right? You are not happy with the company
+
+135
+00:08:32,000 --> 00:08:33,000
+You are not happy with the CDC
+
+136
+00:08:33,000 --> 00:08:36,000
+Neither you are happy with the responsibilities of the company
+
+137
+00:08:36,000 --> 00:08:37,000
+Correct? Yes or no?
+
+138
+00:08:40,000 --> 00:08:44,000
+Right? So that means you are somewhere unhappy and you are struggling
+
+139
+00:08:44,000 --> 00:08:45,000
+Yes or no?
+
+140
+00:08:46,000 --> 00:08:47,000
+Yes
+
+141
+00:08:47,000 --> 00:08:52,000
+Right? So it is a simple thing because I joined Scalar as a counselor
+
+142
+00:08:53,000 --> 00:08:56,000
+Today I am a senior program manager at Scalar
+
+143
+00:08:57,000 --> 00:09:01,000
+Right? The growth what I have seen about myself
+
+144
+00:09:01,000 --> 00:09:04,000
+And of course company alongside and people like you
+
+145
+00:09:04,000 --> 00:09:06,000
+Several people like you
+
+146
+00:09:08,000 --> 00:09:09,000
+Right? I have seen it happening
+
+147
+00:09:09,000 --> 00:09:14,000
+So the belief I have on my product is exceptionally great
+
+148
+00:09:14,000 --> 00:09:18,000
+Right? So imagine however you know you are struggling
+
+149
+00:09:18,000 --> 00:09:19,000
+Correct? Right?
+
+150
+00:09:19,000 --> 00:09:23,000
+So how, that struggle, struggle little more
+
+151
+00:09:23,000 --> 00:09:26,000
+Okay? But struggle only for one year
+
+152
+00:09:26,000 --> 00:09:28,000
+Why do you want to struggle?
+
+153
+00:09:28,000 --> 00:09:31,000
+The struggle, the struggle for 10 years
+
+154
+00:09:32,000 --> 00:09:33,000
+It is a simple thing
+
+155
+00:09:33,000 --> 00:09:36,000
+You are struggling anyway, do a little more
+
+156
+00:09:37,000 --> 00:09:39,000
+But do it for one year only
+
+157
+00:09:40,000 --> 00:09:42,000
+Why do you want to do it for 5 years, 10 years?
+
+158
+00:09:42,000 --> 00:09:46,000
+Because he must not be sensing what I have told you
+
+159
+00:09:48,000 --> 00:09:52,000
+Right? So you are at least on 9 LPAs
+
+160
+00:09:52,000 --> 00:09:55,000
+There are people who are literally, literally
+
+161
+00:09:55,000 --> 00:10:00,000
+I have profiles, I literally have all the database access given to me on my level
+
+162
+00:10:00,000 --> 00:10:03,000
+Okay? People are only 4 years of experience
+
+163
+00:10:03,000 --> 00:10:06,000
+6 years of experience and still
+
+164
+00:10:06,000 --> 00:10:09,000
+1 year experience, 2 years, still it is okay
+
+165
+00:10:09,000 --> 00:10:13,000
+5-6 years of experience people still withdrawing 3, 4, 5 LPAs
+
+166
+00:10:14,000 --> 00:10:15,000
+Because of the skill set
+
+167
+00:10:16,000 --> 00:10:19,000
+If we remain like this, then in one filter
+
+168
+00:10:19,000 --> 00:10:21,000
+When the industry will come down on mass layoff
+
+169
+00:10:21,000 --> 00:10:23,000
+Industry, I am not talking company
+
+170
+00:10:23,000 --> 00:10:27,000
+When the industry will come down on a filter where all the companies will lay off
+
+171
+00:10:27,000 --> 00:10:31,000
+Will do a filter where people who are not productive
+
+172
+00:10:31,000 --> 00:10:34,000
+People who are not driving efficiently, everyone will be laid off
+
+173
+00:10:34,000 --> 00:10:37,000
+And of course support engineers, QA manual, automation
+
+174
+00:10:37,000 --> 00:10:39,000
+This will also be done
+
+175
+00:10:39,000 --> 00:10:41,000
+But alongside with all of these things, right?
+
+176
+00:10:41,000 --> 00:10:43,000
+Who are not efficient developers and things
+
+177
+00:10:43,000 --> 00:10:46,000
+Right? So they know that if there is a layoff
+
+178
+00:10:46,000 --> 00:10:48,000
+Then my name is going to come there
+
+179
+00:10:49,000 --> 00:10:53,000
+Because I am not able to contribute so much to the company
+
+180
+00:10:53,000 --> 00:10:57,000
+If I was doing it, I would have demanded more CTCs
+
+181
+00:10:57,000 --> 00:11:01,000
+Work comes and no one will work in a low salary
+
+182
+00:11:01,000 --> 00:11:07,000
+Work comes properly, so there is something to be done to get the salary
+
+183
+00:11:07,000 --> 00:11:13,000
+Then sitting at home, at least I will get some 20, 25, 30 thousand rupees
+
+184
+00:11:13,000 --> 00:11:16,000
+Right? It is about planning
+
+185
+00:11:16,000 --> 00:11:20,000
+Not planning, everyone wants to grow, everyone needs more money
+
+186
+00:11:20,000 --> 00:11:26,000
+Everyone wants to have that offer letter given from Mintra or Flipkart or Amazon or Zepto
+
+187
+00:11:26,000 --> 00:11:30,000
+But how badly you need it matters a lot
+
+188
+00:11:30,000 --> 00:11:36,000
+That is mindset, that is attitude towards your goal and action you take towards it
+
+189
+00:11:36,000 --> 00:11:38,000
+It is a simple thing
+
+190
+00:11:40,000 --> 00:11:45,000
+I wouldn't take up a call with you if Sujit wouldn't have requested for me to take up a call with you
+
+191
+00:11:45,000 --> 00:11:47,000
+He genuinely said ma'am he has interest
+
+192
+00:11:47,000 --> 00:11:49,000
+He is genuinely looking forward for it
+
+193
+00:11:49,000 --> 00:11:55,000
+Because your intent, I will tell you the value of intent
+
+194
+00:11:55,000 --> 00:12:00,000
+This course of Scalar is not a crash course of 2-3 months
+
+195
+00:12:00,000 --> 00:12:03,000
+It is a course of 11 months, correct?
+
+196
+00:12:03,000 --> 00:12:06,000
+There are always 2 types of admissions
+
+197
+00:12:06,000 --> 00:12:09,000
+One is that you are scared because of the layoff
+
+198
+00:12:09,000 --> 00:12:13,000
+The small layoff that is going on everywhere
+
+199
+00:12:13,000 --> 00:12:17,000
+So people are scared, the fear of getting laid off
+
+200
+00:12:17,000 --> 00:12:21,000
+One is that, they will have to do upskill or they will lose their job
+
+201
+00:12:21,000 --> 00:12:23,000
+One is that, category one
+
+202
+00:12:23,000 --> 00:12:29,000
+The other admissions are they are genuinely looking forward to meet the industry standards
+
+203
+00:12:29,000 --> 00:12:31,000
+They want to grow, they want to do things
+
+204
+00:12:31,000 --> 00:12:33,000
+So there are two things
+
+205
+00:12:33,000 --> 00:12:36,000
+So the fear, the motivation to move forward
+
+206
+00:12:36,000 --> 00:12:38,000
+One day there will be motivation
+
+207
+00:12:38,000 --> 00:12:41,000
+One month, two months, three months
+
+208
+00:12:41,000 --> 00:12:45,000
+Study says any motivation you take from anyone
+
+209
+00:12:45,000 --> 00:12:49,000
+It is just going to stay for three months, maximum
+
+210
+00:12:49,000 --> 00:12:54,000
+It depends person to person, one day, four days, ten days, one month, two months, maximum three months
+
+211
+00:12:54,000 --> 00:12:59,000
+But after that, why does a crash course exist in the market?
+
+212
+00:12:59,000 --> 00:13:03,000
+Because they know that no one will complete a course that is too long
+
+213
+00:13:03,000 --> 00:13:08,000
+Right? That is why they bring crash courses, shortcuts
+
+214
+00:13:08,000 --> 00:13:15,000
+But the actual alignment is that after three months, when the motivation goes away
+
+215
+00:13:15,000 --> 00:13:20,000
+Your intent is the one which will hold you for the next eight months
+
+216
+00:13:20,000 --> 00:13:24,000
+Intent will save you to complete the course
+
+217
+00:13:24,000 --> 00:13:30,000
+Because you have that, that I have to grow, I have to move forward
+
+218
+00:13:30,000 --> 00:13:32,000
+I need to stand out of my friends
+
+219
+00:13:32,000 --> 00:13:35,000
+That is intent
+
+220
+00:13:35,000 --> 00:13:40,000
+So Jit said you have that
+
+221
+00:13:40,000 --> 00:13:44,000
+Now I don't know how badly you need to grow, you want to grow
+
+222
+00:13:44,000 --> 00:13:50,000
+But if you need any support or any help or anything you look forward for, I will be there to help you
+
+223
+00:13:50,000 --> 00:13:53,000
+I can promise you this much
+
+224
+00:13:53,000 --> 00:13:56,000
+If you have any questions, ask me
+
+225
+00:13:56,000 --> 00:14:01,000
+But you have to keep your mindset clear because it is not impossible
+
+226
+00:14:01,000 --> 00:14:05,000
+Now you will go to another service based company
+
+227
+00:14:05,000 --> 00:14:09,000
+What value are they going to add? Because service based companies only have KRA
+
+228
+00:14:09,000 --> 00:14:11,000
+Just deliver the task
+
+229
+00:14:11,000 --> 00:14:14,000
+We are giving you some task, just deliver that
+
+230
+00:14:14,000 --> 00:14:17,000
+But product based companies don't have that requirement
+
+231
+00:14:17,000 --> 00:14:21,000
+They already know how to get the task delivered from you
+
+232
+00:14:21,000 --> 00:14:24,000
+That is why you have got the job
+
+233
+00:14:24,000 --> 00:14:28,000
+The KRA for anyone is going to be
+
+234
+00:14:28,000 --> 00:14:31,000
+How well you can deliver the task
+
+235
+00:14:31,000 --> 00:14:34,000
+How efficient you can drive the code
+
+236
+00:14:34,000 --> 00:14:38,000
+Are you working on time and space complexity?
+
+237
+00:14:38,000 --> 00:14:41,000
+Are you working on scalability?
+
+238
+00:14:41,000 --> 00:14:45,000
+This is not a requirement in a service based company
+
+239
+00:14:45,000 --> 00:14:50,000
+Now company and hierarchy are not putting a requirement in front of you
+
+240
+00:14:50,000 --> 00:14:55,000
+How will you work on time and space complexity as an associate?
+
+241
+00:14:59,000 --> 00:15:00,000
+Right?
+
+242
+00:15:00,000 --> 00:15:03,000
+That is what you are going to lose up
+
+243
+00:15:03,000 --> 00:15:06,000
+Join the new company
+
+244
+00:15:06,000 --> 00:15:10,000
+It is not like you have to give the scaler the whole day
+
+245
+00:15:10,000 --> 00:15:14,000
+Starting first 1.5-2 months you will go to the fundamental test
+
+246
+00:15:14,000 --> 00:15:18,000
+Now in the new company you will be getting along with the new people and environment
+
+247
+00:15:18,000 --> 00:15:21,000
+Along side you are coming down on the other side
+
+248
+00:15:21,000 --> 00:15:24,000
+And working on your skills full fledged
+
+249
+00:15:24,000 --> 00:15:26,000
+So imagine
+
+250
+00:15:26,000 --> 00:15:28,000
+Now you are following a process
+
+251
+00:15:28,000 --> 00:15:30,000
+You are following a structure
+
+252
+00:15:30,000 --> 00:15:32,000
+How to operate the things, right?
+
+253
+00:15:32,000 --> 00:15:34,000
+How to deliver the things
+
+254
+00:15:34,000 --> 00:15:36,000
+You know your process, right?
+
+255
+00:15:36,000 --> 00:15:37,000
+Right?
+
+256
+00:15:37,000 --> 00:15:39,000
+Yes or no?
+
+257
+00:15:41,000 --> 00:15:42,000
+Hello?
+
+258
+00:15:42,000 --> 00:15:43,000
+Yes ma'am
+
+259
+00:15:43,000 --> 00:15:45,000
+Right, so you know your process, right?
+
+260
+00:15:45,000 --> 00:15:47,000
+So now when you join scaler
+
+261
+00:15:47,000 --> 00:15:50,000
+You are not joining to learn how to write a code
+
+262
+00:15:50,000 --> 00:15:53,000
+So you will be learning how to be efficient in that
+
+263
+00:15:53,000 --> 00:15:57,000
+So in 1.5 months you will understand what is the best approach
+
+264
+00:15:57,000 --> 00:16:00,000
+As soon as you will start getting a hold on that
+
+265
+00:16:00,000 --> 00:16:05,000
+That I was doing this work in this way
+
+266
+00:16:05,000 --> 00:16:08,000
+But I could have done this work in this way too
+
+267
+00:16:08,000 --> 00:16:11,000
+I would have done the things better
+
+268
+00:16:11,000 --> 00:16:14,000
+You will understand that
+
+269
+00:16:14,000 --> 00:16:17,000
+As soon as you will understand
+
+270
+00:16:17,000 --> 00:16:19,000
+You will start driving things better
+
+271
+00:16:19,000 --> 00:16:22,000
+In your own company, let's suppose you will get an offer from Cognizant
+
+272
+00:16:22,000 --> 00:16:23,000
+For example
+
+273
+00:16:23,000 --> 00:16:28,000
+So in the interview they will ask you certain questions and answers
+
+274
+00:16:28,000 --> 00:16:29,000
+You have answered it
+
+275
+00:16:29,000 --> 00:16:32,000
+So in their mind there is a perception that
+
+276
+00:16:32,000 --> 00:16:34,000
+If Pratik is coming in
+
+277
+00:16:34,000 --> 00:16:37,000
+In this way he can handle the responsibilities
+
+278
+00:16:37,000 --> 00:16:40,000
+Meaning he can give this work at the level
+
+279
+00:16:40,000 --> 00:16:42,000
+Now along with that
+
+280
+00:16:42,000 --> 00:16:45,000
+You are doing the Scalar program on the other side
+
+281
+00:16:45,000 --> 00:16:47,000
+That means you are driving yourself better
+
+282
+00:16:47,000 --> 00:16:50,000
+You are directly targeting product based companies
+
+283
+00:16:50,000 --> 00:16:52,000
+Only product based companies
+
+284
+00:16:52,000 --> 00:16:54,000
+Scalar has 900 plus company tie ups
+
+285
+00:16:54,000 --> 00:16:57,000
+And all of them are product based companies
+
+286
+00:16:57,000 --> 00:17:00,000
+All of them
+
+287
+00:17:00,000 --> 00:17:04,000
+So the target is going to be directly product based company
+
+288
+00:17:04,000 --> 00:17:07,000
+So you will start learning things on very high level
+
+289
+00:17:07,000 --> 00:17:10,000
+Right, so what you are learning
+
+290
+00:17:10,000 --> 00:17:13,000
+You will start driving those things in your company too
+
+291
+00:17:13,000 --> 00:17:14,000
+Obviously
+
+292
+00:17:14,000 --> 00:17:18,000
+Right, so you will start driving things and delivering very better
+
+293
+00:17:18,000 --> 00:17:21,000
+So by the time
+
+294
+00:17:21,000 --> 00:17:24,000
+Imagine now I am giving you a calculated plan for you
+
+295
+00:17:24,000 --> 00:17:26,000
+For you
+
+296
+00:17:26,000 --> 00:17:28,000
+Now you joined
+
+297
+00:17:28,000 --> 00:17:30,000
+Let's suppose in July
+
+298
+00:17:30,000 --> 00:17:31,000
+In July, right
+
+299
+00:17:31,000 --> 00:17:33,000
+To the new company
+
+300
+00:17:33,000 --> 00:17:36,000
+So along with that you did Scalar also
+
+301
+00:17:36,000 --> 00:17:38,000
+Means you joined Scalar as well
+
+302
+00:17:38,000 --> 00:17:41,000
+So by that time you are also learning Scalar
+
+303
+00:17:41,000 --> 00:17:43,000
+So you will start driving better, right
+
+304
+00:17:43,000 --> 00:17:45,000
+So in March you will get appraisal
+
+305
+00:17:45,000 --> 00:17:46,000
+Right
+
+306
+00:17:46,000 --> 00:17:47,000
+Appraisal will come
+
+307
+00:17:47,000 --> 00:17:49,000
+So with a certain expectation
+
+308
+00:17:49,000 --> 00:17:50,000
+You were driving CTC
+
+309
+00:17:50,000 --> 00:17:52,000
+Now we will offer it
+
+310
+00:17:52,000 --> 00:17:53,000
+Let's do 15
+
+311
+00:17:53,000 --> 00:17:55,000
+Cognizant offered you 15
+
+312
+00:17:55,000 --> 00:17:56,000
+You worked there
+
+313
+00:17:56,000 --> 00:17:58,000
+But because you are doing skills in Scalar
+
+314
+00:17:58,000 --> 00:18:01,000
+So you will start actually delivering things very better
+
+315
+00:18:01,000 --> 00:18:04,000
+So that will give you good appraisal
+
+316
+00:18:04,000 --> 00:18:05,000
+Right
+
+317
+00:18:05,000 --> 00:18:08,000
+You will get good appraisal from normal appraisal
+
+318
+00:18:08,000 --> 00:18:11,000
+Now that appraisal cycle will come
+
+319
+00:18:11,000 --> 00:18:15,000
+You have to show it in payroll for 2-3 months
+
+320
+00:18:15,000 --> 00:18:17,000
+Right, you need that in payroll
+
+321
+00:18:17,000 --> 00:18:19,000
+As soon as you add 2-3 months
+
+322
+00:18:19,000 --> 00:18:23,000
+Exactly by that time you are completing your 11 months course
+
+323
+00:18:23,000 --> 00:18:26,000
+Exactly, did you even notice that
+
+324
+00:18:28,000 --> 00:18:30,000
+You are joining a company
+
+325
+00:18:30,000 --> 00:18:32,000
+You are joining Scalar
+
+326
+00:18:32,000 --> 00:18:34,000
+You are having an appraisal happening
+
+327
+00:18:34,000 --> 00:18:36,000
+And by the time you complete your 1 year
+
+328
+00:18:36,000 --> 00:18:39,000
+The Scalar is going to have its program completed
+
+329
+00:18:39,000 --> 00:18:41,000
+You have your experience certificate
+
+330
+00:18:41,000 --> 00:18:42,000
+You have your appraisal
+
+331
+00:18:42,000 --> 00:18:44,000
+New appraisal on your payroll
+
+332
+00:18:44,000 --> 00:18:47,000
+And with that payroll you will now hike
+
+333
+00:18:51,000 --> 00:18:54,000
+Just a calculation
+
+334
+00:18:55,000 --> 00:18:57,000
+This is called a plan
+
+335
+00:19:00,000 --> 00:19:02,000
+This is called a plan
+
+336
+00:19:05,000 --> 00:19:07,000
+This is randomly
+
+337
+00:19:07,000 --> 00:19:09,000
+See, whoever takes admission
+
+338
+00:19:09,000 --> 00:19:11,000
+It's not like they were sitting idle
+
+339
+00:19:11,000 --> 00:19:12,000
+Or they were working
+
+340
+00:19:12,000 --> 00:19:13,000
+A call came
+
+341
+00:19:13,000 --> 00:19:16,000
+The counselor said the program is good
+
+342
+00:19:16,000 --> 00:19:17,000
+And I paid 3 lakhs
+
+343
+00:19:17,000 --> 00:19:19,000
+No one does that
+
+344
+00:19:19,000 --> 00:19:21,000
+Nobody
+
+345
+00:19:21,000 --> 00:19:23,000
+Right
+
+346
+00:19:23,000 --> 00:19:27,000
+A person thinks 10 times to buy an AC for 6,000
+
+347
+00:19:28,000 --> 00:19:30,000
+Will you buy an AC for 3 lakhs
+
+348
+00:19:30,000 --> 00:19:32,000
+They have done the comparison
+
+349
+00:19:32,000 --> 00:19:34,000
+I will take the name myself
+
+350
+00:19:34,000 --> 00:19:38,000
+Great Learning, Upgrad, Cryo, Coding Ninja, Boss Coder
+
+351
+00:19:38,000 --> 00:19:40,000
+I remember saying Boss Coder
+
+352
+00:19:40,000 --> 00:19:44,000
+Boss Coder's co-founder has completed the course in Scalar Academy
+
+353
+00:19:44,000 --> 00:19:46,000
+And launched Boss Coder
+
+354
+00:19:46,000 --> 00:19:49,000
+He completed the course at Scalar Academy
+
+355
+00:19:49,000 --> 00:19:51,000
+He is the co-founder of Boss Coder now
+
+356
+00:19:55,000 --> 00:19:57,000
+He is a student of Scalar
+
+357
+00:19:57,000 --> 00:19:59,000
+Alumni of Scalar I meant to say
+
+358
+00:20:00,000 --> 00:20:02,000
+He joins Scalar in such profiles
+
+359
+00:20:08,000 --> 00:20:10,000
+These are all our students
+
+360
+00:20:10,000 --> 00:20:12,000
+Architects, Solution Architects
+
+361
+00:20:21,000 --> 00:20:23,000
+So having this understanding
+
+362
+00:20:23,000 --> 00:20:25,000
+You have to align yourself
+
+363
+00:20:25,000 --> 00:20:28,000
+Because right now your parents, your brother, sister
+
+364
+00:20:28,000 --> 00:20:30,000
+All that matters is
+
+365
+00:20:30,000 --> 00:20:32,000
+My son is doing a job
+
+366
+00:20:32,000 --> 00:20:34,000
+My son completed his education
+
+367
+00:20:34,000 --> 00:20:35,000
+He wanted to get a job
+
+368
+00:20:35,000 --> 00:20:36,000
+Everyday he goes to office
+
+369
+00:20:36,000 --> 00:20:38,000
+Comes back, gets some money
+
+370
+00:20:38,000 --> 00:20:39,000
+Paid on the month end
+
+371
+00:20:39,000 --> 00:20:40,000
+Sort it
+
+372
+00:20:40,000 --> 00:20:41,000
+Let him see his own
+
+373
+00:20:41,000 --> 00:20:42,000
+That is enough for me
+
+374
+00:20:42,000 --> 00:20:44,000
+This is the requirement of the house
+
+375
+00:20:46,000 --> 00:20:47,000
+This is it
+
+376
+00:20:47,000 --> 00:20:48,000
+Talk loudly
+
+377
+00:20:48,000 --> 00:20:50,000
+Am I boring you
+
+378
+00:20:50,000 --> 00:20:52,000
+No, no
+
+379
+00:20:52,000 --> 00:20:55,000
+If it was boring I would have not put that call
+
+380
+00:20:55,000 --> 00:20:57,000
+It's not about the boring things
+
+381
+00:20:57,000 --> 00:20:59,000
+It's not about the things that come
+
+382
+00:20:59,000 --> 00:21:01,000
+Not the things that come
+
+383
+00:21:01,000 --> 00:21:03,000
+But the things that come
+
+384
+00:21:03,000 --> 00:21:05,000
+And the things that come
+
+385
+00:21:05,000 --> 00:21:07,000
+Which are very important
+
+386
+00:21:07,000 --> 00:21:10,000
+So obviously the requirement from the family
+
+387
+00:21:10,000 --> 00:21:13,000
+Is that my son has to have a job
+
+388
+00:21:13,000 --> 00:21:16,000
+So now your father doesn't know what is AI
+
+389
+00:21:16,000 --> 00:21:18,000
+Your father doesn't know what is lay off and recession
+
+390
+00:21:18,000 --> 00:21:20,000
+Why did Chandrayana 3 land on the moon
+
+391
+00:21:20,000 --> 00:21:22,000
+Why did it not land all these years
+
+392
+00:21:22,000 --> 00:21:24,000
+Why did we fail
+
+393
+00:21:25,000 --> 00:21:27,000
+What is full stack development
+
+394
+00:21:27,000 --> 00:21:29,000
+DSA, full company
+
+395
+00:21:29,000 --> 00:21:30,000
+He doesn't know
+
+396
+00:21:30,000 --> 00:21:32,000
+Or they don't know
+
+397
+00:21:32,000 --> 00:21:34,000
+All that matters for them is
+
+398
+00:21:34,000 --> 00:21:35,000
+Salary is coming
+
+399
+00:21:35,000 --> 00:21:36,000
+How much is coming, what is coming
+
+400
+00:21:36,000 --> 00:21:37,000
+You just see
+
+401
+00:21:38,000 --> 00:21:39,000
+Sort it
+
+402
+00:21:39,000 --> 00:21:41,000
+Don't ask us for money
+
+403
+00:21:41,000 --> 00:21:43,000
+But you should be able to manage yourself
+
+404
+00:21:45,000 --> 00:21:46,000
+Right
+
+405
+00:21:46,000 --> 00:21:47,000
+That is all they have
+
+406
+00:21:47,000 --> 00:21:50,000
+But what as a person you have
+
+407
+00:21:50,000 --> 00:21:52,000
+To see for yourself
+
+408
+00:21:52,000 --> 00:21:54,000
+What do you want
+
+409
+00:21:54,000 --> 00:21:56,000
+Your father will be okay
+
+410
+00:21:56,000 --> 00:21:58,000
+I am just giving a hypothetical situation
+
+411
+00:21:58,000 --> 00:22:00,000
+Let's take about my father only
+
+412
+00:22:00,000 --> 00:22:04,000
+My father is okay buying like some 300 or 500 rupees
+
+413
+00:22:04,000 --> 00:22:06,000
+A decent chappal or whatever
+
+414
+00:22:06,000 --> 00:22:08,000
+But I have two brothers
+
+415
+00:22:08,000 --> 00:22:09,000
+One is in engineering second year
+
+416
+00:22:09,000 --> 00:22:11,000
+And one is in BBA second year
+
+417
+00:22:11,000 --> 00:22:13,000
+So they recently
+
+418
+00:22:13,000 --> 00:22:15,000
+Just like 2 months ago
+
+419
+00:22:15,000 --> 00:22:17,000
+They asked me for Jordan shoes
+
+420
+00:22:17,000 --> 00:22:19,000
+Jordan 25 years ago
+
+421
+00:22:19,000 --> 00:22:21,000
+Jordan 25 thousand rupees
+
+422
+00:22:21,000 --> 00:22:22,000
+Literally
+
+423
+00:22:22,000 --> 00:22:24,000
+So they asked me
+
+424
+00:22:24,000 --> 00:22:26,000
+If they would have asked my father
+
+425
+00:22:26,000 --> 00:22:28,000
+He would have given right and left to them
+
+426
+00:22:30,000 --> 00:22:31,000
+Right
+
+427
+00:22:31,000 --> 00:22:33,000
+25 thousand rupees
+
+428
+00:22:33,000 --> 00:22:34,000
+You will wear shoes
+
+429
+00:22:34,000 --> 00:22:35,000
+On your feet
+
+430
+00:22:36,000 --> 00:22:37,000
+Right
+
+431
+00:22:37,000 --> 00:22:39,000
+They asked me because
+
+432
+00:22:39,000 --> 00:22:41,000
+Mentality match
+
+433
+00:22:41,000 --> 00:22:43,000
+I know
+
+434
+00:22:43,000 --> 00:22:45,000
+If someone will go out
+
+435
+00:22:45,000 --> 00:22:47,000
+With Jordan shoes
+
+436
+00:22:47,000 --> 00:22:49,000
+To what value they will add
+
+437
+00:22:51,000 --> 00:22:53,000
+How people will recognize
+
+438
+00:22:53,000 --> 00:22:55,000
+By using perfume
+
+439
+00:22:55,000 --> 00:22:57,000
+Why do parents have to use perfume
+
+440
+00:22:57,000 --> 00:22:59,000
+They should just have their clothes washed
+
+441
+00:23:01,000 --> 00:23:02,000
+Right
+
+442
+00:23:02,000 --> 00:23:04,000
+Just wear clean clothes
+
+443
+00:23:05,000 --> 00:23:07,000
+We want to use perfume
+
+444
+00:23:07,000 --> 00:23:08,000
+We want to have that watch
+
+445
+00:23:08,000 --> 00:23:10,000
+We want to have that jacket
+
+446
+00:23:10,000 --> 00:23:11,000
+All of these things
+
+447
+00:23:11,000 --> 00:23:13,000
+Because it is a mentality
+
+448
+00:23:13,000 --> 00:23:14,000
+So now
+
+449
+00:23:14,000 --> 00:23:16,000
+If you are not wearing what your father is wearing
+
+450
+00:23:17,000 --> 00:23:18,000
+Already
+
+451
+00:23:18,000 --> 00:23:20,000
+Which of course it is
+
+452
+00:23:20,000 --> 00:23:21,000
+Right
+
+453
+00:23:21,000 --> 00:23:23,000
+So do something about your career
+
+454
+00:23:23,000 --> 00:23:25,000
+Which is actually very different than what your father has been doing
+
+455
+00:23:27,000 --> 00:23:29,000
+You need to take the risk
+
+456
+00:23:29,000 --> 00:23:31,000
+To get an extraordinary outcome
+
+457
+00:23:31,000 --> 00:23:33,000
+You cannot do same thing
+
+458
+00:23:33,000 --> 00:23:35,000
+Okay and expect a different outcome
+
+459
+00:23:35,000 --> 00:23:37,000
+Bro you are telling me
+
+460
+00:23:37,000 --> 00:23:39,000
+That you are switching
+
+461
+00:23:39,000 --> 00:23:41,000
+From service base to service base
+
+462
+00:23:41,000 --> 00:23:43,000
+People here having 1 year experience
+
+463
+00:23:44,000 --> 00:23:46,000
+Literally or maybe just who is in training
+
+464
+00:23:46,000 --> 00:23:48,000
+Or who is in the final year of graduation
+
+465
+00:23:48,000 --> 00:23:50,000
+Are joining scalar academy
+
+466
+00:23:50,000 --> 00:23:52,000
+So that they want to start
+
+467
+00:23:52,000 --> 00:23:54,000
+Their career itself in
+
+468
+00:23:54,000 --> 00:23:56,000
+Product based company
+
+469
+00:23:56,000 --> 00:23:58,000
+Because how you start
+
+470
+00:23:58,000 --> 00:24:00,000
+Is how you decide for your career
+
+471
+00:24:04,000 --> 00:24:06,000
+First
+
+472
+00:24:06,000 --> 00:24:08,000
+4 to 5 years ago
+
+473
+00:24:08,000 --> 00:24:10,000
+That is decided
+
+474
+00:24:10,000 --> 00:24:12,000
+But first 4 to 5 years ago
+
+475
+00:24:12,000 --> 00:24:14,000
+What you will do in your career
+
+476
+00:24:14,000 --> 00:24:16,000
+That is literally
+
+477
+00:24:16,000 --> 00:24:18,000
+A deciding decision
+
+478
+00:24:18,000 --> 00:24:20,000
+That how you will shine in your actual career
+
+479
+00:24:20,000 --> 00:24:22,000
+Will you be on mediocrity
+
+480
+00:24:22,000 --> 00:24:24,000
+Or will you keep struggling
+
+481
+00:24:24,000 --> 00:24:26,000
+The first 5 years
+
+482
+00:24:26,000 --> 00:24:28,000
+Is the decider
+
+483
+00:24:28,000 --> 00:24:30,000
+You can go in any industry
+
+484
+00:24:30,000 --> 00:24:32,000
+Acting, modeling, music
+
+485
+00:24:32,000 --> 00:24:34,000
+IT, fitness
+
+486
+00:24:34,000 --> 00:24:36,000
+Any industry
+
+487
+00:24:36,000 --> 00:24:38,000
+The first 5 years of your journey is the decider
+
+488
+00:24:38,000 --> 00:24:40,000
+For your entire journey
+
+489
+00:24:40,000 --> 00:24:42,000
+If you think you have time
+
+490
+00:24:42,000 --> 00:24:44,000
+You actually don't have time
+
+491
+00:24:44,000 --> 00:24:46,000
+You are actually
+
+492
+00:24:46,000 --> 00:24:48,000
+Degrading your value to be very honest
+
+493
+00:24:52,000 --> 00:24:54,000
+Right
+
+494
+00:24:54,000 --> 00:24:56,000
+I am
+
+495
+00:24:56,000 --> 00:24:58,000
+Yes
+
+496
+00:24:58,000 --> 00:25:00,000
+So
+
+497
+00:25:00,000 --> 00:25:02,000
+I mean
+
+498
+00:25:02,000 --> 00:25:04,000
+No I was saying
+
+499
+00:25:04,000 --> 00:25:06,000
+That definitely what you said
+
+500
+00:25:06,000 --> 00:25:08,000
+That makes sense
+
+501
+00:25:08,000 --> 00:25:10,000
+So
+
+502
+00:25:10,000 --> 00:25:12,000
+The offer I have right now
+
+503
+00:25:12,000 --> 00:25:14,000
+I am not looking to join
+
+504
+00:25:14,000 --> 00:25:16,000
+That company
+
+505
+00:25:16,000 --> 00:25:18,000
+I activate TCS
+
+506
+00:25:18,000 --> 00:25:20,000
+TCS
+
+507
+00:25:20,000 --> 00:25:22,000
+I don't think
+
+508
+00:25:22,000 --> 00:25:24,000
+I am going to join that
+
+509
+00:25:24,000 --> 00:25:26,000
+TCS is not a great company
+
+510
+00:25:26,000 --> 00:25:28,000
+It will always offer you
+
+511
+00:25:28,000 --> 00:25:30,000
+Less package
+
+512
+00:25:30,000 --> 00:25:32,000
+That is what I
+
+513
+00:25:32,000 --> 00:25:34,000
+The least I think in service based company
+
+514
+00:25:34,000 --> 00:25:36,000
+You would provide TCS
+
+515
+00:25:36,000 --> 00:25:38,000
+More than anything
+
+516
+00:25:40,000 --> 00:25:42,000
+Right
+
+517
+00:25:42,000 --> 00:25:44,000
+That is why
+
+518
+00:25:44,000 --> 00:25:46,000
+I was seeing
+
+519
+00:25:46,000 --> 00:25:48,000
+If I have couple of more
+
+520
+00:25:48,000 --> 00:25:50,000
+Job offers like
+
+521
+00:25:50,000 --> 00:25:52,000
+Often let us meet and I will be sure
+
+522
+00:25:52,000 --> 00:25:54,000
+About what to do next
+
+523
+00:25:54,000 --> 00:25:56,000
+You should be already sure
+
+524
+00:25:56,000 --> 00:25:58,000
+See scalar is not going to take out
+
+525
+00:25:58,000 --> 00:26:00,000
+All the burden directly right
+
+526
+00:26:00,000 --> 00:26:02,000
+It's not going to take out
+
+527
+00:26:02,000 --> 00:26:04,000
+That not completely
+
+528
+00:26:04,000 --> 00:26:06,000
+No
+
+529
+00:26:28,000 --> 00:26:30,000
+So the first one and half two months
+
+530
+00:26:30,000 --> 00:26:32,000
+You will feel like getting set
+
+531
+00:26:32,000 --> 00:26:34,000
+The same way
+
+532
+00:26:34,000 --> 00:26:36,000
+You will be studying on your fundamentals
+
+533
+00:26:36,000 --> 00:26:38,000
+Then you are going to
+
+534
+00:26:38,000 --> 00:26:40,000
+Start your DSA
+
+535
+00:26:40,000 --> 00:26:42,000
+Till then your settlement
+
+536
+00:26:42,000 --> 00:26:44,000
+Will be there in your company
+
+537
+00:26:46,000 --> 00:26:48,000
+Starting burden is not going to be there
+
+538
+00:26:48,000 --> 00:26:50,000
+That too your batch will start on 17th
+
+539
+00:26:50,000 --> 00:26:52,000
+From there
+
+540
+00:26:52,000 --> 00:26:54,000
+Two weeks observation period
+
+541
+00:26:54,000 --> 00:26:56,000
+Two weeks like 14 days
+
+542
+00:26:56,000 --> 00:26:58,000
+Right
+
+543
+00:26:58,000 --> 00:27:00,000
+So that will be completed
+
+544
+00:27:00,000 --> 00:27:02,000
+Right
+
+545
+00:27:02,000 --> 00:27:04,000
+Till 30
+
+546
+00:27:04,000 --> 00:27:06,000
+Till 30
+
+547
+00:27:06,000 --> 00:27:08,000
+Till 30 July you have time
+
+548
+00:27:08,000 --> 00:27:10,000
+To understand and analyze
+
+549
+00:27:10,000 --> 00:27:12,000
+That if I am for my career
+
+550
+00:27:12,000 --> 00:27:14,000
+One time
+
+551
+00:27:14,000 --> 00:27:16,000
+I am taking decision for myself
+
+552
+00:27:16,000 --> 00:27:18,000
+One time
+
+553
+00:27:18,000 --> 00:27:20,000
+Am I making a decision wisely
+
+554
+00:27:20,000 --> 00:27:22,000
+The amount of money I am investing
+
+555
+00:27:22,000 --> 00:27:24,000
+Am I investing on right platform
+
+556
+00:27:26,000 --> 00:27:28,000
+That if you will do payment
+
+557
+00:27:28,000 --> 00:27:30,000
+It is not official payment
+
+558
+00:27:30,000 --> 00:27:32,000
+You are going to invest
+
+559
+00:27:32,000 --> 00:27:34,000
+On scalar
+
+560
+00:27:34,000 --> 00:27:36,000
+To understand and have a real time
+
+561
+00:27:36,000 --> 00:27:38,000
+Experience with us
+
+562
+00:27:38,000 --> 00:27:40,000
+Real time
+
+563
+00:27:40,000 --> 00:27:42,000
+Now when you will feel
+
+564
+00:27:42,000 --> 00:27:44,000
+Bro I think this is very important
+
+565
+00:27:44,000 --> 00:27:46,000
+Because such opportunities
+
+566
+00:27:46,000 --> 00:27:48,000
+Means I want my success
+
+567
+00:27:48,000 --> 00:27:50,000
+I want to go to Mintra
+
+568
+00:27:50,000 --> 00:27:52,000
+But to go to Mintra
+
+569
+00:27:52,000 --> 00:27:54,000
+I can go next year
+
+570
+00:27:54,000 --> 00:27:56,000
+By May
+
+571
+00:27:56,000 --> 00:27:58,000
+June also I can go
+
+572
+00:27:58,000 --> 00:28:00,000
+But I am delaying it
+
+573
+00:28:00,000 --> 00:28:02,000
+I want to go on 26th January
+
+574
+00:28:02,000 --> 00:28:04,000
+I want to go
+
+575
+00:28:06,000 --> 00:28:08,000
+I want to go but I just want to
+
+576
+00:28:08,000 --> 00:28:10,000
+Delay in my process
+
+577
+00:28:10,000 --> 00:28:12,000
+So just imagine if you delay your
+
+578
+00:28:12,000 --> 00:28:14,000
+Growth for one year
+
+579
+00:28:14,000 --> 00:28:16,000
+Imagine the amount of money you will lose
+
+580
+00:28:16,000 --> 00:28:18,000
+Because the CTC
+
+581
+00:28:18,000 --> 00:28:20,000
+What you will make right in product based company
+
+582
+00:28:20,000 --> 00:28:22,000
+That's big money
+
+583
+00:28:22,000 --> 00:28:24,000
+So imagine
+
+584
+00:28:24,000 --> 00:28:26,000
+Imagine of losing that continuously
+
+585
+00:28:26,000 --> 00:28:28,000
+For every month for one year
+
+586
+00:28:30,000 --> 00:28:32,000
+Bro your
+
+587
+00:28:32,000 --> 00:28:34,000
+Program that you invest
+
+588
+00:28:34,000 --> 00:28:36,000
+3,24,000
+
+589
+00:28:36,000 --> 00:28:38,000
+As soon as you
+
+590
+00:28:38,000 --> 00:28:40,000
+Complete the program
+
+591
+00:28:40,000 --> 00:28:42,000
+And of course if you are capable enough to
+
+592
+00:28:42,000 --> 00:28:44,000
+Join a very good company out there
+
+593
+00:28:44,000 --> 00:28:46,000
+Product based company
+
+594
+00:28:46,000 --> 00:28:48,000
+You will also be getting joining bonus
+
+595
+00:28:48,000 --> 00:28:50,000
+You know
+
+596
+00:28:50,000 --> 00:28:52,000
+One is joining bonus and very obvious
+
+597
+00:28:52,000 --> 00:28:54,000
+CTC will grow
+
+598
+00:28:54,000 --> 00:28:56,000
+That is very obvious
+
+599
+00:28:56,000 --> 00:28:58,000
+So whatever the investment you have done
+
+600
+00:28:58,000 --> 00:29:00,000
+You are already getting it back
+
+601
+00:29:02,000 --> 00:29:04,000
+Those who are doing 3 LPA
+
+602
+00:29:04,000 --> 00:29:06,000
+4 LPA, 5 LPA
+
+603
+00:29:06,000 --> 00:29:08,000
+Investors above that
+
+604
+00:29:08,000 --> 00:29:10,000
+They were still saving something
+
+605
+00:29:10,000 --> 00:29:12,000
+So they got risk
+
+606
+00:29:12,000 --> 00:29:14,000
+But still good
+
+607
+00:29:14,000 --> 00:29:16,000
+But those less than 6 LPA
+
+608
+00:29:16,000 --> 00:29:18,000
+Literally they were taking a big risk
+
+609
+00:29:18,000 --> 00:29:20,000
+They were getting less salary
+
+610
+00:29:20,000 --> 00:29:22,000
+Literally
+
+611
+00:29:22,000 --> 00:29:24,000
+Right
+
+612
+00:29:24,000 --> 00:29:26,000
+So how are they getting confidence
+
+613
+00:29:26,000 --> 00:29:28,000
+Because they are also done struggling
+
+614
+00:29:28,000 --> 00:29:30,000
+No one enjoys the struggle
+
+615
+00:29:30,000 --> 00:29:32,000
+Right
+
+616
+00:29:32,000 --> 00:29:34,000
+So no one is enjoying
+
+617
+00:29:34,000 --> 00:29:36,000
+Their struggle and getting
+
+618
+00:29:36,000 --> 00:29:38,000
+That less salary
+
+619
+00:29:38,000 --> 00:29:40,000
+So they want to one shot come out of it
+
+620
+00:29:40,000 --> 00:29:42,000
+They are done working for so long
+
+621
+00:29:42,000 --> 00:29:44,000
+Hours
+
+622
+00:29:44,000 --> 00:29:46,000
+But getting paid very less
+
+623
+00:29:46,000 --> 00:29:48,000
+They are getting only 10% salary
+
+624
+00:29:50,000 --> 00:29:52,000
+How much time will they do
+
+625
+00:29:52,000 --> 00:29:54,000
+They are done with that
+
+626
+00:29:54,000 --> 00:29:56,000
+So now they want to struggle little more
+
+627
+00:29:56,000 --> 00:29:58,000
+Let's take that risk but let me do it only for one year
+
+628
+00:29:58,000 --> 00:30:00,000
+And let me come out of it
+
+629
+00:30:00,000 --> 00:30:02,000
+So now once you get your
+
+630
+00:30:02,000 --> 00:30:04,000
+Salary paid
+
+631
+00:30:04,000 --> 00:30:06,000
+You can close the remaining months
+
+632
+00:30:06,000 --> 00:30:08,000
+In one shot
+
+633
+00:30:08,000 --> 00:30:10,000
+So the rest
+
+634
+00:30:10,000 --> 00:30:12,000
+If you went on an interest basis
+
+635
+00:30:12,000 --> 00:30:14,000
+Which is of 16 months
+
+636
+00:30:14,000 --> 00:30:16,000
+So every month including my coupon
+
+637
+00:30:16,000 --> 00:30:18,000
+You get a course in 3,14,000
+
+638
+00:30:18,000 --> 00:30:20,000
+After 3,14,000
+
+639
+00:30:20,000 --> 00:30:22,000
+20,000 rupees if you are paying as an
+
+640
+00:30:22,000 --> 00:30:24,000
+Admission fee
+
+641
+00:30:24,000 --> 00:30:26,000
+So the remaining 2,94,000 in 60 months
+
+642
+00:30:26,000 --> 00:30:28,000
+That's going to be 7,250
+
+643
+00:30:28,000 --> 00:30:30,000
+Or 300 every month
+
+644
+00:30:32,000 --> 00:30:34,000
+Every month including interest
+
+645
+00:30:34,000 --> 00:30:36,000
+So now you have less money
+
+646
+00:30:36,000 --> 00:30:38,000
+Right now
+
+647
+00:30:38,000 --> 00:30:40,000
+So you will go on an interest basis
+
+648
+00:30:40,000 --> 00:30:42,000
+You will manage the 7,250
+
+649
+00:30:42,000 --> 00:30:44,000
+Or whatever because you have to survive
+
+650
+00:30:44,000 --> 00:30:46,000
+You have to see your own expenses
+
+651
+00:30:46,000 --> 00:30:48,000
+Mobile recharge, going out
+
+652
+00:30:48,000 --> 00:30:50,000
+Eating, staying, everything
+
+653
+00:30:50,000 --> 00:30:52,000
+Not like they put everything in struggle
+
+654
+00:30:52,000 --> 00:30:54,000
+For the scaler, that should not happen
+
+655
+00:30:54,000 --> 00:30:56,000
+Right, you should be able to
+
+656
+00:30:56,000 --> 00:30:58,000
+Manage your expenses
+
+657
+00:30:58,000 --> 00:31:00,000
+Survive your 11 months plus
+
+658
+00:31:00,000 --> 00:31:02,000
+Also upskill yourself
+
+659
+00:31:02,000 --> 00:31:04,000
+With planning
+
+660
+00:31:04,000 --> 00:31:06,000
+So now you don't have money, you will go for 16 months
+
+661
+00:31:06,000 --> 00:31:08,000
+CMI, the moment you get
+
+662
+00:31:08,000 --> 00:31:10,000
+Money, so why did you give interest
+
+663
+00:31:10,000 --> 00:31:12,000
+Now you have money
+
+664
+00:31:12,000 --> 00:31:14,000
+Close it off
+
+665
+00:31:16,000 --> 00:31:18,000
+Close it off in one go
+
+666
+00:31:18,000 --> 00:31:20,000
+Now you have no burden with you
+
+667
+00:31:20,000 --> 00:31:22,000
+Now whatever you make, you make it for yourself
+
+668
+00:31:22,000 --> 00:31:24,000
+That means your money
+
+669
+00:31:24,000 --> 00:31:26,000
+Now you have value
+
+670
+00:31:26,000 --> 00:31:28,000
+You have value added to your resume
+
+671
+00:31:28,000 --> 00:31:30,000
+You have company
+
+672
+00:31:30,000 --> 00:31:32,000
+Of course good company offer
+
+673
+00:31:32,000 --> 00:31:34,000
+You have skills
+
+674
+00:31:34,000 --> 00:31:36,000
+Plus you have CTC hike
+
+675
+00:31:36,000 --> 00:31:38,000
+One investment
+
+676
+00:31:38,000 --> 00:31:40,000
+Caught you so many things
+
+677
+00:31:40,000 --> 00:31:42,000
+Solution for so many
+
+678
+00:31:42,000 --> 00:31:44,000
+Problems of yours
+
+679
+00:31:46,000 --> 00:31:48,000
+Plus observation period
+
+680
+00:31:48,000 --> 00:31:50,000
+To see if it is genuinely
+
+681
+00:31:50,000 --> 00:31:52,000
+For me or not
+
+682
+00:31:52,000 --> 00:31:54,000
+Final time
+
+683
+00:31:54,000 --> 00:31:56,000
+You have till July 30
+
+684
+00:31:56,000 --> 00:31:58,000
+July 30
+
+685
+00:31:58,000 --> 00:32:00,000
+Now you will see
+
+686
+00:32:00,000 --> 00:32:02,000
+For experience
+
+687
+00:32:02,000 --> 00:32:04,000
+Whether it is made for me or not
+
+688
+00:32:04,000 --> 00:32:06,000
+If I am missing out
+
+689
+00:32:06,000 --> 00:32:08,000
+Industry standards
+
+690
+00:32:08,000 --> 00:32:10,000
+I know I am not matching industry standards
+
+691
+00:32:10,000 --> 00:32:12,000
+But how much I am lacking
+
+692
+00:32:12,000 --> 00:32:14,000
+How much
+
+693
+00:32:14,000 --> 00:32:16,000
+You don't know
+
+694
+00:32:18,000 --> 00:32:20,000
+That is why you will be joining program
+
+695
+00:32:26,000 --> 00:32:28,000
+You said that I have time till
+
+696
+00:32:28,000 --> 00:32:30,000
+End of next month
+
+697
+00:32:30,000 --> 00:32:32,000
+June 30, 17th is your live class
+
+698
+00:32:32,000 --> 00:32:34,000
+So from there
+
+699
+00:32:34,000 --> 00:32:36,000
+From 14 days you will reach 30
+
+700
+00:32:36,000 --> 00:32:38,000
+So now
+
+701
+00:32:38,000 --> 00:32:40,000
+Whatever the access you will get
+
+702
+00:32:40,000 --> 00:32:42,000
+Suppose you are on boarding today
+
+703
+00:32:42,000 --> 00:32:44,000
+Because you have cleared the test already
+
+704
+00:32:44,000 --> 00:32:46,000
+Suppose you are on boarding yourself today
+
+705
+00:32:46,000 --> 00:32:48,000
+You will be completing your 20,000 rupees payment
+
+706
+00:32:48,000 --> 00:32:50,000
+Of course it is already late
+
+707
+00:32:50,000 --> 00:32:52,000
+Finance team will contact tomorrow
+
+708
+00:32:52,000 --> 00:32:54,000
+Because they have already gone home
+
+709
+00:32:54,000 --> 00:32:56,000
+Finance team will contact tomorrow
+
+710
+00:32:56,000 --> 00:32:58,000
+Your EMI process will be made
+
+711
+00:32:58,000 --> 00:33:00,000
+Will create account
+
+712
+00:33:00,000 --> 00:33:02,000
+I am reiterating it
+
+713
+00:33:02,000 --> 00:33:04,000
+Account will be created
+
+714
+00:33:04,000 --> 00:33:06,000
+Now when you will get access
+
+715
+00:33:06,000 --> 00:33:08,000
+Of dashboard, I will give you that access
+
+716
+00:33:08,000 --> 00:33:10,000
+Directly
+
+717
+00:33:10,000 --> 00:33:12,000
+On boarding team will call and show you
+
+718
+00:33:12,000 --> 00:33:14,000
+The whole dashboard walkthrough
+
+719
+00:33:14,000 --> 00:33:16,000
+Where to access live classes
+
+720
+00:33:16,000 --> 00:33:18,000
+Where to access recorded classes, assignments
+
+721
+00:33:18,000 --> 00:33:20,000
+You will get full training
+
+722
+00:33:20,000 --> 00:33:22,000
+So once that is there
+
+723
+00:33:22,000 --> 00:33:24,000
+You will have many many many
+
+724
+00:33:24,000 --> 00:33:26,000
+Master classes
+
+725
+00:33:26,000 --> 00:33:28,000
+Till today best of best master classes of scalar
+
+726
+00:33:28,000 --> 00:33:30,000
+Will be uploaded in your dashboard
+
+727
+00:33:30,000 --> 00:33:32,000
+All of them
+
+728
+00:33:32,000 --> 00:33:34,000
+Like solid principles
+
+729
+00:33:34,000 --> 00:33:36,000
+How to get a job in abroad
+
+730
+00:33:36,000 --> 00:33:38,000
+How to crack an interview for Amazon
+
+731
+00:33:38,000 --> 00:33:40,000
+What is that
+
+732
+00:33:40,000 --> 00:33:42,000
+Microsoft, Google interviews
+
+733
+00:33:42,000 --> 00:33:44,000
+Many master classes
+
+734
+00:33:44,000 --> 00:33:46,000
+Scalers are coming from years
+
+735
+00:33:46,000 --> 00:33:48,000
+All of the best ones will be uploaded there
+
+736
+00:33:48,000 --> 00:33:50,000
+Plus
+
+737
+00:33:50,000 --> 00:33:52,000
+academic learning videos will also be there
+
+738
+00:33:52,000 --> 00:33:54,000
+So whenever you are free
+
+739
+00:33:54,000 --> 00:33:56,000
+The access you are getting
+
+740
+00:33:56,000 --> 00:33:58,000
+Before 17th
+
+741
+00:33:58,000 --> 00:34:00,000
+This is like
+
+742
+00:34:00,000 --> 00:34:02,000
+Add on advantage you are getting
+
+743
+00:34:02,000 --> 00:34:04,000
+From me
+
+744
+00:34:04,000 --> 00:34:06,000
+This is not costing you
+
+745
+00:34:06,000 --> 00:34:08,000
+Anything extra
+
+746
+00:34:08,000 --> 00:34:10,000
+Your 14 days count
+
+747
+00:34:10,000 --> 00:34:12,000
+Will be from 17th
+
+748
+00:34:12,000 --> 00:34:14,000
+Till then you are getting access
+
+749
+00:34:14,000 --> 00:34:16,000
+To see, to read, to make notes
+
+750
+00:34:16,000 --> 00:34:18,000
+So this is cherry on a cake
+
+751
+00:34:18,000 --> 00:34:20,000
+In simple words
+
+752
+00:34:20,000 --> 00:34:22,000
+To give you better understanding
+
+753
+00:34:22,000 --> 00:34:24,000
+That if I am missing out
+
+754
+00:34:24,000 --> 00:34:26,000
+I am missing out on many things
+
+755
+00:34:26,000 --> 00:34:28,000
+And there will be one more test
+
+756
+00:34:28,000 --> 00:34:30,000
+That will be 3 hours
+
+757
+00:34:30,000 --> 00:34:32,000
+Not a 20 minute test
+
+758
+00:34:32,000 --> 00:34:34,000
+You have to give that in your dashboard
+
+759
+00:34:34,000 --> 00:34:36,000
+In your dashboard
+
+760
+00:34:36,000 --> 00:34:38,000
+The test you will give
+
+761
+00:34:38,000 --> 00:34:40,000
+Will decide
+
+762
+00:34:40,000 --> 00:34:42,000
+That you will go in beginner batch, intermediate
+
+763
+00:34:42,000 --> 00:34:44,000
+And advanced
+
+764
+00:34:44,000 --> 00:34:46,000
+And according to me
+
+765
+00:34:46,000 --> 00:34:48,000
+You should go in intermediate
+
+766
+00:34:48,000 --> 00:34:50,000
+Because I think you are decent enough
+
+767
+00:34:50,000 --> 00:34:52,000
+At your fundamentals
+
+768
+00:34:52,000 --> 00:34:54,000
+You should not waste your time
+
+769
+00:34:54,000 --> 00:34:56,000
+On the fundamentals
+
+770
+00:34:56,000 --> 00:34:58,000
+So you already know decent things
+
+771
+00:34:58,000 --> 00:35:00,000
+You will need to brush
+
+772
+00:35:00,000 --> 00:35:02,000
+A little
+
+773
+00:35:02,000 --> 00:35:04,000
+You just need that brush up
+
+774
+00:35:04,000 --> 00:35:06,000
+So I don't want you
+
+775
+00:35:06,000 --> 00:35:08,000
+To go into beginners
+
+776
+00:35:08,000 --> 00:35:10,000
+Intermediate should be the best one
+
+777
+00:35:10,000 --> 00:35:12,000
+Not intermediate, intermediate is refresher
+
+778
+00:35:12,000 --> 00:35:14,000
+Intermediate is different, intermediate is refresher
+
+779
+00:35:14,000 --> 00:35:16,000
+So you are working on Java
+
+780
+00:35:16,000 --> 00:35:18,000
+Or Python
+
+781
+00:35:18,000 --> 00:35:20,000
+Currently I am working on Java itself
+
+782
+00:35:20,000 --> 00:35:22,000
+So you have to go for
+
+783
+00:35:22,000 --> 00:35:24,000
+Intermediate, refresher, Java
+
+784
+00:35:24,000 --> 00:35:26,000
+There are options
+
+785
+00:35:26,000 --> 00:35:28,000
+Those who work on Java
+
+786
+00:35:28,000 --> 00:35:30,000
+Intermediate, refresher, Java
+
+787
+00:35:30,000 --> 00:35:32,000
+Or Intermediate, refresher, Python
+
+788
+00:35:32,000 --> 00:35:34,000
+So you will select there
+
+789
+00:35:34,000 --> 00:35:36,000
+So they will tell you which options you are capable of
+
+790
+00:35:36,000 --> 00:35:38,000
+And you have to go for intermediate
+
+791
+00:35:38,000 --> 00:35:40,000
+That is what I believe
+
+792
+00:35:40,000 --> 00:35:42,000
+So as soon as you join there
+
+793
+00:35:42,000 --> 00:35:44,000
+First 1 month will go on fundamentals
+
+794
+00:35:44,000 --> 00:35:46,000
+Then you will start focusing on your DSA
+
+795
+00:35:46,000 --> 00:35:48,000
+Data structure and algorithms
+
+796
+00:35:48,000 --> 00:35:50,000
+Right, now you will complete
+
+797
+00:35:50,000 --> 00:35:52,000
+Your 6th month till advanced level
+
+798
+00:35:54,000 --> 00:35:56,000
+Now you will start mock interviews
+
+799
+00:35:56,000 --> 00:35:58,000
+As soon as mock interviews will start
+
+800
+00:35:58,000 --> 00:36:00,000
+On the other side your specialization will come
+
+801
+00:36:00,000 --> 00:36:02,000
+That is back end, front end
+
+802
+00:36:02,000 --> 00:36:04,000
+Full stack
+
+803
+00:36:04,000 --> 00:36:06,000
+Completing that
+
+804
+00:36:06,000 --> 00:36:08,000
+You will be reaching for system design
+
+805
+00:36:08,000 --> 00:36:10,000
+Because project also has to work
+
+806
+00:36:10,000 --> 00:36:12,000
+On scalability, right
+
+807
+00:36:12,000 --> 00:36:14,000
+So system design, low level, high level
+
+808
+00:36:14,000 --> 00:36:16,000
+Design will be finished
+
+809
+00:36:16,000 --> 00:36:18,000
+Now coming for electives
+
+810
+00:36:18,000 --> 00:36:20,000
+There will be 2 things in electives
+
+811
+00:36:20,000 --> 00:36:22,000
+One is competitive DSA
+
+812
+00:36:22,000 --> 00:36:24,000
+Second is product management
+
+813
+00:36:24,000 --> 00:36:26,000
+So product management usually
+
+814
+00:36:26,000 --> 00:36:28,000
+Will take 8-9 years experience
+
+815
+00:36:28,000 --> 00:36:30,000
+Means 7 plus
+
+816
+00:36:30,000 --> 00:36:32,000
+Because they want to become manager
+
+817
+00:36:32,000 --> 00:36:34,000
+Want promotion, want to handle team
+
+818
+00:36:34,000 --> 00:36:36,000
+They have to learn
+
+819
+00:36:36,000 --> 00:36:38,000
+Manage level of things
+
+820
+00:36:38,000 --> 00:36:40,000
+So that
+
+821
+00:36:40,000 --> 00:36:42,000
+If it will be less than 5 years or 7 years
+
+822
+00:36:42,000 --> 00:36:44,000
+Then I would always say
+
+823
+00:36:44,000 --> 00:36:46,000
+Go for competitive DSA because
+
+824
+00:36:46,000 --> 00:36:48,000
+The more you learn DSA
+
+825
+00:36:48,000 --> 00:36:50,000
+The better
+
+826
+00:36:50,000 --> 00:36:52,000
+The one who will teach competitive DSA
+
+827
+00:36:52,000 --> 00:36:54,000
+That is directly for cracking
+
+828
+00:36:54,000 --> 00:36:56,000
+An interview for Google
+
+829
+00:36:56,000 --> 00:36:58,000
+Just Google
+
+830
+00:36:58,000 --> 00:37:00,000
+Because Google interview questions
+
+831
+00:37:00,000 --> 00:37:02,000
+You don't get in lead code
+
+832
+00:37:02,000 --> 00:37:04,000
+The moment they understand
+
+833
+00:37:04,000 --> 00:37:06,000
+That our interview questions went to lead code
+
+834
+00:37:06,000 --> 00:37:08,000
+The interview questions change
+
+835
+00:37:08,000 --> 00:37:10,000
+In Google
+
+836
+00:37:10,000 --> 00:37:12,000
+Always, always
+
+837
+00:37:12,000 --> 00:37:14,000
+Only Google
+
+838
+00:37:14,000 --> 00:37:16,000
+Amazon
+
+839
+00:37:16,000 --> 00:37:18,000
+Amazon is decent enough
+
+840
+00:37:18,000 --> 00:37:20,000
+The moment they understand
+
+841
+00:37:20,000 --> 00:37:22,000
+Our question went to lead code
+
+842
+00:37:22,000 --> 00:37:24,000
+They will change the interview question
+
+843
+00:37:24,000 --> 00:37:26,000
+They will twist it
+
+844
+00:37:26,000 --> 00:37:28,000
+So why we know this
+
+845
+00:37:28,000 --> 00:37:30,000
+Because our instructors are there
+
+846
+00:37:30,000 --> 00:37:32,000
+From Google who have not just been
+
+847
+00:37:32,000 --> 00:37:34,000
+Working in Google but have been also
+
+848
+00:37:34,000 --> 00:37:36,000
+Conducting the interviews for Google
+
+849
+00:37:38,000 --> 00:37:40,000
+So they know the insights, right
+
+850
+00:37:40,000 --> 00:37:42,000
+So here
+
+851
+00:37:42,000 --> 00:37:44,000
+Especially the
+
+852
+00:37:44,000 --> 00:37:46,000
+Competitive DSA
+
+853
+00:37:46,000 --> 00:37:48,000
+The man companies
+
+854
+00:37:48,000 --> 00:37:50,000
+Who want to crack Google
+
+855
+00:37:50,000 --> 00:37:52,000
+Only for them
+
+856
+00:37:52,000 --> 00:37:54,000
+The more you show
+
+857
+00:37:54,000 --> 00:37:56,000
+Interest to learn
+
+858
+00:37:56,000 --> 00:37:58,000
+You are also good
+
+859
+00:37:58,000 --> 00:38:00,000
+It is an advantage for you
+
+860
+00:38:00,000 --> 00:38:02,000
+So for my learners
+
+861
+00:38:02,000 --> 00:38:04,000
+I always say
+
+862
+00:38:04,000 --> 00:38:06,000
+If it is less than 7 years then please focus on DSA
+
+863
+00:38:06,000 --> 00:38:08,000
+You can see it later on the managerial level
+
+864
+00:38:10,000 --> 00:38:12,000
+So it is a planning
+
+865
+00:38:12,000 --> 00:38:14,000
+If you are liking it then continue
+
+866
+00:38:14,000 --> 00:38:16,000
+Because you will know
+
+867
+00:38:16,000 --> 00:38:18,000
+That this problem
+
+868
+00:38:18,000 --> 00:38:20,000
+I was solving it like this
+
+869
+00:38:20,000 --> 00:38:22,000
+But I could have solved it like this
+
+870
+00:38:24,000 --> 00:38:26,000
+You know your approach
+
+871
+00:38:28,000 --> 00:38:30,000
+You know your process
+
+872
+00:38:30,000 --> 00:38:32,000
+But you know I am also lagging
+
+873
+00:38:32,000 --> 00:38:34,000
+How much
+
+874
+00:38:36,000 --> 00:38:38,000
+You don't know that
+
+875
+00:38:38,000 --> 00:38:40,000
+How much
+
+876
+00:38:40,000 --> 00:38:42,000
+Now when you will know
+
+877
+00:38:42,000 --> 00:38:44,000
+You will see that without these people
+
+878
+00:38:44,000 --> 00:38:46,000
+If I go with self preparation
+
+879
+00:38:46,000 --> 00:38:48,000
+Then in the next one year
+
+880
+00:38:48,000 --> 00:38:50,000
+I think
+
+881
+00:38:50,000 --> 00:38:52,000
+I can give interviews
+
+882
+00:38:52,000 --> 00:38:54,000
+With this type of company
+
+883
+00:38:54,000 --> 00:38:56,000
+And I will crack it
+
+884
+00:38:56,000 --> 00:38:58,000
+But if with such people
+
+885
+00:38:58,000 --> 00:39:00,000
+With such approach
+
+886
+00:39:00,000 --> 00:39:02,000
+Continuously 8 to 11 months
+
+887
+00:39:02,000 --> 00:39:04,000
+If I am
+
+888
+00:39:04,000 --> 00:39:06,000
+Every day on a basis investing
+
+889
+00:39:06,000 --> 00:39:08,000
+Then I am very sure
+
+890
+00:39:08,000 --> 00:39:10,000
+That I will do it for myself
+
+891
+00:39:10,000 --> 00:39:12,000
+Means it will tell you your gut feeling
+
+892
+00:39:12,000 --> 00:39:14,000
+Bro
+
+893
+00:39:14,000 --> 00:39:16,000
+You don't have to talk to Sujit or your mentor
+
+894
+00:39:16,000 --> 00:39:18,000
+Or me
+
+895
+00:39:18,000 --> 00:39:20,000
+Your own gut feeling will tell you because you know your previous approach
+
+896
+00:39:20,000 --> 00:39:22,000
+And you know what you have got from it
+
+897
+00:39:22,000 --> 00:39:24,000
+Because you can see it now
+
+898
+00:39:24,000 --> 00:39:26,000
+In your account
+
+899
+00:39:28,000 --> 00:39:30,000
+Right
+
+900
+00:39:30,000 --> 00:39:32,000
+So now you just have to see
+
+901
+00:39:32,000 --> 00:39:34,000
+How I can make it different
+
+902
+00:39:34,000 --> 00:39:36,000
+And you will get a better outcome
+
+903
+00:39:36,000 --> 00:39:38,000
+Because the same approach will give you same money
+
+904
+00:39:42,000 --> 00:39:44,000
+Unless you change your way of operating
+
+905
+00:39:44,000 --> 00:39:46,000
+And delivering the things
+
+906
+00:39:46,000 --> 00:39:48,000
+You cannot aim for better money
+
+907
+00:39:50,000 --> 00:39:52,000
+You cannot
+
+908
+00:39:52,000 --> 00:39:54,000
+How can you expect
+
+909
+00:39:54,000 --> 00:39:56,000
+You are not working out
+
+910
+00:39:56,000 --> 00:39:58,000
+You are not lifting weights
+
+911
+00:39:58,000 --> 00:40:00,000
+But you are expecting to have a good muscle mass
+
+912
+00:40:00,000 --> 00:40:02,000
+And drop your body fat
+
+913
+00:40:02,000 --> 00:40:04,000
+Right
+
+914
+00:40:06,000 --> 00:40:08,000
+If you want to drop your body fat
+
+915
+00:40:08,000 --> 00:40:10,000
+And gain your muscle mass
+
+916
+00:40:10,000 --> 00:40:12,000
+That means you have to lift weight
+
+917
+00:40:12,000 --> 00:40:14,000
+Every day you have not the same weight
+
+918
+00:40:14,000 --> 00:40:16,000
+You have to lift weight
+
+919
+00:40:16,000 --> 00:40:18,000
+Every day more
+
+920
+00:40:18,000 --> 00:40:20,000
+You have to push your limits
+
+921
+00:40:20,000 --> 00:40:22,000
+Weights have to increase every day
+
+922
+00:40:22,000 --> 00:40:24,000
+Not every day
+
+923
+00:40:24,000 --> 00:40:26,000
+Means every week at least you should have one push more
+
+924
+00:40:26,000 --> 00:40:28,000
+Right
+
+925
+00:40:28,000 --> 00:40:30,000
+One reputation should be more
+
+926
+00:40:30,000 --> 00:40:32,000
+Right
+
+927
+00:40:32,000 --> 00:40:34,000
+Then proper sleep, proper nutrition
+
+928
+00:40:34,000 --> 00:40:36,000
+Only then you will get the result
+
+929
+00:40:36,000 --> 00:40:38,000
+Till now you were sleeping
+
+930
+00:40:38,000 --> 00:40:40,000
+And you were doing fine
+
+931
+00:40:40,000 --> 00:40:42,000
+But now you want a good body
+
+932
+00:40:42,000 --> 00:40:44,000
+But you are sleeping
+
+933
+00:40:46,000 --> 00:40:48,000
+How? It will not work
+
+934
+00:40:50,000 --> 00:40:52,000
+That is exactly what you have to look forward for
+
+935
+00:40:52,000 --> 00:40:54,000
+In your case
+
+936
+00:40:54,000 --> 00:40:56,000
+You need better outcome
+
+937
+00:40:56,000 --> 00:40:58,000
+And you badly want to get out of this
+
+938
+00:40:58,000 --> 00:41:00,000
+Because there are decent service based companies
+
+939
+00:41:00,000 --> 00:41:02,000
+Who are not paying you enough
+
+940
+00:41:02,000 --> 00:41:04,000
+Of your hard work
+
+941
+00:41:04,000 --> 00:41:06,000
+Change the process of how you are operating
+
+942
+00:41:08,000 --> 00:41:10,000
+The way you are operating with people
+
+943
+00:41:12,000 --> 00:41:14,000
+Change it
+
+944
+00:41:14,000 --> 00:41:16,000
+Because the way you invest time with people
+
+945
+00:41:16,000 --> 00:41:18,000
+You become like them
+
+946
+00:41:18,000 --> 00:41:20,000
+So imagine bro
+
+947
+00:41:20,000 --> 00:41:22,000
+With you, in your batch
+
+948
+00:41:22,000 --> 00:41:24,000
+Let's take intermediate
+
+949
+00:41:24,000 --> 00:41:26,000
+For now
+
+950
+00:41:26,000 --> 00:41:28,000
+We will be with you
+
+951
+00:41:28,000 --> 00:41:30,000
+Your age, 2 years up, down
+
+952
+00:41:30,000 --> 00:41:32,000
+We will be like this
+
+953
+00:41:32,000 --> 00:41:34,000
+So now imagine
+
+954
+00:41:34,000 --> 00:41:36,000
+What is the current company? Accenture?
+
+955
+00:41:38,000 --> 00:41:40,000
+Capgemini
+
+956
+00:41:40,000 --> 00:41:42,000
+So how will we meet in capgemini?
+
+957
+00:41:42,000 --> 00:41:44,000
+Barely some people
+
+958
+00:41:44,000 --> 00:41:46,000
+Who are genuinely looking forward
+
+959
+00:41:46,000 --> 00:41:48,000
+For the growth, like 10%
+
+960
+00:41:48,000 --> 00:41:50,000
+And some people will be like
+
+961
+00:41:50,000 --> 00:41:52,000
+Why am I coming to office?
+
+962
+00:41:52,000 --> 00:41:54,000
+Why did I do engineering?
+
+963
+00:41:54,000 --> 00:41:56,000
+Some people will be like
+
+964
+00:41:56,000 --> 00:41:58,000
+Let it be, let it be
+
+965
+00:41:58,000 --> 00:42:00,000
+Why upskill? What course?
+
+966
+00:42:00,000 --> 00:42:02,000
+It's okay
+
+967
+00:42:02,000 --> 00:42:04,000
+Some other people will be like
+
+968
+00:42:04,000 --> 00:42:06,000
+Upskill bro, that, that
+
+969
+00:42:06,000 --> 00:42:08,000
+Just the ones who speak
+
+970
+00:42:08,000 --> 00:42:10,000
+So you will have so many different types of people here
+
+971
+00:42:10,000 --> 00:42:12,000
+Now imagine
+
+972
+00:42:12,000 --> 00:42:14,000
+You are actually sitting in the class of
+
+973
+00:42:14,000 --> 00:42:16,000
+Scaler, intermediate
+
+974
+00:42:16,000 --> 00:42:18,000
+Everyone is having some background
+
+975
+00:42:18,000 --> 00:42:20,000
+No one is happy with their CTC
+
+976
+00:42:20,000 --> 00:42:22,000
+And responsibility
+
+977
+00:42:22,000 --> 00:42:24,000
+But everyone wants to move forward
+
+978
+00:42:28,000 --> 00:42:30,000
+Everyone
+
+979
+00:42:30,000 --> 00:42:32,000
+Because everyone
+
+980
+00:42:32,000 --> 00:42:34,000
+You earn 80 LPA, you earn 8 LPA
+
+981
+00:42:34,000 --> 00:42:36,000
+Bro, 3 lakh rupees is a very big
+
+982
+00:42:36,000 --> 00:42:38,000
+Investment for anyone
+
+983
+00:42:38,000 --> 00:42:40,000
+Right?
+
+984
+00:42:40,000 --> 00:42:42,000
+And everyone has taken such a big risk
+
+985
+00:42:42,000 --> 00:42:44,000
+And invested in
+
+986
+00:42:44,000 --> 00:42:46,000
+Scaler that
+
+987
+00:42:46,000 --> 00:42:48,000
+No matter what, I have to move forward
+
+988
+00:42:48,000 --> 00:42:50,000
+Now
+
+989
+00:42:50,000 --> 00:42:52,000
+So you are
+
+990
+00:42:52,000 --> 00:42:54,000
+Automatically surrounded by
+
+991
+00:42:54,000 --> 00:42:56,000
+The people who are genuinely
+
+992
+00:42:56,000 --> 00:42:58,000
+Serious about their career
+
+993
+00:42:58,000 --> 00:43:00,000
+Plus
+
+994
+00:43:00,000 --> 00:43:02,000
+The advantage of being a boy
+
+995
+00:43:02,000 --> 00:43:04,000
+Which I had given this solution
+
+996
+00:43:04,000 --> 00:43:06,000
+Okay, which
+
+997
+00:43:06,000 --> 00:43:08,000
+At that time
+
+998
+00:43:08,000 --> 00:43:10,000
+Which is your Monday class
+
+999
+00:43:10,000 --> 00:43:12,000
+Okay, Monday class is over
+
+1000
+00:43:12,000 --> 00:43:14,000
+Now it's not Tuesday class
+
+1001
+00:43:14,000 --> 00:43:16,000
+So at night from 9 to 11
+
+1002
+00:43:16,000 --> 00:43:18,000
+It was a class, Monday, now it's not Tuesday
+
+1003
+00:43:18,000 --> 00:43:20,000
+So in the class
+
+1004
+00:43:20,000 --> 00:43:22,000
+Boys make friends very quick
+
+1005
+00:43:22,000 --> 00:43:24,000
+Right?
+
+1006
+00:43:24,000 --> 00:43:26,000
+You make friends very quick
+
+1007
+00:43:26,000 --> 00:43:28,000
+So you can connect
+
+1008
+00:43:28,000 --> 00:43:30,000
+With them on LinkedIn
+
+1009
+00:43:30,000 --> 00:43:32,000
+Or WhatsApp and everything
+
+1010
+00:43:32,000 --> 00:43:34,000
+Now you will start doing combined study
+
+1011
+00:43:34,000 --> 00:43:36,000
+On Google Meet
+
+1012
+00:43:36,000 --> 00:43:38,000
+You will not just have fun, but you will start
+
+1013
+00:43:38,000 --> 00:43:40,000
+Learning things productively
+
+1014
+00:43:40,000 --> 00:43:42,000
+Which girls don't do
+
+1015
+00:43:42,000 --> 00:43:44,000
+Because girls are a little selfish on growing
+
+1016
+00:43:44,000 --> 00:43:46,000
+Themself up
+
+1017
+00:43:46,000 --> 00:43:48,000
+They don't do it, I am very honest
+
+1018
+00:43:48,000 --> 00:43:50,000
+Boys do it and this is a suggestion
+
+1019
+00:43:50,000 --> 00:43:52,000
+I used to give since those days
+
+1020
+00:43:52,000 --> 00:43:54,000
+And till today
+
+1021
+00:43:54,000 --> 00:43:56,000
+It is star
+
+1022
+00:43:56,000 --> 00:43:58,000
+Till today, it's never been a flop
+
+1023
+00:44:00,000 --> 00:44:02,000
+Never, so you are
+
+1024
+00:44:02,000 --> 00:44:04,000
+Being surrounded by those type of boys
+
+1025
+00:44:04,000 --> 00:44:06,000
+Which everyone wants to move forward
+
+1026
+00:44:06,000 --> 00:44:08,000
+And everyone targets
+
+1027
+00:44:08,000 --> 00:44:10,000
+Only product based company
+
+1028
+00:44:12,000 --> 00:44:14,000
+So your network will automatically
+
+1029
+00:44:14,000 --> 00:44:16,000
+Start becoming very strong and very technical
+
+1030
+00:44:18,000 --> 00:44:20,000
+Who is just aiming for growth
+
+1031
+00:44:22,000 --> 00:44:24,000
+You are just delaying
+
+1032
+00:44:24,000 --> 00:44:26,000
+What you can get in the coming June
+
+1033
+00:44:28,000 --> 00:44:30,000
+You want to get it in 2026 June
+
+1034
+00:44:34,000 --> 00:44:36,000
+It's not like you are not looking for growth
+
+1035
+00:44:36,000 --> 00:44:38,000
+I didn't say that
+
+1036
+00:44:38,000 --> 00:44:40,000
+You are just delaying your success
+
+1037
+00:44:44,000 --> 00:44:46,000
+That's it
+
+1038
+00:44:48,000 --> 00:44:50,000
+If you don't have intent
+
+1039
+00:44:50,000 --> 00:44:52,000
+You don't talk to me till now
+
+1040
+00:44:52,000 --> 00:44:54,000
+It's simple
+
+1041
+00:44:56,000 --> 00:44:58,000
+Actually I have a friend
+
+1042
+00:44:58,000 --> 00:45:00,000
+He was in CLA
+
+1043
+00:45:00,000 --> 00:45:02,000
+And he is in Amazon now
+
+1044
+00:45:04,000 --> 00:45:06,000
+Now you have to take admission
+
+1045
+00:45:06,000 --> 00:45:08,000
+Now you have to take admission
+
+1046
+00:45:08,000 --> 00:45:10,000
+You have a friend
+
+1047
+00:45:10,000 --> 00:45:12,000
+Who did the program
+
+1048
+00:45:12,000 --> 00:45:14,000
+He is in Amazon
+
+1049
+00:45:14,000 --> 00:45:16,000
+And now you are thinking
+
+1050
+00:45:16,000 --> 00:45:18,000
+Are you serious right now?
+
+1051
+00:45:20,000 --> 00:45:22,000
+I don't have any confusion
+
+1052
+00:45:22,000 --> 00:45:24,000
+On whether to join Scaler or not
+
+1053
+00:45:26,000 --> 00:45:28,000
+I am not questioning
+
+1054
+00:45:32,000 --> 00:45:34,000
+The credibility
+
+1055
+00:45:34,000 --> 00:45:36,000
+Of the program
+
+1056
+00:45:36,000 --> 00:45:38,000
+I know that because
+
+1057
+00:45:38,000 --> 00:45:40,000
+Myself I have a friend
+
+1058
+00:45:40,000 --> 00:45:42,000
+And now I am not in touch
+
+1059
+00:45:42,000 --> 00:45:44,000
+With him actually
+
+1060
+00:45:44,000 --> 00:45:46,000
+But I know that we have done
+
+1061
+00:45:46,000 --> 00:45:48,000
+Some classes from Scaler
+
+1062
+00:45:48,000 --> 00:45:50,000
+And he is now in Amazon
+
+1063
+00:45:50,000 --> 00:45:52,000
+What is stopping you? Time management?
+
+1064
+00:45:54,000 --> 00:45:56,000
+Not as a time management
+
+1065
+00:45:56,000 --> 00:45:58,000
+But I told the same thing
+
+1066
+00:45:58,000 --> 00:46:00,000
+To Shibit as well
+
+1067
+00:46:00,000 --> 00:46:02,000
+Just let me get
+
+1068
+00:46:02,000 --> 00:46:04,000
+A job
+
+1069
+00:46:04,000 --> 00:46:06,000
+Like if I am
+
+1070
+00:46:06,000 --> 00:46:08,000
+Now you will get a job
+
+1071
+00:46:08,000 --> 00:46:10,000
+The increase has been made
+
+1072
+00:46:10,000 --> 00:46:12,000
+Officially
+
+1073
+00:46:12,000 --> 00:46:14,000
+The increase has been made
+
+1074
+00:46:14,000 --> 00:46:16,000
+So by the time you plan and come to the job
+
+1075
+00:46:16,000 --> 00:46:18,000
+Scaler will not wait for you
+
+1076
+00:46:18,000 --> 00:46:20,000
+Scaler will not wait for you
+
+1077
+00:46:20,000 --> 00:46:22,000
+Obviously
+
+1078
+00:46:22,000 --> 00:46:24,000
+Scaler has been without you for so many years
+
+1079
+00:46:24,000 --> 00:46:26,000
+So it's not like Scaler is waiting for you
+
+1080
+00:46:26,000 --> 00:46:28,000
+No joining
+
+1081
+00:46:28,000 --> 00:46:30,000
+So you have to see
+
+1082
+00:46:30,000 --> 00:46:32,000
+Am I adding value
+
+1083
+00:46:32,000 --> 00:46:34,000
+Because you won't face so much pressure
+
+1084
+00:46:34,000 --> 00:46:36,000
+You will be very motivated
+
+1085
+00:46:36,000 --> 00:46:38,000
+And so happy
+
+1086
+00:46:38,000 --> 00:46:40,000
+That something is going to happen
+
+1087
+00:46:40,000 --> 00:46:42,000
+I am working on my dreams
+
+1088
+00:46:42,000 --> 00:46:44,000
+I am working on my dreams
+
+1089
+00:46:44,000 --> 00:46:46,000
+Right
+
+1090
+00:46:46,000 --> 00:46:48,000
+Maybe you will get a delay
+
+1091
+00:46:48,000 --> 00:46:50,000
+Maybe you will get an offer
+
+1092
+00:46:50,000 --> 00:46:52,000
+For only 14 LPA
+
+1093
+00:46:52,000 --> 00:46:54,000
+But you are aiming for 16
+
+1094
+00:46:54,000 --> 00:46:56,000
+But the confidence of you
+
+1095
+00:46:56,000 --> 00:46:58,000
+Learning from Scaler
+
+1096
+00:46:58,000 --> 00:47:00,000
+You will be like bro let me get this job out there
+
+1097
+00:47:00,000 --> 00:47:02,000
+I will do this
+
+1098
+00:47:02,000 --> 00:47:04,000
+But my aim is
+
+1099
+00:47:04,000 --> 00:47:06,000
+You know the aim
+
+1100
+00:47:06,000 --> 00:47:08,000
+That's why I joined Scaler
+
+1101
+00:47:08,000 --> 00:47:10,000
+You know the outcome
+
+1102
+00:47:10,000 --> 00:47:12,000
+Right
+
+1103
+00:47:12,000 --> 00:47:14,000
+So that is what it is then
+
+1104
+00:47:16,000 --> 00:47:18,000
+And
+
+1105
+00:47:18,000 --> 00:47:20,000
+Don't think in the short term
+
+1106
+00:47:20,000 --> 00:47:22,000
+Never in IT
+
+1107
+00:47:22,000 --> 00:47:24,000
+Don't plan according to the short term
+
+1108
+00:47:24,000 --> 00:47:26,000
+It is too dangerous
+
+1109
+00:47:26,000 --> 00:47:28,000
+IT is so uncertain
+
+1110
+00:47:28,000 --> 00:47:30,000
+That anything can happen
+
+1111
+00:47:30,000 --> 00:47:32,000
+With or without notice
+
+1112
+00:47:34,000 --> 00:47:36,000
+Right
+
+1113
+00:47:36,000 --> 00:47:38,000
+Start operating
+
+1114
+00:47:38,000 --> 00:47:40,000
+And start taking actions
+
+1115
+00:47:40,000 --> 00:47:42,000
+For long term
+
+1116
+00:47:42,000 --> 00:47:44,000
+The long term
+
+1117
+00:47:44,000 --> 00:47:46,000
+The action that you will start operating
+
+1118
+00:47:46,000 --> 00:47:48,000
+That is literally connected
+
+1119
+00:47:48,000 --> 00:47:50,000
+To your short term goal
+
+1120
+00:47:52,000 --> 00:47:54,000
+That has to be
+
+1121
+00:47:54,000 --> 00:47:56,000
+Because this long term goal
+
+1122
+00:47:56,000 --> 00:47:58,000
+Is connected to every of your other
+
+1123
+00:47:58,000 --> 00:48:00,000
+Growth
+
+1124
+00:48:06,000 --> 00:48:08,000
+Very simple
+
+1125
+00:48:08,000 --> 00:48:10,000
+Don't just focus on short term
+
+1126
+00:48:10,000 --> 00:48:12,000
+What is the end goal
+
+1127
+00:48:12,000 --> 00:48:14,000
+Where you want to see yourself
+
+1128
+00:48:14,000 --> 00:48:16,000
+Look at that
+
+1129
+00:48:18,000 --> 00:48:20,000
+That's more important
+
+1130
+00:48:20,000 --> 00:48:22,000
+Along with that
+
+1131
+00:48:22,000 --> 00:48:24,000
+Because you are not taking
+
+1132
+00:48:24,000 --> 00:48:26,000
+Property for 3 LPA
+
+1133
+00:48:26,000 --> 00:48:28,000
+And here short term goal is
+
+1134
+00:48:28,000 --> 00:48:30,000
+That you want growth
+
+1135
+00:48:30,000 --> 00:48:32,000
+That is the destination
+
+1136
+00:48:32,000 --> 00:48:34,000
+Which is giving you a transition
+
+1137
+00:48:34,000 --> 00:48:36,000
+Not a company switch
+
+1138
+00:48:36,000 --> 00:48:38,000
+Company switches
+
+1139
+00:48:38,000 --> 00:48:40,000
+For hike
+
+1140
+00:48:40,000 --> 00:48:42,000
+This you are doing
+
+1141
+00:48:42,000 --> 00:48:44,000
+For the transition with respect
+
+1142
+00:48:44,000 --> 00:48:46,000
+To your learning
+
+1143
+00:48:46,000 --> 00:48:48,000
+What is that? Company
+
+1144
+00:48:48,000 --> 00:48:50,000
+Responsibilities and CTC
+
+1145
+00:48:50,000 --> 00:48:52,000
+Overall comes with your
+
+1146
+00:48:52,000 --> 00:48:54,000
+Happiness
+
+1147
+00:48:56,000 --> 00:48:58,000
+Along with this
+
+1148
+00:48:58,000 --> 00:49:00,000
+Everything else
+
+1149
+00:49:00,000 --> 00:49:02,000
+On your short term will be getting
+
+1150
+00:49:02,000 --> 00:49:04,000
+Connected automatically
+
+1151
+00:49:04,000 --> 00:49:06,000
+Everything else
+
+1152
+00:49:06,000 --> 00:49:08,000
+Because this is also for your
+
+1153
+00:49:08,000 --> 00:49:10,000
+Education and growth
+
+1154
+00:49:10,000 --> 00:49:12,000
+Not like here
+
+1155
+00:49:12,000 --> 00:49:14,000
+Different investment is going on
+
+1156
+00:49:14,000 --> 00:49:16,000
+Here different plan is going on
+
+1157
+00:49:18,000 --> 00:49:20,000
+Secure long term
+
+1158
+00:49:20,000 --> 00:49:22,000
+Not short term
+
+1159
+00:49:22,000 --> 00:49:24,000
+And you still have time
+
+1160
+00:49:24,000 --> 00:49:26,000
+You are not getting credibility
+
+1161
+00:49:26,000 --> 00:49:28,000
+Not 3 LPA
+
+1162
+00:49:28,000 --> 00:49:30,000
+I think I can manage by myself
+
+1163
+00:49:30,000 --> 00:49:32,000
+Opt for refund then
+
+1164
+00:49:32,000 --> 00:49:34,000
+You have time
+
+1165
+00:49:34,000 --> 00:49:36,000
+For observation
+
+1166
+00:49:36,000 --> 00:49:38,000
+Literally you have time
+
+1167
+00:49:38,000 --> 00:49:40,000
+Of 1.5 to 2 month
+
+1168
+00:49:40,000 --> 00:49:42,000
+Right
+
+1169
+00:49:42,000 --> 00:49:44,000
+Just a second
+
+1170
+00:49:44,000 --> 00:49:46,000
+Somebody is here
+
+1171
+00:49:46,000 --> 00:49:48,000
+5 minutes
+
+1172
+00:49:48,000 --> 00:49:50,000
+Right
+
+1173
+00:49:50,000 --> 00:49:52,000
+So on the other side
+
+1174
+00:49:52,000 --> 00:49:54,000
+Right
+
+1175
+00:49:54,000 --> 00:49:56,000
+You have to understand
+
+1176
+00:49:56,000 --> 00:49:58,000
+That I am planning
+
+1177
+00:49:58,000 --> 00:50:00,000
+So I am taking my future
+
+1178
+00:50:00,000 --> 00:50:02,000
+On security
+
+1179
+00:50:02,000 --> 00:50:04,000
+I need a solution now
+
+1180
+00:50:08,000 --> 00:50:10,000
+You have job in your hand
+
+1181
+00:50:10,000 --> 00:50:12,000
+That is the best part
+
+1182
+00:50:12,000 --> 00:50:14,000
+There are people who doesn't have no job
+
+1183
+00:50:14,000 --> 00:50:16,000
+And still they have taken a risk
+
+1184
+00:50:16,000 --> 00:50:18,000
+On doing the scalar course
+
+1185
+00:50:18,000 --> 00:50:20,000
+Still
+
+1186
+00:50:20,000 --> 00:50:22,000
+See their intent
+
+1187
+00:50:22,000 --> 00:50:24,000
+To move forward
+
+1188
+00:50:24,000 --> 00:50:26,000
+They must be tired
+
+1189
+00:50:26,000 --> 00:50:28,000
+Second is stubbornness
+
+1190
+00:50:28,000 --> 00:50:30,000
+Third is fear
+
+1191
+00:50:30,000 --> 00:50:32,000
+Obviously they will stay
+
+1192
+00:50:32,000 --> 00:50:34,000
+They will stay
+
+1193
+00:50:34,000 --> 00:50:36,000
+Obviously
+
+1194
+00:50:36,000 --> 00:50:38,000
+Industry expectation will increase
+
+1195
+00:50:38,000 --> 00:50:40,000
+Now in this time
+
+1196
+00:50:40,000 --> 00:50:42,000
+You are not able to crack in less experience
+
+1197
+00:50:42,000 --> 00:50:44,000
+So when experience will increase
+
+1198
+00:50:44,000 --> 00:50:46,000
+Then questions will also increase
+
+1199
+00:50:46,000 --> 00:50:48,000
+Expectations will also increase
+
+1200
+00:50:48,000 --> 00:50:50,000
+So how will you be able to crack further
+
+1201
+00:50:50,000 --> 00:50:52,000
+Which is not happening now
+
+1202
+00:50:52,000 --> 00:50:54,000
+Simple things will stay
+
+1203
+00:50:54,000 --> 00:50:56,000
+Simple things will stay
+
+1204
+00:50:58,000 --> 00:51:00,000
+It is not a big deal
+
+1205
+00:51:00,000 --> 00:51:02,000
+My dear
+
+1206
+00:51:02,000 --> 00:51:04,000
+If you want
+
+1207
+00:51:04,000 --> 00:51:06,000
+Because we had a good conversation
+
+1208
+00:51:06,000 --> 00:51:08,000
+A healthy conversation
+
+1209
+00:51:08,000 --> 00:51:10,000
+I will not assign your profile to Sujit
+
+1210
+00:51:10,000 --> 00:51:12,000
+I will take care of this on by myself
+
+1211
+00:51:12,000 --> 00:51:14,000
+Okay
+
+1212
+00:51:14,000 --> 00:51:16,000
+You are going to report to me directly
+
+1213
+00:51:16,000 --> 00:51:18,000
+Throughout the journey
+
+1214
+00:51:18,000 --> 00:51:20,000
+There will be two back end team
+
+1215
+00:51:20,000 --> 00:51:22,000
+Support team
+
+1216
+00:51:22,000 --> 00:51:24,000
+They will do their work
+
+1217
+00:51:24,000 --> 00:51:26,000
+But anytime you are stuck somewhere
+
+1218
+00:51:26,000 --> 00:51:28,000
+And you are not getting some solution out there
+
+1219
+00:51:28,000 --> 00:51:30,000
+One call or message will come to me
+
+1220
+00:51:30,000 --> 00:51:32,000
+One email will go
+
+1221
+00:51:32,000 --> 00:51:34,000
+You are getting the solution from there
+
+1222
+00:51:34,000 --> 00:51:36,000
+This much I can give you support
+
+1223
+00:51:36,000 --> 00:51:38,000
+I can give you the
+
+1224
+00:51:38,000 --> 00:51:40,000
+Accountability and the commitment
+
+1225
+00:51:40,000 --> 00:51:42,000
+That I will be there for you
+
+1226
+00:51:42,000 --> 00:51:44,000
+To help you or sort you throughout the journey
+
+1227
+00:51:44,000 --> 00:51:46,000
+You will be directly reporting to me
+
+1228
+00:51:46,000 --> 00:51:48,000
+This is something which I can give you support
+
+1229
+00:51:48,000 --> 00:51:50,000
+Because I see that intent in you right now
+
+1230
+00:51:52,000 --> 00:51:54,000
+So you have bypass counselors
+
+1231
+00:51:54,000 --> 00:51:56,000
+Program managers
+
+1232
+00:51:56,000 --> 00:51:58,000
+And you are reporting to senior program manager directly
+
+1233
+00:51:58,000 --> 00:52:00,000
+This is an accountability
+
+1234
+00:52:00,000 --> 00:52:02,000
+Now you think what you want to make it for
+
+1235
+00:52:02,000 --> 00:52:04,000
+Even if you delay for one month
+
+1236
+00:52:04,000 --> 00:52:06,000
+For your same course
+
+1237
+00:52:06,000 --> 00:52:08,000
+You are going to pay literally 10k extra
+
+1238
+00:52:10,000 --> 00:52:12,000
+Literally
+
+1239
+00:52:12,000 --> 00:52:14,000
+Just 10k
+
+1240
+00:52:14,000 --> 00:52:16,000
+And that is a big money boy
+
+1241
+00:52:16,000 --> 00:52:18,000
+That's a big money
+
+1242
+00:52:20,000 --> 00:52:22,000
+Right
+
+1243
+00:52:22,000 --> 00:52:24,000
+Thank you
+
+1244
+00:52:24,000 --> 00:52:26,000
+I will definitely let you know
+
+1245
+00:52:26,000 --> 00:52:28,000
+I will make my decision soon
+
+1246
+00:52:28,000 --> 00:52:30,000
+And then I will let you know
+
+1247
+00:52:30,000 --> 00:52:32,000
+I will talk to my parents
+
+1248
+00:52:32,000 --> 00:52:34,000
+I will talk to them
+
+1249
+00:52:34,000 --> 00:52:36,000
+I will tell them
+
+1250
+00:52:36,000 --> 00:52:38,000
+That yes
+
+1251
+00:52:38,000 --> 00:52:40,000
+Now I will ask you one question
+
+1252
+00:52:40,000 --> 00:52:42,000
+So now you spoke to your parents
+
+1253
+00:52:42,000 --> 00:52:44,000
+Now your parents
+
+1254
+00:52:44,000 --> 00:52:46,000
+They are not going to say no
+
+1255
+00:52:46,000 --> 00:52:48,000
+They will say
+
+1256
+00:52:48,000 --> 00:52:50,000
+Whatever you feel is good for you
+
+1257
+00:52:50,000 --> 00:52:52,000
+You can do that
+
+1258
+00:52:52,000 --> 00:52:54,000
+They will definitely say that
+
+1259
+00:52:54,000 --> 00:52:56,000
+But
+
+1260
+00:52:56,000 --> 00:52:58,000
+I will have a conversation with them
+
+1261
+00:52:58,000 --> 00:53:00,000
+As well
+
+1262
+00:53:00,000 --> 00:53:02,000
+And then I will let you know
+
+1263
+00:53:02,000 --> 00:53:04,000
+See the only thing is
+
+1264
+00:53:04,000 --> 00:53:06,000
+Whatever decision you take
+
+1265
+00:53:06,000 --> 00:53:08,000
+It has to be
+
+1266
+00:53:08,000 --> 00:53:10,000
+It has to be just making sense
+
+1267
+00:53:10,000 --> 00:53:12,000
+For you and your career
+
+1268
+00:53:16,000 --> 00:53:18,000
+Nobody's involvement should be there
+
+1269
+00:53:18,000 --> 00:53:20,000
+Because your father is happy with
+
+1270
+00:53:20,000 --> 00:53:22,000
+Maybe 30k or 50k
+
+1271
+00:53:22,000 --> 00:53:24,000
+What he is making
+
+1272
+00:53:24,000 --> 00:53:26,000
+Just an example I am giving
+
+1273
+00:53:26,000 --> 00:53:28,000
+Don't mind me
+
+1274
+00:53:28,000 --> 00:53:30,000
+But I don't think you as a person will be happy with 30-50k salary
+
+1275
+00:53:32,000 --> 00:53:34,000
+Which you are getting more than that
+
+1276
+00:53:34,000 --> 00:53:36,000
+But still
+
+1277
+00:53:36,000 --> 00:53:38,000
+Your expectations are high
+
+1278
+00:53:38,000 --> 00:53:40,000
+Your father is okay with whatever
+
+1279
+00:53:40,000 --> 00:53:42,000
+Like 500-600 bucks shoes
+
+1280
+00:53:42,000 --> 00:53:44,000
+But you have that dream
+
+1281
+00:53:44,000 --> 00:53:46,000
+Or maybe like a normal bike
+
+1282
+00:53:46,000 --> 00:53:48,000
+But you have that dream of actually buying some
+
+1283
+00:53:48,000 --> 00:53:50,000
+3-4 lakh rupees
+
+1284
+00:53:50,000 --> 00:53:52,000
+Or maybe like BMW or whatever bike there
+
+1285
+00:53:52,000 --> 00:53:54,000
+So you want that bike
+
+1286
+00:53:54,000 --> 00:53:56,000
+But your father wants a car to go somewhere
+
+1287
+00:53:56,000 --> 00:53:58,000
+Just buy a car
+
+1288
+00:53:58,000 --> 00:54:00,000
+Which is less than that
+
+1289
+00:54:00,000 --> 00:54:02,000
+Right
+
+1290
+00:54:02,000 --> 00:54:04,000
+But that car won't work for you
+
+1291
+00:54:04,000 --> 00:54:06,000
+You want the same car which you like
+
+1292
+00:54:08,000 --> 00:54:10,000
+So the entire thing should be
+
+1293
+00:54:10,000 --> 00:54:12,000
+Because see
+
+1294
+00:54:12,000 --> 00:54:14,000
+It's a very simple line
+
+1295
+00:54:14,000 --> 00:54:16,000
+Which I read somewhere
+
+1296
+00:54:16,000 --> 00:54:18,000
+You will be able to make more money
+
+1297
+00:54:18,000 --> 00:54:20,000
+Only when you are making more money
+
+1298
+00:54:22,000 --> 00:54:24,000
+You are making less money
+
+1299
+00:54:24,000 --> 00:54:26,000
+How much will you save in that?
+
+1300
+00:54:30,000 --> 00:54:32,000
+First make money
+
+1301
+00:54:34,000 --> 00:54:36,000
+You have to save 3000 rupees
+
+1302
+00:54:36,000 --> 00:54:38,000
+You have to save 3 lakh rupees per month
+
+1303
+00:54:42,000 --> 00:54:44,000
+To make more money
+
+1304
+00:54:44,000 --> 00:54:46,000
+First of all you have to invest
+
+1305
+00:54:46,000 --> 00:54:48,000
+On adding value
+
+1306
+00:54:48,000 --> 00:54:50,000
+To your resume
+
+1307
+00:54:50,000 --> 00:54:52,000
+So that people will look forward
+
+1308
+00:54:52,000 --> 00:54:54,000
+To work with you boy
+
+1309
+00:54:54,000 --> 00:54:56,000
+Right now ball is in their court
+
+1310
+00:54:56,000 --> 00:54:58,000
+Means right now you want
+
+1311
+00:54:58,000 --> 00:55:00,000
+Company opportunity
+
+1312
+00:55:00,000 --> 00:55:02,000
+Right now you are in that situation
+
+1313
+00:55:02,000 --> 00:55:04,000
+You want that opportunity
+
+1314
+00:55:04,000 --> 00:55:06,000
+Invest on your profile
+
+1315
+00:55:06,000 --> 00:55:08,000
+That much
+
+1316
+00:55:08,000 --> 00:55:10,000
+That you are adding value
+
+1317
+00:55:10,000 --> 00:55:12,000
+That company is looking forward to work with you
+
+1318
+00:55:12,000 --> 00:55:14,000
+Now ball is in your court
+
+1319
+00:55:16,000 --> 00:55:18,000
+For that it doesn't happen like this
+
+1320
+00:55:18,000 --> 00:55:20,000
+You have to add the investment
+
+1321
+00:55:24,000 --> 00:55:26,000
+You are not paying scalar academy
+
+1322
+00:55:26,000 --> 00:55:28,000
+You are adding value to the people
+
+1323
+00:55:28,000 --> 00:55:30,000
+Who are from Google
+
+1324
+00:55:30,000 --> 00:55:32,000
+From Amazon, from LinkedIn
+
+1325
+00:55:32,000 --> 00:55:34,000
+From Hotstar or Facebook
+
+1326
+00:55:34,000 --> 00:55:36,000
+Who are actually coming down and teaching you
+
+1327
+00:55:36,000 --> 00:55:38,000
+To make you capable to work
+
+1328
+00:55:38,000 --> 00:55:40,000
+With Google or Amazon
+
+1329
+00:55:40,000 --> 00:55:42,000
+You are giving value for their learning experience
+
+1330
+00:55:44,000 --> 00:55:46,000
+You are not paying scalar
+
+1331
+00:55:46,000 --> 00:55:48,000
+Your instructors and mentors
+
+1332
+00:55:48,000 --> 00:55:50,000
+Who are working in Google
+
+1333
+00:55:50,000 --> 00:55:52,000
+And teaching here
+
+1334
+00:55:52,000 --> 00:55:54,000
+Their package will be 3-4-5
+
+1335
+00:55:54,000 --> 00:55:56,000
+CR
+
+1336
+00:55:56,000 --> 00:55:58,000
+They will not work on one CR
+
+1337
+00:56:00,000 --> 00:56:02,000
+Google left with scaly
+
+1338
+00:56:02,000 --> 00:56:04,000
+Meaning you are paying them
+
+1339
+00:56:04,000 --> 00:56:06,000
+More than that
+
+1340
+00:56:06,000 --> 00:56:08,000
+More than Google
+
+1341
+00:56:08,000 --> 00:56:10,000
+Where will the budget come from
+
+1342
+00:56:12,000 --> 00:56:14,000
+You are not paying
+
+1343
+00:56:14,000 --> 00:56:16,000
+Scalar academy
+
+1344
+00:56:16,000 --> 00:56:18,000
+You are paying your instructors or mentors
+
+1345
+00:56:18,000 --> 00:56:20,000
+Because they are best people
+
+1346
+00:56:20,000 --> 00:56:22,000
+So best people will not teach you
+
+1347
+00:56:22,000 --> 00:56:24,000
+In less money
+
+1348
+00:56:24,000 --> 00:56:26,000
+Virat Kohli
+
+1349
+00:56:26,000 --> 00:56:28,000
+Come and sign like this
+
+1350
+00:56:28,000 --> 00:56:30,000
+the IPL.
+
+1351
+00:56:30,000 --> 00:56:32,000
+The IPL
+
+1352
+00:56:32,000 --> 00:56:34,000
+that he has got this time
+
+1353
+00:56:34,000 --> 00:56:36,000
+is his next
+
+1354
+00:56:36,000 --> 00:56:38,000
+time he needs
+
+1355
+00:56:38,000 --> 00:56:40,000
+his high.
+
+1356
+00:56:42,000 --> 00:56:44,000
+Though he has been
+
+1357
+00:56:44,000 --> 00:56:46,000
+failing out with RCB
+
+1358
+00:56:46,000 --> 00:56:48,000
+since many years, but every
+
+1359
+00:56:48,000 --> 00:56:50,000
+time he is a captain of RCB, he is getting
+
+1360
+00:56:50,000 --> 00:56:52,000
+paid more than the last time.
+
+1361
+00:56:52,000 --> 00:56:54,000
+Though he has been not winning since
+
+1362
+00:56:54,000 --> 00:56:56,000
+years and years and years and years.
+
+1363
+00:56:56,000 --> 00:56:58,000
+Because that is
+
+1364
+00:56:58,000 --> 00:57:00,000
+a value he added.
+
+1365
+00:57:00,000 --> 00:57:02,000
+To reach there, Virat Kohli
+
+1366
+00:57:02,000 --> 00:57:04,000
+has given a lot of dedication,
+
+1367
+00:57:04,000 --> 00:57:06,000
+hard work, diet,
+
+1368
+00:57:06,000 --> 00:57:08,000
+maintenance, workout, sportsmanship,
+
+1369
+00:57:10,000 --> 00:57:12,000
+training,
+
+1370
+00:57:12,000 --> 00:57:14,000
+many things bro.
+
+1371
+00:57:14,000 --> 00:57:16,000
+So now he has reached there,
+
+1372
+00:57:16,000 --> 00:57:18,000
+now he demands everything.
+
+1373
+00:57:18,000 --> 00:57:20,000
+And everything will happen according to that.
+
+1374
+00:57:22,000 --> 00:57:24,000
+RCB is not winning,
+
+1375
+00:57:24,000 --> 00:57:26,000
+but every time the captain is
+
+1376
+00:57:26,000 --> 00:57:28,000
+Virat. Why doesn't he change
+
+1377
+00:57:28,000 --> 00:57:30,000
+anyone else? He should have changed
+
+1378
+00:57:30,000 --> 00:57:32,000
+that his captaincy is not right.
+
+1379
+00:57:32,000 --> 00:57:34,000
+Because every year he is losing.
+
+1380
+00:57:38,000 --> 00:57:40,000
+Virat is Virat.
+
+1381
+00:57:42,000 --> 00:57:44,000
+That is what you
+
+1382
+00:57:44,000 --> 00:57:46,000
+have to do.
+
+1383
+00:57:46,000 --> 00:57:48,000
+Why you want to do 100 courses?
+
+1384
+00:57:48,000 --> 00:57:50,000
+Once you take a course on backend,
+
+1385
+00:57:50,000 --> 00:57:52,000
+then on DSA, now after
+
+1386
+00:57:52,000 --> 00:57:54,000
+taking a course, you got a job.
+
+1387
+00:57:54,000 --> 00:57:56,000
+Now you have to go to a better company.
+
+1388
+00:57:56,000 --> 00:57:58,000
+To learn system design,
+
+1389
+00:57:58,000 --> 00:58:00,000
+you will take a course. Now you are doing
+
+1390
+00:58:00,000 --> 00:58:02,000
+big projects, so you will take another course
+
+1391
+00:58:02,000 --> 00:58:04,000
+to do projects.
+
+1392
+00:58:04,000 --> 00:58:06,000
+And the way of teaching
+
+1393
+00:58:06,000 --> 00:58:08,000
+of all platforms will be different.
+
+1394
+00:58:08,000 --> 00:58:10,000
+It's a huge mess.
+
+1395
+00:58:14,000 --> 00:58:16,000
+Just one program,
+
+1396
+00:58:16,000 --> 00:58:18,000
+from scratch to the end,
+
+1397
+00:58:18,000 --> 00:58:20,000
+you are getting the entire solution
+
+1398
+00:58:20,000 --> 00:58:22,000
+provided. Entirely.
+
+1399
+00:58:24,000 --> 00:58:26,000
+Plus the referral community, lifetime
+
+1400
+00:58:26,000 --> 00:58:28,000
+access. I hope Sujith
+
+1401
+00:58:28,000 --> 00:58:30,000
+has told you this right.
+
+1402
+00:58:32,000 --> 00:58:34,000
+Who else on the other side of the platform,
+
+1403
+00:58:34,000 --> 00:58:36,000
+anybody, can give you
+
+1404
+00:58:36,000 --> 00:58:38,000
+the community access.
+
+1405
+00:58:40,000 --> 00:58:42,000
+To give community access, there should be placements.
+
+1406
+00:58:44,000 --> 00:58:46,000
+Barely 10-20 placements they have,
+
+1407
+00:58:46,000 --> 00:58:48,000
+but they show that they have like, I don't know how many.
+
+1408
+00:58:50,000 --> 00:58:52,000
+To make that,
+
+1409
+00:58:52,000 --> 00:58:54,000
+seniors, who are alumni,
+
+1410
+00:58:54,000 --> 00:58:56,000
+should complete the program and make it from them.
+
+1411
+00:58:56,000 --> 00:58:58,000
+That is not there.
+
+1412
+00:58:58,000 --> 00:59:00,000
+We have that. That is why we built
+
+1413
+00:59:00,000 --> 00:59:02,000
+the community.
+
+1414
+00:59:06,000 --> 00:59:08,000
+It's the plan. It is about you doing
+
+1415
+00:59:08,000 --> 00:59:10,000
+the program, because asking permission to your
+
+1416
+00:59:10,000 --> 00:59:12,000
+parents is not going to give you anything great.
+
+1417
+00:59:12,000 --> 00:59:14,000
+But actually doing the program,
+
+1418
+00:59:14,000 --> 00:59:16,000
+and experiencing it.
+
+1419
+00:59:16,000 --> 00:59:18,000
+And now you know what you are doing.
+
+1420
+00:59:18,000 --> 00:59:20,000
+You are telling your parents, I have done a program,
+
+1421
+00:59:20,000 --> 00:59:22,000
+I have joined it, I am doing it,
+
+1422
+00:59:22,000 --> 00:59:24,000
+and I feel very good about it, and I want to continue.
+
+1423
+00:59:26,000 --> 00:59:28,000
+Now you will have more confidence,
+
+1424
+00:59:28,000 --> 00:59:30,000
+because you have that experience.
+
+1425
+00:59:32,000 --> 00:59:34,000
+I am just worried.
+
+1426
+00:59:34,000 --> 00:59:36,000
+Definitely I am not going to join
+
+1427
+00:59:36,000 --> 00:59:38,000
+TCH.
+
+1428
+00:59:38,000 --> 00:59:40,000
+But if signing a new job
+
+1429
+00:59:40,000 --> 00:59:42,000
+takes me more time, like
+
+1430
+00:59:42,000 --> 00:59:44,000
+if I am not able to get a new job.
+
+1431
+00:59:44,000 --> 00:59:46,000
+Simple.
+
+1432
+00:59:46,000 --> 00:59:48,000
+When you will do class,
+
+1433
+00:59:48,000 --> 00:59:50,000
+this is a...
+
+1434
+00:59:50,000 --> 00:59:52,000
+You should know how to play your cards, boy.
+
+1435
+00:59:52,000 --> 00:59:54,000
+I will tell you. When you will start doing class,
+
+1436
+00:59:54,000 --> 00:59:56,000
+in class,
+
+1437
+00:59:56,000 --> 00:59:58,000
+you will make friends also, right?
+
+1438
+00:59:58,000 --> 01:00:00,000
+Start asking for referrals from your friend.
+
+1439
+01:00:00,000 --> 01:00:02,000
+Because everyone is not coming from Google,
+
+1440
+01:00:02,000 --> 01:00:04,000
+right?
+
+1441
+01:00:04,000 --> 01:00:06,000
+More people will be there than service based companies.
+
+1442
+01:00:06,000 --> 01:00:08,000
+Who want to go to a product based company like yours.
+
+1443
+01:00:10,000 --> 01:00:12,000
+Ask them.
+
+1444
+01:00:12,000 --> 01:00:14,000
+Can you just help me get a referral from your company?
+
+1445
+01:00:16,000 --> 01:00:20,000
+They will also be on 5, 6, 7, 8, 9, 10, 12 LPAs.
+
+1446
+01:00:20,000 --> 01:00:22,000
+In the intermediate.
+
+1447
+01:00:22,000 --> 01:00:24,000
+They will be a little more.
+
+1448
+01:00:24,000 --> 01:00:26,000
+But they will be. Ask them for the referral.
+
+1449
+01:00:26,000 --> 01:00:28,000
+Because nowadays, there is more hiring on referrals
+
+1450
+01:00:28,000 --> 01:00:30,000
+than on the regular one.
+
+1451
+01:00:32,000 --> 01:00:34,000
+Build your network from LinkedIn.
+
+1452
+01:00:34,000 --> 01:00:36,000
+Connect people on LinkedIn.
+
+1453
+01:00:36,000 --> 01:00:38,000
+Start connecting with people.
+
+1454
+01:00:38,000 --> 01:00:40,000
+Start building your network. Start talking to people.
+
+1455
+01:00:42,000 --> 01:00:44,000
+You have become so smart, that once you get the opportunity,
+
+1456
+01:00:44,000 --> 01:00:46,000
+you will grab it.
+
+1457
+01:00:46,000 --> 01:00:48,000
+To reach there,
+
+1458
+01:00:48,000 --> 01:00:50,000
+you will have to work hard, right?
+
+1459
+01:00:52,000 --> 01:00:54,000
+Thinking that what if this doesn't happen,
+
+1460
+01:00:54,000 --> 01:00:56,000
+then that will happen.
+
+1461
+01:00:56,000 --> 01:00:58,000
+What if I don't get the offer.
+
+1462
+01:00:58,000 --> 01:01:00,000
+What if after doing this program,
+
+1463
+01:01:00,000 --> 01:01:02,000
+you will start solving so many problems of yours.
+
+1464
+01:01:02,000 --> 01:01:04,000
+This can also happen on the other side.
+
+1465
+01:01:08,000 --> 01:01:10,000
+Just a second, okay?
+
+1466
+01:01:14,000 --> 01:01:16,000
+Right.
+
+1467
+01:01:24,000 --> 01:01:26,000
+So it is just that what is actually the solution?
+
+1468
+01:01:26,000 --> 01:01:28,000
+Meet them.
+
+1469
+01:01:28,000 --> 01:01:30,000
+Start talking to them.
+
+1470
+01:01:30,000 --> 01:01:32,000
+Ask them for things.
+
+1471
+01:01:32,000 --> 01:01:34,000
+Can you just help me out?
+
+1472
+01:01:34,000 --> 01:01:36,000
+Because if you are doing it yourself,
+
+1473
+01:01:36,000 --> 01:01:38,000
+then you have so much confidence in doing it yourself.
+
+1474
+01:01:38,000 --> 01:01:40,000
+So you will get it.
+
+1475
+01:01:40,000 --> 01:01:42,000
+So you should get more from the referral.
+
+1476
+01:01:44,000 --> 01:01:46,000
+I was trying for companies and all,
+
+1477
+01:01:46,000 --> 01:01:48,000
+but I was not getting the response I was looking for.
+
+1478
+01:01:48,000 --> 01:01:50,000
+So that's why I was...
+
+1479
+01:01:50,000 --> 01:01:52,000
+Resume shortlisting is the problem, my boy.
+
+1480
+01:01:52,000 --> 01:01:54,000
+So if you...
+
+1481
+01:01:54,000 --> 01:01:56,000
+Oh yeah, you can get this one done.
+
+1482
+01:01:56,000 --> 01:01:58,000
+Okay.
+
+1483
+01:01:58,000 --> 01:02:00,000
+This is one solution I can...
+
+1484
+01:02:00,000 --> 01:02:02,000
+Okay, that's a great thing. You remember that.
+
+1485
+01:02:02,000 --> 01:02:04,000
+The first class that will start from the live class,
+
+1486
+01:02:04,000 --> 01:02:06,000
+there will be a meet and greet with the founder and co-founder.
+
+1487
+01:02:06,000 --> 01:02:08,000
+The first one.
+
+1488
+01:02:08,000 --> 01:02:10,000
+The second class will be your mentor session.
+
+1489
+01:02:10,000 --> 01:02:12,000
+One-to-one mentor session.
+
+1490
+01:02:12,000 --> 01:02:14,000
+One-to-one mentor session.
+
+1491
+01:02:14,000 --> 01:02:16,000
+So the solution that Sujit has given,
+
+1492
+01:02:16,000 --> 01:02:18,000
+and whatever I have given,
+
+1493
+01:02:18,000 --> 01:02:20,000
+I have given it at a high level.
+
+1494
+01:02:20,000 --> 01:02:22,000
+Overall growth.
+
+1495
+01:02:22,000 --> 01:02:24,000
+Now you will talk to the mentor at a tech level.
+
+1496
+01:02:24,000 --> 01:02:26,000
+Tech.
+
+1497
+01:02:26,000 --> 01:02:28,000
+That I am good in this module,
+
+1498
+01:02:28,000 --> 01:02:30,000
+I am not good in this or that.
+
+1499
+01:02:30,000 --> 01:02:32,000
+This is the type of company I have been working for,
+
+1500
+01:02:32,000 --> 01:02:34,000
+and this is the type of company I am looking for.
+
+1501
+01:02:34,000 --> 01:02:36,000
+So if I give my best effort,
+
+1502
+01:02:36,000 --> 01:02:38,000
+in the coming year,
+
+1503
+01:02:38,000 --> 01:02:40,000
+I can expect to see myself at a higher level.
+
+1504
+01:02:40,000 --> 01:02:42,000
+Whatever.
+
+1505
+01:02:42,000 --> 01:02:44,000
+Now on the other side,
+
+1506
+01:02:44,000 --> 01:02:46,000
+you can ask something to your mentor,
+
+1507
+01:02:46,000 --> 01:02:48,000
+that I am also applying for companies.
+
+1508
+01:02:48,000 --> 01:02:50,000
+This is what you will do,
+
+1509
+01:02:50,000 --> 01:02:52,000
+not everyone.
+
+1510
+01:02:52,000 --> 01:02:54,000
+You will ask your mentor,
+
+1511
+01:02:54,000 --> 01:02:56,000
+that I am actually applying for different companies,
+
+1512
+01:02:56,000 --> 01:02:58,000
+though I have got one,
+
+1513
+01:02:58,000 --> 01:03:00,000
+which you just told me about,
+
+1514
+01:03:00,000 --> 01:03:02,000
+I have got one, but I am not satisfied with CTC,
+
+1515
+01:03:02,000 --> 01:03:04,000
+this one.
+
+1516
+01:03:04,000 --> 01:03:06,000
+I am applying, but the problem is the shortlisting of my resume is not happening.
+
+1517
+01:03:06,000 --> 01:03:08,000
+Can you just give me a little glance
+
+1518
+01:03:08,000 --> 01:03:10,000
+on how I can repair my resume?
+
+1519
+01:03:12,000 --> 01:03:14,000
+Okay, because
+
+1520
+01:03:14,000 --> 01:03:16,000
+see, if you go for one-to-one mentor session
+
+1521
+01:03:16,000 --> 01:03:18,000
+through any LinkedIn,
+
+1522
+01:03:18,000 --> 01:03:20,000
+for these people, like the mentor we are telling you about,
+
+1523
+01:03:20,000 --> 01:03:22,000
+if you go with them on LinkedIn,
+
+1524
+01:03:22,000 --> 01:03:24,000
+they charge you good money.
+
+1525
+01:03:24,000 --> 01:03:26,000
+Good money to give you
+
+1526
+01:03:26,000 --> 01:03:28,000
+career guidance.
+
+1527
+01:03:28,000 --> 01:03:30,000
+Good money.
+
+1528
+01:03:30,000 --> 01:03:32,000
+So here, if you are asking a question,
+
+1529
+01:03:32,000 --> 01:03:34,000
+it is not like your mentor will refuse,
+
+1530
+01:03:34,000 --> 01:03:36,000
+no, no, no, no, no.
+
+1531
+01:03:36,000 --> 01:03:38,000
+No, this is not going to happen.
+
+1532
+01:03:38,000 --> 01:03:40,000
+So you will ask them, can you just help me
+
+1533
+01:03:40,000 --> 01:03:42,000
+get my resume a little bit repaired?
+
+1534
+01:03:42,000 --> 01:03:44,000
+I am getting a little stuck.
+
+1535
+01:03:44,000 --> 01:03:46,000
+I just need a small help from you.
+
+1536
+01:03:46,000 --> 01:03:48,000
+Because you are getting stuck with your resume,
+
+1537
+01:03:48,000 --> 01:03:50,000
+believe me, you are getting stuck with your resume right now.
+
+1538
+01:03:50,000 --> 01:03:52,000
+That is the borderline.
+
+1539
+01:03:52,000 --> 01:03:54,000
+Ask him, he will help you,
+
+1540
+01:03:54,000 --> 01:03:56,000
+and maybe ask him a little bit,
+
+1541
+01:03:56,000 --> 01:03:58,000
+how I can answer the questions one or two.
+
+1542
+01:03:58,000 --> 01:04:00,000
+He will not be able to say it in depth,
+
+1543
+01:04:00,000 --> 01:04:02,000
+because you have to give him a career roadmap.
+
+1544
+01:04:02,000 --> 01:04:04,000
+But he can solve your
+
+1545
+01:04:04,000 --> 01:04:06,000
+short-term goal by giving some time for that.
+
+1546
+01:04:10,000 --> 01:04:12,000
+Right?
+
+1547
+01:04:12,000 --> 01:04:14,000
+Work on the inputs that you will give.
+
+1548
+01:04:16,000 --> 01:04:18,000
+Work on your resume then.
+
+1549
+01:04:20,000 --> 01:04:22,000
+He will not refuse,
+
+1550
+01:04:22,000 --> 01:04:24,000
+I understand that he will not refuse.
+
+1551
+01:04:24,000 --> 01:04:26,000
+You did not ask, that is a different thing.
+
+1552
+01:04:26,000 --> 01:04:28,000
+But after asking, he will not refuse.
+
+1553
+01:04:30,000 --> 01:04:32,000
+Should I ask?
+
+1554
+01:04:32,000 --> 01:04:34,000
+He is having that experience, right?
+
+1555
+01:04:34,000 --> 01:04:36,000
+Exposure experience.
+
+1556
+01:04:36,000 --> 01:04:38,000
+So he is going to guide you on what is right itself.
+
+1557
+01:04:40,000 --> 01:04:42,000
+So actually, now you are getting an advantage.
+
+1558
+01:04:46,000 --> 01:04:48,000
+Without paying any extra, your course is also happening,
+
+1559
+01:04:48,000 --> 01:04:50,000
+but your short-term is also getting solved here.
+
+1560
+01:04:54,000 --> 01:04:56,000
+And of course, you have other classes also,
+
+1561
+01:04:56,000 --> 01:04:58,000
+whatever happens with that.
+
+1562
+01:04:58,000 --> 01:05:00,000
+As soon as the mentor session is over,
+
+1563
+01:05:00,000 --> 01:05:02,000
+you will have other classes as well.
+
+1564
+01:05:02,000 --> 01:05:04,000
+Now you will decide that
+
+1565
+01:05:04,000 --> 01:05:06,000
+if they are teaching these models,
+
+1566
+01:05:06,000 --> 01:05:08,000
+then you will get a run-time outcome.
+
+1567
+01:05:10,000 --> 01:05:12,000
+But I was doing the same thing with myself.
+
+1568
+01:05:12,000 --> 01:05:14,000
+What was I doing?
+
+1569
+01:05:14,000 --> 01:05:16,000
+What was my outcome?
+
+1570
+01:05:16,000 --> 01:05:18,000
+Is this industry getting match requirements?
+
+1571
+01:05:18,000 --> 01:05:20,000
+Or is this getting the standard?
+
+1572
+01:05:20,000 --> 01:05:22,000
+You will see.
+
+1573
+01:05:22,000 --> 01:05:24,000
+Now when you will study, you will understand your standard.
+
+1574
+01:05:26,000 --> 01:05:28,000
+Now you will understand.
+
+1575
+01:05:28,000 --> 01:05:30,000
+Now I will operate properly.
+
+1576
+01:05:30,000 --> 01:05:32,000
+So I am very sure,
+
+1577
+01:05:32,000 --> 01:05:34,000
+I can do something with myself.
+
+1578
+01:05:34,000 --> 01:05:36,000
+With or without a scaler.
+
+1579
+01:05:38,000 --> 01:05:40,000
+I will add value to my resume.
+
+1580
+01:05:42,000 --> 01:05:44,000
+Because you know about yourself that I am hard-working.
+
+1581
+01:05:50,000 --> 01:05:52,000
+That's it.
+
+1582
+01:05:52,000 --> 01:05:54,000
+Thank God you got this resume thing.
+
+1583
+01:05:54,000 --> 01:05:56,000
+Rejection thing.
+
+1584
+01:05:56,000 --> 01:05:58,000
+Thank God.
+
+1585
+01:05:58,000 --> 01:06:00,000
+Because I am saying this
+
+1586
+01:06:00,000 --> 01:06:02,000
+until I say no, you don't understand
+
+1587
+01:06:02,000 --> 01:06:04,000
+that this can be useful for you.
+
+1588
+01:06:04,000 --> 01:06:06,000
+Yeah, solution is done.
+
+1589
+01:06:06,000 --> 01:06:08,000
+Now you still have observation left with you
+
+1590
+01:06:08,000 --> 01:06:10,000
+to go forward for it.
+
+1591
+01:06:14,000 --> 01:06:16,000
+It is just your accountability.
+
+1592
+01:06:16,000 --> 01:06:18,000
+And I mentioned I am not assigning your profile
+
+1593
+01:06:18,000 --> 01:06:20,000
+to any counselor.
+
+1594
+01:06:20,000 --> 01:06:22,000
+Right.
+
+1595
+01:06:22,000 --> 01:06:24,000
+I am just going to handle it by myself.
+
+1596
+01:06:24,000 --> 01:06:26,000
+Thank you.
+
+1597
+01:06:26,000 --> 01:06:28,000
+You tell me what is good for you
+
+1598
+01:06:28,000 --> 01:06:30,000
+because if you are confident, everything else is sorted.
+
+1599
+01:06:30,000 --> 01:06:32,000
+Because you have to take admission.
+
+1600
+01:06:32,000 --> 01:06:34,000
+You have to pay.
+
+1601
+01:06:34,000 --> 01:06:36,000
+You have to work hard.
+
+1602
+01:06:36,000 --> 01:06:38,000
+You have to give interview.
+
+1603
+01:06:38,000 --> 01:06:40,000
+You will get the offer letter.
+
+1604
+01:06:40,000 --> 01:06:42,000
+You will get the money.
+
+1605
+01:06:42,000 --> 01:06:44,000
+Right. I can just guide you.
+
+1606
+01:06:44,000 --> 01:06:46,000
+I can just help you.
+
+1607
+01:06:46,000 --> 01:06:48,000
+Now I am there.
+
+1608
+01:06:48,000 --> 01:06:50,000
+Now I am there.
+
+1609
+01:06:50,000 --> 01:06:52,000
+I thought I am going to give you solution.
+
+1610
+01:06:52,000 --> 01:06:54,000
+But I believe the maturity
+
+1611
+01:06:54,000 --> 01:06:56,000
+and you are very sensible.
+
+1612
+01:06:56,000 --> 01:06:58,000
+So you are like someone who has genuinely
+
+1613
+01:06:58,000 --> 01:07:00,000
+a good intent.
+
+1614
+01:07:00,000 --> 01:07:02,000
+The only thing what is missing in your career
+
+1615
+01:07:02,000 --> 01:07:04,000
+right now is
+
+1616
+01:07:04,000 --> 01:07:06,000
+right mentorship.
+
+1617
+01:07:06,000 --> 01:07:08,000
+When, what, how, where
+
+1618
+01:07:08,000 --> 01:07:10,000
+you have to do. You don't know that.
+
+1619
+01:07:10,000 --> 01:07:12,000
+That's it.
+
+1620
+01:07:12,000 --> 01:07:14,000
+You are working hard.
+
+1621
+01:07:14,000 --> 01:07:16,000
+You are not doing it at the right place at the right time.
+
+1622
+01:07:16,000 --> 01:07:18,000
+It is simple.
+
+1623
+01:07:18,000 --> 01:07:20,000
+This is called as lack of mentorship.
+
+1624
+01:07:22,000 --> 01:07:24,000
+Understood.
+
+1625
+01:07:24,000 --> 01:07:26,000
+Yes.
+
+1626
+01:07:26,000 --> 01:07:28,000
+So actually
+
+1627
+01:07:28,000 --> 01:07:30,000
+I will have to go for dinner.
+
+1628
+01:07:30,000 --> 01:07:32,000
+But I will
+
+1629
+01:07:32,000 --> 01:07:34,000
+I will talk to you
+
+1630
+01:07:34,000 --> 01:07:36,000
+and then I will definitely
+
+1631
+01:07:36,000 --> 01:07:38,000
+get back to you.
+
+1632
+01:07:38,000 --> 01:07:40,000
+Tomorrow or
+
+1633
+01:07:40,000 --> 01:07:42,000
+Tomorrow should be
+
+1634
+01:07:42,000 --> 01:07:44,000
+fine. Tomorrow after
+
+1635
+01:07:44,000 --> 01:07:46,000
+morning 10.
+
+1636
+01:07:46,000 --> 01:07:48,000
+My meetings will be till morning 10.
+
+1637
+01:07:48,000 --> 01:07:50,000
+So I will not be available. After my meetings
+
+1638
+01:07:50,000 --> 01:07:52,000
+I will contact you.
+
+1639
+01:07:52,000 --> 01:07:54,000
+And we will be connecting on that.
+
+1640
+01:07:54,000 --> 01:07:56,000
+I will be available on the same number by the way.
+
+1641
+01:07:56,000 --> 01:07:58,000
+So this is my number
+
+1642
+01:07:58,000 --> 01:08:00,000
+and my name is Akshatha.
+
+1643
+01:08:00,000 --> 01:08:02,000
+Akshatha.
+
+1644
+01:08:02,000 --> 01:08:04,000
+Yes.
+
+1645
+01:08:04,000 --> 01:08:06,000
+Yes.
+
+1646
+01:08:06,000 --> 01:08:08,000
+You were telling something.
+
+1647
+01:08:08,000 --> 01:08:10,000
+No, no. I was saying that
+
+1648
+01:08:10,000 --> 01:08:12,000
+I will
+
+1649
+01:08:12,000 --> 01:08:14,000
+talk to some people and all.
+
+1650
+01:08:14,000 --> 01:08:16,000
+If not tomorrow
+
+1651
+01:08:16,000 --> 01:08:18,000
+definitely the day after tomorrow
+
+1652
+01:08:18,000 --> 01:08:20,000
+I will contact you.
+
+1653
+01:08:20,000 --> 01:08:22,000
+See the more earlier you get the access
+
+1654
+01:08:22,000 --> 01:08:24,000
+of dashboard, you are making into
+
+1655
+01:08:24,000 --> 01:08:26,000
+a day added to it.
+
+1656
+01:08:26,000 --> 01:08:28,000
+It is not like that a scalar will
+
+1657
+01:08:28,000 --> 01:08:30,000
+make a big transition in a day and show you.
+
+1658
+01:08:30,000 --> 01:08:32,000
+Nothing is going to change in the next
+
+1659
+01:08:32,000 --> 01:08:34,000
+24 hours and
+
+1660
+01:08:34,000 --> 01:08:36,000
+in the next 24 hours. It is just that
+
+1661
+01:08:36,000 --> 01:08:38,000
+to discuss for 5 minutes,
+
+1662
+01:08:38,000 --> 01:08:40,000
+you have to say yes with strong mind.
+
+1663
+01:08:40,000 --> 01:08:42,000
+It is not that much of a big deal
+
+1664
+01:08:42,000 --> 01:08:44,000
+that after the next 24 hours,
+
+1665
+01:08:44,000 --> 01:08:46,000
+there will be some big changes in the next 24 hours.
+
+1666
+01:08:46,000 --> 01:08:48,000
+No, it is not going to happen.
+
+1667
+01:08:48,000 --> 01:08:50,000
+It is just 15 minutes of alignment.
+
+1668
+01:08:50,000 --> 01:08:52,000
+Sit alone. Right now
+
+1669
+01:08:52,000 --> 01:08:54,000
+sit alone. Think about whatever I
+
+1670
+01:08:54,000 --> 01:08:56,000
+said. Think about everything.
+
+1671
+01:08:56,000 --> 01:08:58,000
+What am I doing?
+
+1672
+01:08:58,000 --> 01:09:00,000
+As mentioned, you just
+
+1673
+01:09:00,000 --> 01:09:02,000
+lack the mentorship.
+
+1674
+01:09:02,000 --> 01:09:04,000
+Just that.
+
+1675
+01:09:04,000 --> 01:09:06,000
+A person who is not
+
+1676
+01:09:06,000 --> 01:09:08,000
+career oriented
+
+1677
+01:09:08,000 --> 01:09:10,000
+he is also working in the same company.
+
+1678
+01:09:10,000 --> 01:09:12,000
+The career oriented
+
+1679
+01:09:12,000 --> 01:09:14,000
+intent is also working in the same company.
+
+1680
+01:09:14,000 --> 01:09:16,000
+That is you.
+
+1681
+01:09:16,000 --> 01:09:18,000
+What is the difference?
+
+1682
+01:09:18,000 --> 01:09:20,000
+What is the difference
+
+1683
+01:09:20,000 --> 01:09:22,000
+between you and him?
+
+1684
+01:09:22,000 --> 01:09:24,000
+Right?
+
+1685
+01:09:24,000 --> 01:09:26,000
+Exactly.
+
+1686
+01:09:28,000 --> 01:09:30,000
+That is what it is.
+
+1687
+01:09:30,000 --> 01:09:32,000
+What is the difference
+
+1688
+01:09:32,000 --> 01:09:34,000
+between you and him?
+
+1689
+01:09:34,000 --> 01:09:36,000
+Correct?
+
+1690
+01:09:36,000 --> 01:09:38,000
+That is what you have to look forward
+
+1691
+01:09:38,000 --> 01:09:40,000
+for.
+
+1692
+01:09:40,000 --> 01:09:42,000
+5 minutes is enough for you.
+
+1693
+01:09:42,000 --> 01:09:44,000
+Talk, think,
+
+1694
+01:09:44,000 --> 01:09:46,000
+sit alone and think
+
+1695
+01:09:46,000 --> 01:09:48,000
+and tomorrow we will connect.
+
+1696
+01:09:48,000 --> 01:09:50,000
+It was good talking to you.
+
+1697
+01:09:50,000 --> 01:09:52,000
+Any questions you can connect with me on WhatsApp.
+
+1698
+01:09:52,000 --> 01:09:54,000
+See you. Bye.
+
+1699
+01:09:54,000 --> 01:09:56,000
+Thank you.
+
+1700
+01:09:56,000 --> 01:09:58,000
+Thank you.
+
+1701
+01:09:58,000 --> 01:10:00,000
+Bye.
+

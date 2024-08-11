@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello.
+
+2
+00:00:01,000 --> 00:00:02,000
+Hello.
+
+3
+00:00:02,000 --> 00:00:15,000
+Yes, Nupur, like I just wanted to have a short conversation with you.
+
+4
+00:00:15,000 --> 00:00:16,000
+Hello.
+
+5
+00:00:16,000 --> 00:00:17,000
+Not an issue.
+
+6
+00:00:17,000 --> 00:00:24,000
+May I know like what will be a right time to connect with you?
+
+7
+00:00:25,000 --> 00:00:28,000
+Okay, okay.
+
+8
+00:00:28,000 --> 00:00:30,000
+Yeah, yeah, let's connect.
+
+9
+00:00:30,000 --> 00:00:32,000
+You can give me a call.
+
+10
+00:00:32,000 --> 00:00:33,000
+Once you're free.
+
+11
+00:00:33,000 --> 00:00:34,000
+Okay.
+
+12
+00:00:34,000 --> 00:00:38,000
+Yeah.
+

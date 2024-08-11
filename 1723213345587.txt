@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hello, Hello, Yes
+
+2
+00:00:03,000 --> 00:00:05,000
+I am Siva Shilokumar speaking
+
+3
+00:00:05,000 --> 00:00:06,000
+Tell me
+
+4
+00:00:06,000 --> 00:00:09,000
+I am Deepak speaking from Scalar Operations Team
+
+5
+00:00:09,000 --> 00:00:11,000
+So your profile has been followed
+
+6
+00:00:11,000 --> 00:00:14,000
+Have you spoken to one of the counselors from Scalar?
+
+7
+00:00:14,000 --> 00:00:17,000
+Yes, he has an APT exam in 10'o clock today
+
+8
+00:00:17,000 --> 00:00:18,000
+I will attend that
+
+9
+00:00:18,000 --> 00:00:20,000
+When are you starting?
+
+10
+00:00:20,000 --> 00:00:23,000
+I am starting from 9'o clock
+
+11
+00:00:23,000 --> 00:00:26,000
+No, actually you had told me to start from 7.30
+
+12
+00:00:26,000 --> 00:00:27,000
+That's why I asked
+
+13
+00:00:27,000 --> 00:00:31,000
+I am the one who is in the development team
+
+14
+00:00:31,000 --> 00:00:33,000
+I am in the 9'o clock
+
+15
+00:00:33,000 --> 00:00:34,000
+I have started from 9'o clock
+
+16
+00:00:34,000 --> 00:00:35,000
+Is that so?
+
+17
+00:00:35,000 --> 00:00:37,000
+So you can start from 9'o clock
+
+18
+00:00:37,000 --> 00:00:38,000
+Yes
+
+19
+00:00:38,000 --> 00:00:39,000
+Ok fine
+
+20
+00:00:39,000 --> 00:00:42,000
+Give the test and then you can reward the counselor
+
+21
+00:00:42,000 --> 00:00:43,000
+Ok
+
+22
+00:00:43,000 --> 00:00:46,000
+They will update the test results after that
+
+23
+00:00:46,000 --> 00:00:47,000
+Ok
+
+24
+00:00:47,000 --> 00:00:48,000
+Fine
+

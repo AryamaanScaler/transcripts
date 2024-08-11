@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:08,000
+I think your bank statement is pending
+
+3
+00:00:08,000 --> 00:00:12,000
+Do you have a bank statement?
+
+4
+00:00:12,000 --> 00:00:14,000
+No
+
+5
+00:00:14,000 --> 00:00:18,000
+Which bank do you get your salary from?
+
+6
+00:00:18,000 --> 00:00:20,000
+Bank of Maharashtra
+
+7
+00:00:20,000 --> 00:00:22,000
+Bank of Maharashtra
+
+8
+00:00:22,000 --> 00:00:27,000
+Alright because you are new to credit, you have never paid any loan
+
+9
+00:00:27,000 --> 00:00:29,000
+That's why I was pushing your case
+
+10
+00:00:29,000 --> 00:00:33,000
+How much will you get your bank statement today?
+
+11
+00:00:33,000 --> 00:00:35,000
+I will get it on Saturday
+
+12
+00:00:35,000 --> 00:00:39,000
+I have also come out on weekend
+
+13
+00:00:39,000 --> 00:00:43,000
+Okay, the bank is open on Saturday
+
+14
+00:00:43,000 --> 00:00:47,000
+Yes, it is open but I have come to my village
+
+15
+00:00:47,000 --> 00:00:49,000
+Okay, you have come to your village
+
+16
+00:00:49,000 --> 00:00:51,000
+So you don't use internet banking?
+
+17
+00:00:51,000 --> 00:00:53,000
+No
+
+18
+00:00:53,000 --> 00:00:55,000
+I have an issue with internet banking
+
+19
+00:00:55,000 --> 00:00:57,000
+Do you get salary slip from the company?
+
+20
+00:00:57,000 --> 00:00:59,000
+Yes, I get salary slip
+
+21
+00:00:59,000 --> 00:01:05,000
+I don't get salary slip in the photo format
+
+22
+00:01:05,000 --> 00:01:09,000
+What do you mean by photo format?
+
+23
+00:01:09,000 --> 00:01:15,000
+The salary slip is sent to me on mobile
+
+24
+00:01:15,000 --> 00:01:19,000
+Please share it with me
+
+25
+00:01:19,000 --> 00:01:21,000
+Okay
+
+26
+00:01:23,000 --> 00:01:27,000
+Thank you
+

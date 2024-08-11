@@ -1,0 +1,568 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hello, hello. Yeah, hi. How are you? I'm fine. How are you?
+
+2
+00:00:06,000 --> 00:00:11,000
+Fine, fine. Mr. Shastra. Thanks. I'm really sorry. Actually that day on weekend. I was a little bit busy.
+
+3
+00:00:11,000 --> 00:00:19,000
+Yeah, I could get that. I actually called you on that day. But I couldn't get any response. I just knew you might be busy somewhere.
+
+4
+00:00:19,000 --> 00:00:25,000
+Yes, yes. No problem. Now you're free, I hope. Yes, yes. I'm free today.
+
+5
+00:00:25,000 --> 00:00:39,000
+So, yeah, so I went through that video and all. I saw that that is very, yeah, fine. So, yeah, so can you tell me the overall cost? What is the procedure like?
+
+6
+00:00:39,000 --> 00:00:49,000
+Yeah, exactly. I mean, since you know the conversation we had, it's been long days. So, I would just try to understand exactly.
+
+7
+00:00:49,000 --> 00:01:01,000
+Because, you know, the only reason that I was actually proposing you this batch was the companies that you're looking forward to, you know, are among the top organizations, right?
+
+8
+00:01:01,000 --> 00:01:09,000
+Yes. And generally whenever you see when these companies exactly hire is in the month of June and July, right?
+
+9
+00:01:09,000 --> 00:01:23,000
+So this batch, you know, provides you placement assistance right after nine months. So if you calculate nine months right from this exact month, so it lands you somewhere into June or July.
+
+10
+00:01:23,000 --> 00:01:30,000
+So that is exactly when these companies are. So at the very beginning, we'll get the opportunities in these kind of companies.
+
+11
+00:01:31,000 --> 00:01:39,000
+So that was the only specific reason I was trying to have a conversation, you know, at the earliest. Yes, yes. So when that batch will start?
+
+12
+00:01:39,000 --> 00:01:48,000
+This batch will be starting in the next few days. Okay. Yes. And DevOps was something that you were looking forward to as well, right?
+
+13
+00:01:48,000 --> 00:01:57,000
+Yeah, actually I'm still confused whether should I switch to like switch to data analyst or stay in DevOps.
+
+14
+00:01:57,000 --> 00:02:09,000
+See, yeah, the experience that you have is already somewhat connected to DevOps, right? So it would be counted in the same as well.
+
+15
+00:02:09,000 --> 00:02:15,000
+It was cloud administration, if I'm right. Yeah. Yeah. So it is pretty much into the DevOps as well.
+
+16
+00:02:15,000 --> 00:02:24,000
+So by the time when you proceed in your career, this experience that you have would be calculated as well.
+
+17
+00:02:24,000 --> 00:02:32,000
+But if you try to switch into data analytics, which also provides a lot of opportunities, this experience that you have won't be considered.
+
+18
+00:02:32,000 --> 00:02:36,000
+That's the only problem. Okay. Yeah.
+
+19
+00:02:36,000 --> 00:02:43,000
+Apart from that, if your personal interest is into data analytics, definitely. I mean, you get a lot of opportunities for that too.
+
+20
+00:02:43,000 --> 00:02:53,000
+You have data analyst, you have data scientist. In DevOps, I hope you remember you have a lot of opportunities when it comes to, you know, your career advancement.
+
+21
+00:02:53,000 --> 00:02:58,000
+You can get into site reliability engineering, you can get into platform engineering as well.
+
+22
+00:02:58,000 --> 00:03:04,000
+Yes, yes. So you have a lot of options on the other hand as well.
+
+23
+00:03:04,000 --> 00:03:15,000
+So if you ask me to suggest if you want to have a conversation with any of the people who are working the same field as well, into DevOps, like any of our alumni.
+
+24
+00:03:15,000 --> 00:03:21,000
+So I would want you to connect with one of them as well. So you can have the proper insight of the same as well.
+
+25
+00:03:21,000 --> 00:03:27,000
+Is that three years of experience you are already familiar with basic automations, right?
+
+26
+00:03:27,000 --> 00:03:38,000
+So this curriculum that you have already seen deepens your understanding by, you know, you'll be they'll be teaching you scripting in language like Python, Shell, Ansible.
+
+27
+00:03:38,000 --> 00:03:42,000
+So this is very crucial for automating complex workflows.
+
+28
+00:03:42,000 --> 00:03:47,000
+You also must have seen the CI CD pipeline mastery as well in the curriculum, right?
+
+29
+00:03:47,000 --> 00:03:56,000
+You know, a lot of other things that enhance infrastructure management capabilities, you have to expertise yourself into cloud.
+
+30
+00:03:56,000 --> 00:03:59,000
+You must have seen AWS, SEO, GCP, all of that.
+
+31
+00:03:59,000 --> 00:04:14,000
+Right? Yeah, you also have customization and orchestration knowledge of doctors and communities, which is very essential for managing content in production in more on and companies are generally looking for the same as well.
+
+32
+00:04:15,000 --> 00:04:20,000
+And the best part would be, you know, building and managing scalable systems.
+
+33
+00:04:20,000 --> 00:04:25,000
+Because that's a huge, I would say, exposure for you.
+
+34
+00:04:25,000 --> 00:04:30,000
+Yeah, I got it. Okay, that is fine.
+
+35
+00:04:30,000 --> 00:04:35,000
+Yes. So you told me around three, like something, right?
+
+36
+00:04:35,000 --> 00:04:37,000
+Yes, it's three point six nine.
+
+37
+00:04:37,000 --> 00:04:38,000
+Yeah, three point six.
+
+38
+00:04:38,000 --> 00:04:43,000
+Yes. So what is the like, what is the best price I can get or something?
+
+39
+00:04:43,000 --> 00:04:47,000
+That I can only tell you when you are have taken the examination.
+
+40
+00:04:47,000 --> 00:04:48,000
+Yeah, yeah, yeah.
+
+41
+00:04:48,000 --> 00:04:50,000
+Which you haven't yet.
+
+42
+00:04:50,000 --> 00:04:56,000
+Yes, I would suggest you to take it first, because you know, that is very much upon the program manager.
+
+43
+00:04:56,000 --> 00:04:59,000
+So I would obviously try the best that you get to use.
+
+44
+00:04:59,000 --> 00:05:03,000
+They're very generous when it comes to getting scholarships.
+
+45
+00:05:03,000 --> 00:05:05,000
+So I would want you to take it.
+
+46
+00:05:05,000 --> 00:05:08,000
+It's very simple. It would be very basic, basic mathematics.
+
+47
+00:05:08,000 --> 00:05:13,000
+You'll get some questions on the DevOps three or four, like on the cloud.
+
+48
+00:05:13,000 --> 00:05:21,000
+We'll have some questions over the logical reasoning problem solving questions, which is something we actually look forward to.
+
+49
+00:05:21,000 --> 00:05:23,000
+So a person. Yes.
+
+50
+00:05:23,000 --> 00:05:34,000
+Yeah. And I heard from someone like I heard or have read some article or something like, yes, you guys used to like once the like,
+
+51
+00:05:34,000 --> 00:05:42,000
+if you don't have money right now, yes, then that money can be deducted once you get a job and then it will be in my opinion.
+
+52
+00:05:42,000 --> 00:05:44,000
+It used to be first.
+
+53
+00:05:44,000 --> 00:05:52,000
+I mean, in twenty twenty one, actually, what used to happen then is basically you used to train you first of all.
+
+54
+00:05:52,000 --> 00:05:55,000
+And then when you learn a job, we used to take specific part of it.
+
+55
+00:05:55,000 --> 00:05:57,000
+Yeah. OK.
+
+56
+00:05:57,000 --> 00:06:01,000
+But you know, the results would vary a lot back then.
+
+57
+00:06:01,000 --> 00:06:06,000
+So companies have to change its returns and conditions and all of that.
+
+58
+00:06:06,000 --> 00:06:12,000
+They used to charge in the earlier stage and providing you with no cost EMI options.
+
+59
+00:06:12,000 --> 00:06:14,000
+And after that, there has been an effective search.
+
+60
+00:06:14,000 --> 00:06:22,000
+If you look at the placement report, the latest placement report, the placement has been around ninety six percent, which is an enormous result.
+
+61
+00:06:22,000 --> 00:06:28,000
+And if you look at the package, the average package going around twenty one L.P.A., that's a very huge boost.
+
+62
+00:06:28,000 --> 00:06:35,000
+On the other hand, is that because for me, right now, three point six nine spending and it's a little bit tough.
+
+63
+00:06:35,000 --> 00:06:39,000
+Yeah, definitely. I mean, we do understand for the fact it is very difficult.
+
+64
+00:06:39,000 --> 00:06:43,000
+So for that specific reason, we have no cost EMI options for the same.
+
+65
+00:06:43,000 --> 00:06:48,000
+Like you will get EMI options starting from the range of seven.
+
+66
+00:06:48,000 --> 00:06:50,000
+Seven thousand. Yeah, seven thousand.
+
+67
+00:06:50,000 --> 00:06:56,000
+You have seven thousand options. You have eight thousand. You have nine and twelve and a half.
+
+68
+00:06:56,000 --> 00:07:00,000
+So all of the detail the program manager would give you.
+
+69
+00:07:00,000 --> 00:07:06,000
+And once you have complete information, after that, we want you to make a decision, not right away.
+
+70
+00:07:06,000 --> 00:07:12,000
+But you have to have complete information before you make a decision of joining us.
+
+71
+00:07:12,000 --> 00:07:15,000
+OK, I have one more last question.
+
+72
+00:07:15,000 --> 00:07:21,000
+Can you share me the curriculum of data analyst and data analysis?
+
+73
+00:07:21,000 --> 00:07:30,000
+Yeah, I have actually already showed you the I guess data devops, but I'll be sharing you for the data analysis.
+
+74
+00:07:30,000 --> 00:07:36,000
+I mean, data analysis. But, you know, just some questions before I send you the data.
+
+75
+00:07:36,000 --> 00:07:41,000
+Yeah, the assembly, actually, it's data science and machine learning.
+
+76
+00:07:41,000 --> 00:07:47,000
+So are you good at your maths? Is maths something really comfortable?
+
+77
+00:07:47,000 --> 00:07:50,000
+Yeah, I am very much comfortable with maths.
+
+78
+00:07:50,000 --> 00:07:57,000
+And what about coding? Coding to be very true from past three years, I have not touched my coding part.
+
+79
+00:07:57,000 --> 00:08:00,000
+I mean, they'll teach you coding. I mean, are you comfortable in learning?
+
+80
+00:08:00,000 --> 00:08:06,000
+Yes, yes, yes. See, because for data analyst part, you won't need that much of coding.
+
+81
+00:08:06,000 --> 00:08:13,000
+But data scientist is the role that you must be looking forward to because data analyst is a subpart of data scientist.
+
+82
+00:08:13,000 --> 00:08:18,000
+Right. So the thing being the compensation for the data scientist would be really high.
+
+83
+00:08:18,000 --> 00:08:23,000
+You have to go for machine learning. You have to go into the deeper dive for that.
+
+84
+00:08:23,000 --> 00:08:26,000
+For DevOps also, we need coding, right?
+
+85
+00:08:26,000 --> 00:08:31,000
+For DevOps, yeah, basic coding. It's more of the tools than the codes.
+
+86
+00:08:31,000 --> 00:08:34,000
+Yeah, and DSA is also important in DevOps.
+
+87
+00:08:34,000 --> 00:08:40,000
+Yeah, it's DevOps for any, anything. If you go any product based company, go for any role, DSA, they would ask you.
+
+88
+00:08:40,000 --> 00:08:41,000
+Yes, yes.
+
+89
+00:08:41,000 --> 00:08:47,000
+To excel in your role, any role, you need it. DSA and system design is very important.
+
+90
+00:08:47,000 --> 00:08:51,000
+That is something that we have to focus upon the most.
+
+91
+00:08:51,000 --> 00:08:53,000
+Yeah.
+
+92
+00:08:53,000 --> 00:08:55,000
+So that would be there.
+
+93
+00:08:55,000 --> 00:09:04,000
+Yeah, yeah, yeah. So no, I don't have any interest in data scientist, data science. I want for data analysts and DevOps only.
+
+94
+00:09:04,000 --> 00:09:10,000
+So that is in the similar course. You I mean, there's a similar course.
+
+95
+00:09:10,000 --> 00:09:13,000
+It's the same course. I mean, for that, you just have to go for the specialization.
+
+96
+00:09:13,000 --> 00:09:17,000
+So you have the same charge for the sale. It's not like you have to pay something else for that.
+
+97
+00:09:17,000 --> 00:09:25,000
+It's in DSML course wherein in nine, eight to nine months, you get ready for data analysis, data analysis.
+
+98
+00:09:25,000 --> 00:09:27,000
+But the package would be around 15 to 20.
+
+99
+00:09:27,000 --> 00:09:32,000
+Okay, okay. To be very true, like it will be nine months course, right?
+
+100
+00:09:32,000 --> 00:09:36,000
+Like if it exceeds something, then it is like.
+
+101
+00:09:36,000 --> 00:09:46,000
+Yeah, for your data, this machine learning, if you're going for data scientist, data scientist would take you a lot of time because not a lot of time.
+
+102
+00:09:46,000 --> 00:09:49,000
+I mean, two months more than that, two or three months more than that.
+
+103
+00:09:49,000 --> 00:09:52,000
+Okay. And this thing, DevOps will be nine or ten months.
+
+104
+00:09:52,000 --> 00:09:57,000
+Yeah, DevOps, depending upon the batch you learn. If you are into the advanced, well, then even listen that.
+
+105
+00:09:57,000 --> 00:09:59,000
+Okay, okay.
+
+106
+00:09:59,000 --> 00:10:03,000
+Yes, you have an actually a test, which is for three hours.
+
+107
+00:10:03,000 --> 00:10:07,000
+You know, you have it's called in the city.
+
+108
+00:10:07,000 --> 00:10:10,000
+So that is how your batch would be identified.
+
+109
+00:10:10,000 --> 00:10:14,000
+So even if you land in advance, but you want to continue in intermediate, you can do that.
+
+110
+00:10:14,000 --> 00:10:20,000
+But if you had learned into advance and you want to go for, you know, the advance.
+
+111
+00:10:20,000 --> 00:10:23,000
+Sorry, if you land into intermediate, I want to go for it once.
+
+112
+00:10:23,000 --> 00:10:26,000
+That is not possible for that. You would have to take the testing.
+
+113
+00:10:26,000 --> 00:10:29,000
+Yes, I've got it.
+
+114
+00:10:29,000 --> 00:10:34,000
+Can you give me some time? Actually, I have to discuss this thing with my parents and.
+
+115
+00:10:34,000 --> 00:10:40,000
+Yeah, yeah, for sure. I mean, see the batch is actually starting on, as I told you, 14 or 15 August.
+
+116
+00:10:40,000 --> 00:10:43,000
+Yeah, yeah, yeah. It's okay. I can.
+
+117
+00:10:43,000 --> 00:10:48,000
+You can. Yes, you can do one thing. You can take up the eligibility test today.
+
+118
+00:10:48,000 --> 00:10:55,000
+Tomorrow you can have the or even if you're free today, you can have the alumni session when you can have all of your query answered.
+
+119
+00:10:55,000 --> 00:10:59,000
+You can have the deeper dive into the you know, what exactly happens inside all the.
+
+120
+00:10:59,000 --> 00:11:03,000
+When it is alumni session? You can, you know, I can ask for their sessions.
+
+121
+00:11:03,000 --> 00:11:09,000
+And I believe today it's Friday and tomorrow it's Saturday, so they must be free.
+
+122
+00:11:09,000 --> 00:11:15,000
+Can you schedule it on tomorrow? Because right now I have I will log in a little bit late today.
+
+123
+00:11:15,000 --> 00:11:19,000
+No, I mean, you can just take up the test. That would be the first criteria for you.
+
+124
+00:11:19,000 --> 00:11:22,000
+That test is of twenty thousand, right?
+
+125
+00:11:22,000 --> 00:11:25,000
+Twenty thousand. No, you don't have to pay anything for that.
+
+126
+00:11:25,000 --> 00:11:30,000
+Okay, you don't know. I mean, payment is only once you join us.
+
+127
+00:11:30,000 --> 00:11:34,000
+Till then, it's nothing. Okay. Yes.
+
+128
+00:11:34,000 --> 00:11:40,000
+So you just have the test today. You can take up the test and tomorrow you can have the alumni session.
+
+129
+00:11:40,000 --> 00:11:47,000
+And then we can come up. Yeah, today, actually, right now, like today, I can't give test because I will log in at four o'clock today.
+
+130
+00:11:47,000 --> 00:11:52,000
+So actually, there was some like I have to log in late.
+
+131
+00:11:52,000 --> 00:11:59,000
+Yeah, no, I mean, what time do you get free from your work? Yeah, I will get free to twelve or one a.m.
+
+132
+00:11:59,000 --> 00:12:02,000
+So that means in the morning you'll be available.
+
+133
+00:12:02,000 --> 00:12:07,000
+Yeah, tomorrow morning I will be available or then I will sleep and I will like wake up at eight or nine.
+
+134
+00:12:07,000 --> 00:12:10,000
+Then I can give. Yeah, definitely. I'll do one thing.
+
+135
+00:12:10,000 --> 00:12:13,000
+For your comfort, I'll do one thing. I'll give you a window. Okay.
+
+136
+00:12:13,000 --> 00:12:17,000
+I'll give you a window till tomorrow, eleven thirty or twelve.
+
+137
+00:12:17,000 --> 00:12:21,000
+So before that time, you can take it any time.
+
+138
+00:12:21,000 --> 00:12:26,000
+So whenever you feel you get, you know, twenty minutes to spare, that will be great.
+
+139
+00:12:26,000 --> 00:12:30,000
+Definitely, I can do that. Thank you. Thanks. Have a nice day.
+
+140
+00:12:30,000 --> 00:12:35,000
+And a little more research by yourself because I want you to come up with as many questions as you have.
+
+141
+00:12:35,000 --> 00:12:40,000
+Sure, sure, sure. All right, Mr. Shazam. Have a great day.
+
+142
+00:12:40,000 --> 00:12:42,000
+Yeah, you too. Thanks.
+

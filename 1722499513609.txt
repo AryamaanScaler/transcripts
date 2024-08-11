@@ -1,0 +1,744 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi, am I speaking with Anuj?
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes
+
+5
+00:00:08,000 --> 00:00:10,000
+Hey Anuj, this is Vishali from Scalar Academy
+
+6
+00:00:10,000 --> 00:00:12,000
+Is this a good time for us to connect?
+
+7
+00:00:12,000 --> 00:00:14,000
+Yes, yes of course
+
+8
+00:00:14,000 --> 00:00:16,000
+Great, Anuj I wanted to connect with you regarding one thing
+
+9
+00:00:16,000 --> 00:00:18,000
+which was Scalar University
+
+10
+00:00:18,000 --> 00:00:22,000
+I was recently informed by the team that you were checking it out on the website
+
+11
+00:00:22,000 --> 00:00:24,000
+May I know what led you to the website?
+
+12
+00:00:26,000 --> 00:00:28,000
+Actually I have already written to a program
+
+13
+00:00:28,000 --> 00:00:30,000
+in Scalar
+
+14
+00:00:30,000 --> 00:00:34,000
+So I was just exploring the sites and everything
+
+15
+00:00:34,000 --> 00:00:36,000
+So that's why I went to that page
+
+16
+00:00:36,000 --> 00:00:38,000
+I see
+
+17
+00:00:38,000 --> 00:00:40,000
+So were you able to understand the concept of Scalar University?
+
+18
+00:00:42,000 --> 00:00:44,000
+Yes, yes I do
+
+19
+00:00:44,000 --> 00:00:46,000
+But I think a full time course would not be able
+
+20
+00:00:46,000 --> 00:00:50,000
+I mean I won't be able to get along with that right now
+
+21
+00:00:50,000 --> 00:00:52,000
+Okay so it's more of a full time course
+
+22
+00:00:52,000 --> 00:00:56,000
+The same flow will be followed as what you will be following in your current course
+
+23
+00:00:56,000 --> 00:00:58,000
+And it's an extension of your current course
+
+24
+00:00:58,000 --> 00:01:00,000
+So nothing will be changed in your whole thing
+
+25
+00:01:02,000 --> 00:01:04,000
+Yes
+
+26
+00:01:04,000 --> 00:01:06,000
+So do you think that won't do as well?
+
+27
+00:01:06,000 --> 00:01:08,000
+That won't suffice as well?
+
+28
+00:01:10,000 --> 00:01:12,000
+Sorry I didn't get you clearly
+
+29
+00:01:12,000 --> 00:01:14,000
+Okay
+
+30
+00:01:14,000 --> 00:01:16,000
+So you are saying that I don't need to pay anything more
+
+31
+00:01:16,000 --> 00:01:18,000
+Like I have enrolled for
+
+32
+00:01:20,000 --> 00:01:22,000
+Your DSML certification course right?
+
+33
+00:01:22,000 --> 00:01:24,000
+Yes, yes
+
+34
+00:01:24,000 --> 00:01:26,000
+Exactly
+
+35
+00:01:26,000 --> 00:01:28,000
+For data analytics and data science
+
+36
+00:01:28,000 --> 00:01:30,000
+So Anuj basically what Scalar University is
+
+37
+00:01:30,000 --> 00:01:32,000
+It's an extension to your current course
+
+38
+00:01:32,000 --> 00:01:34,000
+So your current course
+
+39
+00:01:34,000 --> 00:01:36,000
+I mean is of 12 months
+
+40
+00:01:36,000 --> 00:01:38,000
+We extended by 6 more months
+
+41
+00:01:38,000 --> 00:01:40,000
+And your entire effort throughout these 18 months
+
+42
+00:01:40,000 --> 00:01:42,000
+Including your current timeline
+
+43
+00:01:42,000 --> 00:01:44,000
+Will be converted towards a masters degree
+
+44
+00:01:44,000 --> 00:01:46,000
+This is going to be MS in CS
+
+45
+00:01:46,000 --> 00:01:48,000
+Which is masters of science in computer science
+
+46
+00:01:48,000 --> 00:01:50,000
+With AI and MS specialization
+
+47
+00:01:50,000 --> 00:01:52,000
+With 90% of the time
+
+48
+00:01:52,000 --> 00:01:54,000
+So when I say it's an extension
+
+49
+00:01:54,000 --> 00:01:56,000
+It's not a separate course
+
+50
+00:01:56,000 --> 00:01:58,000
+What you are doing currently
+
+51
+00:01:58,000 --> 00:02:00,000
+The same thing will be followed right?
+
+52
+00:02:00,000 --> 00:02:02,000
+Once your classes, I believe your classes must have started
+
+53
+00:02:02,000 --> 00:02:04,000
+Or is it going to start?
+
+54
+00:02:04,000 --> 00:02:06,000
+Yes, it started already
+
+55
+00:02:06,000 --> 00:02:08,000
+So you are doing classes every alternate day
+
+56
+00:02:08,000 --> 00:02:10,000
+Which is 3 classes per week
+
+57
+00:02:10,000 --> 00:02:12,000
+The same flow will be followed
+
+58
+00:02:12,000 --> 00:02:14,000
+Once you are done with your last module
+
+59
+00:02:14,000 --> 00:02:16,000
+Which is your MLOps module
+
+60
+00:02:16,000 --> 00:02:18,000
+Then we will start your
+
+61
+00:02:18,000 --> 00:02:20,000
+Master of Selectives
+
+62
+00:02:20,000 --> 00:02:22,000
+Which is some extra 2-3 more modules
+
+63
+00:02:22,000 --> 00:02:24,000
+That you will have to study
+
+64
+00:02:24,000 --> 00:02:26,000
+Okay
+
+65
+00:02:26,000 --> 00:02:28,000
+And this is not the part of the current
+
+66
+00:02:28,000 --> 00:02:30,000
+Program that I am enrolled in?
+
+67
+00:02:30,000 --> 00:02:32,000
+No, this is an upgradation
+
+68
+00:02:32,000 --> 00:02:34,000
+Of the current program
+
+69
+00:02:34,000 --> 00:02:36,000
+Okay
+
+70
+00:02:36,000 --> 00:02:38,000
+Yes
+
+71
+00:02:38,000 --> 00:02:40,000
+Does it paint a clearer picture?
+
+72
+00:02:42,000 --> 00:02:44,000
+Yes, a little bit
+
+73
+00:02:44,000 --> 00:02:46,000
+I am a bit
+
+74
+00:02:46,000 --> 00:02:48,000
+Confused like regarding
+
+75
+00:02:48,000 --> 00:02:50,000
+So I was in this impression
+
+76
+00:02:50,000 --> 00:02:52,000
+That the courses of 18 months
+
+77
+00:02:52,000 --> 00:02:54,000
+Complete
+
+78
+00:02:54,000 --> 00:02:56,000
+And you know within
+
+79
+00:02:56,000 --> 00:02:58,000
+These 18 months it would be like
+
+80
+00:02:58,000 --> 00:03:00,000
+There would be a time for mock interviews
+
+81
+00:03:00,000 --> 00:03:02,000
+And everything
+
+82
+00:03:02,000 --> 00:03:04,000
+That's all included during this period
+
+83
+00:03:04,000 --> 00:03:06,000
+Correct, so the unknown
+
+84
+00:03:06,000 --> 00:03:08,000
+It depends on which batch you are in
+
+85
+00:03:08,000 --> 00:03:10,000
+Currently you can see you are in beginner batch
+
+86
+00:03:10,000 --> 00:03:12,000
+Right?
+
+87
+00:03:12,000 --> 00:03:14,000
+The beginner batch adds on 4 more months
+
+88
+00:03:14,000 --> 00:03:16,000
+To your timeline
+
+89
+00:03:16,000 --> 00:03:18,000
+So that's 16 months, I am not sure about 18
+
+90
+00:03:18,000 --> 00:03:20,000
+Maybe on a
+
+91
+00:03:20,000 --> 00:03:22,000
+Safer side they have extended it
+
+92
+00:03:22,000 --> 00:03:24,000
+To 18 months and that's why they have told you
+
+93
+00:03:24,000 --> 00:03:26,000
+But in the same duration
+
+94
+00:03:26,000 --> 00:03:28,000
+Similar duration
+
+95
+00:03:28,000 --> 00:03:30,000
+If you need to extend you can extend
+
+96
+00:03:30,000 --> 00:03:32,000
+Definitely
+
+97
+00:03:32,000 --> 00:03:34,000
+But in 18 months your masters will also be completed
+
+98
+00:03:34,000 --> 00:03:36,000
+Basically at the end of the day
+
+99
+00:03:36,000 --> 00:03:38,000
+All you have to do is achieve 90
+
+100
+00:03:38,000 --> 00:03:40,000
+Credits including your current
+
+101
+00:03:40,000 --> 00:03:42,000
+Modules
+
+102
+00:03:42,000 --> 00:03:44,000
+So it's not like you have to put an exceptional
+
+103
+00:03:44,000 --> 00:03:46,000
+Effort towards your studies
+
+104
+00:03:46,000 --> 00:03:48,000
+It's the same amount of efforts
+
+105
+00:03:48,000 --> 00:03:50,000
+For a little bit more time
+
+106
+00:03:50,000 --> 00:03:52,000
+And you know the whole thing will be converted towards
+
+107
+00:03:52,000 --> 00:03:54,000
+Masters
+
+108
+00:03:54,000 --> 00:03:56,000
+Okay, so what you are proposing
+
+109
+00:03:56,000 --> 00:03:58,000
+Is like currently I am part of
+
+110
+00:03:58,000 --> 00:04:00,000
+Scale Academy
+
+111
+00:04:00,000 --> 00:04:02,000
+And what you are proposing
+
+112
+00:04:02,000 --> 00:04:04,000
+If I can you know get into
+
+113
+00:04:04,000 --> 00:04:06,000
+Scale University, probably I would be getting
+
+114
+00:04:06,000 --> 00:04:08,000
+A degree as well
+
+115
+00:04:08,000 --> 00:04:10,000
+On masters
+
+116
+00:04:10,000 --> 00:04:12,000
+Right now I would be getting a certification
+
+117
+00:04:12,000 --> 00:04:14,000
+Instead of certification I would be getting a degree
+
+118
+00:04:14,000 --> 00:04:16,000
+Correct, with a certification
+
+119
+00:04:16,000 --> 00:04:18,000
+You will also be getting a degree
+
+120
+00:04:18,000 --> 00:04:20,000
+Which is through
+
+121
+00:04:20,000 --> 00:04:22,000
+Just a little more studying as I told you
+
+122
+00:04:22,000 --> 00:04:24,000
+Secondly this is Scale
+
+123
+00:04:24,000 --> 00:04:26,000
+University, NEO
+
+124
+00:04:26,000 --> 00:04:28,000
+VAR, SIPY
+
+125
+00:04:28,000 --> 00:04:30,000
+This is the name of the college in a way
+
+126
+00:04:30,000 --> 00:04:32,000
+And we are in a combination
+
+127
+00:04:32,000 --> 00:04:34,000
+With a European University
+
+128
+00:04:34,000 --> 00:04:36,000
+Which is Wulff University
+
+129
+00:04:36,000 --> 00:04:38,000
+Hence you are getting a MS
+
+130
+00:04:38,000 --> 00:04:40,000
+Instead of M.Tech, MSE, MCA
+
+131
+00:04:40,000 --> 00:04:42,000
+And
+
+132
+00:04:42,000 --> 00:04:44,000
+So I mean you are achieving 90 credits as well
+
+133
+00:04:44,000 --> 00:04:46,000
+So the
+
+134
+00:04:46,000 --> 00:04:48,000
+Placements we offer is
+
+135
+00:04:48,000 --> 00:04:50,000
+Domestic market, in domestic market for
+
+136
+00:04:50,000 --> 00:04:52,000
+One and a half years for the whole thing
+
+137
+00:04:52,000 --> 00:04:54,000
+The window is going to be half years of placement
+
+138
+00:04:54,000 --> 00:04:56,000
+Support, which will start
+
+139
+00:04:56,000 --> 00:04:58,000
+After your product analytics module
+
+140
+00:04:58,000 --> 00:05:00,000
+And will go up to 6 more months of your completion
+
+141
+00:05:00,000 --> 00:05:02,000
+Of your curriculum
+
+142
+00:05:02,000 --> 00:05:04,000
+And all placements are also allowed
+
+143
+00:05:04,000 --> 00:05:06,000
+In this duration, secondly it opens
+
+144
+00:05:06,000 --> 00:05:08,000
+Up gates for you to go abroad in case
+
+145
+00:05:08,000 --> 00:05:10,000
+You are somebody who is exploring those opportunities
+
+146
+00:05:10,000 --> 00:05:12,000
+So it could be for further studies abroad
+
+147
+00:05:12,000 --> 00:05:14,000
+Which is PHD postdoc
+
+148
+00:05:14,000 --> 00:05:16,000
+After PHD
+
+149
+00:05:16,000 --> 00:05:18,000
+Otherwise for jobs as well
+
+150
+00:05:18,000 --> 00:05:20,000
+Okay
+
+151
+00:05:20,000 --> 00:05:22,000
+And like what's the difference in
+
+152
+00:05:22,000 --> 00:05:24,000
+Payments for this
+
+153
+00:05:24,000 --> 00:05:26,000
+Okay, there is an upgradation fee of
+
+154
+00:05:26,000 --> 00:05:28,000
+1.5 lakhs on top of it you have already paid
+
+155
+00:05:28,000 --> 00:05:30,000
+Okay
+
+156
+00:05:30,000 --> 00:05:32,000
+Yes
+
+157
+00:05:32,000 --> 00:05:34,000
+Okay, let me
+
+158
+00:05:34,000 --> 00:05:36,000
+Think about it and probably then we can
+
+159
+00:05:36,000 --> 00:05:38,000
+Connect
+
+160
+00:05:38,000 --> 00:05:40,000
+We don't have to take any decision right now
+
+161
+00:05:40,000 --> 00:05:42,000
+This is just introductory call
+
+162
+00:05:42,000 --> 00:05:44,000
+I will share across the brochure with you on email
+
+163
+00:05:44,000 --> 00:05:46,000
+Any other details that you require
+
+164
+00:05:46,000 --> 00:05:48,000
+You can ping me either on whatsapp and you can let me know
+
+165
+00:05:48,000 --> 00:05:50,000
+Right now
+
+166
+00:05:50,000 --> 00:05:52,000
+And we can connect back again this weekend
+
+167
+00:05:52,000 --> 00:05:54,000
+Where as you have read it through and you have certain
+
+168
+00:05:54,000 --> 00:05:56,000
+More things to discuss with me
+
+169
+00:05:56,000 --> 00:05:58,000
+That works
+
+170
+00:05:58,000 --> 00:06:00,000
+Yeah sure sure that will do
+
+171
+00:06:00,000 --> 00:06:02,000
+Great Anuj, we will connect Saturday
+
+172
+00:06:02,000 --> 00:06:04,000
+Is that okay? No, Sunday, is that okay with you?
+
+173
+00:06:04,000 --> 00:06:06,000
+Yeah, Sunday would be fine
+
+174
+00:06:06,000 --> 00:06:08,000
+Any particular timings you have as a preference?
+
+175
+00:06:10,000 --> 00:06:12,000
+I think
+
+176
+00:06:12,000 --> 00:06:14,000
+During the afternoon, probably after lunch
+
+177
+00:06:14,000 --> 00:06:16,000
+Same time works for you
+
+178
+00:06:16,000 --> 00:06:18,000
+Around 2.15 is okay
+
+179
+00:06:18,000 --> 00:06:20,000
+Yeah
+
+180
+00:06:20,000 --> 00:06:22,000
+2.15, 2.30
+
+181
+00:06:22,000 --> 00:06:24,000
+That would be the best time
+
+182
+00:06:24,000 --> 00:06:26,000
+Works for me as well
+
+183
+00:06:26,000 --> 00:06:28,000
+Okay Anuj, I will talk to you soon
+
+184
+00:06:28,000 --> 00:06:30,000
+Okay, cool
+
+185
+00:06:30,000 --> 00:06:32,000
+Bye bye
+
+186
+00:06:32,000 --> 00:06:34,000
+Cool
+

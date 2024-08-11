@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello, Hi Avishwar
+
+2
+00:00:02,000 --> 00:00:03,000
+Yes
+
+3
+00:00:03,000 --> 00:00:05,000
+How are you Avishwar, all good?
+
+4
+00:00:05,000 --> 00:00:06,000
+Good
+
+5
+00:00:06,000 --> 00:00:08,000
+Great, great, you are in office today?
+
+6
+00:00:08,000 --> 00:00:10,000
+Yes, currently, lunch break
+
+7
+00:00:10,000 --> 00:00:13,000
+Okay, okay, just sorry to bother you this time
+
+8
+00:00:13,000 --> 00:00:15,000
+But have you been exploring the Scala Dashboard?
+
+9
+00:00:15,000 --> 00:00:17,000
+At least exploring everyday something?
+
+10
+00:00:17,000 --> 00:00:18,000
+Yes
+
+11
+00:00:18,000 --> 00:00:22,000
+Okay, is it helping you out when you are watching the primer content, solving maps?
+
+12
+00:00:22,000 --> 00:00:24,000
+Is it helping you?
+
+13
+00:00:24,000 --> 00:00:26,000
+Yes, yes, a lot
+
+14
+00:00:26,000 --> 00:00:28,000
+Great, I am really happy to hear the feedback
+
+15
+00:00:28,000 --> 00:00:33,000
+Okay, just want to inform you, do you know there is a session tomorrow between 4 to 5, are you aware about this?
+
+16
+00:00:33,000 --> 00:00:35,000
+Yes, yes, time management
+
+17
+00:00:35,000 --> 00:00:40,000
+Yeah, yeah, time management, it is a very very good session that will help you out what exactly, how you will manage things around
+
+18
+00:00:40,000 --> 00:00:45,000
+Between 4 to 5, Aman Kumar, he was our lead instructor and he was an ex-Microsoft
+
+19
+00:00:45,000 --> 00:00:51,000
+So he will be there coming up in the session and explaining you how to manage your time and your learning, where not to waste, where not to learn
+
+20
+00:00:51,000 --> 00:00:52,000
+Okay
+
+21
+00:00:52,000 --> 00:00:54,000
+Okay, so I am sure you will be available, would you?
+
+22
+00:00:54,000 --> 00:00:55,000
+Sorry?
+
+23
+00:00:55,000 --> 00:00:57,000
+I am sure you will be joining the session, right?
+
+24
+00:00:57,000 --> 00:01:03,000
+Yes, means it is like parallel join, not 100% because I am in office
+
+25
+00:01:03,000 --> 00:01:09,000
+Yeah, yeah, you know if you can join using your phone, maybe try using with another desktop or like another tab if you open it up, you can try
+
+26
+00:01:09,000 --> 00:01:12,000
+Try doing that, probably you will learn how to manage things well
+
+27
+00:01:12,000 --> 00:01:13,000
+Right, right
+
+28
+00:01:13,000 --> 00:01:17,000
+Cool man, and hope to have you with Permanent Scaler, right?
+
+29
+00:01:17,000 --> 00:01:18,000
+Right, right
+
+30
+00:01:18,000 --> 00:01:20,000
+Cool man, wish you all the best for your career
+
+31
+00:01:20,000 --> 00:01:21,000
+Thank you
+
+32
+00:01:21,000 --> 00:01:24,000
+It shouldn't be like this, Avishka, please stop talking, please reach out to me too
+
+33
+00:01:24,000 --> 00:01:25,000
+Right, right, right
+
+34
+00:01:25,000 --> 00:01:27,000
+Take care, cool, take care, bye bye
+
+35
+00:01:27,000 --> 00:01:28,000
+Thank you
+

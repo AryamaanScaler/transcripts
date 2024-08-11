@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:30,000
+Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello
+
+2
+00:00:30,000 --> 00:00:30,520
+Hello.
+
+3
+00:00:31,800 --> 00:00:32,420
+Hello.
+
+4
+00:00:32,800 --> 00:00:34,160
+Hello.
+
+5
+00:00:34,460 --> 00:00:35,260
+Hello.
+
+6
+00:00:36,320 --> 00:00:36,560
+Hello.
+
+7
+00:00:37,600 --> 00:00:38,100
+What!?
+
+8
+00:00:40,400 --> 00:00:41,600
+Let me give you a call, Ak dlatego
+
+9
+00:00:42,020 --> 00:00:43,120
+Give me a second.
+

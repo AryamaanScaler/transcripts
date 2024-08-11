@@ -1,0 +1,188 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:05,120
+Hello, yeah, am I having a word with Prabhat?
+
+3
+00:00:07,640 --> 00:00:11,300
+Hey Prabhat, good evening. It's Tejas calling from Scalier Academy
+
+4
+00:00:14,640 --> 00:00:16,640
+Right, I have to have a conversation now Prabhat
+
+5
+00:00:18,520 --> 00:00:22,480
+Right right right so Prabhat the main reason why I went about reaching out to you is because
+
+6
+00:00:23,200 --> 00:00:26,920
+You have been about registering for one of the master classes at Scalier Academy
+
+7
+00:00:30,000 --> 00:00:32,000
+For the monolithic and the microsurface
+
+8
+00:00:33,120 --> 00:00:34,480
+Exactly
+
+9
+00:00:34,480 --> 00:00:41,320
+Exactly. So just wanted to understand Prabhat what exactly were you looking over here at Scalier Academy so that I can go with helping out with it
+
+10
+00:00:43,800 --> 00:00:46,600
+Hello, yeah Prabhat, so can you hear me? Am I audible?
+
+11
+00:00:47,600 --> 00:00:49,600
+Yes, right
+
+12
+00:00:49,640 --> 00:00:56,100
+Yeah, just wanted to understand what exactly were you looking over here at Scalier Academy so that I can go with helping you out with it
+
+13
+00:00:56,100 --> 00:00:59,120
+What was the main objective behind you registering at Scalier, Prabhat?
+
+14
+00:01:00,600 --> 00:01:05,320
+Actually, I am working in ICLC as an IPNVist
+
+15
+00:01:05,320 --> 00:01:11,320
+I am working in the iMail application
+
+16
+00:01:11,320 --> 00:01:17,320
+So I am looking for application architecture and all the application security and application architecture
+
+17
+00:01:18,320 --> 00:01:23,920
+Okay, right right right. So how did you get to know about Scalier Academy in the first place?
+
+18
+00:01:25,680 --> 00:01:27,680
+Actually I am not an auto developer
+
+19
+00:01:28,680 --> 00:01:34,680
+I am just looking for application security and architecture
+
+20
+00:01:34,680 --> 00:01:40,680
+Okay, right right right. How did you get to know about Scalier Academy in the first place?
+
+21
+00:01:40,680 --> 00:01:46,680
+Actually, first time I have seen my Instagram page
+
+22
+00:01:46,680 --> 00:01:47,680
+Okay
+
+23
+00:01:47,680 --> 00:01:48,680
+Right
+
+24
+00:02:03,680 --> 00:02:05,680
+Right right right. Got it, got it Prabhat
+
+25
+00:02:05,680 --> 00:02:12,680
+So is it that you told me that you want to learn the architecture of the whole product or whatever you are doing
+
+26
+00:02:12,680 --> 00:02:15,680
+Right, so mainly you need to become a developer for that
+
+27
+00:02:15,680 --> 00:02:29,680
+Right, so are you looking to, are you looking to currently continue in the same position that you are doing or do you want to transition to a developer job profile as in a backend or full stack job profile and target better product based companies out there in the market, Prabhat or how is it?
+
+28
+00:02:31,680 --> 00:02:37,680
+Actually I am not from take my ground, actually I am from mechanical engineering background
+
+29
+00:02:37,680 --> 00:02:38,680
+Okay
+
+30
+00:02:38,680 --> 00:02:47,680
+So currently I don't have proper knowledge of language and things
+
+31
+00:02:47,680 --> 00:02:48,680
+Okay
+
+32
+00:02:48,680 --> 00:02:59,680
+Currently I am not looking for a full time developer but yeah you can take you for application purpose which you service your language
+
+33
+00:02:59,680 --> 00:03:15,680
+Right right right right. So you are mainly looking to upscale so that you are able to move as a developer to another company that's your main requirement right?
+
+34
+00:03:15,680 --> 00:03:16,680
+Right right right
+
+35
+00:03:16,680 --> 00:03:30,680
+Right right right. So basically Prabhat Scalar Academy is a training platform that is specifically designed only for working professionals wherein you can work and upscale at the same time so you don't have to leave your work once you are part of Scalar Academy
+
+36
+00:03:30,680 --> 00:03:43,680
+Right, so it's going to be a 10 to 11 month training program wherein we are going to train an individual from the very scratch that is starting from the programming language itself will go about helping you and we make sure that you are getting placed to good product based companies in the market
+
+37
+00:03:43,680 --> 00:03:48,680
+I believe that you might be aware of what is the service and what is the product based company right Prabhat?
+
+38
+00:03:48,680 --> 00:03:49,680
+Right
+
+39
+00:03:49,680 --> 00:03:54,680
+Right, so what type of companies would you be predominantly interested to work in? Service or product?
+
+40
+00:03:57,680 --> 00:04:01,680
+Product means what I would say
+
+41
+00:04:01,680 --> 00:04:12,680
+Right, so majorly there are two types of organizations out there in the market. One is service based and one is product based. So mainly what type of companies are you looking or targeting to get into?
+
+42
+00:04:12,680 --> 00:04:24,680
+Product based companies itself right? So Prabhat see the thing is that the entire fees at Scalar Academy also that is a major important aspect. Entire fees at Scalar Academy is going to be 3,24,000 right?
+
+43
+00:04:24,680 --> 00:04:35,680
+And it is going to be a 10 to 11 month training program. So would you be interested in any kind of training program like this which can help you from the scratch and can make sure that you are able to transition to a better company?
+
+44
+00:04:36,680 --> 00:04:53,680
+I am planning to learn how to use the language but currently I am not sure about that to join the class. Maybe you can give me some time and I will think about it and discuss with my friends
+
+45
+00:04:53,680 --> 00:05:11,680
+Right, right, right. It is not a problem. So you can do one thing. You can go about doing your research about Scalar Academy and you can go about seeing whether this as a platform could go about helping you out or not. So if in case you feel that this is going to help you out then you can reach out to me and I can go about helping you out with it.
+
+46
+00:05:11,680 --> 00:05:15,680
+Right, okay Prabhat thank you so much for your time. All the best.
+
+47
+00:05:15,680 --> 00:05:17,680
+Okay, bye.
+

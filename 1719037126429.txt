@@ -1,0 +1,2112 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello
+
+2
+00:00:01,300 --> 00:00:01,800
+Hello
+
+3
+00:00:01,800 --> 00:00:03,600
+Hi Anirban, how are you?
+
+4
+00:00:04,000 --> 00:00:05,500
+Yes, I am fine
+
+5
+00:00:05,500 --> 00:00:08,000
+How was the test for you? I am fine, I am fine
+
+6
+00:00:08,500 --> 00:00:11,500
+I was very happy, it was an easy question
+
+7
+00:00:11,500 --> 00:00:12,500
+It took a lot of time
+
+8
+00:00:13,500 --> 00:00:15,500
+Do you think you passed or not?
+
+9
+00:00:16,500 --> 00:00:22,500
+Today, ma'am, I just killed myself for a couple of months
+
+10
+00:00:22,500 --> 00:00:25,500
+I was doing my activity for a couple of months
+
+11
+00:00:25,500 --> 00:00:27,000
+Okay, see you
+
+12
+00:00:27,500 --> 00:00:29,500
+Congratulations, you cleared the test
+
+13
+00:00:29,500 --> 00:00:32,500
+You got 88 out of 100
+
+14
+00:00:33,500 --> 00:00:34,500
+Ma'am, I got a lot
+
+15
+00:00:34,500 --> 00:00:38,500
+Out of 100, like 15 questions, 13 questions are correct
+
+16
+00:00:38,500 --> 00:00:40,500
+Only 2 questions are wrong
+
+17
+00:00:40,500 --> 00:00:44,500
+Can you tell me who passed?
+
+18
+00:00:44,500 --> 00:00:46,500
+There was a ratio
+
+19
+00:00:48,500 --> 00:00:49,500
+A's age
+
+20
+00:00:50,500 --> 00:00:51,500
+A's age was correct
+
+21
+00:00:51,500 --> 00:00:52,500
+I will tell you
+
+22
+00:00:52,500 --> 00:00:54,500
+It was 14
+
+23
+00:00:55,000 --> 00:00:57,000
+I can't see the question, I can only tell
+
+24
+00:00:57,000 --> 00:00:59,000
+One question is wrong for logical reason
+
+25
+00:00:59,000 --> 00:01:01,000
+And one question is wrong for time and distance
+
+26
+00:01:01,000 --> 00:01:02,000
+No, ma'am
+
+27
+00:01:02,000 --> 00:01:03,000
+Okay, logical
+
+28
+00:01:03,000 --> 00:01:05,000
+One question is wrong for logical reason
+
+29
+00:01:05,000 --> 00:01:08,000
+And one question is wrong for time and distance
+
+30
+00:01:09,000 --> 00:01:11,000
+Because we don't get to see the question
+
+31
+00:01:11,000 --> 00:01:13,000
+Because it is an eligibility test
+
+32
+00:01:13,000 --> 00:01:16,000
+If we know the answers, we can help the learner
+
+33
+00:01:17,000 --> 00:01:20,000
+So as per company perspective, it would be wrong
+
+34
+00:01:20,000 --> 00:01:22,000
+That we are cheating you
+
+35
+00:01:22,000 --> 00:01:24,000
+We don't know the questions
+
+36
+00:01:24,500 --> 00:01:27,500
+We only know the questions of time and distance
+
+37
+00:01:27,500 --> 00:01:29,500
+The questions of time and distance, the ratio
+
+38
+00:01:29,500 --> 00:01:31,500
+The linear equations
+
+39
+00:01:31,500 --> 00:01:33,500
+We can only see these
+
+40
+00:01:33,500 --> 00:01:35,500
+Okay, I told you
+
+41
+00:01:35,500 --> 00:01:39,500
+I saw a couple of questions and I got it right
+
+42
+00:01:40,500 --> 00:01:43,500
+This is for basic mathematics
+
+43
+00:01:43,500 --> 00:01:46,500
+If you get less than 40% in this
+
+44
+00:01:46,500 --> 00:01:48,500
+Then you can't go into data analytics
+
+45
+00:01:48,500 --> 00:01:51,500
+That's why I told you that the eligibility test is important
+
+46
+00:01:52,000 --> 00:01:55,000
+If there was coding, we would have taken a test of programming
+
+47
+00:01:55,000 --> 00:01:57,000
+To see what is in the basic programming
+
+48
+00:01:58,000 --> 00:02:00,000
+The second thing is that you will give this test
+
+49
+00:02:00,000 --> 00:02:02,000
+Even when your interview process is done
+
+50
+00:02:02,000 --> 00:02:04,000
+Whenever you apply in a company
+
+51
+00:02:04,000 --> 00:02:06,000
+As I told you yesterday
+
+52
+00:02:06,000 --> 00:02:08,000
+There are 5000-7000 applications in a company
+
+53
+00:02:09,000 --> 00:02:11,000
+If I have to select someone's profile
+
+54
+00:02:11,000 --> 00:02:13,000
+In between those applications, how will I do it
+
+55
+00:02:14,000 --> 00:02:16,000
+So I will use software
+
+56
+00:02:16,000 --> 00:02:18,000
+If you have ever given an interview on Amazon
+
+57
+00:02:18,500 --> 00:02:20,500
+You will see that when you send an application to them
+
+58
+00:02:20,500 --> 00:02:24,500
+Within 24 hours, you will get a link in your mail
+
+59
+00:02:24,500 --> 00:02:26,500
+And it is such a link
+
+60
+00:02:26,500 --> 00:02:29,500
+That you have to submit this test within the next 48 hours
+
+61
+00:02:29,500 --> 00:02:31,500
+If you don't do it in 48 hours
+
+62
+00:02:31,500 --> 00:02:33,500
+Then the profile will automatically be rejected
+
+63
+00:02:33,500 --> 00:02:35,500
+So when you give a test like this
+
+64
+00:02:35,500 --> 00:02:37,500
+It's not necessary that 7-8000 people will pass
+
+65
+00:02:37,500 --> 00:02:39,500
+It's not necessary that 7-8000 people will pass
+
+66
+00:02:39,500 --> 00:02:41,500
+There will be some 1-1.5-2 thousand people will fail
+
+67
+00:02:41,500 --> 00:02:43,500
+There will be some 1-1.5-2 thousand people will fail
+
+68
+00:02:43,500 --> 00:02:45,500
+So out of 7000, how many profiles do I have
+
+69
+00:02:45,500 --> 00:02:47,500
+4-4.5 thousand
+
+70
+00:02:48,000 --> 00:02:50,000
+Now out of those 4-4.5 thousand
+
+71
+00:02:50,000 --> 00:02:52,000
+I will use my software and keywords
+
+72
+00:02:52,000 --> 00:02:54,000
+And select the right profile
+
+73
+00:02:54,000 --> 00:02:56,000
+Who gets a call for an interview
+
+74
+00:02:56,000 --> 00:02:58,000
+So this is also an important reason
+
+75
+00:02:58,000 --> 00:03:00,000
+Why we take these tests
+
+76
+00:03:00,000 --> 00:03:02,000
+Now tell me one thing
+
+77
+00:03:02,000 --> 00:03:04,000
+Yesterday you checked the details
+
+78
+00:03:04,000 --> 00:03:06,000
+I sent you the details, placement record
+
+79
+00:03:06,000 --> 00:03:08,000
+The entire brochure
+
+80
+00:03:08,000 --> 00:03:10,000
+What are the doubts in your mind
+
+81
+00:03:10,000 --> 00:03:12,000
+That you want to discuss
+
+82
+00:03:12,000 --> 00:03:14,000
+Like anything about placement
+
+83
+00:03:14,000 --> 00:03:16,000
+About projects, classes, instructors
+
+84
+00:03:16,500 --> 00:03:18,500
+I have only one
+
+85
+00:03:18,500 --> 00:03:20,500
+My placement
+
+86
+00:03:20,500 --> 00:03:22,500
+I will do it
+
+87
+00:03:22,500 --> 00:03:24,500
+In a year
+
+88
+00:03:24,500 --> 00:03:26,500
+I will do it with full effort
+
+89
+00:03:26,500 --> 00:03:28,500
+There is no problem with placement
+
+90
+00:03:28,500 --> 00:03:30,500
+There is no problem with placement
+
+91
+00:03:30,500 --> 00:03:32,500
+The reason is
+
+92
+00:03:32,500 --> 00:03:34,500
+The companies that hire us
+
+93
+00:03:34,500 --> 00:03:36,500
+They are reputed companies
+
+94
+00:03:36,500 --> 00:03:38,500
+Now if they are reputed companies
+
+95
+00:03:38,500 --> 00:03:40,500
+Then you know that I can't do such useless classes
+
+96
+00:03:40,500 --> 00:03:42,500
+Because if I send everyone to do such normal classes
+
+97
+00:03:42,500 --> 00:03:44,500
+Then all the kids will be rejected
+
+98
+00:03:45,000 --> 00:03:47,000
+There is no company like TCS Infosys
+
+99
+00:03:47,000 --> 00:03:49,000
+Where you get a package of 3-4 lakhs
+
+100
+00:03:49,000 --> 00:03:51,000
+If you study basic then it will work
+
+101
+00:03:51,000 --> 00:03:53,000
+The average placement of the scaler is 16-17 lakhs
+
+102
+00:03:53,000 --> 00:03:55,000
+Normal placement is 10-12 lakhs
+
+103
+00:03:55,000 --> 00:03:57,000
+So to get that much placement
+
+104
+00:03:57,000 --> 00:03:59,000
+To a fresher
+
+105
+00:03:59,000 --> 00:04:01,000
+I have to do every project
+
+106
+00:04:01,000 --> 00:04:03,000
+Every class properly
+
+107
+00:04:03,000 --> 00:04:05,000
+So that they can learn in that one year
+
+108
+00:04:05,000 --> 00:04:07,000
+And they can be eligible for the job
+
+109
+00:04:07,000 --> 00:04:09,000
+Now in this condition
+
+110
+00:04:09,000 --> 00:04:11,000
+You don't have to worry about placement
+
+111
+00:04:11,000 --> 00:04:13,000
+You should be worried that you will
+
+112
+00:04:13,500 --> 00:04:15,500
+Do the class, do all the assignments
+
+113
+00:04:15,500 --> 00:04:17,500
+Take mentor sessions
+
+114
+00:04:17,500 --> 00:04:19,500
+If you have any doubt
+
+115
+00:04:19,500 --> 00:04:21,500
+Then you will take doubt session 10 times
+
+116
+00:04:21,500 --> 00:04:23,500
+You have to do your best
+
+117
+00:04:23,500 --> 00:04:25,500
+Because scaler can do the classes
+
+118
+00:04:25,500 --> 00:04:27,500
+You can get good projects from good companies
+
+119
+00:04:27,500 --> 00:04:29,500
+You can get good instructors
+
+120
+00:04:29,500 --> 00:04:31,500
+Who can teach you
+
+121
+00:04:31,500 --> 00:04:33,500
+But in the end you have to study
+
+122
+00:04:33,500 --> 00:04:35,500
+Yes, I have to study myself
+
+123
+00:04:35,500 --> 00:04:37,500
+You have to do that
+
+124
+00:04:37,500 --> 00:04:39,500
+No matter how much resources I give
+
+125
+00:04:39,500 --> 00:04:41,500
+If you are not studying then you will not get placement
+
+126
+00:04:42,000 --> 00:04:44,000
+If you are working hard
+
+127
+00:04:44,000 --> 00:04:46,000
+And you are getting good resources
+
+128
+00:04:46,000 --> 00:04:48,000
+Then you will get placement
+
+129
+00:04:48,000 --> 00:04:50,000
+Companies also need employees
+
+130
+00:04:50,000 --> 00:04:52,000
+Did you talk to your parents
+
+131
+00:04:52,000 --> 00:04:54,000
+Did they support you
+
+132
+00:04:54,000 --> 00:04:56,000
+Not yet
+
+133
+00:04:56,000 --> 00:04:58,000
+I thought I will go and see the test
+
+134
+00:04:58,000 --> 00:05:00,000
+Then I will talk
+
+135
+00:05:00,000 --> 00:05:02,000
+Do one thing
+
+136
+00:05:02,000 --> 00:05:04,000
+You have to see the details
+
+137
+00:05:04,000 --> 00:05:06,000
+You have to see the videos
+
+138
+00:05:06,000 --> 00:05:08,000
+You have to see the details
+
+139
+00:05:08,000 --> 00:05:10,000
+Hello
+
+140
+00:05:10,500 --> 00:05:12,500
+Hello, I am asking
+
+141
+00:05:12,500 --> 00:05:14,500
+Did you see the videos
+
+142
+00:05:14,500 --> 00:05:16,500
+No ma'am
+
+143
+00:05:16,500 --> 00:05:18,500
+Why didn't you see the videos
+
+144
+00:05:18,500 --> 00:05:20,500
+I got late in coming
+
+145
+00:05:20,500 --> 00:05:22,500
+Ok, no problem
+
+146
+00:05:22,500 --> 00:05:24,500
+The videos I sent you are on data science
+
+147
+00:05:24,500 --> 00:05:26,500
+What is the scope of data science
+
+148
+00:05:26,500 --> 00:05:28,500
+How will career trajectory be made in data science
+
+149
+00:05:28,500 --> 00:05:30,500
+What is the salary, what is the future
+
+150
+00:05:30,500 --> 00:05:32,500
+So when you go through all these videos
+
+151
+00:05:32,500 --> 00:05:34,500
+Then you will get more insights about data science
+
+152
+00:05:34,500 --> 00:05:36,500
+That if you make a career in this
+
+153
+00:05:36,500 --> 00:05:38,500
+Then for next 8 years, 10 years, 15 years
+
+154
+00:05:38,500 --> 00:05:40,500
+Then you will get more insights about data science
+
+155
+00:05:40,500 --> 00:05:42,500
+If you start from 11 lakhs, 12 lakhs
+
+156
+00:05:42,500 --> 00:05:44,500
+Then it is not like you will stop after 12 lakhs
+
+157
+00:05:44,500 --> 00:05:46,500
+You will join the company
+
+158
+00:05:46,500 --> 00:05:48,500
+You will work there for 2-3 years
+
+159
+00:05:48,500 --> 00:05:50,500
+Then switch and you will grow
+
+160
+00:05:50,500 --> 00:05:52,500
+So that is why I sent all these videos
+
+161
+00:05:52,500 --> 00:05:54,500
+And all videos are 4-5 minutes
+
+162
+00:05:54,500 --> 00:05:56,500
+Ok
+
+163
+00:05:56,500 --> 00:05:58,500
+Go through all the videos
+
+164
+00:05:58,500 --> 00:06:00,500
+Talk to your family
+
+165
+00:06:00,500 --> 00:06:02,500
+If you have any doubt
+
+166
+00:06:02,500 --> 00:06:04,500
+Then call me again
+
+167
+00:06:04,500 --> 00:06:06,500
+Do you have any doubt
+
+168
+00:06:06,500 --> 00:06:08,500
+About the classes
+
+169
+00:06:08,500 --> 00:06:10,500
+Ma'am
+
+170
+00:06:10,500 --> 00:06:12,500
+I don't have
+
+171
+00:06:12,500 --> 00:06:14,500
+That much
+
+172
+00:06:14,500 --> 00:06:16,500
+You are following the scaler
+
+173
+00:06:16,500 --> 00:06:18,500
+Since a long time
+
+174
+00:06:18,500 --> 00:06:20,500
+You were telling me yesterday
+
+175
+00:06:20,500 --> 00:06:22,500
+That you have heard a lot about scaler
+
+176
+00:06:22,500 --> 00:06:24,500
+So I will tell you a basic
+
+177
+00:06:24,500 --> 00:06:26,500
+The most important thing is
+
+178
+00:06:26,500 --> 00:06:28,500
+When you join, you will take 3 hours exam
+
+179
+00:06:28,500 --> 00:06:30,500
+On the basis of that exam
+
+180
+00:06:30,500 --> 00:06:32,500
+You will understand everything
+
+181
+00:06:32,500 --> 00:06:34,500
+What is your profile, what is the craft
+
+182
+00:06:34,500 --> 00:06:36,500
+And you will be given a mentor
+
+183
+00:06:36,500 --> 00:06:38,500
+Who will guide you throughout the journey
+
+184
+00:06:38,500 --> 00:06:40,500
+About your classes, projects
+
+185
+00:06:40,500 --> 00:06:42,500
+Career counseling
+
+186
+00:06:42,500 --> 00:06:44,500
+Which industry to apply
+
+187
+00:06:44,500 --> 00:06:46,500
+Which CTC company will give you
+
+188
+00:06:46,500 --> 00:06:48,500
+How to prepare
+
+189
+00:06:48,500 --> 00:06:50,500
+He will mentor everything
+
+190
+00:06:50,500 --> 00:06:52,500
+Then your life classes will start
+
+191
+00:06:52,500 --> 00:06:54,500
+And all the things you will do in life classes
+
+192
+00:06:54,500 --> 00:06:56,500
+If it fails in me
+
+193
+00:06:56,500 --> 00:06:58,500
+Then it's ok
+
+194
+00:06:58,500 --> 00:07:00,500
+Then they will put you in beginner
+
+195
+00:07:00,500 --> 00:07:02,500
+They will teach you the basics
+
+196
+00:07:02,500 --> 00:07:04,500
+Ma'am that's why I am thinking
+
+197
+00:07:04,500 --> 00:07:06,500
+I will do it in beginner
+
+198
+00:07:06,500 --> 00:07:08,500
+You will go in beginner
+
+199
+00:07:08,500 --> 00:07:10,500
+You will have to start from beginner
+
+200
+00:07:10,500 --> 00:07:12,500
+Because you are not in the field
+
+201
+00:07:12,500 --> 00:07:14,500
+So you have to teach us from the basic level
+
+202
+00:07:14,500 --> 00:07:16,500
+But as I told you yesterday
+
+203
+00:07:16,500 --> 00:07:18,500
+How much basic in the basic level
+
+204
+00:07:18,500 --> 00:07:20,500
+How much do you get if you get maths
+
+205
+00:07:20,500 --> 00:07:22,500
+If you get stats, probability
+
+206
+00:07:22,500 --> 00:07:24,500
+Then how much do you get
+
+207
+00:07:24,500 --> 00:07:26,500
+You have to see that too
+
+208
+00:07:26,500 --> 00:07:28,500
+You are taught on the basic
+
+209
+00:07:28,500 --> 00:07:30,500
+There are two batches
+
+210
+00:07:30,500 --> 00:07:32,500
+There is a beginner
+
+211
+00:07:32,500 --> 00:07:34,500
+Basic beginner is for those who don't know anything
+
+212
+00:07:34,500 --> 00:07:36,500
+And beginner refresher is for those
+
+213
+00:07:36,500 --> 00:07:38,500
+Who are from B.Tech, CS, BCS
+
+214
+00:07:38,500 --> 00:07:40,500
+Who have studied programming
+
+215
+00:07:40,500 --> 00:07:42,500
+So I don't have to teach them from the basics
+
+216
+00:07:42,500 --> 00:07:44,500
+I just have to give them a refresher
+
+217
+00:07:44,500 --> 00:07:46,500
+So that's why we take this 3 hour
+
+218
+00:07:46,500 --> 00:07:48,500
+Exam and check that
+
+219
+00:07:48,500 --> 00:07:50,500
+Which suitable batch is for you
+
+220
+00:07:50,500 --> 00:07:52,500
+After this when you start classes
+
+221
+00:07:52,500 --> 00:07:54,500
+Then we will give you real time projects
+
+222
+00:07:54,500 --> 00:07:56,500
+Because the classes of scaler are not curing
+
+223
+00:07:56,500 --> 00:07:58,500
+As I told you yesterday
+
+224
+00:07:58,500 --> 00:08:00,500
+You will get projects from each company
+
+225
+00:08:00,500 --> 00:08:02,500
+From Netflix, McKinsey, Yulu, Walmart
+
+226
+00:08:02,500 --> 00:08:04,500
+I will show you all of this
+
+227
+00:08:04,500 --> 00:08:06,500
+Don't worry, I am not just saying
+
+228
+00:08:06,500 --> 00:08:08,500
+I will invite you on video call
+
+229
+00:08:08,500 --> 00:08:10,500
+I will show you everything
+
+230
+00:08:10,500 --> 00:08:12,500
+If you got a project from Netflix
+
+231
+00:08:12,500 --> 00:08:14,500
+Then there is data
+
+232
+00:08:14,500 --> 00:08:16,500
+What problem statement you got
+
+233
+00:08:16,500 --> 00:08:18,500
+What problem learners are solving
+
+234
+00:08:18,500 --> 00:08:20,500
+When your project is complete
+
+235
+00:08:20,500 --> 00:08:22,500
+You have done 20-25 projects
+
+236
+00:08:22,500 --> 00:08:24,500
+Your portfolio is ready
+
+237
+00:08:24,500 --> 00:08:26,500
+Then we will create your resume
+
+238
+00:08:26,500 --> 00:08:28,500
+We will give you a mock interview
+
+239
+00:08:28,500 --> 00:08:30,500
+10 times
+
+240
+00:08:30,500 --> 00:08:32,500
+So that you don't make mistakes in interview
+
+241
+00:08:32,500 --> 00:08:34,500
+Whatever mistakes you want to make
+
+242
+00:08:34,500 --> 00:08:36,500
+Do it in mock interview
+
+243
+00:08:36,500 --> 00:08:38,500
+After all this
+
+244
+00:08:38,500 --> 00:08:40,500
+When your mentor says
+
+245
+00:08:40,500 --> 00:08:42,500
+Anirban you are properly prepared
+
+246
+00:08:42,500 --> 00:08:44,500
+They have taken proper training
+
+247
+00:08:44,500 --> 00:08:46,500
+Proper projects, hands on experience
+
+248
+00:08:46,500 --> 00:08:48,500
+Mock interview is also cleared
+
+249
+00:08:48,500 --> 00:08:50,500
+Then we will schedule your interview
+
+250
+00:08:50,500 --> 00:08:52,500
+Where your placements start
+
+251
+00:08:52,500 --> 00:08:54,500
+Ma'am I was saying
+
+252
+00:08:54,500 --> 00:08:56,500
+Do you have classes from 7 am to 9 am
+
+253
+00:08:56,500 --> 00:08:58,500
+Or from 9 am to 11 am
+
+254
+00:08:58,500 --> 00:09:00,500
+Because walking is designed for professionals
+
+255
+00:09:00,500 --> 00:09:02,500
+So you can choose
+
+256
+00:09:02,500 --> 00:09:04,500
+Do you want to do morning class or evening class
+
+257
+00:09:04,500 --> 00:09:06,500
+You have to select one
+
+258
+00:09:06,500 --> 00:09:08,500
+And second, Monday, Wednesday and Friday
+
+259
+00:09:08,500 --> 00:09:10,500
+You have three days class
+
+260
+00:09:10,500 --> 00:09:12,500
+On Monday class
+
+261
+00:09:12,500 --> 00:09:14,500
+You will get assignments
+
+262
+00:09:14,500 --> 00:09:16,500
+Which you have to do on Tuesday
+
+263
+00:09:16,500 --> 00:09:18,500
+Then Wednesday class
+
+264
+00:09:18,500 --> 00:09:20,500
+Then Thursday assignment
+
+265
+00:09:20,500 --> 00:09:22,500
+So you have to do three days life classes
+
+266
+00:09:22,500 --> 00:09:24,500
+On Sunday you can stay with your family
+
+267
+00:09:24,500 --> 00:09:26,500
+Second
+
+268
+00:09:26,500 --> 00:09:28,500
+Monday, Wednesday and Friday
+
+269
+00:09:28,500 --> 00:09:30,500
+I was saying
+
+270
+00:09:30,500 --> 00:09:32,500
+Monday, Wednesday and Friday
+
+271
+00:09:32,500 --> 00:09:34,500
+Okay Friday
+
+272
+00:09:34,500 --> 00:09:36,500
+You have three alternate days class
+
+273
+00:09:36,500 --> 00:09:38,500
+On Monday you will get off on Tuesday
+
+274
+00:09:38,500 --> 00:09:40,500
+On Tuesday you will do self study
+
+275
+00:09:40,500 --> 00:09:42,500
+Then Wednesday class
+
+276
+00:09:42,500 --> 00:09:44,500
+Then Thursday you will do self study
+
+277
+00:09:44,500 --> 00:09:46,500
+Then Friday class
+
+278
+00:09:46,500 --> 00:09:48,500
+Then Saturday you will do self study
+
+279
+00:09:48,500 --> 00:09:50,500
+So you will do three days life class
+
+280
+00:09:50,500 --> 00:09:52,500
+So you will get free classes
+
+281
+00:09:52,500 --> 00:09:54,500
+And if you miss any class
+
+282
+00:09:54,500 --> 00:09:56,500
+Sometimes
+
+283
+00:09:56,500 --> 00:09:58,500
+Your classes get missed
+
+284
+00:09:58,500 --> 00:10:00,500
+So if you miss any class
+
+285
+00:10:00,500 --> 00:10:02,500
+Recorded session will be available
+
+286
+00:10:02,500 --> 00:10:04,500
+Which you can watch
+
+287
+00:10:04,500 --> 00:10:06,500
+It will be available in portal
+
+288
+00:10:06,500 --> 00:10:08,500
+Yes it will be available always
+
+289
+00:10:08,500 --> 00:10:10,500
+Throughout the journey
+
+290
+00:10:10,500 --> 00:10:12,500
+And during interview
+
+291
+00:10:12,500 --> 00:10:14,500
+All sessions are recorded
+
+292
+00:10:14,500 --> 00:10:16,500
+After all sessions are live
+
+293
+00:10:16,500 --> 00:10:18,500
+We record it
+
+294
+00:10:18,500 --> 00:10:20,500
+So you can revisit and revise it again and again
+
+295
+00:10:20,500 --> 00:10:22,500
+Okay
+
+296
+00:10:22,500 --> 00:10:24,500
+Any other question
+
+297
+00:10:24,500 --> 00:10:26,500
+Nirvan
+
+298
+00:10:26,500 --> 00:10:28,500
+No
+
+299
+00:10:28,500 --> 00:10:30,500
+I was asking
+
+300
+00:10:30,500 --> 00:10:32,500
+If class will start in 8 months
+
+301
+00:10:32,500 --> 00:10:34,500
+No, no
+
+302
+00:10:34,500 --> 00:10:36,500
+It doesn't start like this
+
+303
+00:10:36,500 --> 00:10:38,500
+I will tell you that
+
+304
+00:10:38,500 --> 00:10:40,500
+First you have to register in scalar
+
+305
+00:10:40,500 --> 00:10:42,500
+When you will get admission
+
+306
+00:10:42,500 --> 00:10:44,500
+And PMI formalities will be completed
+
+307
+00:10:44,500 --> 00:10:46,500
+Then you will get
+
+308
+00:10:46,500 --> 00:10:48,500
+Pre-primary go through
+
+309
+00:10:48,500 --> 00:10:50,500
+For all the exam
+
+310
+00:10:50,500 --> 00:10:52,500
+Remember I told you
+
+311
+00:10:52,500 --> 00:10:54,500
+That you will get preparation material
+
+312
+00:10:54,500 --> 00:10:56,500
+For 3 hours exam
+
+313
+00:10:56,500 --> 00:10:58,500
+Okay
+
+314
+00:10:58,500 --> 00:11:00,500
+So I will get prepared
+
+315
+00:11:00,500 --> 00:11:02,500
+Yes, because
+
+316
+00:11:02,500 --> 00:11:04,500
+For example, suppose there is a data analyst
+
+317
+00:11:04,500 --> 00:11:06,500
+But he is not working
+
+318
+00:11:06,500 --> 00:11:08,500
+On the probability stats for long
+
+319
+00:11:08,500 --> 00:11:10,500
+Okay, now if I directly
+
+320
+00:11:10,500 --> 00:11:12,500
+Take the stat exam without preparation
+
+321
+00:11:12,500 --> 00:11:14,500
+And suppose it fails
+
+322
+00:11:14,500 --> 00:11:16,500
+Because he didn't revise
+
+323
+00:11:16,500 --> 00:11:18,500
+But he doesn't need to go to beginner
+
+324
+00:11:18,500 --> 00:11:20,500
+He can start from intermediate level
+
+325
+00:11:20,500 --> 00:11:22,500
+So first we give him
+
+326
+00:11:22,500 --> 00:11:24,500
+20-25 days
+
+327
+00:11:24,500 --> 00:11:26,500
+So that he can go through his pre-primary
+
+328
+00:11:26,500 --> 00:11:28,500
+When pre-primary will be completed
+
+329
+00:11:28,500 --> 00:11:30,500
+Then you will get 3 hours exam
+
+330
+00:11:30,500 --> 00:11:32,500
+And select your mentor
+
+331
+00:11:32,500 --> 00:11:34,500
+Then your classes will start from 16th
+
+332
+00:11:34,500 --> 00:11:36,500
+From 16th
+
+333
+00:11:36,500 --> 00:11:38,500
+From 16th July
+
+334
+00:11:38,500 --> 00:11:40,500
+16th July
+
+335
+00:11:40,500 --> 00:11:42,500
+It's been 122 days
+
+336
+00:11:42,500 --> 00:11:44,500
+It's been 122 days
+
+337
+00:11:44,500 --> 00:11:46,500
+That's why I am saying
+
+338
+00:11:46,500 --> 00:11:48,500
+You need 20-25 days time
+
+339
+00:11:48,500 --> 00:11:50,500
+See, the registration of the scalar
+
+340
+00:11:50,500 --> 00:11:52,500
+It's done for 2 months
+
+341
+00:11:52,500 --> 00:11:54,500
+We talk to people for 2 months
+
+342
+00:11:54,500 --> 00:11:56,500
+And after that
+
+343
+00:11:56,500 --> 00:11:58,500
+All the people who got enrollment
+
+344
+00:11:58,500 --> 00:12:00,500
+In 2 months
+
+345
+00:12:00,500 --> 00:12:02,500
+They are given their credentials
+
+346
+00:12:02,500 --> 00:12:04,500
+And they will start from 16th
+
+347
+00:12:04,500 --> 00:12:06,500
+Then after 6 months
+
+348
+00:12:06,500 --> 00:12:08,500
+The second batch will start
+
+349
+00:12:08,500 --> 00:12:10,500
+And for the second batch
+
+350
+00:12:10,500 --> 00:12:12,500
+Any other question?
+
+351
+00:12:12,500 --> 00:12:14,500
+Tell me
+
+352
+00:12:14,500 --> 00:12:16,500
+And placements
+
+353
+00:12:16,500 --> 00:12:18,500
+I will show you when you come
+
+354
+00:12:18,500 --> 00:12:20,500
+I sent you the placement report
+
+355
+00:12:20,500 --> 00:12:22,500
+If you checked it
+
+356
+00:12:22,500 --> 00:12:24,500
+You can see
+
+357
+00:12:24,500 --> 00:12:26,500
+The average placement is 0-3
+
+358
+00:12:26,500 --> 00:12:28,500
+And I sent you 2-3 profiles
+
+359
+00:12:28,500 --> 00:12:30,500
+Which are exception
+
+360
+00:12:30,500 --> 00:12:32,500
+Like Kiran Prem
+
+361
+00:12:32,500 --> 00:12:34,500
+Now he has electronic and electrical engineering
+
+362
+00:12:34,500 --> 00:12:36,500
+He has 6 years gap
+
+363
+00:12:36,500 --> 00:12:38,500
+He was preparing for UPSC
+
+364
+00:12:38,500 --> 00:12:40,500
+And he got placement from scalar
+
+365
+00:12:40,500 --> 00:12:42,500
+At 11. something LPA
+
+366
+00:12:42,500 --> 00:12:44,500
+And he is Anur Vrambha
+
+367
+00:12:44,500 --> 00:12:46,500
+He is also an electrical engineer
+
+368
+00:12:46,500 --> 00:12:48,500
+His package is between 25-30 lakhs
+
+369
+00:12:48,500 --> 00:12:50,500
+So as I was saying
+
+370
+00:12:50,500 --> 00:12:52,500
+To enroll
+
+371
+00:12:52,500 --> 00:12:54,500
+You need 20,000 first
+
+372
+00:12:54,500 --> 00:12:56,500
+Yes, to enroll
+
+373
+00:12:56,500 --> 00:12:58,500
+You have to pay 20,000
+
+374
+00:12:58,500 --> 00:13:00,500
+Rest of the EMI
+
+375
+00:13:00,500 --> 00:13:02,500
+Will start from August
+
+376
+00:13:02,500 --> 00:13:04,500
+Not from July
+
+377
+00:13:04,500 --> 00:13:06,500
+I was saying
+
+378
+00:13:06,500 --> 00:13:08,500
+If I start next month
+
+379
+00:13:08,500 --> 00:13:10,500
+It will be
+
+380
+00:13:10,500 --> 00:13:12,500
+Class starts from next month
+
+381
+00:13:12,500 --> 00:13:14,500
+All the people who will enroll
+
+382
+00:13:14,500 --> 00:13:16,500
+Their classes will start from next month
+
+383
+00:13:16,500 --> 00:13:18,500
+Because you need 25 days
+
+384
+00:13:18,500 --> 00:13:20,500
+Let me tell you
+
+385
+00:13:20,500 --> 00:13:22,500
+If I tell you to start from next month
+
+386
+00:13:22,500 --> 00:13:24,500
+Suppose you come on 5th July
+
+387
+00:13:24,500 --> 00:13:26,500
+And tell me to enroll
+
+388
+00:13:26,500 --> 00:13:28,500
+Between 5th and 16th
+
+389
+00:13:28,500 --> 00:13:30,500
+There is only 10 days
+
+390
+00:13:30,500 --> 00:13:32,500
+In 10 days
+
+391
+00:13:32,500 --> 00:13:34,500
+All the working professionals
+
+392
+00:13:34,500 --> 00:13:36,500
+How is it possible in 10 days
+
+393
+00:13:36,500 --> 00:13:38,500
+To watch 40-50 videos
+
+394
+00:13:38,500 --> 00:13:40,500
+And give 3 hours exam
+
+395
+00:13:40,500 --> 00:13:42,500
+And do assignments
+
+396
+00:13:42,500 --> 00:13:44,500
+And do office
+
+397
+00:13:44,500 --> 00:13:46,500
+And then select a mentor
+
+398
+00:13:46,500 --> 00:13:48,500
+Will you have time
+
+399
+00:13:48,500 --> 00:13:50,500
+After coming from office
+
+400
+00:13:50,500 --> 00:13:52,500
+To watch 50 videos
+
+401
+00:13:52,500 --> 00:13:54,500
+And do all the things
+
+402
+00:13:54,500 --> 00:13:56,500
+No, that will not be
+
+403
+00:13:56,500 --> 00:13:58,500
+Because if there is no live classes
+
+404
+00:13:58,500 --> 00:14:00,500
+If there was recorded session
+
+405
+00:14:00,500 --> 00:14:02,500
+You tell on 16th
+
+406
+00:14:02,500 --> 00:14:04,500
+And you have to do evening classes
+
+407
+00:14:04,500 --> 00:14:06,500
+What I tell you
+
+408
+00:14:06,500 --> 00:14:08,500
+I give you access to recorded session
+
+409
+00:14:08,500 --> 00:14:10,500
+You keep watching recorded
+
+410
+00:14:10,500 --> 00:14:12,500
+But these are live classes
+
+411
+00:14:12,500 --> 00:14:14,500
+There will be a batch
+
+412
+00:14:14,500 --> 00:14:16,500
+In which all the students will go
+
+413
+00:14:16,500 --> 00:14:18,500
+Mentors will come
+
+414
+00:14:18,500 --> 00:14:20,500
+Mentor will be given a batch list
+
+415
+00:14:20,500 --> 00:14:22,500
+That how many students are in that batch
+
+416
+00:14:22,500 --> 00:14:24,500
+Because everything is going to be live
+
+417
+00:14:24,500 --> 00:14:26,500
+Video call is a live session
+
+418
+00:14:26,500 --> 00:14:28,500
+And we record the same live session
+
+419
+00:14:28,500 --> 00:14:30,500
+So that you can revise
+
+420
+00:14:30,500 --> 00:14:32,500
+If you have any issue
+
+421
+00:14:32,500 --> 00:14:34,500
+Then tell me
+
+422
+00:14:34,500 --> 00:14:36,500
+Any issue of 20,000
+
+423
+00:14:36,500 --> 00:14:38,500
+Issue, ma'am
+
+424
+00:14:38,500 --> 00:14:40,500
+I will see it next week
+
+425
+00:14:40,500 --> 00:14:42,500
+You talk at home
+
+426
+00:14:42,500 --> 00:14:44,500
+Because we will close the batch on Tuesday
+
+427
+00:14:44,500 --> 00:14:46,500
+Your pre-primary starts from Wednesday
+
+428
+00:14:46,500 --> 00:14:48,500
+Pre-primary batch will start
+
+429
+00:14:48,500 --> 00:14:50,500
+From evening
+
+430
+00:14:50,500 --> 00:14:52,500
+You talk at home
+
+431
+00:14:52,500 --> 00:14:54,500
+And do you use credit card
+
+432
+00:14:54,500 --> 00:14:56,500
+No, ma'am
+
+433
+00:14:56,500 --> 00:14:58,500
+Then you have to take help from your family
+
+434
+00:14:58,500 --> 00:15:00,500
+Because salary comes on 1st
+
+435
+00:15:00,500 --> 00:15:02,500
+And today
+
+436
+00:15:02,500 --> 00:15:04,500
+What date is it?
+
+437
+00:15:04,500 --> 00:15:06,500
+Today is Saturday
+
+438
+00:15:06,500 --> 00:15:08,500
+25th
+
+439
+00:15:08,500 --> 00:15:10,500
+You have 20 days
+
+440
+00:15:10,500 --> 00:15:12,500
+Between 25th and 16th
+
+441
+00:15:12,500 --> 00:15:14,500
+In these 20 days
+
+442
+00:15:14,500 --> 00:15:16,500
+You have to go through all the pre-primary
+
+443
+00:15:16,500 --> 00:15:18,500
+You talk at home
+
+444
+00:15:18,500 --> 00:15:20,500
+See all the details
+
+445
+00:15:20,500 --> 00:15:22,500
+And there is an observation period
+
+446
+00:15:22,500 --> 00:15:24,500
+In the scaler
+
+447
+00:15:24,500 --> 00:15:26,500
+Suppose you feel that I will be able to do
+
+448
+00:15:26,500 --> 00:15:28,500
+Or will it be possible?
+
+449
+00:15:28,500 --> 00:15:30,500
+You can do this
+
+450
+00:15:30,500 --> 00:15:32,500
+You can get your registration done
+
+451
+00:15:32,500 --> 00:15:34,500
+You have 30 days till July
+
+452
+00:15:34,500 --> 00:15:36,500
+After class starts
+
+453
+00:15:36,500 --> 00:15:38,500
+You have 30 days till July
+
+454
+00:15:38,500 --> 00:15:40,500
+Where you can do all the classes
+
+455
+00:15:40,500 --> 00:15:42,500
+Talk to your mentors
+
+456
+00:15:42,500 --> 00:15:44,500
+You can do your live class
+
+457
+00:15:44,500 --> 00:15:46,500
+And assignments
+
+458
+00:15:46,500 --> 00:15:48,500
+And if you say till 30th July
+
+459
+00:15:48,500 --> 00:15:50,500
+That everything is going well
+
+460
+00:15:50,500 --> 00:15:52,500
+Because you have 40 days
+
+461
+00:15:52,500 --> 00:15:54,500
+In these 40 days
+
+462
+00:15:54,500 --> 00:15:56,500
+Classes are going well
+
+463
+00:15:56,500 --> 00:15:58,500
+So you can continue
+
+464
+00:15:58,500 --> 00:16:00,500
+Your first EMI will be on 5th August
+
+465
+00:16:00,500 --> 00:16:02,500
+But if you say till 30th July
+
+466
+00:16:02,500 --> 00:16:04,500
+That I gave my 100%
+
+467
+00:16:04,500 --> 00:16:06,500
+I did everything
+
+468
+00:16:06,500 --> 00:16:08,500
+But I am not able to understand the classes
+
+469
+00:16:08,500 --> 00:16:10,500
+There is no point in continuing
+
+470
+00:16:10,500 --> 00:16:12,500
+You can cancel your
+
+471
+00:16:12,500 --> 00:16:14,500
+Admission
+
+472
+00:16:14,500 --> 00:16:16,500
+Your 20,000
+
+473
+00:16:16,500 --> 00:16:18,500
+Will be refunded
+
+474
+00:16:18,500 --> 00:16:20,500
+And EMI will be cancelled
+
+475
+00:16:20,500 --> 00:16:22,500
+This gives an observation period
+
+476
+00:16:22,500 --> 00:16:24,500
+Because there are many learners
+
+477
+00:16:24,500 --> 00:16:26,500
+Who think that
+
+478
+00:16:26,500 --> 00:16:28,500
+Data science is booming
+
+479
+00:16:28,500 --> 00:16:30,500
+And they want to do it
+
+480
+00:16:30,500 --> 00:16:32,500
+But when they start studying
+
+481
+00:16:32,500 --> 00:16:34,500
+They don't understand
+
+482
+00:16:34,500 --> 00:16:36,500
+In that case
+
+483
+00:16:36,500 --> 00:16:38,500
+I will force them to continue
+
+484
+00:16:38,500 --> 00:16:40,500
+My resources will be wasted
+
+485
+00:16:40,500 --> 00:16:42,500
+I will get them into projects
+
+486
+00:16:42,500 --> 00:16:44,500
+I will make them work for a year
+
+487
+00:16:44,500 --> 00:16:46,500
+And they will not get a placement
+
+488
+00:16:46,500 --> 00:16:48,500
+So what is the point of continuing learners?
+
+489
+00:16:48,500 --> 00:16:50,500
+It is better to refund them
+
+490
+00:16:50,500 --> 00:16:52,500
+My 20,000 will be refunded
+
+491
+00:16:52,500 --> 00:16:54,500
+But my placement record will be better
+
+492
+00:16:54,500 --> 00:16:56,500
+They will get their money and timing
+
+493
+00:16:56,500 --> 00:16:58,500
+They will see something else
+
+494
+00:16:58,500 --> 00:17:00,500
+So you have time
+
+495
+00:17:00,500 --> 00:17:02,500
+If you are in doubt
+
+496
+00:17:02,500 --> 00:17:04,500
+That you will understand
+
+497
+00:17:04,500 --> 00:17:06,500
+Till 30th July you have time
+
+498
+00:17:06,500 --> 00:17:08,500
+You can do everything
+
+499
+00:17:08,500 --> 00:17:10,500
+And then decide
+
+500
+00:17:10,500 --> 00:17:12,500
+If everything is going well
+
+501
+00:17:12,500 --> 00:17:14,500
+I will continue
+
+502
+00:17:14,500 --> 00:17:16,500
+If you are not able to understand
+
+503
+00:17:16,500 --> 00:17:18,500
+I will send you the email
+
+504
+00:17:18,500 --> 00:17:20,500
+You will have the email confirmation
+
+505
+00:17:20,500 --> 00:17:22,500
+It is written on the website
+
+506
+00:17:22,500 --> 00:17:24,500
+You can check it on the website
+
+507
+00:17:24,500 --> 00:17:26,500
+It is properly mentioned in terms and conditions
+
+508
+00:17:26,500 --> 00:17:28,500
+I will send you the email
+
+509
+00:17:28,500 --> 00:17:30,500
+You can read it
+
+510
+00:17:30,500 --> 00:17:32,500
+Discuss with your parents
+
+511
+00:17:32,500 --> 00:17:34,500
+And the video call session
+
+512
+00:17:34,500 --> 00:17:36,500
+I will invite you on a video call session
+
+513
+00:17:36,500 --> 00:17:38,500
+Are you free tomorrow or evening?
+
+514
+00:17:38,500 --> 00:17:40,500
+Tomorrow
+
+515
+00:17:40,500 --> 00:17:42,500
+Take today's time
+
+516
+00:17:42,500 --> 00:17:44,500
+Go through all the details
+
+517
+00:17:44,500 --> 00:17:46,500
+Talk to your parents
+
+518
+00:17:46,500 --> 00:17:48,500
+We will connect on video call at 12 tomorrow
+
+519
+00:17:48,500 --> 00:17:50,500
+I will show you everything
+
+520
+00:17:50,500 --> 00:17:52,500
+I have told you
+
+521
+00:17:52,500 --> 00:17:54,500
+So that you have proper transparency
+
+522
+00:17:54,500 --> 00:17:56,500
+That what has been said
+
+523
+00:17:56,500 --> 00:17:58,500
+It is in the same way
+
+524
+00:17:58,500 --> 00:18:00,500
+Then you can see your registration
+
+525
+00:18:00,500 --> 00:18:02,500
+Okay, Nirvan
+
+526
+00:18:02,500 --> 00:18:04,500
+If anything else happens
+
+527
+00:18:04,500 --> 00:18:06,500
+Call me
+
+528
+00:18:06,500 --> 00:18:08,500
+Okay
+

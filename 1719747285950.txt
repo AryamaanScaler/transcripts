@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Janaki Shivani here, you called me right?
+
+3
+00:00:04,000 --> 00:00:10,000
+Yes, I called you because I wanted to know something
+
+4
+00:00:10,000 --> 00:00:15,000
+The re-installment will start from August
+
+5
+00:00:15,000 --> 00:00:17,000
+Yes, it will start from August
+
+6
+00:00:17,000 --> 00:00:19,000
+Yes, that's what I was asking
+
+7
+00:00:19,000 --> 00:00:22,000
+No, it will start from August, 5th August is the first date
+
+8
+00:00:22,000 --> 00:00:24,000
+Reduction will start from 5th August
+
+9
+00:00:24,000 --> 00:00:27,000
+Ok, I disturbed you on the holiday
+
+10
+00:00:27,000 --> 00:00:29,000
+No problem, it's ok
+
+11
+00:00:29,000 --> 00:00:31,000
+Ok, thank you
+

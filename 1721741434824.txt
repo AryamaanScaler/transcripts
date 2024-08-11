@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:09,120
+Hello. Hello. Hi, Jimmy. Hi, Ramesh. How are you? I'm fine, Jimmy. How are you? I'm
+
+2
+00:00:09,120 --> 00:00:13,840
+good. I'm good. Thanks. Ramesh, can we connect tomorrow for 15-20 minutes for a quick dashboard
+
+3
+00:00:13,840 --> 00:00:21,880
+walkthrough session? Yes. Yes. Yeah, we can. All right. So there was one query like our
+
+4
+00:00:21,880 --> 00:00:31,760
+question. Yeah. Yeah. Yesterday we had one session and there are like a few questions
+
+5
+00:00:31,760 --> 00:00:38,440
+that have to be done on the like scalar dashboard itself, right? Yes. So I want to ask whether
+
+6
+00:00:38,440 --> 00:00:43,920
+we have to complete all the seven before the next session or? There is no timeline restriction
+
+7
+00:00:43,920 --> 00:00:47,960
+or something. Okay, so don't worry on that. But I will personally recommend that within
+
+8
+00:00:47,960 --> 00:00:53,520
+24 to 48 hours you complete the assignment once the class is complete. Sure. Sure. Okay.
+
+9
+00:00:53,520 --> 00:00:58,120
+But there is no restriction on your timeline or something. Don't worry on that. Okay. Okay.
+
+10
+00:00:58,120 --> 00:01:03,960
+Got it. And tomorrow 4.30 sounds good for the session? Yes. Yes. Yeah, we can connect
+
+11
+00:01:03,960 --> 00:01:08,080
+all. All right. All right. I'm blocking your calendar for 4.30. Okay. Do you want to add
+
+12
+00:01:08,080 --> 00:01:11,600
+that? Sure, Jimmy. Yeah. All right. Take care. Bye-bye. Thank you. Thank you.
+

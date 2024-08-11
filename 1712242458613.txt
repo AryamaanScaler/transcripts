@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello. Yeah hi Kamal, Pranav this side. We spoke yesterday.
+
+2
+00:00:05,000 --> 00:00:11,000
+Yes sir, I will let you know in a day or two. I was out for a while.
+
+3
+00:00:11,000 --> 00:00:13,000
+You are out right now?
+
+4
+00:00:13,000 --> 00:00:17,000
+There is no time for a day or two Kamal. I can give you maximum time till tomorrow.
+
+5
+00:00:17,000 --> 00:00:19,000
+Otherwise we have to close your profile.
+
+6
+00:00:19,000 --> 00:00:21,000
+I know you will have to discuss at home.
+
+7
+00:00:21,000 --> 00:00:25,000
+You can do it today. You can let me know by tomorrow afternoon.
+
+8
+00:00:25,000 --> 00:00:26,000
+Okay sir.
+
+9
+00:00:26,000 --> 00:00:27,000
+Okay Kamal.
+
+

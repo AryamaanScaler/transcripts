@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello
+
+2
+00:00:01,000 --> 00:00:02,000
+Hello
+
+3
+00:00:02,000 --> 00:00:03,000
+Hello
+
+4
+00:00:03,000 --> 00:00:04,000
+Hi
+
+5
+00:00:04,000 --> 00:00:05,000
+Hello
+
+6
+00:00:05,000 --> 00:00:06,000
+Is this Prakash?
+
+7
+00:00:06,000 --> 00:00:07,000
+Yeah, Prakash
+
+8
+00:00:07,000 --> 00:00:12,000
+Yeah, hi, this is Niharika. Very good morning. I'm calling from Scalar Finance.
+
+9
+00:00:12,000 --> 00:00:15,000
+Yeah, hi, good morning.
+
+10
+00:00:15,000 --> 00:00:23,000
+Hi, Prakash. Prakash, I just called you to get a final update on your payment because
+
+11
+00:00:23,000 --> 00:00:28,000
+I've been trying to dial windows about the case and the payment hasn't been made from
+
+12
+00:00:28,000 --> 00:00:31,000
+your rental now.
+
+13
+00:00:31,000 --> 00:00:40,000
+Yeah, yeah, actually I made the initial amount, the amount which is the 20,000 I paid.
+
+14
+00:00:40,000 --> 00:00:41,000
+Yeah.
+
+15
+00:00:41,000 --> 00:00:48,000
+But unfortunately I couldn't continue the training program. So actually, one of the
+
+16
+00:00:48,000 --> 00:00:58,000
+reasons was the service call was not fine to process the EMA option. And then also I
+
+17
+00:00:58,000 --> 00:01:06,000
+have some family agencies. My father had knee replacement surgery.
+
+18
+00:01:06,000 --> 00:01:07,000
+Okay.
+
+19
+00:01:07,000 --> 00:01:17,000
+So that's the reason I couldn't continue with the training program. So I asked Varun to
+
+20
+00:01:17,000 --> 00:01:27,000
+cancel the training program for me and initiate the refund amount which I paid.
+
+21
+00:01:27,000 --> 00:01:34,000
+Okay. Do one thing, just drop a mail to refund at scalar.com.
+
+22
+00:01:34,000 --> 00:01:37,000
+Okay, refund at scalar.com?
+
+23
+00:01:37,000 --> 00:01:38,000
+Yeah.
+
+24
+00:01:38,000 --> 00:01:42,000
+Okay. So any reason should I mention that?
+
+25
+00:01:42,000 --> 00:01:44,000
+You could just brief it out.
+
+26
+00:01:44,000 --> 00:01:45,000
+Okay.
+
+27
+00:01:45,000 --> 00:01:46,000
+That will be...
+
+28
+00:01:46,000 --> 00:01:51,000
+Shall I mention that there should be a score issue?
+
+29
+00:01:51,000 --> 00:01:57,000
+You could just mention a short reason, a brief reason that you are opting out and you need
+
+30
+00:01:57,000 --> 00:01:59,000
+to be refund of the initial payment.
+
+31
+00:01:59,000 --> 00:02:02,000
+Okay, okay, sure. Scalar at refund.com.
+
+32
+00:02:02,000 --> 00:02:04,000
+Refund at scalar.com.
+
+33
+00:02:04,000 --> 00:02:05,000
+Okay.
+
+34
+00:02:05,000 --> 00:02:07,000
+Sure, I'll make it.
+
+35
+00:02:07,000 --> 00:02:09,000
+Yeah. Thank you.
+

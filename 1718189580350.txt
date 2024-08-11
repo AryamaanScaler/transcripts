@@ -1,0 +1,1704 @@
+1
+00:00:00,000 --> 00:00:09,560
+Hello, hello. Yeah. Hi. Is it Prateek? Yes. Hi Prateek. Sujit this side. I'm calling from
+
+2
+00:00:09,560 --> 00:00:16,320
+Skeeter Academy, senior management team. How are you? Yeah, I'm doing good. What about you?
+
+3
+00:00:16,320 --> 00:00:22,320
+I'm good Prateek. Thank you for asking. Yeah. Yeah. Prateek, I just called you because there
+
+4
+00:00:22,320 --> 00:00:25,280
+are two things which I need to discuss with you. The first thing that you have attended
+
+5
+00:00:25,280 --> 00:00:31,480
+the first one session right on like the event name was solid principles every developer must know.
+
+6
+00:00:31,480 --> 00:00:40,800
+Yes. So I just want to know the feedback first. How was the session? Actually sir, I attended it
+
+7
+00:00:40,800 --> 00:00:46,880
+but I could not attend it fully like I was there for the I wasn't there for the whole time. I was
+
+8
+00:00:46,880 --> 00:00:54,640
+there for like for the one and a half hour initial one and a half hour I was there. Okay. After that
+
+9
+00:00:54,640 --> 00:01:02,040
+I couldn't yeah but I yeah I have enjoyed it. I have learned a lot from that and then later we
+
+10
+00:01:02,040 --> 00:01:12,240
+got the link of like. You got the link of? Yeah no sorry we got the notes for the things that were
+
+11
+00:01:12,240 --> 00:01:20,280
+taught in the session. Okay. So I have gone through that and yeah I can say that I've learned a lot
+
+12
+00:01:20,280 --> 00:01:26,600
+from the session. Oh amazing. So what was the reason Prateek behind this to attend the session?
+
+13
+00:01:26,600 --> 00:01:36,080
+Sir actually like I am a developer and now I have years of experience and then I thought that maybe
+
+14
+00:01:36,080 --> 00:01:42,840
+attending the session will help me to write and understand the code pretty well like that and then
+
+15
+00:01:42,840 --> 00:01:53,240
+I should know the industry standards and all that. So I thought that. Yeah you mentioned that you
+
+16
+00:01:53,240 --> 00:02:02,000
+are working with Capgemini as a backend engineer is it correct? Yes sir now like yes. Okay and you're
+
+17
+00:02:02,000 --> 00:02:10,520
+working as a backend engineer or a full stack engineer? I am backend engineer sir on Spring Boot
+
+18
+00:02:10,520 --> 00:02:16,120
+and then database side. The Spring Boot and a database side. Okay. You're not developing
+
+19
+00:02:16,120 --> 00:02:24,440
+anything from scratch is it? No we get some like requirements and all and from them we have to build
+
+20
+00:02:24,440 --> 00:02:33,600
+some microservices and all from scratch also. Okay. Okay on Java right? Yes. So language you're using
+
+21
+00:02:33,600 --> 00:02:41,000
+Java. Yes. Is it any so the project is a client oriented project is it? Sorry sir. The client the
+
+22
+00:02:41,000 --> 00:02:47,960
+projects are the client oriented projects only right? Yes yes yes. Okay so how you land up to
+
+23
+00:02:47,960 --> 00:02:59,760
+this company or to the Capgemini? I was like I was placed on campus only sir. Okay it was a campus
+
+24
+00:02:59,760 --> 00:03:07,200
+placement. Yes yes. Okay okay and how was these three years with Capgemini like what about the
+
+25
+00:03:07,200 --> 00:03:16,160
+growth that has been what do you have learned in in last three years in Capgemini? Yes sir like if
+
+26
+00:03:16,320 --> 00:03:22,960
+experience wise if I speak then I was a pressure when I joined Capgemini. So whatever I have learned
+
+27
+00:03:22,960 --> 00:03:32,240
+I've learned from Capgemini only so I can say that I didn't have any corporate experience I was
+
+28
+00:03:32,240 --> 00:03:39,400
+pressure so everything I've learned I've learned from here only. I've learned a lot I'll say yes.
+
+29
+00:03:39,400 --> 00:03:45,000
+Okay so is it the company that you have chosen right now you're working so is it what do you
+
+30
+00:03:45,040 --> 00:03:52,560
+think like it is just by chance or it's like by your choice? We can say both I won't say that
+
+31
+00:03:52,560 --> 00:04:01,400
+yeah. Okay both right. But I'm looking for miss I'm looking for like switching and all. I'm looking
+
+32
+00:04:01,400 --> 00:04:08,840
+for a switch. Yeah yeah yeah. Okay great. What is the reason that you're looking for switch? Career
+
+33
+00:04:08,840 --> 00:04:16,040
+growth I would say. For the career growth. Yes now the things I'm doing I'm doing it since past
+
+34
+00:04:16,040 --> 00:04:22,560
+almost past two years I'm doing the same thing so I I think that I should learn new things and all
+
+35
+00:04:22,560 --> 00:04:29,160
+in order to grow so that's why I'm looking for new opportunities now. Yeah I can see you have also
+
+36
+00:04:29,160 --> 00:04:34,400
+also the second thing which I was talking about right that you have also seen the career roadmap
+
+37
+00:04:34,400 --> 00:04:39,160
+right of Sceva. I hope you have seen the career roadmap you have filled a form and there you
+
+38
+00:04:39,160 --> 00:04:46,360
+received the result right. I don't know you remember it or not but I'll share you this career roadmap
+
+39
+00:04:46,360 --> 00:04:53,280
+again. Okay. So this career roadmap too will guide you that yeah where you are currently right now
+
+40
+00:04:53,280 --> 00:05:00,760
+and what is your next goal? Right so you already spent three years into Capgemini and it's a
+
+41
+00:05:00,760 --> 00:05:05,600
+service-based company right. Yes. And as you told me that you are doing the same thing from last
+
+42
+00:05:05,600 --> 00:05:11,080
+two years and that is when you want to move out. So I think the solid principles that you are trying to learn
+
+43
+00:05:11,080 --> 00:05:18,360
+you're not learning for your current company you're learning for the future like interviews or like
+
+44
+00:05:18,360 --> 00:05:27,400
+this right or in the current company also you're using solid principles. In the current company we
+
+45
+00:05:27,400 --> 00:05:34,320
+don't have yes I won't say we are implementing it partially. I won't say we are not doing it at all
+
+46
+00:05:34,320 --> 00:05:41,320
+but yes partially I can say that we are doing it not thoroughly but partially we are doing it. Okay.
+
+47
+00:05:41,320 --> 00:05:48,360
+So Pratik I'll tell you what is the purpose of this call. The purpose of the call just to understand
+
+48
+00:05:48,360 --> 00:05:55,600
+first that yeah what is your aim okay and what you are doing to achieve that aim. So you told me
+
+49
+00:05:55,680 --> 00:06:00,360
+that you're looking for a switch. So if you're looking for a switch right so is it you're looking
+
+50
+00:06:00,360 --> 00:06:04,240
+for a switch into service-based company or you're looking for a switch into product-based company.
+
+51
+00:06:04,240 --> 00:06:12,560
+I would love to work in a product-based company now because I am working in a service-based company
+
+52
+00:06:12,560 --> 00:06:19,720
+for three years and then I think that product-based company would I would love to work in the product.
+
+53
+00:06:19,720 --> 00:06:24,680
+That is everyone want to work right. You know right everyone want to work that's good that you also
+
+54
+00:06:24,800 --> 00:06:35,160
+want to work. So what you're doing like to to get into product-based company. I'm preparing for
+
+55
+00:06:35,160 --> 00:06:43,160
+the interviews and all as of like I'm going through the phase in which I'm seeing practicing
+
+56
+00:06:43,160 --> 00:06:50,000
+the interviews and all so I'm doing that getting ready for getting the calls and also. Okay can
+
+57
+00:06:50,040 --> 00:06:55,320
+you name any three companies that you would like to work with. Sir I have not shortlisted
+
+58
+00:06:55,320 --> 00:07:03,480
+anything like I have not planned I don't have any idea what I get companies as of now but
+
+59
+00:07:03,480 --> 00:07:10,880
+like I would love to work in MANG and all those companies are there. Okay you are also looking
+
+60
+00:07:10,880 --> 00:07:16,040
+to work with MANG right. Yes yes. Okay are you aware about the interview rounds what are the
+
+61
+00:07:16,040 --> 00:07:22,160
+interview rounds. No sir not as of now. Not as of now you don't know the interview rounds as well.
+
+62
+00:07:22,160 --> 00:07:32,440
+Okay fine got it and what is your current CTC Prithvi. Here I have 8.5 LPA I'm earning as of now.
+
+63
+00:07:32,440 --> 00:07:38,160
+So do you feel that this is the biggest reason that you also want to move out from the current
+
+64
+00:07:38,160 --> 00:07:45,520
+company to the next company. Yes. The CTC part. Yes. So you also got to know one thing that yeah
+
+65
+00:07:45,520 --> 00:07:54,120
+you also want a higher CTC right. Okay so I'll tell you the reality maybe you know or maybe you
+
+66
+00:07:54,120 --> 00:08:00,560
+don't know so see the people who went into product based company if they're going as a fresher like
+
+67
+00:08:00,560 --> 00:08:08,240
+if someone is passing out now okay and getting into product based company in 2024. The current CTC
+
+68
+00:08:08,240 --> 00:08:14,560
+is we call SD1 right. I hope you know the software developer engineer one. One yeah. So they got the
+
+69
+00:08:14,560 --> 00:08:26,080
+package between 18 LPA to 35 LPA. Okay. This is the average package of a SD1 people. I hope you get it
+
+70
+00:08:26,080 --> 00:08:32,720
+right. Yes yes. I have not calculated the MANG companies because everyone don't go into MANG
+
+71
+00:08:32,720 --> 00:08:40,320
+companies just after the college. I hope you like take the business right. Only rare people so we can't
+
+72
+00:08:40,800 --> 00:08:46,400
+I'm not checking I'm not taking the rare people I'm checking the average people. Average people why
+
+73
+00:08:46,400 --> 00:08:51,680
+I'm taking because we are also talking about the scale startup companies as well. There are 1800
+
+74
+00:08:51,680 --> 00:08:57,360
+plus product based companies apart from these five MANG companies that you told me right that
+
+75
+00:08:57,360 --> 00:09:02,320
+Microsoft, Amazon, Google apart from these five companies there are 1800 plus product based
+
+76
+00:09:02,320 --> 00:09:12,400
+companies as well. If you want to know the example the example is Ola, Uber, Zepto, Blinket,
+
+77
+00:09:12,400 --> 00:09:19,440
+okay JP Morgan, Morgan Stanley, Adobe, Walmart list list of companies right. So I'm taking these
+
+78
+00:09:19,440 --> 00:09:27,920
+companies not the MANG companies obviously MANG companies you can expect more right but okay.
+
+79
+00:09:27,920 --> 00:09:34,720
+This is the SD1 okay now when you are going okay to any product based company you'll get
+
+80
+00:09:34,720 --> 00:09:49,520
+it. Do you feel that you'll get as a SD1? I am not sure now. Okay so let me tell you one thing like
+
+81
+00:09:49,520 --> 00:09:56,320
+if you're like going to the any company right your years of experience will define you
+
+82
+00:09:56,320 --> 00:10:02,080
+your position right. Yes. So your position the people who are having a three years experience
+
+83
+00:10:02,080 --> 00:10:08,880
+they're working as a SD2 okay into the product based company okay so you can't tell them that
+
+84
+00:10:08,880 --> 00:10:14,480
+yeah I want to work as a SD1 take my intro as SD1 maybe they can take the intro as SD1 also
+
+85
+00:10:14,480 --> 00:10:20,560
+okay like for the role for SD1 they can give you the package of 25-30 lp as well as SD1
+
+86
+00:10:20,640 --> 00:10:24,720
+but the expectation is going to be as per the SD2 role
+
+87
+00:10:27,760 --> 00:10:34,240
+right. Okay. So first thing second thing we need to also understand that if you're not moving now
+
+88
+00:10:34,880 --> 00:10:41,520
+okay from service based to product based okay there's a high chances in future that
+
+89
+00:10:41,520 --> 00:10:45,440
+you'll be able not to move from service based to product based very easily
+
+90
+00:10:45,440 --> 00:10:55,280
+because first five years is so much important to work with a product based company okay
+
+91
+00:10:56,480 --> 00:11:05,520
+do you know this? I hope you have. I was not aware. Yes you're not aware. Yeah. For example like did
+
+92
+00:11:05,520 --> 00:11:09,200
+you have seen your seniors that they are making a switch into product based company
+
+93
+00:11:09,600 --> 00:11:15,200
+like who are working with you to Capgemini okay they're having a five year experience
+
+94
+00:11:15,200 --> 00:11:19,920
+six year experience right for example they're having a package of 20 lp right at their experience
+
+95
+00:11:19,920 --> 00:11:24,800
+obviously company will pay 70-80 those product based company what do you think like no one
+
+96
+00:11:24,800 --> 00:11:33,040
+want that package like 70-80 lp everyone wants right but why they're not able to move
+
+97
+00:11:33,040 --> 00:11:41,360
+okay. Maybe they're not aware of the market and all. It's difficult simple yeah it's very
+
+98
+00:11:41,360 --> 00:11:47,440
+difficult right like as per your current scenario right it's not that difficult
+
+99
+00:11:48,320 --> 00:11:51,760
+but if someone is having a more years of experience it will be more difficult
+
+100
+00:11:51,760 --> 00:11:56,640
+simply right because you are in you are into the industry from longer time right so the
+
+101
+00:11:56,640 --> 00:12:01,440
+expectation will be pretty higher yes and they're not able to match up that expectation
+
+102
+00:12:03,200 --> 00:12:08,800
+right for example in our school also we can't get into directly like for example if you have
+
+103
+00:12:08,800 --> 00:12:14,720
+not go to school for six years okay and now as per your age you're going to get directly
+
+104
+00:12:14,720 --> 00:12:20,400
+take the admission of class 10th do you think that you'll be able to crack the class 10th
+
+105
+00:12:20,400 --> 00:12:28,160
+entrance of any school no right it's simple so in the same way if I six years I have worked
+
+106
+00:12:28,320 --> 00:12:35,120
+service based company how can I crack a product based company yes correct now get to the point
+
+107
+00:12:35,120 --> 00:12:40,480
+like what are the interview rounds okay do you aware about the interview rounds interview rounds
+
+108
+00:12:41,040 --> 00:12:48,080
+no no not not but I hope you have heard right the interview rounds are data set in an algorithm
+
+109
+00:12:48,080 --> 00:12:54,080
+that is dfk round right that we call the problem solving round okay then we'll be having a as
+
+110
+00:12:54,080 --> 00:12:57,760
+per your experience they will be also taking the low level design and the high level design round
+
+111
+00:12:57,760 --> 00:13:04,960
+as well okay right I'll share you these videos as well that was his low level design what is
+
+112
+00:13:04,960 --> 00:13:11,040
+high level design and what is the data structures around like what they will be expecting I've worked
+
+113
+00:13:11,040 --> 00:13:18,640
+yes sir I've worked on some LLDs like in my in my current company okay I'm given yes I'm given
+
+114
+00:13:18,880 --> 00:13:26,640
+tasks to work like designer low level document of some requirements and also I do have some
+
+115
+00:13:26,640 --> 00:13:33,600
+knowledge about LLD and HLD are you using the designing patterns sorry are you using the
+
+116
+00:13:33,600 --> 00:13:41,280
+designing patterns no no no so you are having an overview knowledge right yes like for example if
+
+117
+00:13:41,280 --> 00:13:47,520
+I'll ask see what kind of questions they ask in the low level design for example okay even forget
+
+118
+00:13:47,520 --> 00:13:52,880
+the low level design the data success algorithm let me tell you do you did you have like had a
+
+119
+00:13:52,880 --> 00:14:01,280
+harder hands-on experience on dsi I did have some subjects in college and then after getting out of
+
+120
+00:14:01,280 --> 00:14:10,000
+my college now I I I have not revised the concepts and actually from last three years I'm not
+
+121
+00:14:10,720 --> 00:14:16,560
+like I don't have much hands-on on it but I have to look into it no you need to understand that the
+
+122
+00:14:16,560 --> 00:14:21,120
+college data structures algorithm just to pass the numbers okay the current data structures
+
+123
+00:14:21,120 --> 00:14:26,160
+algorithms is currently different right we'll be having the first three topics okay we'll be
+
+124
+00:14:26,160 --> 00:14:32,160
+having around 200 sub topics and then you need to solve easy medium hard all the three questions
+
+125
+00:14:33,840 --> 00:14:38,560
+you're targeting product-based company right the Wipro is asking medium-based questions
+
+126
+00:14:40,000 --> 00:14:44,400
+so you can see what product-based company will ask they will ask you the question from dynamic
+
+127
+00:14:44,400 --> 00:14:49,680
+programming about it or not they will ask you about the greedy algorithm
+
+128
+00:14:51,200 --> 00:14:56,320
+right and the question will be not direct question it will be a question that for example
+
+129
+00:14:56,320 --> 00:15:04,000
+they can ask you like how you can uh like how you can uh calculate the shortest path algorithm
+
+130
+00:15:04,000 --> 00:15:10,000
+the implementation of knapsack or a traveling salesman okay are you able to solve this question
+
+131
+00:15:10,000 --> 00:15:19,520
+um no as of now I there are a list of so many questions there are around 500 600 questions
+
+132
+00:15:19,520 --> 00:15:25,040
+and we're going to be asking and and it's not like you need to give the same answer what other
+
+133
+00:15:25,040 --> 00:15:30,160
+people are do other people are giving okay they are also going to check your problem solving skills
+
+134
+00:15:30,160 --> 00:15:36,960
+your thinking skill how you're able to give like two to three approach okay and those approach
+
+135
+00:15:36,960 --> 00:15:42,720
+should be a fruitful approach or a optimized approach optimized okay so the optimization
+
+136
+00:15:42,720 --> 00:15:50,480
+approach cannot be same for everyone it is your mind that how is going to be see the answer but
+
+137
+00:15:50,480 --> 00:15:57,280
+only the person who can see the answer who's having a like a strong foundation so a strong
+
+138
+00:15:57,280 --> 00:16:00,320
+foundation is so much important if you're not having a strong foundation obviously you won't
+
+139
+00:16:00,320 --> 00:16:05,680
+be able to get the answer right coming back to the designing right you told me that you're working
+
+140
+00:16:05,680 --> 00:16:11,200
+on a lld uh hld that is fine that you know the terminologies okay that is very good but if someone
+
+141
+00:16:11,200 --> 00:16:14,560
+asks you what are the questions they're going to be asked they will be asking you design a book my
+
+142
+00:16:14,560 --> 00:16:22,320
+show app okay or build a proper roadmap of book my show from the you need to follow the all over
+
+143
+00:16:22,320 --> 00:16:27,360
+software development life cycle that is starting from the designing then to the development then
+
+144
+00:16:27,360 --> 00:16:32,560
+to the deployment then to the scalability so there you have used everything right you have used the
+
+145
+00:16:32,560 --> 00:16:36,960
+low level design as well you have used the data success algorithm as well you have also used the
+
+146
+00:16:36,960 --> 00:16:43,840
+devops as well devops means that is deploying right and then you also use the hld as well
+
+147
+00:16:45,360 --> 00:16:52,720
+so are you able to build a book my show in 40 45 minutes right now
+
+148
+00:16:54,320 --> 00:16:59,840
+the knowledge that you're having in low level design and high level design no no that's uh i
+
+149
+00:16:59,840 --> 00:17:08,720
+would have i have uh like i have to put a thought into it to understand everything first of all then
+
+150
+00:17:08,720 --> 00:17:14,800
+you're not important yeah it's simple like if you have built by your own right like a book my show
+
+151
+00:17:15,760 --> 00:17:20,000
+like a book my show project if you have worked on right then definitely there is no problem you can
+
+152
+00:17:20,000 --> 00:17:25,360
+build you can build anything yes but if you have why you're why you're not able to because this
+
+153
+00:17:25,360 --> 00:17:30,000
+is not your fault the fault is the one from the company that you're working right in the company
+
+154
+00:17:30,000 --> 00:17:36,240
+you don't get these projects you get the client oriented projects right where you are where you
+
+155
+00:17:36,240 --> 00:17:41,680
+need to do the same thing from last two years that you already told me it's not your fault it's the
+
+156
+00:17:41,680 --> 00:17:50,480
+it's the fault is yours that you never worked on some projects apart from your job but you should
+
+157
+00:17:50,560 --> 00:17:57,760
+have a experience of projects which are scalable projects which is a b2c product which is a b2b
+
+158
+00:17:57,760 --> 00:18:07,280
+product right which is scaled to like 50 million users 1000 million users right there are they are
+
+159
+00:18:07,280 --> 00:18:11,440
+also going to be asking you that yeah if there are 50 000 users are going to become in a single
+
+160
+00:18:11,440 --> 00:18:18,640
+second how you're going to be handling the traffic okay these kind of questions they'll be asking you
+
+161
+00:18:18,640 --> 00:18:23,120
+they can also also ask you to concurrency that yeah if there is a person who is booking the ticket
+
+162
+00:18:23,120 --> 00:18:27,680
+from ptm right and there is a person who's booking the ticket from book my show how you can make sure
+
+163
+00:18:27,680 --> 00:18:33,040
+that yeah both other people are not booking the same ticket okay i'm talking about the follow-up
+
+164
+00:18:33,040 --> 00:18:38,400
+questions that they will be asking so who can who can answer the follow-up question only who can
+
+165
+00:18:38,400 --> 00:18:48,400
+answer the follow-up question who has built by his own correct correct so yeah yeah like
+
+166
+00:18:48,400 --> 00:18:54,080
+in which subject we score very good and in this subject we score very low in the subject which
+
+167
+00:18:54,080 --> 00:19:01,120
+is scored very good in which i'm prepared enough i'm full prepared right if i'm not prepared enough
+
+168
+00:19:01,120 --> 00:19:07,920
+obviously i'll be nervous i won't be able to give a single answer that is simple right simple there
+
+169
+00:19:07,920 --> 00:19:15,200
+is nothing like complex in this right and they are going to be go with so much complexity only
+
+170
+00:19:15,200 --> 00:19:19,360
+person can able to answer complex complex question if you have built like a project
+
+171
+00:19:19,360 --> 00:19:24,240
+okay even forget about the interview rounds my question is do you feel that your resume can be
+
+172
+00:19:24,240 --> 00:19:29,120
+get shortlisted into any product based company in the this competitive market that we're having
+
+173
+00:19:31,040 --> 00:19:37,120
+did you try to apply oh i i don't think not with the type of skill set i have as of now
+
+174
+00:19:37,200 --> 00:19:46,560
+no i won't get like my resume won't get shortlisted i know that but obviously there's
+
+175
+00:19:46,560 --> 00:19:52,080
+a room for improvement and i'll have to do it in order to get that resume shortlisted and all
+
+176
+00:19:54,880 --> 00:19:59,200
+you're right so resume will not get shortlisted the reason being only regarding that the current
+
+177
+00:19:59,200 --> 00:20:03,040
+company that you're working the service-based company right you're only holding a three years
+
+178
+00:20:03,040 --> 00:20:08,400
+of experience and we are not having any self-projects which are scalable projects
+
+179
+00:20:10,480 --> 00:20:14,080
+right so definitely my resume because they are going to be see that you have in last
+
+180
+00:20:14,080 --> 00:20:20,960
+three years what you have did because in product-based company nothing matters right
+
+181
+00:20:20,960 --> 00:20:26,160
+it's only matter of your current skill set it only matters about your projects that yeah these
+
+182
+00:20:26,160 --> 00:20:32,640
+projects are aligned with their projects or not right because they are building a product and when
+
+183
+00:20:32,640 --> 00:20:37,760
+they hire right they hire people directly for the product it's not like they firstly hire and then
+
+184
+00:20:37,760 --> 00:20:43,440
+allot your project it's not like that when they hired they want that yeah from the first day itself
+
+185
+00:20:45,120 --> 00:20:50,640
+you're going to be working okay fine you see we'll discuss i'll tell you the road map
+
+186
+00:20:51,360 --> 00:20:57,120
+i'll want to discuss but i can't discuss because there are obviously sort of time that we're having
+
+187
+00:20:57,120 --> 00:21:00,640
+but i directly tell you what is the purpose of this call the purpose of this call currently
+
+188
+00:21:00,640 --> 00:21:05,200
+we are looking for some credible profiles okay how you come to know about scaler
+
+189
+00:21:06,640 --> 00:21:12,720
+ah actually i was studying for the interview questions on youtube okay and then i yes i came
+
+190
+00:21:12,720 --> 00:21:21,760
+across and with uh and then i got obviously scaler being a reputed company and also training
+
+191
+00:21:21,760 --> 00:21:29,360
+my friend also has uh like completed his course i don't remember the name of but uh like name of
+
+192
+00:21:29,360 --> 00:21:35,840
+the course but he has uh completed some things on scaler and he was saying that it's quite good
+
+193
+00:21:35,840 --> 00:21:42,720
+okay how you know your friend sorry how you know your friend uh he's a childhood friend
+
+194
+00:21:45,600 --> 00:21:52,480
+so he's with you only in captur mini no no no no he's he's in amazon he's in amazon yes he's
+
+195
+00:21:52,480 --> 00:22:01,920
+already working with a product based company yes nice what's his name rohit rohit okay
+
+196
+00:22:05,600 --> 00:22:13,600
+when he joined amazon uh like uh it's been a while sir uh not
+
+197
+00:22:13,600 --> 00:22:16,720
+not
+
+198
+00:22:21,440 --> 00:22:27,360
+oh there are so many rohit rohi sharma rohit barvekar rohit baranwal rohit pandit rohit singh
+
+199
+00:22:29,040 --> 00:22:33,120
+rohit arun what was his last company can you tell me
+
+200
+00:22:35,520 --> 00:22:36,720
+uh
+
+201
+00:22:39,760 --> 00:22:41,040
+yes i don't remember but
+
+202
+00:22:43,600 --> 00:22:53,440
+yes there are so many rohit like there are hundred rohit yes leave it no issues okay fine
+
+203
+00:22:54,000 --> 00:22:58,160
+uh okay so he told you about scaler you said
+
+204
+00:22:59,840 --> 00:23:07,440
+um no i heard from him that there's a company called scaler and yes but uh for registering it
+
+205
+00:23:07,520 --> 00:23:14,320
+i just uh did it through youtube itself through youtube itself yes yes yes great thing
+
+206
+00:23:15,360 --> 00:23:23,760
+so i want to know what's your plan uh actually plan was to just attend a session that was
+
+207
+00:23:23,760 --> 00:23:32,000
+conducted and then see what happens yes honestly i'll say that i liked it a lot okay yeah okay so
+
+208
+00:23:32,000 --> 00:23:38,320
+i'll tell you like what is we are doing here so pratik uh we only take few people because
+
+209
+00:23:38,880 --> 00:23:44,800
+as you know the scaler is being very repeated right now right so we want to take very few people
+
+210
+00:23:44,800 --> 00:23:50,800
+very ambitious people only which we feel confident on them okay if we don't feel confident we don't
+
+211
+00:23:50,800 --> 00:23:56,160
+take anyone because then obviously the waste of uh time and money of him as well and the waste of
+
+212
+00:23:56,400 --> 00:24:02,000
+energy as well right so that's why we only take few people for that we have a proper process
+
+213
+00:24:02,000 --> 00:24:06,800
+there's a selection process which happened to me i'll tell you a selection process uh with the help
+
+214
+00:24:06,800 --> 00:24:11,600
+of that selection process you'll get to know uh so much about scaler right and we also get to know
+
+215
+00:24:11,600 --> 00:24:18,160
+more about you okay so maybe in 50 000 people you are only taking around a 2.3 percent people you
+
+216
+00:24:18,160 --> 00:24:24,080
+can say like 190 to 200 students not more than that okay so you can see like the percentage is
+
+217
+00:24:24,080 --> 00:24:29,200
+very low okay the first thing so it's a invite only program what is the meaning of invite only
+
+218
+00:24:29,200 --> 00:24:35,840
+program that we invite people then they can become a part of scaler family it's not like anyone can
+
+219
+00:24:35,840 --> 00:24:41,360
+then can come to scaler and can join it anytime it's not like that okay we have a requirements
+
+220
+00:24:41,360 --> 00:24:47,440
+we have a requirement from the company's end okay we have a requirement uh from the our instructors
+
+221
+00:24:47,440 --> 00:24:54,000
+and we need students in scaler because right now slots is there then they can like get into
+
+222
+00:24:54,000 --> 00:24:59,360
+scaler and we have already planned their journey for next nine to ten months the day they are going
+
+223
+00:24:59,360 --> 00:25:05,440
+to be working a product based company okay okay talking about you your profile is that you're
+
+224
+00:25:05,440 --> 00:25:12,320
+coming from the service based company so we already did so many things uh from the people who work
+
+225
+00:25:12,320 --> 00:25:17,280
+coming from the service based company and they move to product based company okay the change that
+
+226
+00:25:17,280 --> 00:25:22,400
+will be doing right that's so i told you right the sd1 ctc is between 18 to 35 lp
+
+227
+00:25:23,040 --> 00:25:30,720
+okay the sd2 salary starts from 30 lp to 60 lp okay that is the sd2 salary
+
+228
+00:25:32,000 --> 00:25:38,000
+and as per your experience you are you are okay like you are suitable for a sd2 role
+
+229
+00:25:39,360 --> 00:25:42,400
+but in skill wise i'm not even a sd1 profile
+
+230
+00:25:44,640 --> 00:25:50,720
+right because if i'll go as a sd1 the people know dsa people know low level design people know high
+
+231
+00:25:50,720 --> 00:25:56,160
+level design people have built some scalable projects people know databases as well you know
+
+232
+00:25:56,160 --> 00:26:04,000
+databases right like so did you also work into database designing no no you never work in
+
+233
+00:26:04,000 --> 00:26:10,960
+database designing right okay so currently which database you're using which database you're using
+
+234
+00:26:10,960 --> 00:26:20,080
+like sql or my my my skill you're using okay you don't know no sql right uh i know no skill concept
+
+235
+00:26:20,720 --> 00:26:27,360
+but i haven't used it anywhere mongo tv i haven't used yes mongo tv and all i haven't used anywhere
+
+236
+00:26:27,360 --> 00:26:32,720
+this is a very pet question that they asked in the interview okay because my skill is having
+
+237
+00:26:32,720 --> 00:26:39,760
+some limitations right okay it can only uh you can say store in a table format but in
+
+238
+00:26:39,760 --> 00:26:46,960
+our skill it's not like that right yes so do you do some learning like what is our like go to learning
+
+239
+00:26:46,960 --> 00:26:52,080
+place sorry what is our go to learning space means
+
+240
+00:26:52,160 --> 00:26:57,200
+okay
+
+241
+00:27:10,400 --> 00:27:11,200
+uh
+
+242
+00:27:16,960 --> 00:27:21,200
+okay no and you don't go anywhere and where you go on a website like google
+
+243
+00:27:22,080 --> 00:27:25,680
+for
+
+244
+00:27:25,680 --> 00:27:28,500
+Yes, I Google stuff and then I'll just
+
+245
+00:27:29,140 --> 00:27:31,140
+Like read it out like that
+
+246
+00:27:32,660 --> 00:27:34,660
+Okay
+
+247
+00:27:44,880 --> 00:27:49,800
+Geek for geek is there and then these things like then we have
+
+248
+00:27:50,800 --> 00:27:52,800
+Maybe honest with me
+
+249
+00:27:54,800 --> 00:28:01,080
+Big for geeks to put up a maximum the work I do and then the things I want to learn like that neck
+
+250
+00:28:05,040 --> 00:28:10,280
+Related to Java and all all those stuff. No that I get on these are
+
+251
+00:28:11,200 --> 00:28:14,540
+Keep for geek I get most of the things. Okay
+
+252
+00:28:16,360 --> 00:28:19,640
+Did you have done any courses reports that asked
+
+253
+00:28:20,800 --> 00:28:22,800
+No, sir, we course the happiness
+
+254
+00:28:24,000 --> 00:28:28,480
+That means you're blind, but if that is very good. He have make way as a
+
+255
+00:28:29,160 --> 00:28:36,720
+Brother, Kishmini here. He can find it. But he is a B. Merla. Babko mother foundation be a be neighbor. Right?
+
+256
+00:28:39,680 --> 00:28:41,680
+Yeah, hello, yes
+
+257
+00:28:43,920 --> 00:28:47,720
+So pretty good. Tell you what we are doing. We are taking a few people
+
+258
+00:28:47,760 --> 00:28:48,880
+Okay
+
+259
+00:28:48,880 --> 00:28:52,760
+After taking those few people they're going to go with the program
+
+260
+00:28:52,800 --> 00:28:57,180
+Okay, the program that we're having for you. It will be a software engineering program
+
+261
+00:28:57,880 --> 00:29:01,300
+Okay. Okay. You want to be in a software engineering domain only
+
+262
+00:29:02,640 --> 00:29:04,640
+Yes, okay
+
+263
+00:29:05,240 --> 00:29:09,980
+So what do you think like you should target SD to or you should target firstly at t1?
+
+264
+00:29:11,320 --> 00:29:14,660
+I would love to work as a HD to sir SD to write
+
+265
+00:29:14,660 --> 00:29:17,460
+So if you want to work as a SD to the expectation will be
+
+266
+00:29:18,340 --> 00:29:19,980
+pretty higher
+
+267
+00:29:19,980 --> 00:29:22,540
+Right and the expectation which I just given you though
+
+268
+00:29:22,780 --> 00:29:27,780
+I've not given you like overall but yeah the hint which I have given you right you can expect key
+
+269
+00:29:28,460 --> 00:29:30,900
+Like the 10x will be there
+
+270
+00:29:31,940 --> 00:29:33,540
+Locations are going to be asked right?
+
+271
+00:29:33,540 --> 00:29:39,740
+So if you want to work in SD to it means you're looking for the package starts from minimum 30 LP and goes up to 60
+
+272
+00:29:39,740 --> 00:29:41,060
+LP as well
+
+273
+00:29:41,100 --> 00:29:48,220
+Depending upon the offers and I'm considering like not a man companies. I'm considering the other 1800 product based companies as well
+
+274
+00:29:48,900 --> 00:29:53,260
+But yeah, obviously we'll be setting to the man companies as well. That is Amazon Amazon
+
+275
+00:29:53,260 --> 00:29:57,980
+I don't count in the man companies. Let me clear you. Okay, because Amazon is the company
+
+276
+00:29:58,660 --> 00:30:03,820
+Which if someone is because Amazon is like from scalar though, it's like a very go to
+
+277
+00:30:04,460 --> 00:30:09,340
+You can say place. Okay, go to place means key when Amazon is having requirement, right?
+
+278
+00:30:09,380 --> 00:30:14,500
+They came to scale and they pick people. Okay, so that's not a problem fine. So
+
+279
+00:30:15,460 --> 00:30:21,340
+So did you have did anything like you have that mindset to go into the into product based company?
+
+280
+00:30:21,340 --> 00:30:25,920
+So what stopped you right like a bit of cast stop car rather. I'm gonna kill over a dog
+
+281
+00:30:30,740 --> 00:30:38,820
+We thought those are I didn't like I I had a vision like I should join a product based company, of course
+
+282
+00:30:39,380 --> 00:30:41,380
+but
+
+283
+00:30:41,540 --> 00:30:46,980
+But I was not like preparing for anything and then I just got comfortable in my
+
+284
+00:30:47,700 --> 00:30:54,820
+Current situation. I thought yes. I was not stepping out of my comfort zone. And I think so that's why I think
+
+285
+00:30:56,020 --> 00:31:01,020
+Much of the work. Yeah, yeah, I understand like maybe you tried also few times, but doesn't happen
+
+286
+00:31:01,020 --> 00:31:06,100
+Right what on your study? So because you not get that motivation you don't get that consistency, right?
+
+287
+00:31:06,340 --> 00:31:10,780
+There is no someone who can relate you right so there are so many things which comes into the picture
+
+288
+00:31:11,380 --> 00:31:16,540
+Right and we are doing the job. So all the time my most of the time is going to the job only
+
+289
+00:31:17,020 --> 00:31:19,020
+right, so that is the
+
+290
+00:31:19,860 --> 00:31:24,500
+Like the problematic thing right, but you really want to move out, right?
+
+291
+00:31:25,660 --> 00:31:27,660
+Yes, okay
+
+292
+00:31:28,620 --> 00:31:32,520
+Okay, you see what we are doing these people are going to be go with the
+
+293
+00:31:32,520 --> 00:31:36,040
+Like the program that we are having that is for nine months
+
+294
+00:31:37,120 --> 00:31:42,600
+Okay, the plus two months is the electives and it exists to survive into a product based company and to grow
+
+295
+00:31:43,480 --> 00:31:46,920
+Okay, okay. So it's not only that you want to go into product based company
+
+296
+00:31:46,920 --> 00:31:52,800
+You also need to survive into product based company, right? In total you can say 11 months, but the actual program is for nine months
+
+297
+00:31:53,600 --> 00:31:59,720
+Okay, so in nine months, obviously initially we are going to be get deep dive into the data success algorithm
+
+298
+00:32:00,280 --> 00:32:06,320
+Okay, you're going to be solved around 500 or 600 questions in next 4.5 months, which is the industry weighted questions
+
+299
+00:32:06,560 --> 00:32:13,820
+What is the minimum industry weighted that if you have solved these questions, right then you are good to solve any question
+
+300
+00:32:14,680 --> 00:32:17,420
+Okay, which can be come out of the syllabus as well
+
+301
+00:32:18,240 --> 00:32:24,540
+Okay after DSA you're going to be get deep dive into low level design and high level design with the specialization
+
+302
+00:32:25,380 --> 00:32:30,940
+Okay, the specialization you can do either in backend or if you want to also explore the front end
+
+303
+00:32:32,180 --> 00:32:34,940
+You can do the full stack specialization as well
+
+304
+00:32:35,500 --> 00:32:41,780
+Okay, and you're also going to be learn the database designing. You're also going to learn SQL just for the revision purpose
+
+305
+00:32:41,980 --> 00:32:43,980
+Okay, not like
+
+306
+00:32:44,100 --> 00:32:46,100
+majorly, but yeah, like maybe
+
+307
+00:32:46,540 --> 00:32:52,340
+The SQL how to use SQL into the B2C or a B2B product that you can learn
+
+308
+00:32:53,340 --> 00:32:57,820
+Okay, but you're going to be learning the NOSQL as well. So I'll share with the curriculum the curriculum is very
+
+309
+00:32:58,420 --> 00:33:05,420
+Intensive and very good. Okay, so that we are going to be completing nine months. So it's in properly structured way
+
+310
+00:33:06,260 --> 00:33:07,260
+Okay
+
+311
+00:33:07,260 --> 00:33:10,660
+Structure means if someone is going to complete this thing of nine months, right?
+
+312
+00:33:10,660 --> 00:33:15,780
+It will easily take for him to take to complete in four years five years
+
+313
+00:33:16,060 --> 00:33:18,380
+Nothing, which we are completing in nine months
+
+314
+00:33:18,500 --> 00:33:25,580
+Right because you know right the kind of depth that we're going okay that kind of depth
+
+315
+00:33:26,380 --> 00:33:32,540
+This is not possible. Maybe that person can do in two years two point five. It will definitely takes time
+
+316
+00:33:34,100 --> 00:33:38,700
+Okay, fine. So the first thing is the structured curriculum second thing
+
+317
+00:33:39,300 --> 00:33:45,180
+Do you have a person that is guiding you you told me that you are having a friend who is in Amazon? Okay
+
+318
+00:33:45,740 --> 00:33:47,740
+So is it you are in regular touch with him?
+
+319
+00:33:49,260 --> 00:33:55,340
+No, no, right. Okay. Do you have anyone who is a senior to you and who is guiding you and mentoring you?
+
+320
+00:33:56,500 --> 00:33:58,500
+Yes, I do have some seniors. I
+
+321
+00:33:59,260 --> 00:34:01,260
+Talk to them about all this
+
+322
+00:34:01,700 --> 00:34:03,420
+in the company
+
+323
+00:34:03,420 --> 00:34:05,420
+Yeah in your company, right?
+
+324
+00:34:06,780 --> 00:34:10,540
+Okay, do you feel that they can guide you to get into product based company?
+
+325
+00:34:13,500 --> 00:34:18,020
+No, I can say that they'll they can guide me to some extent
+
+326
+00:34:18,700 --> 00:34:22,820
+Not fully they can guide you how to be better and at your current job, right?
+
+327
+00:34:22,820 --> 00:34:27,020
+It's simple no sugarcoat thing. They can not guide you to get into
+
+328
+00:34:27,660 --> 00:34:32,080
+Amazon Microsoft Google right if they can get so they will be in the Microsoft Google
+
+329
+00:34:33,100 --> 00:34:35,100
+simple, right so
+
+330
+00:34:36,100 --> 00:34:42,140
+That is the one important thing which people are there are so many things, but I am just discussing a few points the mentor part
+
+331
+00:34:42,620 --> 00:34:44,820
+Okay, so when you get a mentor, right?
+
+332
+00:34:44,860 --> 00:34:46,420
+Like I'm not having mentors
+
+333
+00:34:46,420 --> 00:34:51,860
+So that mentor is currently working with the Microsoft Amazon Google having experience of eight years ten years
+
+334
+00:34:52,220 --> 00:34:55,060
+Guiding so many people in past like in last one year
+
+335
+00:34:55,060 --> 00:35:00,600
+He has placed 200 students 300 students by his mentorship, right? So get that that mentor
+
+336
+00:35:01,740 --> 00:35:04,420
+Who is going to be like your brother be like your sister?
+
+337
+00:35:04,940 --> 00:35:08,540
+Okay, who's going to be guide you at any like every point?
+
+338
+00:35:08,660 --> 00:35:13,440
+So after every 15 days you're having a session with them, right that they are validating you
+
+339
+00:35:13,440 --> 00:35:15,740
+They are checking that yeah, how your learning journey is going on
+
+340
+00:35:17,200 --> 00:35:20,840
+Right there helping in the resume building because your resume is not going to be shortlisted
+
+341
+00:35:20,840 --> 00:35:22,840
+They're going to be helping the resume building
+
+342
+00:35:22,840 --> 00:35:25,040
+Right. They're going to be helping the project building
+
+343
+00:35:26,040 --> 00:35:28,040
+right and then
+
+344
+00:35:28,640 --> 00:35:34,200
+Whenever you are giving the interview as well. You are going to be discussed the interview or like though the
+
+345
+00:35:35,080 --> 00:35:40,080
+Discussion of your past interview are going to be discussed with your mentor who's going to be helping that. Yeah, how you can
+
+346
+00:35:41,040 --> 00:35:43,800
+Like be better in the next interview
+
+347
+00:35:45,160 --> 00:35:46,560
+Okay
+
+348
+00:35:46,560 --> 00:35:49,760
+This is the like a one more thing. Okay
+
+349
+00:35:51,000 --> 00:35:54,800
+Second thing the third thing if I'll talk about that. Yeah, you'll be having the like a
+
+350
+00:35:55,440 --> 00:36:01,440
+Regular doubt clearing sessions as well, right regular means you can still at any time when you feel that you are having any doubt
+
+351
+00:36:02,080 --> 00:36:03,680
+because he
+
+352
+00:36:03,680 --> 00:36:05,680
+Watching a life clubs that is fine
+
+353
+00:36:05,960 --> 00:36:08,240
+But if you're not going to be do by your own
+
+354
+00:36:08,440 --> 00:36:12,280
+Then you can't become a good soft level of or do you believe in this
+
+355
+00:36:13,240 --> 00:36:19,720
+Yes, of course, right. So it means you need to solve and then you're solving right at that time will get actual love and
+
+356
+00:36:20,680 --> 00:36:22,680
+There you should not waste your time
+
+357
+00:36:22,680 --> 00:36:26,720
+Wasting time like over the Google and over geeks or geeks anywhere, right?
+
+358
+00:36:27,200 --> 00:36:31,000
+It will it will let you you not get the dancer, right?
+
+359
+00:36:31,000 --> 00:36:35,920
+But if someone is there like me or someone is there like a developer who is connecting you one-on-one
+
+360
+00:36:36,120 --> 00:36:40,960
+Connecting you one-on-one. Oh and after connecting one-on-one. He's guiding you his
+
+361
+00:36:42,560 --> 00:36:46,160
+Not spoon-fitting you he is telling you that yeah, you need to firstly think by yourself
+
+362
+00:36:46,160 --> 00:36:50,080
+You are thinking by yourself, right and then until we're not able to do by yourself
+
+363
+00:36:50,080 --> 00:36:54,440
+Then he's guiding you that yeah how you can do it and then you'll be able to perform in the interview
+
+364
+00:36:56,000 --> 00:36:58,120
+So that is you can do anytime
+
+365
+00:36:59,000 --> 00:37:01,000
+There is no limit
+
+366
+00:37:01,300 --> 00:37:05,360
+Okay, thanks. So this is the one more thing. Okay
+
+367
+00:37:05,920 --> 00:37:07,720
+and
+
+368
+00:37:07,720 --> 00:37:10,840
+Talking about the placements right so they told you that we are
+
+369
+00:37:11,720 --> 00:37:18,720
+Like we are only take people if we have the requirements, right? So we already have the requirements from the companies
+
+370
+00:37:19,680 --> 00:37:26,840
+Okay, who are looking for the SD two rules, but they are looking for a like a people who are password from scalar and they have a
+
+371
+00:37:27,840 --> 00:37:30,040
+proper skill check from scalers and
+
+372
+00:37:30,840 --> 00:37:35,700
+Right. So that's why the skill check is going to be done obviously with the mock interviews and all
+
+373
+00:37:35,960 --> 00:37:41,440
+That will take but they're already given as the requirement now. I need to fulfill the requirement
+
+374
+00:37:42,240 --> 00:37:44,240
+With the help of the learners in next one year
+
+375
+00:37:45,600 --> 00:37:48,100
+Okay, so that's why we're also looking for some credible profiles
+
+376
+00:37:48,100 --> 00:37:54,340
+Which which we can work with them and they can appear to the interviews and they can clear those companies interviews and they can join the job
+
+377
+00:37:55,920 --> 00:37:57,280
+Okay
+
+378
+00:37:57,280 --> 00:37:59,820
+We already having a lots of placement channels
+
+379
+00:37:59,840 --> 00:38:05,800
+So I'll share you the placement channel video you can see the water that placement channels we are having
+
+380
+00:38:06,440 --> 00:38:11,920
+Okay, the one placement channel I can tell you that we're having you're going to be a part of Asia's biggest community
+
+381
+00:38:12,040 --> 00:38:14,920
+Which currently stands at a 40,000 plus people?
+
+382
+00:38:15,760 --> 00:38:18,840
+So in that 40,000 plus people you're going to be getting referrals
+
+383
+00:38:19,760 --> 00:38:23,880
+Okay from the people who are already working into a product based company
+
+384
+00:38:24,760 --> 00:38:28,920
+Okay, let's see getting the referral sitting for the interview. Both are different thing
+
+385
+00:38:30,280 --> 00:38:33,380
+Right because you are the one who's going to be give the interview not scalar
+
+386
+00:38:34,020 --> 00:38:40,940
+Correct, okay. So until I'm not prepared right if you'll get the referral also if you're giving the without preparation
+
+387
+00:38:41,220 --> 00:38:48,160
+It is it is waste right and you have a cooling period of six months or 12 months right in so many companies
+
+388
+00:38:49,020 --> 00:38:51,020
+So that is also you need to understand
+
+389
+00:38:51,940 --> 00:38:57,900
+Do you have any questions that you want to ask Pratik? I'm open for all the questions that you want to us. I
+
+390
+00:38:58,620 --> 00:39:00,620
+I
+
+391
+00:39:02,980 --> 00:39:06,340
+Can't think of any question as of now, but I'm understanding
+
+392
+00:39:07,380 --> 00:39:14,500
+The things you're telling me. Okay. Yeah. No worries. No worries. There's no the description that we had you
+
+393
+00:39:15,340 --> 00:39:16,820
+Understand right?
+
+394
+00:39:16,820 --> 00:39:21,740
+Yes, yes. Okay, fine. Fine. Fine. Got it. So see Pratik what we'll be doing
+
+395
+00:39:21,740 --> 00:39:27,020
+So there are two things which I want to ask with you. The first thing is the time commitment part
+
+396
+00:39:27,900 --> 00:39:30,380
+Okay, that you have because see this
+
+397
+00:39:31,260 --> 00:39:33,740
+Program, okay requires the time commitment
+
+398
+00:39:33,900 --> 00:39:39,100
+Okay, if you won't be able to give that time, right then obviously no one can do anything
+
+399
+00:39:39,900 --> 00:39:45,100
+Okay, but if you're able to give that time the time that we are asking right then size element
+
+400
+00:39:46,100 --> 00:39:51,220
+Okay, the same program has been done by so many people and in nine months they have cracked Google as well
+
+401
+00:39:53,540 --> 00:39:57,780
+But yeah, I just want to discuss with you that yeah how much time you can provide in a week
+
+402
+00:39:57,900 --> 00:40:02,220
+in a week, yeah
+
+403
+00:40:09,900 --> 00:40:13,940
+I did not like this question is
+
+404
+00:40:15,220 --> 00:40:17,220
+Out of the blues for me as of now
+
+405
+00:40:17,900 --> 00:40:25,020
+Okay, fine. What is our requirement? What is our requirement? Our requirement is that you should give at least 12 hours to 15 hours
+
+406
+00:40:25,620 --> 00:40:27,620
+for a week for a week
+
+407
+00:40:28,340 --> 00:40:30,340
+Is it manageable?
+
+408
+00:40:32,180 --> 00:40:36,860
+Obviously you're going to be do something big right? So if you want to do something big right you need to invest this time
+
+409
+00:40:36,900 --> 00:40:39,460
+That is 15 hours 15 hours means two hours per day
+
+410
+00:40:40,020 --> 00:40:44,260
+And now you are the person who want to give more in weekends. That is fine. It's up to you
+
+411
+00:40:44,460 --> 00:40:47,340
+But if I giving two hours also in weekend that is more than enough
+
+412
+00:40:49,020 --> 00:40:53,060
+You won't be having the life classes on a regular day you'll be having the life classes three days in a week
+
+413
+00:40:53,620 --> 00:40:55,620
+Okay, all the alternatives
+
+414
+00:40:56,620 --> 00:40:59,500
+Okay, so that's why there's a six point five to seven hours of class
+
+415
+00:40:59,500 --> 00:41:03,980
+But the other six hours that will be investing that you will be investing for a self-learning
+
+416
+00:41:05,220 --> 00:41:07,220
+So I hope this thing is clear, right?
+
+417
+00:41:07,740 --> 00:41:13,540
+the second thing just I'm just I need to get the idea obviously the scholarship and
+
+418
+00:41:14,540 --> 00:41:17,820
+Everything will be decided at the end, but I really want to understand that yeah
+
+419
+00:41:18,540 --> 00:41:24,500
+Regarding your finances, right? So the financial investment of this program is at least
+
+420
+00:41:25,700 --> 00:41:31,140
+Like on a monthly basis I can tell you okay, so initially is the registration that you're completing
+
+421
+00:41:31,460 --> 00:41:36,620
+Okay, if you are getting selected after the selection process, right? So the so the
+
+422
+00:41:37,260 --> 00:41:39,260
+Registration amount is 20,000
+
+423
+00:41:39,900 --> 00:41:43,980
+Okay, and then the remaining that we had will have a monthly EMI's
+
+424
+00:41:44,380 --> 00:41:49,100
+Or a monthly installments you can get so it will not be hampering to your pocket as well
+
+425
+00:41:49,980 --> 00:41:52,980
+So it starts from 7,000 and goes up to 12,000
+
+426
+00:41:52,980 --> 00:41:55,860
+Pullman
+

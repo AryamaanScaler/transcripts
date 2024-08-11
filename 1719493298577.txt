@@ -1,0 +1,1372 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hi, am I speaking with Swagat?
+
+3
+00:00:04,000 --> 00:00:06,000
+Yeah
+
+4
+00:00:06,000 --> 00:00:08,000
+Good evening Swagat, how are you?
+
+5
+00:00:08,000 --> 00:00:10,000
+Yeah, I'm good
+
+6
+00:00:10,000 --> 00:00:12,000
+Swagat, I'm on this side
+
+7
+00:00:12,000 --> 00:00:14,000
+I'm the Senior Admission Consultant from Scalar Academy
+
+8
+00:00:14,000 --> 00:00:16,000
+I believe you requested a call back
+
+9
+00:00:16,000 --> 00:00:18,000
+Yeah, yeah, correct
+
+10
+00:00:18,000 --> 00:00:20,000
+So what's the next step?
+
+11
+00:00:20,000 --> 00:00:22,000
+So I just wanted to know
+
+12
+00:00:22,000 --> 00:00:24,000
+I'm looking for a full stack developer
+
+13
+00:00:24,000 --> 00:00:26,000
+I'm currently a full stack developer
+
+14
+00:00:26,000 --> 00:00:28,000
+But I'm looking for a full stack developer
+
+15
+00:00:28,000 --> 00:00:30,000
+I'm currently a full stack developer
+
+16
+00:00:30,000 --> 00:00:32,000
+But I want to have an in-depth course
+
+17
+00:00:32,000 --> 00:00:34,000
+on full stack from start till end
+
+18
+00:00:34,000 --> 00:00:36,000
+to prepare for
+
+19
+00:00:36,000 --> 00:00:38,000
+larger companies
+
+20
+00:00:38,000 --> 00:00:40,000
+So what will be the course fee
+
+21
+00:00:40,000 --> 00:00:42,000
+and duration?
+
+22
+00:00:42,000 --> 00:00:44,000
+See, it depends
+
+23
+00:00:44,000 --> 00:00:46,000
+actually
+
+24
+00:00:46,000 --> 00:00:48,000
+Right now I'm not sure because
+
+25
+00:00:48,000 --> 00:00:50,000
+even in my program there are certain divisions
+
+26
+00:00:50,000 --> 00:00:52,000
+like there are beginner, intermediate and advanced
+
+27
+00:00:52,000 --> 00:00:54,000
+kind of levels
+
+28
+00:00:54,000 --> 00:00:56,000
+I'm not sure which one of my products might be suitable for you
+
+29
+00:00:56,000 --> 00:00:58,000
+Do you mind giving me a brief
+
+30
+00:00:58,000 --> 00:01:00,000
+walkthrough of your own professional background?
+
+31
+00:01:02,000 --> 00:01:04,000
+Of my work?
+
+32
+00:01:04,000 --> 00:01:06,000
+Of your own professional background?
+
+33
+00:01:06,000 --> 00:01:08,000
+Yeah, yeah
+
+34
+00:01:08,000 --> 00:01:10,000
+So I'm working
+
+35
+00:01:10,000 --> 00:01:12,000
+as a senior manager
+
+36
+00:01:12,000 --> 00:01:14,000
+in standard triggered
+
+37
+00:01:14,000 --> 00:01:18,000
+having around 12 to 13 years experience
+
+38
+00:01:18,000 --> 00:01:20,000
+into software development
+
+39
+00:01:20,000 --> 00:01:22,000
+and delivery
+
+40
+00:01:22,000 --> 00:01:24,000
+So
+
+41
+00:01:24,000 --> 00:01:26,000
+I started my career as a UI developer
+
+42
+00:01:26,000 --> 00:01:28,000
+but then eventually got exposure
+
+43
+00:01:28,000 --> 00:01:30,000
+into backend
+
+44
+00:01:30,000 --> 00:01:32,000
+I've been working as a full stack developer
+
+45
+00:01:32,000 --> 00:01:34,000
+from 2014
+
+46
+00:01:34,000 --> 00:01:36,000
+so that's like what?
+
+47
+00:01:36,000 --> 00:01:38,000
+Close to 10 years
+
+48
+00:01:38,000 --> 00:01:40,000
+Yeah, close to 10 years
+
+49
+00:01:40,000 --> 00:01:42,000
+So I have worked on skills like
+
+50
+00:01:42,000 --> 00:01:44,000
+Angular and in Java
+
+51
+00:01:44,000 --> 00:01:46,000
+Java, Spring Boot
+
+52
+00:01:46,000 --> 00:01:48,000
+Microservices
+
+53
+00:01:48,000 --> 00:01:50,000
+And
+
+54
+00:01:50,000 --> 00:01:52,000
+for last 5 years I've been
+
+55
+00:01:52,000 --> 00:01:54,000
+working with standard triggered
+
+56
+00:01:54,000 --> 00:01:56,000
+and here I joined as a full stack developer
+
+57
+00:01:56,000 --> 00:01:58,000
+but then after promotions and all
+
+58
+00:01:58,000 --> 00:02:00,000
+So my touch with
+
+59
+00:02:00,000 --> 00:02:02,000
+Java side and Microservices side
+
+60
+00:02:02,000 --> 00:02:04,000
+reduced a lot and because it went into
+
+61
+00:02:04,000 --> 00:02:06,000
+the managerial side
+
+62
+00:02:06,000 --> 00:02:08,000
+Now I want to come back to the development side of it
+
+63
+00:02:08,000 --> 00:02:10,000
+to being an architect and
+
+64
+00:02:10,000 --> 00:02:12,000
+those roles where
+
+65
+00:02:12,000 --> 00:02:14,000
+you have the ground level
+
+66
+00:02:14,000 --> 00:02:16,000
+coding experience and all
+
+67
+00:02:16,000 --> 00:02:18,000
+So that's where
+
+68
+00:02:18,000 --> 00:02:20,000
+I was looking for a right course to
+
+69
+00:02:20,000 --> 00:02:22,000
+go ahead so that it helps me building
+
+70
+00:02:22,000 --> 00:02:24,000
+a career in architecture
+
+71
+00:02:24,000 --> 00:02:26,000
+Okay, I understand
+
+72
+00:02:26,000 --> 00:02:28,000
+So essentially like for the past 5 years
+
+73
+00:02:28,000 --> 00:02:30,000
+or so you have been in the same company
+
+74
+00:02:30,000 --> 00:02:32,000
+and grown more into
+
+75
+00:02:32,000 --> 00:02:34,000
+like a techno managerial kind of role
+
+76
+00:02:34,000 --> 00:02:36,000
+Correct, correct
+
+77
+00:02:36,000 --> 00:02:38,000
+Now you want to get back into co-development
+
+78
+00:02:38,000 --> 00:02:40,000
+and specifically target architect
+
+79
+00:02:40,000 --> 00:02:42,000
+kind of positions
+
+80
+00:02:42,000 --> 00:02:44,000
+Correct, correct
+
+81
+00:02:44,000 --> 00:02:46,000
+Any particular reason as to why you want to
+
+82
+00:02:46,000 --> 00:02:48,000
+get back into co-development
+
+83
+00:02:48,000 --> 00:02:50,000
+because generally people don't
+
+84
+00:02:50,000 --> 00:02:52,000
+take a step back and get into
+
+85
+00:02:52,000 --> 00:02:54,000
+architect kind of positions
+
+86
+00:02:54,000 --> 00:02:56,000
+No, no
+
+87
+00:02:56,000 --> 00:02:58,000
+My interest was always in development and all
+
+88
+00:02:58,000 --> 00:03:00,000
+but then the demands
+
+89
+00:03:00,000 --> 00:03:02,000
+of my position in this
+
+90
+00:03:02,000 --> 00:03:04,000
+company demanded me to become
+
+91
+00:03:04,000 --> 00:03:06,000
+into techno functional
+
+92
+00:03:06,000 --> 00:03:08,000
+role where
+
+93
+00:03:08,000 --> 00:03:10,000
+so
+
+94
+00:03:10,000 --> 00:03:12,000
+the exposure of
+
+95
+00:03:12,000 --> 00:03:14,000
+the Microservices side
+
+96
+00:03:14,000 --> 00:03:16,000
+and Java side reduced considerably
+
+97
+00:03:16,000 --> 00:03:18,000
+and over last
+
+98
+00:03:18,000 --> 00:03:20,000
+that too reduced in last 2-3 years
+
+99
+00:03:20,000 --> 00:03:22,000
+So I'm feeling less confident
+
+100
+00:03:22,000 --> 00:03:24,000
+on the latest tech stack
+
+101
+00:03:24,000 --> 00:03:26,000
+the tech stack has evolved
+
+102
+00:03:26,000 --> 00:03:28,000
+there's cloud, there's new Java
+
+103
+00:03:28,000 --> 00:03:30,000
+versions, there's Microservices, there's ReactJS
+
+104
+00:03:30,000 --> 00:03:32,000
+and all
+
+105
+00:03:32,000 --> 00:03:34,000
+So I want to be well equipped with the skill set
+
+106
+00:03:34,000 --> 00:03:36,000
+and all so that tomorrow if I
+
+107
+00:03:36,000 --> 00:03:38,000
+am looking for outside
+
+108
+00:03:38,000 --> 00:03:40,000
+and I obviously want to target
+
+109
+00:03:40,000 --> 00:03:42,000
+a good company
+
+110
+00:03:42,000 --> 00:03:44,000
+with a higher package
+
+111
+00:03:44,000 --> 00:03:46,000
+so to eventually grow
+
+112
+00:03:46,000 --> 00:03:48,000
+in the career also
+
+113
+00:03:48,000 --> 00:03:50,000
+I don't see much growth in the techno functional
+
+114
+00:03:50,000 --> 00:03:52,000
+role
+
+115
+00:03:52,000 --> 00:03:54,000
+in my current organization neither do I
+
+116
+00:03:54,000 --> 00:03:56,000
+want to pursue much on that side
+
+117
+00:03:56,000 --> 00:03:58,000
+because it's
+
+118
+00:03:58,000 --> 00:04:00,000
+always dicey right
+
+119
+00:04:00,000 --> 00:04:02,000
+based on market conditions and all
+
+120
+00:04:02,000 --> 00:04:04,000
+in the techno functional roles and all
+
+121
+00:04:04,000 --> 00:04:06,000
+So if you are good in the technology
+
+122
+00:04:06,000 --> 00:04:08,000
+background, if you are good then you are
+
+123
+00:04:08,000 --> 00:04:10,000
+always there in the run
+
+124
+00:04:10,000 --> 00:04:12,000
+That's why
+
+125
+00:04:12,000 --> 00:04:14,000
+I think it makes sense because
+
+126
+00:04:14,000 --> 00:04:16,000
+if you have the tangible skill set
+
+127
+00:04:16,000 --> 00:04:18,000
+then you can continue to grow further
+
+128
+00:04:18,000 --> 00:04:20,000
+in the industry as well as your skill set
+
+129
+00:04:20,000 --> 00:04:22,000
+will stay relevant
+
+130
+00:04:22,000 --> 00:04:24,000
+is what I feel personally
+
+131
+00:04:24,000 --> 00:04:26,000
+that I understand
+
+132
+00:04:26,000 --> 00:04:28,000
+and like you told me in which company are currently working in
+
+133
+00:04:28,000 --> 00:04:30,000
+Standard Chartered
+
+134
+00:04:30,000 --> 00:04:32,000
+Standard Chartered, great
+
+135
+00:04:32,000 --> 00:04:34,000
+So can you tell me
+
+136
+00:04:34,000 --> 00:04:36,000
+what exactly do they do
+
+137
+00:04:36,000 --> 00:04:38,000
+I mean what kind of roles and responsibilities are you
+
+138
+00:04:38,000 --> 00:04:40,000
+handling as of now
+
+139
+00:04:40,000 --> 00:04:42,000
+So we
+
+140
+00:04:42,000 --> 00:04:44,000
+target onboarding new
+
+141
+00:04:44,000 --> 00:04:46,000
+customers from new markets and
+
+142
+00:04:46,000 --> 00:04:48,000
+building applications for that
+
+143
+00:04:48,000 --> 00:04:50,000
+for different banking products like
+
+144
+00:04:50,000 --> 00:04:52,000
+credit cards, personal loans and all
+
+145
+00:04:52,000 --> 00:04:54,000
+so for that the onboarding
+
+146
+00:04:54,000 --> 00:04:56,000
+application where either the customer
+
+147
+00:04:56,000 --> 00:04:58,000
+directly logs into the
+
+148
+00:04:58,000 --> 00:05:00,000
+sc.com or via mobile app
+
+149
+00:05:00,000 --> 00:05:02,000
+and all and it creates
+
+150
+00:05:02,000 --> 00:05:04,000
+application for the banking
+
+151
+00:05:04,000 --> 00:05:06,000
+products or he visits
+
+152
+00:05:06,000 --> 00:05:08,000
+bank where the RM
+
+153
+00:05:08,000 --> 00:05:10,000
+and he asks him to complete the application
+
+154
+00:05:10,000 --> 00:05:12,000
+and now as part of the application
+
+155
+00:05:12,000 --> 00:05:14,000
+which is built in the front end
+
+156
+00:05:14,000 --> 00:05:16,000
+with AngularJS
+
+157
+00:05:16,000 --> 00:05:18,000
+and eventually we are moving to React now
+
+158
+00:05:18,000 --> 00:05:20,000
+in AngularJS and
+
+159
+00:05:20,000 --> 00:05:22,000
+then in the backend side
+
+160
+00:05:22,000 --> 00:05:24,000
+it has a string boot layer which
+
+161
+00:05:24,000 --> 00:05:26,000
+gets the request and processes in the database
+
+162
+00:05:26,000 --> 00:05:28,000
+Understood
+
+163
+00:05:28,000 --> 00:05:30,000
+With 12 years of activity
+
+164
+00:05:30,000 --> 00:05:32,000
+But then there is not much
+
+165
+00:05:32,000 --> 00:05:34,000
+but then there is not much
+
+166
+00:05:34,000 --> 00:05:36,000
+I don't see much growth in the
+
+167
+00:05:36,000 --> 00:05:38,000
+current architecture
+
+168
+00:05:38,000 --> 00:05:40,000
+that we follow for
+
+169
+00:05:40,000 --> 00:05:42,000
+cloud and all
+
+170
+00:05:42,000 --> 00:05:44,000
+So that's where I think
+
+171
+00:05:44,000 --> 00:05:46,000
+falling behind with the
+
+172
+00:05:46,000 --> 00:05:48,000
+race of the technology so
+
+173
+00:05:48,000 --> 00:05:50,000
+it's better I get grouped up
+
+174
+00:05:50,000 --> 00:05:52,000
+to prepare for a longer run
+
+175
+00:05:52,000 --> 00:05:54,000
+Of course I understand
+
+176
+00:05:54,000 --> 00:05:56,000
+And when you were telling me that you want to target
+
+177
+00:05:56,000 --> 00:05:58,000
+good companies with a high
+
+178
+00:05:58,000 --> 00:06:00,000
+package right? Any company that
+
+179
+00:06:00,000 --> 00:06:02,000
+you might have in mind?
+
+180
+00:06:02,000 --> 00:06:04,000
+Like any dream company that you want to get into?
+
+181
+00:06:04,000 --> 00:06:06,000
+No, no
+
+182
+00:06:06,000 --> 00:06:08,000
+It's not that
+
+183
+00:06:08,000 --> 00:06:10,000
+seeing the market conditions you are also scared
+
+184
+00:06:10,000 --> 00:06:12,000
+Obviously
+
+185
+00:06:12,000 --> 00:06:14,000
+Google, Amazon
+
+186
+00:06:14,000 --> 00:06:16,000
+comes into mind but then
+
+187
+00:06:16,000 --> 00:06:18,000
+seeing the market conditions
+
+188
+00:06:18,000 --> 00:06:20,000
+sometimes you are scared like
+
+189
+00:06:20,000 --> 00:06:22,000
+you join the company and after 4-5 months
+
+190
+00:06:22,000 --> 00:06:24,000
+there is a firing, you come in the
+
+191
+00:06:24,000 --> 00:06:26,000
+line of firing
+
+192
+00:06:26,000 --> 00:06:28,000
+So there is not much in my head right now
+
+193
+00:06:28,000 --> 00:06:30,000
+I just want to be prepared first
+
+194
+00:06:30,000 --> 00:06:32,000
+and then start the attending
+
+195
+00:06:32,000 --> 00:06:34,000
+interviews and then look for a good
+
+196
+00:06:34,000 --> 00:06:36,000
+stable company where I can
+
+197
+00:06:36,000 --> 00:06:38,000
+grow
+
+198
+00:06:38,000 --> 00:06:40,000
+Makes sense actually, I mean at least it's good to have
+
+199
+00:06:40,000 --> 00:06:42,000
+a kind of skill set that
+
+200
+00:06:42,000 --> 00:06:44,000
+can help you tackle the challenges
+
+201
+00:06:44,000 --> 00:06:46,000
+of the industry regardless of what
+
+202
+00:06:46,000 --> 00:06:48,000
+the market situation is right?
+
+203
+00:06:48,000 --> 00:06:50,000
+Yeah, yeah
+
+204
+00:06:50,000 --> 00:06:52,000
+Of course I understand
+
+205
+00:06:52,000 --> 00:06:54,000
+So, okay, I mean like if you want to make
+
+206
+00:06:54,000 --> 00:06:56,000
+a transition and specially target
+
+207
+00:06:56,000 --> 00:06:58,000
+a better
+
+208
+00:06:58,000 --> 00:07:00,000
+company where
+
+209
+00:07:00,000 --> 00:07:02,000
+you can target the roles of a technical architect
+
+210
+00:07:02,000 --> 00:07:04,000
+kind of thing and specially you told
+
+211
+00:07:04,000 --> 00:07:06,000
+me that you wanted to achieve higher salary
+
+212
+00:07:06,000 --> 00:07:08,000
+right? Like may I know what kind of
+
+213
+00:07:08,000 --> 00:07:10,000
+salary you require, what's the current CPC
+
+214
+00:07:10,000 --> 00:07:12,000
+that you are earning as of now?
+
+215
+00:07:12,000 --> 00:07:14,000
+My current CPC is around
+
+216
+00:07:14,000 --> 00:07:16,000
+32 plus
+
+217
+00:07:16,000 --> 00:07:18,000
+variable
+
+218
+00:07:18,000 --> 00:07:20,000
+comes around 5-6 lakhs so around
+
+219
+00:07:20,000 --> 00:07:22,000
+37-38
+
+220
+00:07:22,000 --> 00:07:24,000
+I mean every year the variable
+
+221
+00:07:24,000 --> 00:07:26,000
+changes so it ranges from
+
+222
+00:07:26,000 --> 00:07:28,000
+37 to 40
+
+223
+00:07:28,000 --> 00:07:30,000
+You were telling me that you want to achieve higher
+
+224
+00:07:30,000 --> 00:07:32,000
+salary, is there any specific
+
+225
+00:07:32,000 --> 00:07:34,000
+range you might have in mind?
+
+226
+00:07:34,000 --> 00:07:36,000
+Yeah, yeah
+
+227
+00:07:36,000 --> 00:07:38,000
+I'm looking forward to around
+
+228
+00:07:38,000 --> 00:07:40,000
+65 plus
+
+229
+00:07:40,000 --> 00:07:42,000
+in that range
+
+230
+00:07:42,000 --> 00:07:44,000
+65 plus and then obviously
+
+231
+00:07:44,000 --> 00:07:46,000
+if you get crack good companies which offer
+
+232
+00:07:46,000 --> 00:07:48,000
+higher salary then
+
+233
+00:07:48,000 --> 00:07:50,000
+No, absolutely, absolutely
+
+234
+00:07:50,000 --> 00:07:52,000
+I've seen like even adlation and
+
+235
+00:07:52,000 --> 00:07:54,000
+fan companies, I mean everyone knows
+
+236
+00:07:54,000 --> 00:07:56,000
+that fan companies generally
+
+237
+00:07:56,000 --> 00:07:58,000
+offer something like that to people
+
+238
+00:07:58,000 --> 00:08:00,000
+with your years of experience but there are
+
+239
+00:08:00,000 --> 00:08:02,000
+other product based companies as well
+
+240
+00:08:02,000 --> 00:08:04,000
+who might offer you that kind of a package
+
+241
+00:08:04,000 --> 00:08:06,000
+Like Adobe
+
+242
+00:08:06,000 --> 00:08:08,000
+Adobe, either it's Adobe
+
+243
+00:08:08,000 --> 00:08:10,000
+or it's Atlassian or even
+
+244
+00:08:10,000 --> 00:08:12,000
+it's Nile, there are different companies
+
+245
+00:08:12,000 --> 00:08:14,000
+who might be able to give you that kind of package
+
+246
+00:08:14,000 --> 00:08:16,000
+but all it depends on what kind of
+
+247
+00:08:16,000 --> 00:08:18,000
+skill set you kind of hold
+
+248
+00:08:18,000 --> 00:08:20,000
+So like have you done any research as to
+
+249
+00:08:20,000 --> 00:08:22,000
+how exactly
+
+250
+00:08:22,000 --> 00:08:24,000
+what is the interview process in these
+
+251
+00:08:24,000 --> 00:08:26,000
+companies look like, like how exactly
+
+252
+00:08:26,000 --> 00:08:28,000
+can transition from a current role to
+
+253
+00:08:28,000 --> 00:08:30,000
+all the way to an architect role?
+
+254
+00:08:32,000 --> 00:08:34,000
+Oh, no
+
+255
+00:08:36,000 --> 00:08:38,000
+I don't think
+
+256
+00:08:38,000 --> 00:08:40,000
+we are in front of
+
+257
+00:08:40,000 --> 00:08:42,000
+I'm not up with the latest tech stack
+
+258
+00:08:42,000 --> 00:08:44,000
+So I wanted
+
+259
+00:08:44,000 --> 00:08:46,000
+to be grouped up prepared
+
+260
+00:08:46,000 --> 00:08:48,000
+in system design, in
+
+261
+00:08:48,000 --> 00:08:50,000
+data structure, system design
+
+262
+00:08:50,000 --> 00:08:52,000
+I think
+
+263
+00:08:52,000 --> 00:08:54,000
+those aspects
+
+264
+00:08:54,000 --> 00:08:56,000
+first
+
+265
+00:08:56,000 --> 00:08:58,000
+and that obviously helps
+
+266
+00:08:58,000 --> 00:09:00,000
+to correct the interviews for
+
+267
+00:09:00,000 --> 00:09:02,000
+architect role, see it's not specifically
+
+268
+00:09:02,000 --> 00:09:04,000
+architect role that I'm targeting
+
+269
+00:09:04,000 --> 00:09:06,000
+but then if you go to
+
+270
+00:09:06,000 --> 00:09:08,000
+Amazon, you are going for HD,
+
+271
+00:09:08,000 --> 00:09:10,000
+E3
+
+272
+00:09:10,000 --> 00:09:12,000
+engineer
+
+273
+00:09:12,000 --> 00:09:14,000
+where it's more or less
+
+274
+00:09:14,000 --> 00:09:16,000
+like architect in Adobe
+
+275
+00:09:16,000 --> 00:09:18,000
+So that's what
+
+276
+00:09:18,000 --> 00:09:20,000
+it's nothing specific that is in my head
+
+277
+00:09:20,000 --> 00:09:22,000
+right now like I have to target this
+
+278
+00:09:22,000 --> 00:09:24,000
+or that because I am not
+
+279
+00:09:24,000 --> 00:09:26,000
+confident on my tech stack right now
+
+280
+00:09:26,000 --> 00:09:28,000
+Once I'm confident on my tech stack
+
+281
+00:09:28,000 --> 00:09:30,000
+on my skills, then
+
+282
+00:09:30,000 --> 00:09:32,000
+I can position myself better
+
+283
+00:09:32,000 --> 00:09:34,000
+okay I want to target this position
+
+284
+00:09:34,000 --> 00:09:36,000
+in this company and what is required
+
+285
+00:09:36,000 --> 00:09:38,000
+what is not required. No, obviously I understand
+
+286
+00:09:38,000 --> 00:09:40,000
+things like that. Yeah, I understand that
+
+287
+00:09:40,000 --> 00:09:42,000
+but to be really honest with you
+
+288
+00:09:42,000 --> 00:09:44,000
+someone with 12 years of experience
+
+289
+00:09:44,000 --> 00:09:46,000
+I don't think it makes sense for you to
+
+290
+00:09:46,000 --> 00:09:48,000
+go back to somewhere like HD3, HD4
+
+291
+00:09:48,000 --> 00:09:50,000
+kind of role
+
+292
+00:09:50,000 --> 00:09:52,000
+I think it makes more sense for you to grow as an
+
+293
+00:09:52,000 --> 00:09:54,000
+architect level position because that can set you
+
+294
+00:09:54,000 --> 00:09:56,000
+like that can set you up for the next
+
+295
+00:09:56,000 --> 00:09:58,000
+5 years of your career as well
+
+296
+00:09:58,000 --> 00:10:00,000
+So certainly, I mean even in that case
+
+297
+00:10:00,000 --> 00:10:02,000
+Scalar can help you in that
+
+298
+00:10:02,000 --> 00:10:04,000
+essentially what Scalar does is like we are
+
+299
+00:10:04,000 --> 00:10:06,000
+going to help you upskill accordingly
+
+300
+00:10:06,000 --> 00:10:08,000
+Okay, now the thing is
+
+301
+00:10:08,000 --> 00:10:10,000
+our entire focus is
+
+302
+00:10:10,000 --> 00:10:12,000
+more on a practical skill learning
+
+303
+00:10:12,000 --> 00:10:14,000
+approach
+
+304
+00:10:14,000 --> 00:10:16,000
+and in the program itself we are not just going to teach you
+
+305
+00:10:16,000 --> 00:10:18,000
+theory or theoretical aspects
+
+306
+00:10:18,000 --> 00:10:20,000
+for you to upskill in that does not how
+
+307
+00:10:20,000 --> 00:10:22,000
+Scalar works. So I'll be honest with you
+
+308
+00:10:22,000 --> 00:10:24,000
+Scalar is not just focusing on
+
+309
+00:10:24,000 --> 00:10:26,000
+like
+
+310
+00:10:26,000 --> 00:10:28,000
+Scalar is not just focusing on helping you
+
+311
+00:10:28,000 --> 00:10:30,000
+clear one interview in any company
+
+312
+00:10:30,000 --> 00:10:32,000
+No, we are going to focus on a
+
+313
+00:10:32,000 --> 00:10:34,000
+long term vision if you are a learner in Scalar
+
+314
+00:10:34,000 --> 00:10:36,000
+and we are going to like focus
+
+315
+00:10:36,000 --> 00:10:38,000
+on that kind of skill set which can help
+
+316
+00:10:38,000 --> 00:10:40,000
+you stay relevant for the next 5 years
+
+317
+00:10:40,000 --> 00:10:42,000
+that's what we are focusing on
+
+318
+00:10:42,000 --> 00:10:44,000
+So what's going to happen in the program itself
+
+319
+00:10:44,000 --> 00:10:46,000
+is like once you have to go
+
+320
+00:10:46,000 --> 00:10:48,000
+through like once you go through the technical
+
+321
+00:10:48,000 --> 00:10:50,000
+rounds as well as the interview rounds in order
+
+322
+00:10:50,000 --> 00:10:52,000
+to get enrolled into
+
+323
+00:10:52,000 --> 00:10:54,000
+Scalar, after that
+
+324
+00:10:54,000 --> 00:10:56,000
+then we are going to teach you everything
+
+325
+00:10:56,000 --> 00:10:58,000
+related to data structures algorithm
+
+326
+00:10:58,000 --> 00:11:00,000
+Okay, if you are someone
+
+327
+00:11:00,000 --> 00:11:02,000
+who wants to
+
+328
+00:11:02,000 --> 00:11:04,000
+like brush up his tech stack
+
+329
+00:11:04,000 --> 00:11:06,000
+skills as well, then we have
+
+330
+00:11:06,000 --> 00:11:08,000
+the intermediate program for a person like
+
+331
+00:11:08,000 --> 00:11:10,000
+you where you can learn about full stack
+
+332
+00:11:10,000 --> 00:11:12,000
+specialization and brush up on your skills
+
+333
+00:11:12,000 --> 00:11:14,000
+Once you have done that like you will
+
+334
+00:11:14,000 --> 00:11:16,000
+be constantly getting practical assignments
+
+335
+00:11:16,000 --> 00:11:18,000
+for you to solve
+
+336
+00:11:18,000 --> 00:11:20,000
+Sorry your voice is not audible
+
+337
+00:11:20,000 --> 00:11:22,000
+Are you going to hear me now?
+
+338
+00:11:22,000 --> 00:11:24,000
+Yeah, yeah, yeah
+
+339
+00:11:24,000 --> 00:11:26,000
+Hello
+
+340
+00:11:26,000 --> 00:11:28,000
+Hello, yeah, yeah, yeah I can hear you
+
+341
+00:11:28,000 --> 00:11:30,000
+How about I give you a call back
+
+342
+00:11:30,000 --> 00:11:32,000
+I think so the voice is breaking quite a lot
+
+343
+00:11:34,000 --> 00:11:36,000
+Okay, okay, yeah, yeah, please call me back
+

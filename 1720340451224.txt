@@ -1,0 +1,3724 @@
+1
+00:00:00,000 --> 00:00:01,000
+Teja, right?
+
+2
+00:00:03,000 --> 00:00:05,000
+Yeah, Teja, can you hear me?
+
+3
+00:00:05,000 --> 00:00:06,000
+Yeah, I can hear you
+
+4
+00:00:06,000 --> 00:00:11,000
+Teja, this is Adnan. I'm actually the senior manager from Scalar Academy. How are you? Are you good?
+
+5
+00:00:12,000 --> 00:00:13,000
+Yeah, I'm good. I'm good.
+
+6
+00:00:14,000 --> 00:00:18,000
+I was looking at your profile, Teja. I guess you registered for Scalar?
+
+7
+00:00:18,000 --> 00:00:19,000
+Yes, yes.
+
+8
+00:00:20,000 --> 00:00:23,000
+Okay. Did you get a chance to actually attend any sessions from Scalar then?
+
+9
+00:00:24,000 --> 00:00:28,000
+I didn't get a chance to attend it, but I wanted to open a program of like...
+
+10
+00:00:29,000 --> 00:00:32,000
+What program was there, right? Career Upgrade or something?
+
+11
+00:00:33,000 --> 00:00:41,000
+Yeah, there was some Career2 platform that was there. But I'm very curious, like what exactly is the reason? What motivated you to register for Scalar? What exactly are you looking for, Meha?
+
+12
+00:00:42,000 --> 00:00:46,000
+Okay, I have watched your ads on YouTube on Scalar.
+
+13
+00:00:48,000 --> 00:01:03,000
+So there you were talking about the software development opportunities outside of the field, also for remote work, also for upgrading our server. So generally I'm looking for the like a good career opportunity right now.
+
+14
+00:01:11,000 --> 00:01:17,000
+So you are looking for a job at Scalar, somewhere all these people want to learn, they want to upskill themselves and then they really want to work in a very good company as an IT professional.
+
+15
+00:01:18,000 --> 00:01:21,000
+I'm sure you are looking also for the same reason as well, right?
+
+16
+00:01:22,000 --> 00:01:24,000
+I'm not looking for any upskillment.
+
+17
+00:01:25,000 --> 00:01:26,000
+Are you looking for a switch?
+
+18
+00:01:27,000 --> 00:01:28,000
+Yeah, I'm looking for a switch, yes, correct.
+
+19
+00:01:29,000 --> 00:01:36,000
+So Scalar is not a consultant that will actually help you getting jobs. It rather trains you and then helps you out with opportunities.
+
+20
+00:01:37,000 --> 00:01:40,000
+Okay, but ultimately you help with opportunities, right?
+
+21
+00:01:41,000 --> 00:01:51,000
+The ultimate goal is that because we have done tie up with our kind of companies, until and unless they do not see the kind of training that you have been doing, the kind of upskillment that you have, they would not be interviewing you out.
+
+22
+00:01:52,000 --> 00:01:55,000
+So that's the reason we do the training the right way before we help you get into those companies.
+
+23
+00:01:56,000 --> 00:02:03,000
+Okay, so I do have this five years of experience into telecom domain networking on C++ and C.
+
+24
+00:02:04,000 --> 00:02:06,000
+Currently what exactly are you working as?
+
+25
+00:02:07,000 --> 00:02:09,000
+I'm working as a software engineer in Nokia.
+
+26
+00:02:09,000 --> 00:02:15,000
+Okay, currently you are working as a software engineer in Nokia. So you are working on C++. What other technologies have you worked on so far?
+
+27
+00:02:16,000 --> 00:02:23,000
+Yeah, C++, C and I have worked a little bit of Python and robot framework.
+
+28
+00:02:24,000 --> 00:02:25,000
+Have you worked on Python and Django?
+
+29
+00:02:26,000 --> 00:02:27,000
+Oh, sorry.
+
+30
+00:02:28,000 --> 00:02:29,000
+Have you worked on Django?
+
+31
+00:02:30,000 --> 00:02:31,000
+No, I haven't worked on Django.
+
+32
+00:02:32,000 --> 00:02:33,000
+Okay, nothing on Spring, Spring Boot, nothing on such like this, right?
+
+33
+00:02:34,000 --> 00:02:35,000
+No, no, no.
+
+34
+00:02:35,000 --> 00:02:36,000
+Okay, makes sense.
+
+35
+00:02:37,000 --> 00:02:39,000
+Five years is a very good year of experience that you have in the market right now.
+
+36
+00:02:40,000 --> 00:02:44,000
+Now, before that five years of experience, what I'm more curious to understand is about your education background.
+
+37
+00:02:45,000 --> 00:02:50,000
+Like when did you complete your graduation? From which college, university did you graduate? And which background did you graduate eventually?
+
+38
+00:02:51,000 --> 00:02:54,000
+Okay, so I completed my graduation in 2018.
+
+39
+00:02:55,000 --> 00:02:56,000
+Okay.
+
+40
+00:02:57,000 --> 00:03:02,000
+I was studying in Sri Hindu Institute of Engineering and Technology.
+
+41
+00:03:03,000 --> 00:03:04,000
+And what did you come in?
+
+42
+00:03:05,000 --> 00:03:08,000
+I have done EC.
+
+43
+00:03:09,000 --> 00:03:10,000
+Electronics and Computation.
+
+44
+00:03:11,000 --> 00:03:14,000
+Why did you choose Electronics and Computation in the very first place? Was it your choice or your family's choice?
+
+45
+00:03:15,000 --> 00:03:24,000
+Generally, at the time I was looking for two things like either CSC or EC because I wanted to go on software side.
+
+46
+00:03:25,000 --> 00:03:28,000
+If you wanted to go into software side, why not go into science?
+
+47
+00:03:28,000 --> 00:03:35,000
+Yeah, because I have also opted for computer science, but my rank was not that good at the time.
+
+48
+00:03:36,000 --> 00:03:47,000
+It was good, I will not say not good, but it was not good enough to get me that course in the repeated courses.
+
+49
+00:03:48,000 --> 00:03:49,000
+Okay, makes sense.
+
+50
+00:03:50,000 --> 00:03:55,000
+So post which you actually completed your graduation, what was the first company that you got into?
+
+51
+00:03:55,000 --> 00:03:59,000
+I have worked in IIT Hyderabad.
+
+52
+00:04:00,000 --> 00:04:01,000
+Okay.
+
+53
+00:04:02,000 --> 00:04:04,000
+In IIT Hyderabad, I worked on IT test by technology.
+
+54
+00:04:05,000 --> 00:04:08,000
+Okay, how did you got into this company? Was there a campus placement or was it an off campus?
+
+55
+00:04:09,000 --> 00:04:10,000
+No, it was an off campus placement.
+
+56
+00:04:11,000 --> 00:04:12,000
+Okay, and how long you worked in that company for?
+
+57
+00:04:13,000 --> 00:04:14,000
+Two and a half years.
+
+58
+00:04:15,000 --> 00:04:17,000
+Two and a half years and by the time when you left, you were actually in SD2O there, correct?
+
+59
+00:04:18,000 --> 00:04:19,000
+Sorry, by the time I left.
+
+60
+00:04:20,000 --> 00:04:23,000
+By the time when you left, did you got you promoted yourself once in the company?
+
+61
+00:04:23,000 --> 00:04:30,000
+No, yeah, first company I haven't got any promotions, but after two and a half years, so that is the reason I switched.
+
+62
+00:04:31,000 --> 00:04:33,000
+Okay, and then you got into Nokia, correct?
+
+63
+00:04:34,000 --> 00:04:35,000
+Yes.
+
+64
+00:04:36,000 --> 00:04:38,000
+Okay, how has been your journey so far in Nokia? What have been the kind of the learning?
+
+65
+00:04:39,000 --> 00:04:41,000
+Do you feel that you are satisfied the kind of learning exposure that you got in terms of developer?
+
+66
+00:04:42,000 --> 00:04:50,000
+Yeah, I think I have got a good learning because I have handled a few couple of good projects here alone.
+
+67
+00:04:50,000 --> 00:04:57,000
+And right now also I am working on a very good projects which is including this cloud computing and Docker containers Kubernetes and all.
+
+68
+00:04:58,000 --> 00:04:59,000
+Makes sense.
+
+69
+00:05:00,000 --> 00:05:08,000
+Yeah, so till now I had this experience in Docker containers when I used to work in IIT Hyderabad, but that was very minimal I feel.
+
+70
+00:05:09,000 --> 00:05:17,000
+But right now which I am working which is related to Kubernetes, so that is industry kind of exposure I am getting.
+
+71
+00:05:17,000 --> 00:05:22,000
+So that is at the level of industry, so I will be getting a good experience right now.
+
+72
+00:05:23,000 --> 00:05:27,000
+Thank you so much at least telling me about yourself or something that I will tell you about myself as well.
+
+73
+00:05:28,000 --> 00:05:33,000
+My work is a senior manager at Scalar and I have been working in Scalar for the last three years.
+
+74
+00:05:34,000 --> 00:05:37,000
+Prior to that I have been working in Scalar for five years, so I even work as a freelancer.
+
+75
+00:05:38,000 --> 00:05:42,000
+So generally my work at Scalar, I work with the product team, I try and help the product to get scaled up.
+
+76
+00:05:42,000 --> 00:05:47,000
+But generally I know that you are aware that when you work in a product based company it is not the everyday task you get.
+
+77
+00:05:48,000 --> 00:05:52,000
+You get a work for about few months and then how you wish to do it, however you wish to do it.
+
+78
+00:05:53,000 --> 00:05:59,000
+The same way we try and scale up the product, it is a long journey that takes in between so I get time and take a lot of interviews at Scalar.
+
+79
+00:06:00,000 --> 00:06:06,000
+Pretty good, I got a good chance to interview a lot of people sitting at 20 years of experience to understand what they are doing right in their career, what they can better.
+
+80
+00:06:06,000 --> 00:06:08,000
+Learning from them, something which was very important for me.
+
+81
+00:06:09,000 --> 00:06:11,000
+So, great journey that I had so far.
+
+82
+00:06:12,000 --> 00:06:16,000
+I am very curious to actually understand that right now why you want to switch.
+
+83
+00:06:17,000 --> 00:06:20,000
+According to you, you were saying that you are working on a good project, you are doing good and difficult work.
+
+84
+00:06:21,000 --> 00:06:22,000
+Now why are you looking for a switch?
+
+85
+00:06:23,000 --> 00:06:29,000
+Okay, so one primary reason is actually my package is very less compared to market value.
+
+86
+00:06:29,000 --> 00:06:34,000
+Compared to a 5 years experience person in software engineering.
+
+87
+00:06:35,000 --> 00:06:42,000
+So that is the first reason which I wanted to switch the company because my package is 11.3 right now.
+
+88
+00:06:43,000 --> 00:06:44,000
+Wow!
+
+89
+00:06:45,000 --> 00:06:49,000
+Yeah, and I think you are already aware of the people who are having 5 years experience.
+
+90
+00:06:50,000 --> 00:06:54,000
+5 years experience in a product based company Shale is sitting at least in 30-35 years.
+
+91
+00:06:54,000 --> 00:07:00,000
+5 years experience in a product based company Shale is sitting at least in 30-25 years, worst case.
+
+92
+00:07:01,000 --> 00:07:03,000
+Exactly, so that is the first reason, primary reason.
+
+93
+00:07:04,000 --> 00:07:07,000
+And even you know that I am already 27 years old.
+
+94
+00:07:08,000 --> 00:07:15,000
+So it's not like I am very much passionate about software engineering, I want to work, I am really committed towards my work.
+
+95
+00:07:16,000 --> 00:07:19,000
+But you know perks also play a very important role.
+
+96
+00:07:19,000 --> 00:07:21,000
+If you are not doing work for charity at the end of the day.
+
+97
+00:07:22,000 --> 00:07:26,000
+Exactly, that is the primary reason.
+
+98
+00:07:27,000 --> 00:07:32,000
+Maybe for some people, for some time this might look a bit rude.
+
+99
+00:07:33,000 --> 00:07:37,000
+Then why this switching Tejaji you didn't realize it like last year you should have done it.
+
+100
+00:07:38,000 --> 00:07:41,000
+Why did you stick with this company when you realized that okay you are not getting paid really well?
+
+101
+00:07:42,000 --> 00:07:53,000
+No, I felt like last year when my manager convinced me to stay by saying like he would make sure I would get a lot of hike this time.
+
+102
+00:07:54,000 --> 00:08:00,000
+But as the company was in losses so this time they have given this reason to me.
+
+103
+00:08:01,000 --> 00:08:06,000
+So they haven't given any incentives also which we were supposed to get.
+
+104
+00:08:06,000 --> 00:08:12,000
+I am a file zero experience guy, 11.5. I think you could have even earned this working in a service space.
+
+105
+00:08:13,000 --> 00:08:19,000
+Yeah, correct. So that is the reason right now I am actively looking.
+
+106
+00:08:20,000 --> 00:08:22,000
+Okay, have you tried applying for any company so far?
+
+107
+00:08:23,000 --> 00:08:28,000
+I have started looking but I am not getting any calls.
+
+108
+00:08:29,000 --> 00:08:33,000
+I am getting calls recently started but no interviews got scheduled.
+
+109
+00:08:33,000 --> 00:08:37,000
+Which companies have you recently started getting calls from?
+
+110
+00:08:39,000 --> 00:08:53,000
+I have started getting calls from few companies which are not related to my domain like MADUS or there are some companies like KLA which are not KLA, MADUS.
+
+111
+00:08:54,000 --> 00:08:56,000
+I will be very honest with you if I see your 5 years of journey.
+
+112
+00:08:56,000 --> 00:09:02,000
+I see somewhere your journey has been something that you have evolved every year now and then.
+
+113
+00:09:03,000 --> 00:09:05,000
+But the learning has got sometimes very limited.
+
+114
+00:09:06,000 --> 00:09:10,000
+If you see till now you have worked on like you have worked on C++, you have worked on Python.
+
+115
+00:09:11,000 --> 00:09:14,000
+You have got a few chance where you are building a product from scratch, have you?
+
+116
+00:09:15,000 --> 00:09:16,000
+Yes.
+
+117
+00:09:17,000 --> 00:09:22,000
+But these are the things that are very very important for a 5 year experience because now whichever company you will apply, you will not apply for a fresher role.
+
+118
+00:09:23,000 --> 00:09:24,000
+You will apply for a senior software developer.
+
+119
+00:09:24,000 --> 00:09:25,000
+Correct.
+
+120
+00:09:26,000 --> 00:09:30,000
+And the company will hire you not looking and whichever company will hire you, they will not hire you for one year.
+
+121
+00:09:31,000 --> 00:09:35,000
+They will keep you for the next 3 or 4 years at least and you want your career to go to become a tech lead.
+
+122
+00:09:36,000 --> 00:09:37,000
+Yes.
+
+123
+00:09:38,000 --> 00:09:41,000
+Because next year you will become 6 years and then 7 years your experience is going to grow.
+
+124
+00:09:42,000 --> 00:09:43,000
+Correct.
+
+125
+00:09:44,000 --> 00:09:45,000
+Now Nokia is a good company.
+
+126
+00:09:46,000 --> 00:09:48,000
+I know about this fact, lot of people that I know from there but the learning has become good.
+
+127
+00:09:49,000 --> 00:09:53,000
+But salary is very demotivating efforts in lot of people and that is something which is very catching as well.
+
+128
+00:09:54,000 --> 00:09:59,000
+Now if you want to switch into a better company, do you have any idea like what kind of a skillset that you should have that you should get interview calls?
+
+129
+00:10:00,000 --> 00:10:02,000
+A company should shortlist you and you should be able to play.
+
+130
+00:10:03,000 --> 00:10:04,000
+Any idea?
+
+131
+00:10:05,000 --> 00:10:14,000
+Whatever the calls I am getting, so those are mainly looking for the C++ skills.
+
+132
+00:10:15,000 --> 00:10:17,000
+But why are you restricting yourself with just C++?
+
+133
+00:10:20,000 --> 00:10:21,000
+Sorry, I didn't get you.
+
+134
+00:10:21,000 --> 00:10:23,000
+Why are you restricting yourself with just C++?
+
+135
+00:10:24,000 --> 00:10:29,000
+Why not any other language that you can get into or any other technology that you can get into? Why not?
+
+136
+00:10:30,000 --> 00:10:35,000
+But C++ is the most demand right now.
+
+137
+00:10:36,000 --> 00:10:41,000
+I don't think because I have spoken with lot of companies that I am seeing that the demand for Java backend developers is pretty huge.
+
+138
+00:10:42,000 --> 00:10:43,000
+Very huge.
+
+139
+00:10:44,000 --> 00:10:45,000
+Sorry, I didn't see.
+
+140
+00:10:46,000 --> 00:10:54,000
+But one thing if you are asking me to switch the technology itself like from C++ to Java, might be difficult for me.
+
+141
+00:10:55,000 --> 00:11:03,000
+Though I am not saying like difficult, but the thing is like everywhere wherever I go people might ask me for the experience in the same technology.
+
+142
+00:11:04,000 --> 00:11:07,000
+Like if I am opting for the Java right now which are same.
+
+143
+00:11:08,000 --> 00:11:11,000
+So people might be expecting that kind of experience now.
+
+144
+00:11:12,000 --> 00:11:15,000
+See I will tell you when you want to work in any good company as a software developer.
+
+145
+00:11:16,000 --> 00:11:18,000
+I am sure now you have worked in Nokia which is a product based company.
+
+146
+00:11:19,000 --> 00:11:20,000
+Now from here you could go to any other product based company.
+
+147
+00:11:21,000 --> 00:11:22,000
+Every company will expect three things from you.
+
+148
+00:11:23,000 --> 00:11:26,000
+They never would care about your technologies or something whatever.
+
+149
+00:11:27,000 --> 00:11:29,000
+That is fine if you know it perfect. Some companies will have their in-house tool and technology.
+
+150
+00:11:30,000 --> 00:11:31,000
+It can work like that.
+
+151
+00:11:32,000 --> 00:11:35,000
+When a company will hire you, they will first of all see that are you a good problem solver enough?
+
+152
+00:11:36,000 --> 00:11:40,000
+The second most important thing they will see that how good you are in data structure algorithm DSA.
+
+153
+00:11:41,000 --> 00:11:42,000
+I am sure you know this right?
+
+154
+00:11:43,000 --> 00:11:44,000
+Yes, yes, yes.
+
+155
+00:11:45,000 --> 00:11:48,000
+And the third most important thing because now you are a five year experience company, expect you to know system design really really well.
+
+156
+00:11:49,000 --> 00:11:50,000
+Like high level design, low level design.
+
+157
+00:11:51,000 --> 00:11:56,000
+If you name any good company, let's say for example Walmart, it could be Amazon or it could be Tesco which is high right now.
+
+158
+00:11:57,000 --> 00:11:58,000
+JPMorgan and Chase.
+
+159
+00:11:59,000 --> 00:12:03,000
+When you go and work in this kind of a companies, they would expect these kind of expertise that you should have.
+
+160
+00:12:03,000 --> 00:12:10,000
+Because like you have those skillset like when you will apply for any company, do you think you are the only one who is applying for the same company for the same role?
+
+161
+00:12:11,000 --> 00:12:12,000
+No, no.
+
+162
+00:12:13,000 --> 00:12:16,000
+There would be many other people that will also come prepared and how much you know they are also very much prepared about the same.
+
+163
+00:12:17,000 --> 00:12:19,000
+When you will give the interview, when you will clear, they might even clear.
+
+164
+00:12:20,000 --> 00:12:22,000
+The question is who is most optimized out of them.
+
+165
+00:12:23,000 --> 00:12:24,000
+That is very very important.
+
+166
+00:12:25,000 --> 00:12:29,000
+So on a scale of 1 to 10, how would how strong you feel that you are good in DSA by the way?
+
+167
+00:12:29,000 --> 00:12:32,000
+DSA on a scale of 1 to 10.
+
+168
+00:12:33,000 --> 00:12:37,000
+Okay, right now I started preparing after two and half years again.
+
+169
+00:12:38,000 --> 00:12:41,000
+So right now at this point of time I would rate myself less.
+
+170
+00:12:42,000 --> 00:12:43,000
+Maybe around 5 or 6.
+
+171
+00:12:44,000 --> 00:12:46,000
+5 or 6 and how much would you rate yourself on your knowledge of system design?
+
+172
+00:12:47,000 --> 00:12:48,000
+Sorry?
+
+173
+00:12:49,000 --> 00:12:50,000
+System design.
+
+174
+00:12:51,000 --> 00:12:52,000
+Your low level design, high level design knowledge.
+
+175
+00:12:53,000 --> 00:12:55,000
+System design knowledge, I am not having much.
+
+176
+00:12:56,000 --> 00:12:57,000
+Frank is speaking.
+
+177
+00:12:57,000 --> 00:13:02,000
+See my question is that when you learn DSA, how are you learning DSA?
+
+178
+00:13:03,000 --> 00:13:13,000
+How I am learning DSA is from some websites like hacker code.
+
+179
+00:13:14,000 --> 00:13:17,000
+Hacker rank, there is lead code for GCM and E-Plats on the P2P.
+
+180
+00:13:18,000 --> 00:13:22,000
+Yeah, there I go, I learn concepts and try to solve some problems.
+
+181
+00:13:23,000 --> 00:13:24,000
+Don't do that.
+
+182
+00:13:24,000 --> 00:13:25,000
+I am really suggesting you.
+
+183
+00:13:26,000 --> 00:13:29,000
+Don't be that person who understands the concept and tries to solve the problem.
+
+184
+00:13:30,000 --> 00:13:34,000
+If you see the volume of people going on these platforms and practicing DSA every day, this is huge.
+
+185
+00:13:35,000 --> 00:13:42,000
+But when you will go for an interview round, the company is not going to ask you to open lead code or a hacker rank and solve the problem.
+
+186
+00:13:43,000 --> 00:13:48,000
+In the second round of DSA they will actually give you a question and they will ask you to open Google Docs and write the entire solution into it.
+
+187
+00:13:49,000 --> 00:13:52,000
+Company is not hiring you to solve a problem in front of them.
+
+188
+00:13:53,000 --> 00:13:56,000
+Company already have developers that can solve the problem but they are trying to see how is your approach.
+
+189
+00:13:57,000 --> 00:14:00,000
+What exactly is the implementation of the thing that you have learned.
+
+190
+00:14:01,000 --> 00:14:05,000
+For example, if you are learning Ling List, where to apply Ling List and in what situation to apply Ling List that is important.
+
+191
+00:14:06,000 --> 00:14:08,000
+Solving problem is not important thing for them.
+
+192
+00:14:09,000 --> 00:14:10,000
+They want to see how conceptually you are strong.
+
+193
+00:14:11,000 --> 00:14:12,000
+That is the most important thing they are just seeing you.
+
+194
+00:14:13,000 --> 00:14:16,000
+So whatever you have told me about yourself, something that I am very much sure about that.
+
+195
+00:14:16,000 --> 00:14:17,000
+You are a person who has hunger.
+
+196
+00:14:18,000 --> 00:14:19,000
+Right now you know that you deserve more.
+
+197
+00:14:20,000 --> 00:14:21,000
+You want to earn more.
+
+198
+00:14:22,000 --> 00:14:23,000
+That is no doubt in that.
+
+199
+00:14:24,000 --> 00:14:27,000
+But trust me whatever you have rated yourself, we will both agree with the fact that you need to work hard from here.
+
+200
+00:14:28,000 --> 00:14:32,000
+The reason is why because let's say right now you are going for an interview.
+
+201
+00:14:33,000 --> 00:14:34,000
+Let's assume that you have an interview.
+
+202
+00:14:35,000 --> 00:14:36,000
+There are two things that will happen.
+
+203
+00:14:37,000 --> 00:14:38,000
+First thing that will happen that you might clear the interview.
+
+204
+00:14:39,000 --> 00:14:44,000
+In a positive case, if they have a banned system perfect, if they do not have a banned system otherwise, every HR will ask you one question in the end.
+
+205
+00:14:44,000 --> 00:14:45,000
+What was your previous CDC?
+
+206
+00:14:46,000 --> 00:14:47,000
+Correct?
+
+207
+00:14:48,000 --> 00:14:51,000
+The community will tell them somewhere around 11.5 because you need to show your personal background, background, vacation.
+
+208
+00:14:52,000 --> 00:14:54,000
+From there, they will give you a 30 to 40 percent hike.
+
+209
+00:14:55,000 --> 00:14:57,000
+You might reach to 20.
+
+210
+00:14:58,000 --> 00:15:00,000
+No, 30 to 40 percent hike for a software engineer.
+
+211
+00:15:01,000 --> 00:15:09,000
+I am expecting much more for that because people right now whatever the calls I have got till now from whatever the companies.
+
+212
+00:15:09,000 --> 00:15:14,000
+So they were ready to give me like they were just to ask me the expectations.
+
+213
+00:15:15,000 --> 00:15:18,000
+So I used to say them around 100 percent at least.
+
+214
+00:15:19,000 --> 00:15:20,000
+So they were ready for that.
+
+215
+00:15:21,000 --> 00:15:23,000
+They will have banned system in their company.
+
+216
+00:15:24,000 --> 00:15:27,000
+They know that if you will fit in that band, you will automatically wait to view.
+
+217
+00:15:28,000 --> 00:15:29,000
+Some people companies might not have that banned system.
+
+218
+00:15:30,000 --> 00:15:31,000
+Then they will give you in based on percentage wise.
+
+219
+00:15:32,000 --> 00:15:33,000
+Some people will give you 100 percent.
+
+220
+00:15:34,000 --> 00:15:35,000
+Some companies might give you 80 percent.
+
+221
+00:15:36,000 --> 00:15:37,000
+It depends upon companies to the companies.
+
+222
+00:15:37,000 --> 00:15:40,000
+In second scenario, God forbid if you say an interview, then there are two things will happen.
+
+223
+00:15:41,000 --> 00:15:42,000
+First thing there would be a cooling period.
+
+224
+00:15:43,000 --> 00:15:44,000
+You have to wait for the next three months and then reapply.
+
+225
+00:15:45,000 --> 00:15:49,000
+And some way you will feel that your content is going down by another 10 percent.
+
+226
+00:15:50,000 --> 00:15:51,000
+And that is very, very important.
+
+227
+00:15:52,000 --> 00:15:54,000
+I suggest you that make yourself feel better before you go for interview.
+
+228
+00:15:55,000 --> 00:16:00,000
+You tell me what exactly is the help that you need today that can make you learn, that can make you better and get you where you want to be.
+
+229
+00:16:01,000 --> 00:16:02,000
+What exactly is the help that you want?
+
+230
+00:16:02,000 --> 00:16:08,000
+Okay, so first thing whatever the questions you are asking for that, I need to be clear with what I want right now.
+
+231
+00:16:09,000 --> 00:16:10,000
+Yes, you are right.
+
+232
+00:16:11,000 --> 00:16:17,000
+So frankly speaking, I need to develop myself in everything that is as a process for what I want.
+
+233
+00:16:18,000 --> 00:16:23,000
+Whether I am looking for a good 100 percent high, good 100 percent high.
+
+234
+00:16:24,000 --> 00:16:27,000
+So I am looking for a higher package actually.
+
+235
+00:16:27,000 --> 00:16:32,000
+Because switching a company is not often we do in our career.
+
+236
+00:16:33,000 --> 00:16:38,000
+Maybe once I switch now, maybe only after three years or four years or five years again I will do.
+
+237
+00:16:39,000 --> 00:16:40,000
+Yes.
+
+238
+00:16:41,000 --> 00:16:44,000
+So that is the reason I am looking for a high package right now.
+
+239
+00:16:45,000 --> 00:16:46,000
+Correct.
+
+240
+00:16:47,000 --> 00:16:48,000
+So I am 27 years right now.
+
+241
+00:16:49,000 --> 00:16:54,000
+So right now if I am looking for a package, I am looking for a high package.
+
+242
+00:16:54,000 --> 00:16:59,000
+So right now if I am looking for a package, I will be looking for more than 30 only.
+
+243
+00:17:00,000 --> 00:17:01,000
+Yes, glad, glad.
+
+244
+00:17:03,000 --> 00:17:06,000
+And you know these 30 lakh of packages somewhere, where would you get?
+
+245
+00:17:07,000 --> 00:17:08,000
+Sorry?
+
+246
+00:17:09,000 --> 00:17:10,000
+30 lakh of packages somewhere, where would you get these packages?
+
+247
+00:17:11,000 --> 00:17:12,000
+And good product based companies.
+
+248
+00:17:13,000 --> 00:17:14,000
+Correct, correct.
+
+249
+00:17:15,000 --> 00:17:16,000
+And to get into the product based company, you have to go with their interview process.
+
+250
+00:17:17,000 --> 00:17:18,000
+And you have to learn DS and steam design.
+
+251
+00:17:19,000 --> 00:17:20,000
+There is no running away from it.
+
+252
+00:17:21,000 --> 00:17:22,000
+That is the reality.
+
+253
+00:17:22,000 --> 00:17:25,000
+So let us see, maybe your target is to crack an offer letter of 30 lakhs.
+
+254
+00:17:26,000 --> 00:17:28,000
+My problem is not only about you cracking an offer letter of 30 lakhs.
+
+255
+00:17:29,000 --> 00:17:31,000
+I want you to be able to perform in that company.
+
+256
+00:17:32,000 --> 00:17:33,000
+You should not struggle there.
+
+257
+00:17:34,000 --> 00:17:35,000
+Yes, that is correct.
+
+258
+00:17:36,000 --> 00:17:37,000
+I should be able to perform in that company.
+
+259
+00:17:38,000 --> 00:17:44,000
+Exactly, because over there you would work directly with big people, with the team where you have to design, architectural design, scalability that you have to get into.
+
+260
+00:17:45,000 --> 00:17:48,000
+Over there you should have that knowledge where you cannot take two days or three years time and get back to you.
+
+261
+00:17:49,000 --> 00:17:50,000
+It cannot be the case.
+
+262
+00:17:50,000 --> 00:17:52,000
+So what exactly is the help that you need?
+
+263
+00:17:53,000 --> 00:17:54,000
+That is something again my question is.
+
+264
+00:17:55,000 --> 00:17:56,000
+Yes, I need to upskill.
+
+265
+00:17:57,000 --> 00:17:58,000
+Understood. To upskill yourself.
+
+266
+00:17:59,000 --> 00:18:01,000
+You knew about upskillment even last year and this year.
+
+267
+00:18:02,000 --> 00:18:03,000
+Why are you not upskilling?
+
+268
+00:18:04,000 --> 00:18:05,000
+Sorry, I didn't get that.
+
+269
+00:18:06,000 --> 00:18:07,000
+You knew about that you need to upskill yourself.
+
+270
+00:18:08,000 --> 00:18:10,000
+But for upskill yourself, what exactly is the help that you need?
+
+271
+00:18:11,000 --> 00:18:12,000
+Okay.
+
+272
+00:18:13,000 --> 00:18:17,000
+I understood your question.
+
+273
+00:18:17,000 --> 00:18:19,000
+Okay, can you also provide the answer?
+
+274
+00:18:20,000 --> 00:18:29,000
+Because if you want to take a flight from Kaurissa or from Bangalore to any place, you would need a car, you need a bike.
+
+275
+00:18:30,000 --> 00:18:31,000
+What do you need? A flight to travel.
+
+276
+00:18:32,000 --> 00:18:33,000
+You need to eat food.
+
+277
+00:18:34,000 --> 00:18:35,000
+Platform. I need your saying.
+
+278
+00:18:36,000 --> 00:18:39,000
+Not platform. See what I feel according to me, you need four things right now.
+
+279
+00:18:40,000 --> 00:18:43,000
+The first thing I feel that you need is a very structured way of learning.
+
+280
+00:18:44,000 --> 00:18:45,000
+That is number one.
+
+281
+00:18:45,000 --> 00:18:47,000
+Whether platform is giving you, you are getting by yourself, it's all up to you.
+
+282
+00:18:48,000 --> 00:18:51,000
+The reason why I feel you need a structured way because see you are a working professional.
+
+283
+00:18:52,000 --> 00:18:53,000
+I am going to be honest with you.
+
+284
+00:18:54,000 --> 00:18:55,000
+You will not have time every day for learning.
+
+285
+00:18:56,000 --> 00:18:57,000
+Let's be honest.
+
+286
+00:18:58,000 --> 00:19:02,000
+There will be days that you are going to be busy with your work, maybe friends, maybe family, something or the other will come up on your table.
+
+287
+00:19:03,000 --> 00:19:06,000
+Second of all thing I feel that you need is a proper guidance.
+
+288
+00:19:07,000 --> 00:19:11,000
+Somebody who is constantly validating that what you are learning is it even right or wrong, it could be better.
+
+289
+00:19:11,000 --> 00:19:19,000
+Because if your goal is actually somewhere to reach a 30 to 50 lp, you should be having a person who is validating you that are you learning what is right or wrong.
+
+290
+00:19:20,000 --> 00:19:27,000
+Third important thing, understand software development can never be learned by reading a book or by watching videos, which a lot of people do that.
+
+291
+00:19:28,000 --> 00:19:29,000
+Yeah, only by practicing.
+
+292
+00:19:30,000 --> 00:19:35,000
+Yes, the only way that you will be able to experience development is when you do a lot of practical approaches, when you do a lot of projects.
+
+293
+00:19:36,000 --> 00:19:37,000
+That is very, very important.
+
+294
+00:19:37,000 --> 00:19:40,000
+And the final thing I feel that you need is someone like there is a mentor.
+
+295
+00:19:41,000 --> 00:19:46,000
+I feel that you need someone like there is an elder brother, somebody who is an architect, somebody who is working in a good company.
+
+296
+00:19:47,000 --> 00:19:53,000
+And you know that if you are making any kind of mistake that person is constantly telling you that okay you are here but you can be little better as you do this.
+
+297
+00:19:54,000 --> 00:19:58,000
+As you have someone like this in your career constantly helping you to make yourself better, you will be able to achieve things faster.
+
+298
+00:19:59,000 --> 00:20:00,000
+Yeah.
+
+299
+00:20:01,000 --> 00:20:03,000
+Do you agree to all those pointers which I have mentioned or any different opinion you have?
+
+300
+00:20:04,000 --> 00:20:05,000
+No, I agree.
+
+301
+00:20:05,000 --> 00:20:08,000
+By the way, I am very curious to understand that how did you go to know about Scalar?
+
+302
+00:20:09,000 --> 00:20:11,000
+Okay, I have said you right in the beginning itself.
+
+303
+00:20:12,000 --> 00:20:23,000
+Yes, I have watched a few ads related to Scalar and also I have watched few interview videos of the Scalar person.
+
+304
+00:20:24,000 --> 00:20:25,000
+I don't remember his name.
+
+305
+00:20:26,000 --> 00:20:27,000
+Anshuman?
+
+306
+00:20:28,000 --> 00:20:29,000
+Yeah, I think Anshuman.
+
+307
+00:20:30,000 --> 00:20:31,000
+So, I have watched.
+
+308
+00:20:32,000 --> 00:20:33,000
+Did you try to do any research on Scalar?
+
+309
+00:20:33,000 --> 00:20:39,000
+I haven't done any research but I have tried to watch the video interviews and also tried to watch some ads.
+
+310
+00:20:40,000 --> 00:20:53,000
+So, I was just curious to know what Scalar can offer me and what I can like how can I upscale or how can I get to the dream job which I am looking for.
+
+311
+00:20:54,000 --> 00:20:55,000
+Okay, make sense.
+
+312
+00:20:56,000 --> 00:21:04,000
+See, if I debrief you about Scalar, the Scalar Academy is a very very online structured platform for a very small group of people.
+
+313
+00:21:05,000 --> 00:21:11,000
+For example, whichever batches that we take, for example, if we take any kind of people, we will restrict the number of people that we want to work.
+
+314
+00:21:12,000 --> 00:21:14,000
+Let's say 200 in a single batch that we will land.
+
+315
+00:21:15,000 --> 00:21:23,000
+And it's a very exclusive training program because somewhere the fees of Scalar, I don't know if you have done that research, but the fees of Scalar is somewhere around 3 lakhs.
+
+316
+00:21:23,000 --> 00:21:24,000
+Okay.
+
+317
+00:21:24,000 --> 00:21:26,000
+So, when we select these people, we train them up.
+
+318
+00:21:26,000 --> 00:21:27,000
+It's not a course that we do.
+
+319
+00:21:27,000 --> 00:21:34,000
+We train them up with a training program where you guys get to learn, you guys get to upscale and get to work in a good product based company like A1, A2.
+
+320
+00:21:35,000 --> 00:21:36,000
+The question is how do we do that?
+
+321
+00:21:37,000 --> 00:21:44,000
+Like in the very first few weeks, whichever programming language you feel that you're comfortable, if you feel that you have any loopholes in your programming language, we'll revise that with you.
+
+322
+00:21:45,000 --> 00:21:52,000
+Then the next 20 weeks is where we will work with you in data structure algorithm where right from the scratch you will be able to do the same thing.
+
+323
+00:21:53,000 --> 00:21:55,000
+And that will make you understand the concept of DSA.
+
+324
+00:21:56,000 --> 00:22:02,000
+What is the right way that you will solve the problem, the right approach that you will solve any problem, where would you use any kind of an optimized code and every single thing in DSA.
+
+325
+00:22:03,000 --> 00:22:08,000
+Whether it could be stacks, queues, crafties, Linux, every single thing that you will learn is all through practical exposure and projects.
+
+326
+00:22:10,000 --> 00:22:17,000
+Then you will learn on system design like high level design, low level design, learning architectural designing, scalability, the car, car, zookeeper, every single thing.
+
+327
+00:22:17,000 --> 00:22:22,000
+Then you would choose your specialization as a background as a full stack developer where you will learn all the technologies in the background front end.
+
+328
+00:22:23,000 --> 00:22:29,000
+It could be Spring, Spring Boot, Node.js, Express.js, MongoDB, React, Angular, and every single tool and technology will be covered up.
+
+329
+00:22:30,000 --> 00:22:37,000
+Whatever you will learn at Scala is all through practical exposure and projects and all these projects are deployed in cloud even company will see what you've done in the end.
+
+330
+00:22:38,000 --> 00:22:43,000
+In the end you're actually working on a project where you are building up a product from scratch to deploy and into scaling it up.
+
+331
+00:22:44,000 --> 00:22:48,000
+We will work on every single thing even Docs, Kubernetes, AWS, every single thing.
+
+332
+00:22:49,000 --> 00:22:54,000
+The kind of people that will instruct you at Scala, these are not college professors or faculties.
+
+333
+00:22:55,000 --> 00:23:00,000
+There's no one like that. These are people who have already worked in tier one product based company. These are the one who will help you out.
+
+334
+00:23:01,000 --> 00:23:04,000
+Anshuman Singh who was a tech leader at Facebook Messenger, he's going to be an instructor.
+
+335
+00:23:05,000 --> 00:23:09,000
+Utkash Gupta from Google Germany, Shitesh Mishra from Snapdeal. So these are people that will instruct you out.
+
+336
+00:23:09,000 --> 00:23:16,000
+Now before you think of joining Scala, we'll take your resume. So based on your experience, profile, education, we then assign you with a mentor.
+
+337
+00:23:17,000 --> 00:23:22,000
+And you would choose your mentor, Dejo. And your mentor is not working in Scala. He's currently working in company.
+
+338
+00:23:23,000 --> 00:23:29,000
+Let's say Cisco, Apple, Adobe, Facebook, Amazon, let's say some Apple, Vicky, Walmart, like these kind of companies.
+
+339
+00:23:30,000 --> 00:23:36,000
+And you would choose based on the things that we assign. And he or she will sit down with you and help you out what you should do more.
+
+340
+00:23:36,000 --> 00:23:41,000
+Now what problems, what project, now what skillset that you should focus, which companies that you should target, even how to crack their interviews.
+
+341
+00:23:42,000 --> 00:23:46,000
+Even with your resume, your LinkedIn, your GitHub, they help you out with every single thing.
+
+342
+00:23:47,000 --> 00:23:55,000
+Now once you start feeling that you're confident, they start bombarding you by job opportunities. Like 300, 400 job opportunities of product based company apply.
+
+343
+00:23:56,000 --> 00:24:04,000
+Now whenever you will apply for any company, it's a recruitment team that refine your resume and then they assign you with a mentor.
+
+344
+00:24:04,000 --> 00:24:09,000
+They assign you a resume and an AI integrated tool that refine your resume every time when you apply for any company.
+
+345
+00:24:10,000 --> 00:24:12,000
+So that your resume is the first thing that will get shortlisted.
+
+346
+00:24:13,000 --> 00:24:14,000
+Like what should be there?
+
+347
+00:24:15,000 --> 00:24:18,000
+Scala will also help me in finding the job opportunity.
+
+348
+00:24:19,000 --> 00:24:21,000
+Yes, Scala will be helping you out with those. Yes, every single thing. Right?
+
+349
+00:24:22,000 --> 00:24:24,000
+From you learning to upscaling, adding into a company, something like Scala works.
+
+350
+00:24:25,000 --> 00:24:33,000
+Now once your resume gets shortlisted with any company you have an interview with, you would be speaking with one of the current employee of that company from us.
+
+351
+00:24:34,000 --> 00:24:39,000
+You will be speaking with the Scala community group by yourselves and you will even understand the entire interview process.
+
+352
+00:24:40,000 --> 00:24:45,000
+Like what questions are going to come up, how many rounds are going to be there, in this round what will be asked, how you need to answer.
+
+353
+00:24:46,000 --> 00:24:49,000
+So before going for the interview, we are actually all prepared how to crack it up in one single room.
+
+354
+00:24:50,000 --> 00:24:55,000
+There are many things that happen in Scala which probably I'm not even telling you right now.
+
+355
+00:24:56,000 --> 00:24:59,000
+Simple because as we told that we only look for a very small group of people.
+
+356
+00:24:59,000 --> 00:25:04,000
+Because we need to make sure that these people upscale themselves so that everyone gets into the companies that they want to be.
+
+357
+00:25:05,000 --> 00:25:11,000
+But yes, in order for us to understand that yes this person is an eye-cute fit for us, we have our own entrance test.
+
+358
+00:25:12,000 --> 00:25:17,000
+We take up a 30 minute of test to understand about this person a little more, where exactly his current skill set is.
+
+359
+00:25:18,000 --> 00:25:21,000
+Because five years back your marks used to be very very strong, correct?
+
+360
+00:25:22,000 --> 00:25:24,000
+It could be the same, it could not be the same. Correct.
+
+361
+00:25:24,000 --> 00:25:31,000
+That's the reason we take up this 30 minute of test to understand that today where is the T.J., what exactly his marks skill set is like.
+
+362
+00:25:32,000 --> 00:25:37,000
+Based on that we try and understand where we need to work with him, how much we need to work with him, what kind of a mentor would be the best for him.
+
+363
+00:25:38,000 --> 00:25:40,000
+That is how we are able to guide you even further beyond than this.
+
+364
+00:25:41,000 --> 00:25:44,000
+Any questions, any doubt that you have that you want to ask?
+
+365
+00:25:45,000 --> 00:25:49,000
+You have set the fees and what is the fees?
+
+366
+00:25:49,000 --> 00:25:57,000
+The fees of Scalar is exactly 369000 on the website, but post the test if you give it up the fees will come down to 324000.
+
+367
+00:25:58,000 --> 00:26:08,000
+Now based on the session that we have, if you are going to sit on a Google Meet, if everything is worked out well your ultimate fees will come down to 314000.
+
+368
+00:26:09,000 --> 00:26:13,000
+And what about the course duration?
+
+369
+00:26:14,000 --> 00:26:15,000
+It's going to be a journey of 12 months.
+
+370
+00:26:15,000 --> 00:26:18,000
+12 months is a very long period right?
+
+371
+00:26:19,000 --> 00:26:22,000
+Yeah, because every single thing will be done right? DSA, system design, every single thing.
+
+372
+00:26:23,000 --> 00:26:29,000
+Yeah I understand, but 12 months is a very long duration and I need to wait till that time to switch.
+
+373
+00:26:30,000 --> 00:26:32,000
+No, why do you have to wait for 12 months to get a switch?
+
+374
+00:26:33,000 --> 00:26:35,000
+Within this 12 months you will be having a switch.
+
+375
+00:26:36,000 --> 00:26:44,000
+Because as soon as let's say your DSA is prepared, as soon as your LLD is over, you can yourself will be ready for a post-treatment and you will still be able to crack.
+
+376
+00:26:45,000 --> 00:26:49,000
+But for a product based company, it doesn't work in that way that today you give the first round and the next round you give it tomorrow.
+
+377
+00:26:50,000 --> 00:26:55,000
+No, the first round will happen today, after one week your second round will happen or maybe after 10 days your second round of interview will happen.
+
+378
+00:26:56,000 --> 00:26:57,000
+It works in that way.
+
+379
+00:26:58,000 --> 00:27:03,000
+So the timeline that we are taking is a journey that we take right from you learning up to getting into a company, something that you are going to do.
+
+380
+00:27:04,000 --> 00:27:16,000
+Ok, so what says, since in the beginning I have taken the course for example, in what month I could start applying to the job?
+
+381
+00:27:17,000 --> 00:27:23,000
+So you will start applying for job opportunities in the month of Feb and March because at that time the hiring will happen the most.
+
+382
+00:27:25,000 --> 00:27:28,000
+When will be the course starting?
+
+383
+00:27:29,000 --> 00:27:30,000
+The course is starting on 17th of July.
+
+384
+00:27:30,000 --> 00:27:40,000
+17th of July, ok. So 17th July if I start on Feb or March next year I would start you mean?
+
+385
+00:27:41,000 --> 00:27:45,000
+Yes, yes, yes. Because by the time your DSA and LLD will be very very strong, very very strong.
+
+386
+00:27:46,000 --> 00:27:51,000
+When you will sit for any company you will be easily able to crack it up any kind of interview because at every level we are taking your mock interviews.
+
+387
+00:27:52,000 --> 00:27:59,000
+Because the kind of tie ups that we have done, the kind of companies that hire from Scala, like TA1 product based companies, TA2 product based companies, these are big companies that means really really good.
+
+388
+00:28:00,000 --> 00:28:07,000
+But yes they want to see how has been your journey at the same time, how has been your learning, how much have you actually understood, how conceptually you are strong.
+
+389
+00:28:08,000 --> 00:28:12,000
+That is the reason we take mock interviews of yours at every level to see how much you are able to perform.
+
+390
+00:28:13,000 --> 00:28:17,000
+When you will sit for the interview will you be able to crack it up or not. So at every level we do that.
+
+391
+00:28:18,000 --> 00:28:23,000
+It's not a course that we are doing that is going in one flow, whether you complete, you don't complete and then after that you will apply.
+
+392
+00:28:23,000 --> 00:28:30,000
+No, while this thing is going on we will evaluate you at every level and we will tell you what exactly are the things that you need to work more upon and how you will be cracking those up.
+
+393
+00:28:31,000 --> 00:28:44,000
+In between you also want to look for a portion because lot of people, I can may suggest to you that lot of people in between, lot of people who have performed well they have got job opportunities even let's say 3 months, they have got these sometimes even 8 months, 9 months they have all got.
+
+394
+00:28:45,000 --> 00:28:49,000
+So it's a journey that goes for around 12 months because the learning will be non stop.
+
+395
+00:28:50,000 --> 00:28:55,000
+It's not that after 12 months we will say bye bye to you or as soon as you get a job we will say bye bye to you.
+
+396
+00:28:56,000 --> 00:29:01,000
+We will make you further learn certain data engineering topics that will make you learn. Something about product management we will even train you up.
+
+397
+00:29:02,000 --> 00:29:05,000
+So that journey goes on, learning never stops.
+
+398
+00:29:05,000 --> 00:29:18,000
+So in between if I search on myself for switching and if I am successful with switching so that will also not get affected.
+
+399
+00:29:19,000 --> 00:29:24,000
+No, it doesn't matter. That's the reason lot of people when they are in notice period they join Scalar. Why?
+
+400
+00:29:25,000 --> 00:29:31,000
+Because right now today they will go for apply for job opportunities. They will go on naukri.com, LinkedIn, some friends will refer them out max to max.
+
+401
+00:29:31,000 --> 00:29:38,000
+But when the person is learning at Scalar they actually get to speak with their mentor that this is my resume, where exactly the fault is coming up.
+
+402
+00:29:39,000 --> 00:29:42,000
+Why I am not getting too much of calls and why I am not getting calls from the companies that I want to work.
+
+403
+00:29:43,000 --> 00:29:51,000
+He will help you out that this is what exactly is a mistake and your mentor has so much networking more than you that he will even refer you, will tell you that hey I know some people in this some company let me help you out with those.
+
+404
+00:29:52,000 --> 00:29:54,000
+It happens with lot of folks. You can even try.
+
+405
+00:29:54,000 --> 00:29:59,000
+Second of all you get to see every day on Scalar like what companies are hiring you.
+
+406
+00:30:00,000 --> 00:30:03,000
+Every day because every day some of the other guys get placed into any company.
+
+407
+00:30:04,000 --> 00:30:07,000
+For example there is a company named Hashadin by Deloitte is hiring right now.
+
+408
+00:30:08,000 --> 00:30:10,000
+There is a company named practical.ai is hiring right now.
+
+409
+00:30:11,000 --> 00:30:12,000
+Why isn't technology hiring right now?
+
+410
+00:30:13,000 --> 00:30:17,000
+So there are many companies people don't even know that these companies are hiring right now because they don't post so many opportunities.
+
+411
+00:30:18,000 --> 00:30:23,000
+So when you see every day which companies are getting hired right now you can directly speak with that person ask them to refer me out please.
+
+412
+00:30:24,000 --> 00:30:26,000
+And that person just cleared the interview he knows the entire interview process.
+
+413
+00:30:27,000 --> 00:30:28,000
+So you will get in that kind of a hell.
+
+414
+00:30:29,000 --> 00:30:36,000
+So that networking is with huge thing that will help you to get success because at Scalar 30,000 software developers are learning at Scalar.
+
+415
+00:30:37,000 --> 00:30:41,000
+Director of JP Morgan, Principal Architect of Tech Mahindra, Senior Software Developer of Google.
+
+416
+00:30:42,000 --> 00:30:43,000
+So many people that are learning at Scalar.
+
+417
+00:30:44,000 --> 00:30:50,000
+And now right now don't we have any other batch apart from July 17th?
+
+418
+00:30:50,000 --> 00:30:55,000
+No, because we do not come up with batches based on the requirement of the people.
+
+419
+00:30:56,000 --> 00:30:59,000
+We always come up with batches based on the requirement that the companies are going to ask for.
+
+420
+00:31:00,000 --> 00:31:05,000
+Because nobody would be coming to Scalar only for just learning because all they want is at the end of the day to get a good opportunity.
+
+421
+00:31:06,000 --> 00:31:07,000
+That's correct.
+
+422
+00:31:08,000 --> 00:31:12,000
+And if somebody who is investing 3 lakhs and I just give them the learning and they do not get the opportunity they will be a little disappointed.
+
+423
+00:31:13,000 --> 00:31:14,000
+So that's the reason we work day one for very hard for the same reason.
+
+424
+00:31:15,000 --> 00:31:17,000
+So that's the reason we need to make sure that the opportunities are reserved as well.
+
+425
+00:31:17,000 --> 00:31:23,000
+We know what is going to be hiring in 2025 and we speak with those companies that what is an ideal time that we should come up for a batch.
+
+426
+00:31:24,000 --> 00:31:28,000
+They recommended us that we should come with a batch in the month of July and that's how we start planning things accordingly.
+
+427
+00:31:29,000 --> 00:31:33,000
+We have tied up with 800 companies so we need to see along with everything.
+
+428
+00:31:34,000 --> 00:31:35,000
+How many companies you have tied up?
+
+429
+00:31:36,000 --> 00:31:37,000
+800 companies.
+
+430
+00:31:38,000 --> 00:31:39,000
+Can I know a few companies from that?
+
+431
+00:31:40,000 --> 00:31:45,000
+There is Techmojo, there is a company named Vice and Technology, Fractal Alerting, Mount Blue,
+
+432
+00:31:46,000 --> 00:31:52,000
+DevTable is hiring from Scalar now, Amazon, Microsoft, many companies are hiring from Scalar a lot.
+
+433
+00:31:57,000 --> 00:31:59,000
+There is FreeCharge is a company, I am sure you have heard about.
+
+434
+00:32:01,000 --> 00:32:03,000
+Yeah, these are all new to me actually.
+
+435
+00:32:04,000 --> 00:32:05,000
+Never heard about FreeCharge?
+
+436
+00:32:06,000 --> 00:32:09,000
+FreeCharge exists when I was very young, they used to do mobile recharges when I was very young.
+
+437
+00:32:12,000 --> 00:32:13,000
+FreeCharge is a company.
+
+438
+00:32:14,000 --> 00:32:15,000
+So, Fractal Alerting, Mount Blue, and Alerting are also there.
+
+439
+00:32:16,000 --> 00:32:17,000
+Yes, yes, yes.
+
+440
+00:32:18,000 --> 00:32:19,000
+Airtel is hiring from Scalar.
+
+441
+00:32:21,000 --> 00:32:27,000
+If I take this course, do you think I can crack it for the 35 lakhs package?
+
+442
+00:32:28,000 --> 00:32:32,000
+You are a 5 year experienced guy, people sitting at 3 years of experience can crack 30 LPA.
+
+443
+00:32:35,000 --> 00:32:37,000
+Do you know what is Sd2 salary in phone pay?
+
+444
+00:32:38,000 --> 00:32:42,000
+Sd2, highest from Scalar, paid in highest from Scalar.
+
+445
+00:32:43,000 --> 00:32:47,000
+For a phone pay person with 2 years of experience, they get around 40-45 LPA.
+
+446
+00:32:49,000 --> 00:32:52,000
+A 2 year of experience person in Amazon will get more than 25 LPA.
+
+447
+00:32:59,000 --> 00:33:03,000
+The only thing that if you are going to assume that, okay, I will be the same thing and I will be cracking.
+
+448
+00:33:03,000 --> 00:33:09,000
+Today I know that I can get you referred in Google as well, maybe I can help you get referred in Walmart and even in Oracle as well.
+
+449
+00:33:10,000 --> 00:33:11,000
+Not a problem.
+
+450
+00:33:12,000 --> 00:33:14,000
+But will you be able to crack it up? Let's say you crack it up, will you be able to perform there?
+
+451
+00:33:15,000 --> 00:33:16,000
+The question will be this.
+
+452
+00:33:17,000 --> 00:33:19,000
+That's the reason we do not want people to take that risk.
+
+453
+00:33:20,000 --> 00:33:26,000
+What God forbid if interviews that happen doesn't go in that way, then you have to wait another few months to again reapply for the same company.
+
+454
+00:33:27,000 --> 00:33:30,000
+So when you go for the interview, make sure that you are prepared that you crack it up once and then go.
+
+455
+00:33:30,000 --> 00:33:32,000
+But the learning is going to be continuous.
+
+456
+00:33:33,000 --> 00:33:36,000
+If you are coming in Scalar only for jobs, then I would suggest you don't come for that.
+
+457
+00:33:37,000 --> 00:33:42,000
+But if you are coming to Scalar that okay, I would want to make myself better first and then crack those interviews, then do come for that.
+
+458
+00:33:44,000 --> 00:33:48,000
+I know a lot of people come to Scalar only for job opportunities, maybe they don't say to me, but I know.
+
+459
+00:33:49,000 --> 00:33:51,000
+They even get placed. But we do not want that over there, they should struggle.
+
+460
+00:33:52,000 --> 00:33:53,000
+Keep learning.
+
+461
+00:33:55,000 --> 00:33:57,000
+The whole focus remains around that.
+
+462
+00:33:57,000 --> 00:34:03,000
+Actually, I am interested in this, but the thing is like I am short of money right now.
+
+463
+00:34:04,000 --> 00:34:06,000
+You do not have to pay 3 lakhs ever in one go.
+
+464
+00:34:07,000 --> 00:34:09,000
+Nobody would be able to manage that in one go.
+
+465
+00:34:10,000 --> 00:34:12,000
+Because this fees you can pay in 5 years.
+
+466
+00:34:14,000 --> 00:34:17,000
+Because when you join Scalar, you only pay 20,000, that's it.
+
+467
+00:34:18,000 --> 00:34:22,000
+The remaining fees is converted into EMI's and you can choose your EMI from 7000 to 12000.
+
+468
+00:34:22,000 --> 00:34:23,000
+That's how the fees works in Scalar.
+
+469
+00:34:26,000 --> 00:34:27,000
+So EMI's per month is 7000.
+
+470
+00:34:28,000 --> 00:34:30,000
+7000 to 12000 you can choose in EMI that you are comfortable.
+
+471
+00:34:31,000 --> 00:34:32,000
+It's all up to you.
+
+472
+00:34:33,000 --> 00:34:41,000
+Even the important aspect that Scalar is not helping you to get your fees in EMI's so that becomes feasible for you.
+
+473
+00:34:42,000 --> 00:34:45,000
+Because Scalar knows that we want people to invest less in EMI's.
+
+474
+00:34:45,000 --> 00:34:51,000
+Even in the very worst case situation, it takes you 12 months to land into a company that you want to work.
+
+475
+00:34:52,000 --> 00:34:53,000
+Around 30-5 LPs that you are making.
+
+476
+00:34:54,000 --> 00:34:55,000
+It takes you around 12 months.
+
+477
+00:34:56,000 --> 00:35:01,000
+And out of your own willingness, let's say you choose the EMI which is the biggest EMI of 12K per month.
+
+478
+00:35:02,000 --> 00:35:04,000
+12,000 LPs per month.
+
+479
+00:35:05,000 --> 00:35:06,000
+That's how you get your fees.
+
+480
+00:35:07,000 --> 00:35:09,000
+So you can choose the EMI that you want to work in.
+
+481
+00:35:09,000 --> 00:35:11,000
+So that's the EMI which is the biggest EMI of 12K per month.
+
+482
+00:35:12,000 --> 00:35:17,000
+12,000, 12,000, 12,000 you are paying in for 12 months.
+
+483
+00:35:18,000 --> 00:35:19,000
+What's the total amount?
+
+484
+00:35:20,000 --> 00:35:21,000
+1,44,000.
+
+485
+00:35:22,000 --> 00:35:24,000
+20,000 is what you pay when you join Scalar.
+
+486
+00:35:26,000 --> 00:35:28,000
+Somewhere it goes to 1,64,000.
+
+487
+00:35:29,000 --> 00:35:30,000
+Let's round it up and make it 1,70,000.
+
+488
+00:35:31,000 --> 00:35:33,000
+But at least after that you would be working in the company that you wanted to work.
+
+489
+00:35:34,000 --> 00:35:35,000
+The kind of project that you wanted to do.
+
+490
+00:35:36,000 --> 00:35:37,000
+And anywhere the kind of pay that you will deserve.
+
+491
+00:35:37,000 --> 00:35:42,000
+Even if I assume a worst case data where you will land for 5 years experience if you land in a bracket of 30 LPA.
+
+492
+00:35:43,000 --> 00:35:45,000
+Majority of the company will give you a joining bonus.
+
+493
+00:35:46,000 --> 00:35:49,000
+If I suggest you with your joining bonus you can easily clear off your EMI in one single go.
+
+494
+00:35:50,000 --> 00:35:52,000
+So the outcome will come next one year.
+
+495
+00:35:53,000 --> 00:35:55,000
+But have you invested 3 lakhs every one go?
+
+496
+00:35:58,000 --> 00:36:03,000
+Even if you are making 11 LPA and you do not get any hike for next 5 years.
+
+497
+00:36:04,000 --> 00:36:05,000
+I don't think that will happen.
+
+498
+00:36:05,000 --> 00:36:10,000
+But let's say 11 lakhs, 11 lakhs, 11 lakhs if you make in 5 years somewhere around 55 LPA that you made.
+
+499
+00:36:11,000 --> 00:36:13,000
+Maybe from 55 LPA you will pay a fee of 3 lakhs.
+
+500
+00:36:14,000 --> 00:36:15,000
+That's how it works.
+
+501
+00:36:16,000 --> 00:36:18,000
+Sorry 11 lakhs what you are talking about?
+
+502
+00:36:19,000 --> 00:36:23,000
+For an example if you do not get a hike for the next 2 years or next 3 years you do not get a hike.
+
+503
+00:36:24,000 --> 00:36:26,000
+Maybe next 5 years you do not get a hike.
+
+504
+00:36:27,000 --> 00:36:32,000
+So 11 lakhs, 11 lakhs, 11 lakhs if you are making for the next 5 years if you choose an EMI of 7000.
+
+505
+00:36:32,000 --> 00:36:36,000
+Let's say if you choose an EMI of 7000, 11 lakhs, 11 lakhs, 11 lakhs you make for the next 5 years.
+
+506
+00:36:37,000 --> 00:36:40,000
+You make 55 LPA as a salary without any growth.
+
+507
+00:36:41,000 --> 00:36:47,000
+From that 55 lakhs you are paying 3 lakhs in the period of 5 if you choose an EMI of 7000 as well.
+
+508
+00:36:48,000 --> 00:36:50,000
+But that would never happen right?
+
+509
+00:36:51,000 --> 00:36:55,000
+Nobody would do that because next year your career gets changed right?
+
+510
+00:36:56,000 --> 00:37:02,000
+You know in the very worst case situation that if nothing happens you can by yourself make a jump of 20-25 LPA.
+
+511
+00:37:03,000 --> 00:37:04,000
+You can easily get.
+
+512
+00:37:05,000 --> 00:37:06,000
+You can easily get.
+
+513
+00:37:07,000 --> 00:37:11,000
+Let's say from here while learning even if you get a switch of 20-25000, accept that if you work for you.
+
+514
+00:37:12,000 --> 00:37:14,000
+Accept that. Now complete skill are even more.
+
+515
+00:37:15,000 --> 00:37:18,000
+And by the time you will reach in a bracket of at least 35-40 LPA easily.
+
+516
+00:37:19,000 --> 00:37:22,000
+Because whichever company then you will search you will get your 100% hike somewhere at that.
+
+517
+00:37:22,000 --> 00:37:25,000
+Right now my package is 11.3 as I said you already.
+
+518
+00:37:26,000 --> 00:37:31,000
+So if I am looking for 100% hike it could be around 22 maybe.
+
+519
+00:37:32,000 --> 00:37:38,000
+But as I said you like see ultimately everybody is trying for a very good package or a high package.
+
+520
+00:37:39,000 --> 00:37:40,000
+Absolutely.
+
+521
+00:37:41,000 --> 00:37:44,000
+So I don't want to wait for 3 or 4 years or against 5 years.
+
+522
+00:37:45,000 --> 00:37:47,000
+Exactly the whole time is gone that you will not wait for.
+
+523
+00:37:47,000 --> 00:37:50,000
+And see I will tell you when you work for a company for example I am giving you an example of Walmart.
+
+524
+00:37:51,000 --> 00:37:53,000
+Walmart is not going to ask you what is your previous CDC.
+
+525
+00:37:54,000 --> 00:37:57,000
+When you clear their interview round for them it's bad system.
+
+526
+00:37:58,000 --> 00:38:00,000
+They are always called good hiring, very good hiring, average hiring whatever.
+
+527
+00:38:01,000 --> 00:38:03,000
+If a person is a good hiring they start their bracket of 40-45 LPA.
+
+528
+00:38:04,000 --> 00:38:06,000
+So it works accordingly in that.
+
+529
+00:38:07,000 --> 00:38:08,000
+So product based company always works in that.
+
+530
+00:38:09,000 --> 00:38:11,000
+I know there was a guy with 5 year experience who joined Scalar.
+
+531
+00:38:12,000 --> 00:38:13,000
+He got an offer from the company.
+
+532
+00:38:13,000 --> 00:38:16,000
+I know there was a guy with 5 year experience who joined Scalar.
+
+533
+00:38:17,000 --> 00:38:20,000
+He got an offer later from Amazon at 73 LPA.
+
+534
+00:38:21,000 --> 00:38:22,000
+But he did not accepted that.
+
+535
+00:38:23,000 --> 00:38:24,000
+He preferred to go in an interview at 65 LPA.
+
+536
+00:38:25,000 --> 00:38:26,000
+Why so?
+
+537
+00:38:27,000 --> 00:38:28,000
+Because for him work place are very important.
+
+538
+00:38:29,000 --> 00:38:32,000
+Amazon is anyways good company but over there the work that he was about to get in interview was very very good.
+
+539
+00:38:33,000 --> 00:38:34,000
+So he preferred that.
+
+540
+00:38:35,000 --> 00:38:37,000
+So that is very very important for people.
+
+541
+00:38:38,000 --> 00:38:42,000
+When you start learning, when you start realizing things and you realize that money is important along with that projects is very very important.
+
+542
+00:38:43,000 --> 00:38:44,000
+Yes that is correct.
+
+543
+00:38:45,000 --> 00:38:46,000
+Projects are very important.
+
+544
+00:38:47,000 --> 00:38:48,000
+Learning is important.
+
+545
+00:38:49,000 --> 00:38:51,000
+Because at the end of the day in your resume you will never mention your salary.
+
+546
+00:38:52,000 --> 00:38:53,000
+It is the way you will mention your work.
+
+547
+00:38:54,000 --> 00:38:58,000
+Money and trust me in the next 2 years you might make even 30 or 40 LPA.
+
+548
+00:38:59,000 --> 00:39:00,000
+That is not a problem.
+
+549
+00:39:01,000 --> 00:39:02,000
+But the work that you do is very very important.
+
+550
+00:39:03,000 --> 00:39:04,000
+That is very very important.
+
+551
+00:39:05,000 --> 00:39:06,000
+I think that we want to focus as well.
+
+552
+00:39:06,000 --> 00:39:16,000
+But mostly with this high package the problem is like most of the high package half of the amount will be like shares only.
+
+553
+00:39:17,000 --> 00:39:18,000
+I will give you an example.
+
+554
+00:39:19,000 --> 00:39:20,000
+There is a guy named I know Salik Sefi.
+
+555
+00:39:21,000 --> 00:39:22,000
+He is a person who has right now 4 year of experience.
+
+556
+00:39:23,000 --> 00:39:27,000
+So he joined Scalar when he almost had around 2 year of experience.
+
+557
+00:39:28,000 --> 00:39:30,000
+Somewhere he was sitting at 5 LPA working in Tech Mahindra.
+
+558
+00:39:31,000 --> 00:39:32,000
+He joined Scalar.
+
+559
+00:39:33,000 --> 00:39:35,000
+He got a hike from 5 LPA straight away to 24 LPA.
+
+560
+00:39:36,000 --> 00:39:37,000
+By the time he became 2 and a half year of experience.
+
+561
+00:39:38,000 --> 00:39:39,000
+He kept on his learning was not over.
+
+562
+00:39:40,000 --> 00:39:41,000
+He kept on learning something or the other from Scalar.
+
+563
+00:39:42,000 --> 00:39:43,000
+And right now he is working in Oracle.
+
+564
+00:39:44,000 --> 00:39:47,000
+4 year of experience that he has and he is working at 29 LPA which is completely fixed.
+
+565
+00:39:48,000 --> 00:39:49,000
+It is also quite different.
+
+566
+00:39:50,000 --> 00:39:51,000
+It is fixed.
+
+567
+00:39:52,000 --> 00:39:53,000
+Yes, it is 28 LPA is completely fixed.
+
+568
+00:39:54,000 --> 00:39:56,000
+More importantly the work in a product based company is very different.
+
+569
+00:39:57,000 --> 00:39:58,000
+That you get a work for about 8 months.
+
+570
+00:39:59,000 --> 00:40:00,000
+You do as per your willingness.
+
+571
+00:40:01,000 --> 00:40:02,000
+But the work should be done by this time.
+
+572
+00:40:03,000 --> 00:40:04,000
+Now it is up to you. Today you work tomorrow you do not want to work.
+
+573
+00:40:04,000 --> 00:40:06,000
+There is a company named Black Hawk Network.
+
+574
+00:40:07,000 --> 00:40:08,000
+Never heard about this company. Have you?
+
+575
+00:40:09,000 --> 00:40:10,000
+Black Hawk Network.
+
+576
+00:40:11,000 --> 00:40:12,000
+Yes, I am sure you never heard about this.
+
+577
+00:40:13,000 --> 00:40:14,000
+No, no.
+
+578
+00:40:15,000 --> 00:40:17,000
+There is a person who is learning from that company who is having somewhere around 8 year of experience.
+
+579
+00:40:18,000 --> 00:40:19,000
+And his fixed salary is 44 LPA.
+
+580
+00:40:20,000 --> 00:40:21,000
+Fixed, not even variable I am talking about.
+
+581
+00:40:22,000 --> 00:40:23,000
+His fixed is 44 LPA.
+
+582
+00:40:24,000 --> 00:40:26,000
+But he somewhere is planning that because he has 8 year of experience.
+
+583
+00:40:27,000 --> 00:40:29,000
+He can get even more than around 70-65 LPA he can get.
+
+584
+00:40:30,000 --> 00:40:31,000
+But for that he has to work hard.
+
+585
+00:40:31,000 --> 00:40:32,000
+Now generally when you go to big companies.
+
+586
+00:40:33,000 --> 00:40:34,000
+Big companies will give you ESOPS readily well.
+
+587
+00:40:35,000 --> 00:40:36,000
+And that is not a big deal.
+
+588
+00:40:37,000 --> 00:40:38,000
+Not a bad deal.
+
+589
+00:40:39,000 --> 00:40:40,000
+If you are going to big companies ESOPS are very good.
+
+590
+00:40:41,000 --> 00:40:42,000
+For example if you go to Amazon.
+
+591
+00:40:43,000 --> 00:40:44,000
+And they offer you ESOPS.
+
+592
+00:40:45,000 --> 00:40:46,000
+Very good deal.
+
+593
+00:40:47,000 --> 00:40:48,000
+Very good deal.
+
+594
+00:40:49,000 --> 00:40:50,000
+Lot of people I know from Amazon they tell us that they do not want Hike.
+
+595
+00:40:51,000 --> 00:40:52,000
+Instead they want to share from Amazon.
+
+596
+00:40:53,000 --> 00:40:54,000
+Give me one share.
+
+597
+00:40:55,000 --> 00:40:58,000
+And all these company opportunities are there in India or outside India?
+
+598
+00:40:59,000 --> 00:41:00,000
+Generally the whole focus is on the company.
+
+599
+00:41:01,000 --> 00:41:02,000
+All in India.
+
+600
+00:41:03,000 --> 00:41:05,000
+But you might get opportunities from abroad as well.
+
+601
+00:41:06,000 --> 00:41:07,000
+How?
+
+602
+00:41:08,000 --> 00:41:09,000
+Because lot of people from USA and Canada they are learning at Scalar.
+
+603
+00:41:10,000 --> 00:41:11,000
+Lot of people from Germany, Singapore they are learning at Scalar.
+
+604
+00:41:12,000 --> 00:41:13,000
+Even people from Australia learning at Scalar.
+
+605
+00:41:14,000 --> 00:41:15,000
+They are all learning and they are all doing networking at Scalar.
+
+606
+00:41:16,000 --> 00:41:18,000
+So there are even post job opportunities where you can go and crack that out as well.
+
+607
+00:41:19,000 --> 00:41:21,000
+But first of all they clearly tell us that even when they are there.
+
+608
+00:41:22,000 --> 00:41:26,000
+They even tell us that yes in USA, Canada, DSA and system design is important.
+
+609
+00:41:27,000 --> 00:41:29,000
+And that is required.
+
+610
+00:41:31,000 --> 00:41:33,000
+What else we get to learn from this?
+
+611
+00:41:34,000 --> 00:41:36,000
+I have shared your message high on WhatsApp.
+
+612
+00:41:37,000 --> 00:41:39,000
+Can you just reply high back to me and I will be able to share the curriculum that you get to see.
+
+613
+00:41:40,000 --> 00:41:41,000
+Sure one minute.
+
+614
+00:41:42,000 --> 00:41:43,000
+You can put it on speaker.
+
+615
+00:41:44,000 --> 00:41:45,000
+Yeah.
+
+616
+00:41:58,000 --> 00:41:59,000
+I have shared it on my back.
+
+617
+00:42:01,000 --> 00:42:12,000
+If you open that link you will be able to see the existing sheet on your screen.
+
+618
+00:42:13,000 --> 00:42:16,000
+Okay one minute.
+
+619
+00:42:31,000 --> 00:42:36,000
+Let me know which sheet are you in.
+
+620
+00:42:37,000 --> 00:42:40,000
+Are you in the beginner sheet or are you in the intermediate advanced sheet?
+
+621
+00:42:41,000 --> 00:42:43,000
+Yeah I have opened the sheet.
+
+622
+00:42:44,000 --> 00:42:47,000
+Make sure that you are in the intermediate advanced sheet not in the beginner sheet.
+
+623
+00:42:48,000 --> 00:42:49,000
+Okay.
+
+624
+00:42:54,000 --> 00:42:56,000
+Yeah I am in intermediate and advanced.
+
+625
+00:42:57,000 --> 00:42:59,000
+If you scroll down your starting point will be M2.
+
+626
+00:42:59,000 --> 00:43:07,000
+That will be the starting point but let's say if you want to learn if you know a programming language fine if you want to revise something on Java or Python we even train you on there.
+
+627
+00:43:08,000 --> 00:43:11,000
+But let's say you are comfortable with whatever language C++ you can continue with that.
+
+628
+00:43:12,000 --> 00:43:15,000
+We will start from M2 where we will make you learn DSA from scratch.
+
+629
+00:43:16,000 --> 00:43:21,000
+The reason is why you can opt to go into advanced but I would not prefer I recommend you to go in advanced.
+
+630
+00:43:22,000 --> 00:43:26,000
+Because over there if things started getting more advanced start going over your head.
+
+631
+00:43:26,000 --> 00:43:32,000
+That is the reason we start from intermediate and advanced for you because whatever DSA that you have ever learned you will start remembering them a lot.
+
+632
+00:43:33,000 --> 00:43:35,000
+That okay yeah I remember something like this I have worked in my past.
+
+633
+00:43:36,000 --> 00:43:38,000
+Then we work in advanced DSA for every topic.
+
+634
+00:43:39,000 --> 00:43:43,000
+You can see time complexity, variance, bit manipulation, recursion, sorting, techniques, each and every single thing.
+
+635
+00:43:44,000 --> 00:43:48,000
+Dining, programming, graphs, creeps, trees, each and every single topic of DSA that gets covered up.
+
+636
+00:43:49,000 --> 00:43:51,000
+And these things also you will learn with practical experience.
+
+637
+00:43:52,000 --> 00:43:53,000
+That where would you apply them in the real world.
+
+638
+00:43:53,000 --> 00:43:54,000
+Where language is actually being used.
+
+639
+00:43:55,000 --> 00:43:58,000
+You would work on a project where you will work on Uber like what are the DSA techniques that Uber uses in search price.
+
+640
+00:43:59,000 --> 00:44:00,000
+So you will work on these.
+
+641
+00:44:01,000 --> 00:44:02,000
+Then you will learn SQL.
+
+642
+00:44:03,000 --> 00:44:04,000
+Then you will learn low level design.
+
+643
+00:44:05,000 --> 00:44:06,000
+And then you can see low level design every single thing.
+
+644
+00:44:07,000 --> 00:44:10,000
+Old order principles, UML diagram, schema design, each and every single thing.
+
+645
+00:44:11,000 --> 00:44:14,000
+Then you work on a full stack project where you will work on HTML, CSS, each and every single thing.
+
+646
+00:44:15,000 --> 00:44:16,000
+Over there.
+
+647
+00:44:17,000 --> 00:44:20,000
+Then you again work on high level design like caching, caching, cap theorem, design, etc.
+
+648
+00:44:20,000 --> 00:44:23,000
+And then you would choose even other projects that you can work on back end or full stack.
+
+649
+00:44:24,000 --> 00:44:26,000
+Where you would be working on end to end, spring, springboard, high, one end, every single thing.
+
+650
+00:44:27,000 --> 00:44:28,000
+There are more topics.
+
+651
+00:44:29,000 --> 00:44:31,000
+Just to show you in Excel, we have mentioned you were there.
+
+652
+00:44:32,000 --> 00:44:34,000
+But you even work on Docker, Scubility, AWS.
+
+653
+00:44:35,000 --> 00:44:36,000
+Because deployment is mentioned over there.
+
+654
+00:44:37,000 --> 00:44:38,000
+Deployment.
+
+655
+00:44:39,000 --> 00:44:40,000
+If you have seen the back end project, there is mentioned deployment.
+
+656
+00:44:41,000 --> 00:44:42,000
+M6.
+
+657
+00:44:43,000 --> 00:44:44,000
+M6.
+
+658
+00:44:45,000 --> 00:44:46,000
+M6.
+
+659
+00:44:47,000 --> 00:44:48,000
+M6.
+
+660
+00:44:48,000 --> 00:44:49,000
+Yes.
+
+661
+00:44:50,000 --> 00:44:51,000
+M7 or M8 you will be able to see.
+
+662
+00:44:52,000 --> 00:44:53,000
+We work with you on deployment.
+
+663
+00:44:54,000 --> 00:44:55,000
+Over there you work on AWS cloud technologies.
+
+664
+00:44:56,000 --> 00:44:57,000
+You work like AWS.
+
+665
+00:44:58,000 --> 00:44:59,000
+You would be deploying them.
+
+666
+00:45:00,000 --> 00:45:01,000
+You would be working on Docker and Scubility.
+
+667
+00:45:02,000 --> 00:45:03,000
+These are the things that you will learn.
+
+668
+00:45:04,000 --> 00:45:05,000
+You could be leaving one or work on React, Redux, MongoDB, Express, ES, Node.js.
+
+669
+00:45:06,000 --> 00:45:07,000
+You can choose.
+
+670
+00:45:08,000 --> 00:45:11,000
+By M8 you would have learned so many things that you would have built so many projects
+
+671
+00:45:12,000 --> 00:45:13,000
+that all this project is actually built on.
+
+672
+00:45:14,000 --> 00:45:15,000
+You can even work on React, Redux, MongoDB, Express, ES, Node.js.
+
+673
+00:45:16,000 --> 00:45:17,000
+You can choose.
+
+674
+00:45:18,000 --> 00:45:19,000
+You can choose.
+
+675
+00:45:20,000 --> 00:45:21,000
+As I told you, you will be there on cloud.
+
+676
+00:45:22,000 --> 00:45:23,000
+The company can go and see what you have done.
+
+677
+00:45:24,000 --> 00:45:25,000
+You would have code written on GitHub as well.
+
+678
+00:45:26,000 --> 00:45:27,000
+That company wants to see how you have written code.
+
+679
+00:45:28,000 --> 00:45:30,000
+For an example, you will work on a project where you will design splitwise.
+
+680
+00:45:31,000 --> 00:45:32,000
+You will design bookmize show.
+
+681
+00:45:33,000 --> 00:45:34,000
+These are the kind of work that you will work around.
+
+682
+00:45:35,000 --> 00:45:36,000
+So live projects.
+
+683
+00:45:37,000 --> 00:45:38,000
+Yes, these are live projects.
+
+684
+00:45:39,000 --> 00:45:40,000
+These are live projects.
+
+685
+00:45:41,000 --> 00:45:42,000
+These are not like you get to work projects separately when you are alone.
+
+686
+00:45:43,000 --> 00:45:44,000
+These are all live and real-time projects.
+
+687
+00:45:45,000 --> 00:45:46,000
+Now once you are done with that, then we work with you.
+
+688
+00:45:46,000 --> 00:45:47,000
+We do not say bye-bye.
+
+689
+00:45:48,000 --> 00:45:50,000
+If you want to learn something more, then you can learn DSL for Compatible Programming.
+
+690
+00:45:51,000 --> 00:45:54,000
+Whether you want to learn product management for engineers, you can learn that.
+
+691
+00:45:55,000 --> 00:45:57,000
+Or maybe the best thing that you can go and learn is data engineering
+
+692
+00:45:58,000 --> 00:46:00,000
+where you work on cloud technologies, which is very, very good.
+
+693
+00:46:01,000 --> 00:46:03,000
+So that's how the curriculum net goes.
+
+694
+00:46:08,000 --> 00:46:10,000
+What is this last one? Data engineering.
+
+695
+00:46:11,000 --> 00:46:12,000
+Data engineering.
+
+696
+00:46:13,000 --> 00:46:15,000
+In data engineering, we cover a few topics.
+
+697
+00:46:16,000 --> 00:46:19,000
+If somebody wants to understand certain topics of data engineering,
+
+698
+00:46:20,000 --> 00:46:22,000
+maybe in their own work, their work is related to what cloud technologies,
+
+699
+00:46:23,000 --> 00:46:26,000
+because in data engineering, we have cloud technologies, C-tel, PIPEN, big data, data warehousing.
+
+700
+00:46:27,000 --> 00:46:30,000
+If you want to learn something like this, you can even choose to learn this.
+
+701
+00:46:32,000 --> 00:46:34,000
+So these are additional things that you get to learn.
+
+702
+00:46:37,000 --> 00:46:38,000
+How did you find the curriculum, by the way?
+
+703
+00:46:39,000 --> 00:46:41,000
+The curriculum is good, actually.
+
+704
+00:46:42,000 --> 00:46:45,000
+There are pretty much things that are in detail.
+
+705
+00:46:46,000 --> 00:46:48,000
+Which I'm not telling you, because when you will see that on the dashboard,
+
+706
+00:46:49,000 --> 00:46:52,000
+then you will be able to see, oh, these are the projects that you guys will even work upon.
+
+707
+00:46:53,000 --> 00:46:54,000
+Huge, huge projects that you work.
+
+708
+00:46:56,000 --> 00:46:58,000
+And there are many other things that you will learn separately as well.
+
+709
+00:46:59,000 --> 00:47:02,000
+Like say you will learn upon machine learning in between separate and master classes.
+
+710
+00:47:03,000 --> 00:47:06,000
+You will be learning certain topics on how to crack interviews of certain companies.
+
+711
+00:47:07,000 --> 00:47:09,000
+That will happen separately, apart from this learning that will keep going on.
+
+712
+00:47:10,000 --> 00:47:12,000
+The mentor session will happen separately as well, apart from this stuff.
+
+713
+00:47:12,000 --> 00:47:14,000
+Where you're going to talk about your mentor related to your career advice,
+
+714
+00:47:15,000 --> 00:47:16,000
+hoping on the course.
+
+715
+00:47:17,000 --> 00:47:18,000
+Maybe with your next career choice you can talk to your mentor.
+
+716
+00:47:19,000 --> 00:47:20,000
+How to negotiate with it.
+
+717
+00:47:21,000 --> 00:47:23,000
+Do I have any assessments, tests for this?
+
+718
+00:47:24,000 --> 00:47:25,000
+Yes, look at every level.
+
+719
+00:47:26,000 --> 00:47:27,000
+After every session you will get certain things to practice.
+
+720
+00:47:28,000 --> 00:47:29,000
+Where you would apply them what you have learned in the session.
+
+721
+00:47:30,000 --> 00:47:31,000
+Okay, okay.
+
+722
+00:47:33,000 --> 00:47:36,000
+It's not that we will just do the session and we say bye bye and we'll see you in the next session.
+
+723
+00:47:37,000 --> 00:47:38,000
+You get to practice that, what you have learned.
+
+724
+00:47:39,000 --> 00:47:40,000
+You get to make mistakes.
+
+725
+00:47:40,000 --> 00:47:41,000
+You get to learn from that.
+
+726
+00:47:42,000 --> 00:47:45,000
+Again, there are a lot of things that I can talk about but I don't want to rush.
+
+727
+00:47:46,000 --> 00:47:47,000
+I want to see where exactly are you right now.
+
+728
+00:47:48,000 --> 00:47:51,000
+That being the first thing of all I recommend you Teja, I really want you to take up the test.
+
+729
+00:47:52,000 --> 00:47:56,000
+It's a 13 minute of test that we take at Scalar to understand where are you right now.
+
+730
+00:47:57,000 --> 00:48:00,000
+And there's no reason for you to use a laptop or camera to be turned on, nothing.
+
+731
+00:48:01,000 --> 00:48:03,000
+Even if you're comfortable you can use your phone to take up the test.
+
+732
+00:48:04,000 --> 00:48:06,000
+Why? Because there is 16, one 6 MCQ question.
+
+733
+00:48:07,000 --> 00:48:08,000
+That's it.
+
+734
+00:48:08,000 --> 00:48:09,000
+16, one 6.
+
+735
+00:48:10,000 --> 00:48:11,000
+One 6 MCQ questions.
+
+736
+00:48:12,000 --> 00:48:13,000
+Nothing that you have to prepare.
+
+737
+00:48:14,000 --> 00:48:15,000
+Because we want to know the real you.
+
+738
+00:48:16,000 --> 00:48:19,000
+We do not want you to prepare and score really really well because that will help us.
+
+739
+00:48:20,000 --> 00:48:21,000
+That will make us understand that you know things before.
+
+740
+00:48:22,000 --> 00:48:23,000
+How do you want to know the real you?
+
+741
+00:48:24,000 --> 00:48:25,000
+That where are you?
+
+742
+00:48:26,000 --> 00:48:27,000
+If today you want to improve yourself, how much you have to improve yourself?
+
+743
+00:48:28,000 --> 00:48:30,000
+Because then your mentor will see that where do you stand?
+
+744
+00:48:31,000 --> 00:48:32,000
+How much he has to make an effort with you?
+
+745
+00:48:33,000 --> 00:48:34,000
+What is the kind of guidance I need to show you at fire experience?
+
+746
+00:48:35,000 --> 00:48:36,000
+So that you can improve yourself.
+
+747
+00:48:36,000 --> 00:48:41,000
+So that he can make you ready when you become 6, 7 years of experience as well in the future.
+
+748
+00:48:42,000 --> 00:48:43,000
+So you will be trained with that level.
+
+749
+00:48:44,000 --> 00:48:47,000
+So that's the reason we want to see where you are right now and from there we will be able to guide you.
+
+750
+00:48:48,000 --> 00:48:49,000
+Hmm.
+
+751
+00:48:50,000 --> 00:48:51,000
+Okay.
+
+752
+00:48:52,000 --> 00:48:53,000
+Questions, questions, questions.
+
+753
+00:48:54,000 --> 00:48:55,000
+Okay.
+
+754
+00:48:56,000 --> 00:48:58,000
+You want, you want me to have any queries to you?
+
+755
+00:48:59,000 --> 00:49:00,000
+Yeah, yeah. Do you have any questions so far?
+
+756
+00:49:01,000 --> 00:49:02,000
+Okay.
+
+757
+00:49:03,000 --> 00:49:05,000
+Right now actually I'm just like only.
+
+758
+00:49:06,000 --> 00:49:07,000
+Thinking about the fees only.
+
+759
+00:49:08,000 --> 00:49:09,000
+Three lakhs.
+
+760
+00:49:10,000 --> 00:49:14,000
+See I know for a fact that the minute that you heard three lakhs you got scared.
+
+761
+00:49:15,000 --> 00:49:16,000
+Yeah.
+
+762
+00:49:17,000 --> 00:49:22,000
+Because already I was actually looking for the upgrade made also since 6 months.
+
+763
+00:49:23,000 --> 00:49:27,000
+But I have never approached Scalar but I have approached some other companies.
+
+764
+00:49:28,000 --> 00:49:31,000
+But there, there the curriculum was different.
+
+765
+00:49:32,000 --> 00:49:33,000
+They were offering some masters degree.
+
+766
+00:49:33,000 --> 00:49:34,000
+I know, I know.
+
+767
+00:49:35,000 --> 00:49:36,000
+Because I know what exactly is going in the industry.
+
+768
+00:49:37,000 --> 00:49:40,000
+You name any institution where it could be up grad, simply long, late learning.
+
+769
+00:49:41,000 --> 00:49:42,000
+I can tell you in telepad.
+
+770
+00:49:43,000 --> 00:49:44,000
+It is where they are never teaching you.
+
+771
+00:49:45,000 --> 00:49:47,000
+They are going to get you associated with a university and the university will teach you.
+
+772
+00:49:48,000 --> 00:49:50,000
+It's like a certification or degree that you get and say bye bye after that.
+
+773
+00:49:51,000 --> 00:49:54,000
+Correct. So that's that kind of opportunities I was getting there.
+
+774
+00:49:55,000 --> 00:49:57,000
+Yes. That's the reason Scalar, again I told you.
+
+775
+00:49:58,000 --> 00:50:02,000
+That's the reason I part the conversation with you that Scalar is not a course which you are seeing on the internet.
+
+776
+00:50:03,000 --> 00:50:06,000
+Scalar is a training Scalar has its own curriculum and Scalar will train you on its own.
+
+777
+00:50:07,000 --> 00:50:09,000
+Everything will be supported from Scalar.
+
+778
+00:50:10,000 --> 00:50:12,000
+And you only focus on developers. Very bad.
+
+779
+00:50:13,000 --> 00:50:17,000
+We are not going into any different segment, marketing, finance, HR, like for the platform.
+
+780
+00:50:18,000 --> 00:50:19,000
+We only want to focus on developers.
+
+781
+00:50:20,000 --> 00:50:24,000
+But also I can see in the curriculum which you have sent, the sheet.
+
+782
+00:50:25,000 --> 00:50:28,000
+So there it is focusing on backend and frontend developers.
+
+783
+00:50:29,000 --> 00:50:31,000
+So it is related to some full stack developers.
+
+784
+00:50:31,000 --> 00:50:34,000
+Yes. There is no backend, full stack. People can also that.
+
+785
+00:50:35,000 --> 00:50:39,000
+Yeah. Okay. So because my domain till now is very different from that.
+
+786
+00:50:40,000 --> 00:50:43,000
+I worked on C++ and it was into networking totally.
+
+787
+00:50:44,000 --> 00:50:45,000
+Right.
+
+788
+00:50:46,000 --> 00:50:52,000
+So I am just thinking like how would it suit for me and will I really be getting those kind of opportunities tomorrow.
+
+789
+00:50:53,000 --> 00:50:57,000
+Have you heard about a QA tester? QA engineering?
+
+790
+00:50:58,000 --> 00:50:59,000
+A tester?
+
+791
+00:50:59,000 --> 00:51:00,000
+Yeah, a quality analyst.
+
+792
+00:51:01,000 --> 00:51:04,000
+I am sure you have heard about DevOps engineer, SRE engineer.
+
+793
+00:51:05,000 --> 00:51:08,000
+DevOps I heard it. But DevOps is very different from mine.
+
+794
+00:51:09,000 --> 00:51:10,000
+I am a core engineer.
+
+795
+00:51:11,000 --> 00:51:13,000
+I am sure you have heard about DevOps. You have heard about SRE.
+
+796
+00:51:14,000 --> 00:51:16,000
+You have heard about data engineering which you have seen in the curriculum.
+
+797
+00:51:17,000 --> 00:51:22,000
+Today when you want to work in any good company, even for an example I will give you quality analyst.
+
+798
+00:51:23,000 --> 00:51:28,000
+A company named Qualcomm will pay for quality analyst 18 LP for one year of experience.
+
+799
+00:51:29,000 --> 00:51:34,000
+A company named Amazon instead of quality analyst they use SDET as debt.
+
+800
+00:51:35,000 --> 00:51:39,000
+But when they will hire you they will always start the interview process on DS and STEM design.
+
+801
+00:51:40,000 --> 00:51:41,000
+That's how they go.
+
+802
+00:51:42,000 --> 00:51:45,000
+That's the reason the curriculum has been designed in such a way that tomorrow you go and apply for any other roles in future.
+
+803
+00:51:46,000 --> 00:51:48,000
+You will still be able to crack because these are the things that will be required.
+
+804
+00:51:49,000 --> 00:51:53,000
+If you see that is the reason the curriculum even do deployment. Do we do technologies.
+
+805
+00:51:54,000 --> 00:51:55,000
+We work with you in every single day.
+
+806
+00:51:56,000 --> 00:51:58,000
+There would be a time where you would even want to learn dotnet.
+
+807
+00:51:59,000 --> 00:52:00,000
+So these are the things that will happen.
+
+808
+00:52:01,000 --> 00:52:07,000
+So the learning will go in one path. Helping you to crack interviews will happen separately as well because your mentor will be helping out for those.
+
+809
+00:52:08,000 --> 00:52:11,000
+So the mentor is going to make sure that you have wide opportunities.
+
+810
+00:52:12,000 --> 00:52:14,000
+It's not that you are just limiting yourself with few companies.
+
+811
+00:52:15,000 --> 00:52:19,000
+He want to make sure that you have a very good number of opportunities and you get ready for those.
+
+812
+00:52:21,000 --> 00:52:25,000
+Today what you know and along with this you know this thing as well.
+
+813
+00:52:25,000 --> 00:52:29,000
+Your chances of going and reaching out to more companies is even more and more.
+
+814
+00:52:30,000 --> 00:52:34,000
+Yeah that's yeah extra things adding up will benefit me. I understand that.
+
+815
+00:52:35,000 --> 00:52:39,000
+But right now in Nokia I am into R&D development.
+
+816
+00:52:40,000 --> 00:52:44,000
+So I don't want to go on see if I wanted to go to any other product companies.
+
+817
+00:52:45,000 --> 00:52:47,000
+Product based companies. I want to go as a core engineer only.
+
+818
+00:52:48,000 --> 00:52:49,000
+Yeah.
+
+819
+00:52:50,000 --> 00:52:52,000
+But not as a tester or a developer.
+
+820
+00:52:52,000 --> 00:52:55,000
+No no no. We don't want to focus on that. The curriculum is for developers.
+
+821
+00:52:56,000 --> 00:52:59,000
+The curriculum is entirely for developers. End to end.
+
+822
+00:53:00,000 --> 00:53:04,000
+This back and front is an option that we choose whether you want to pursue your career over there or not.
+
+823
+00:53:05,000 --> 00:53:12,000
+Today with P++ you know and you could just be very very good in DSM system design from Scala and you go for interview you will still be able to crack it up.
+
+824
+00:53:13,000 --> 00:53:16,000
+It's again your call whether you want to know these technologies as well in the end or not.
+
+825
+00:53:16,000 --> 00:53:24,000
+So what do you think will Scala can land up me in a very good package at least after.
+
+826
+00:53:25,000 --> 00:53:28,000
+See it always depend upon the hard work that you are putting. I am going to be honest.
+
+827
+00:53:29,000 --> 00:53:30,000
+That's exactly correct.
+
+828
+00:53:31,000 --> 00:53:34,000
+If you are putting up your hard work I am telling you is 5 year experience 30 LPA is nothing short.
+
+829
+00:53:35,000 --> 00:53:36,000
+What I have seen. Honestly.
+
+830
+00:53:37,000 --> 00:53:41,000
+30 LPA is the least that a person will get around 5 year experience. Very easy.
+
+831
+00:53:41,000 --> 00:53:47,000
+Because I know for a fact there is a guy named Ganesh Gudda. He joined Scala when he had 3 year of experience.
+
+832
+00:53:48,000 --> 00:53:52,000
+So he was in Infosys earning 4.5 LPA. 3 year of experience guy.
+
+833
+00:53:53,000 --> 00:53:57,000
+He joined Scala right now in Amazon at 29 LPA when he got placed from Scala.
+
+834
+00:53:58,000 --> 00:53:59,000
+It was 1 year back somewhere.
+
+835
+00:54:00,000 --> 00:54:07,000
+So imagine when he is right now working still in Amazon the kind of height that you have got would be making him reaching in a bracket with 4, 5 year experience.
+
+836
+00:54:07,000 --> 00:54:10,000
+So if you come back at 35 LPA more. Very easy.
+
+837
+00:54:11,000 --> 00:54:16,000
+The only thing that we care is about the skill set because we know if we train you that well you will crack anyways.
+
+838
+00:54:17,000 --> 00:54:18,000
+We know the success is hard.
+
+839
+00:54:19,000 --> 00:54:21,000
+I understand it. So actually if I want to say you.
+
+840
+00:54:22,000 --> 00:54:27,000
+So after my B.Tech now I was not much into programming and all.
+
+841
+00:54:28,000 --> 00:54:31,000
+I was very I was not that up to the mark in the programming.
+
+842
+00:54:32,000 --> 00:54:35,000
+So I have taken some course only of 6 months at that time.
+
+843
+00:54:35,000 --> 00:54:40,000
+Which is of embedded C. If you have been in Vector India Institute.
+
+844
+00:54:41,000 --> 00:54:42,000
+Right. Right. Right.
+
+845
+00:54:43,000 --> 00:54:44,000
+So I have taken a course there.
+
+846
+00:54:45,000 --> 00:54:47,000
+So after that I got placed into IIT Hyderabad.
+
+847
+00:54:48,000 --> 00:54:50,000
+So I have upscaled my skills there.
+
+848
+00:54:51,000 --> 00:54:52,000
+So it helped me a lot.
+
+849
+00:54:53,000 --> 00:54:58,000
+So that is the reason I am trying to like think about this.
+
+850
+00:54:59,000 --> 00:55:00,000
+First of all what I want.
+
+851
+00:55:01,000 --> 00:55:02,000
+First of all I want you to take up the test first.
+
+852
+00:55:02,000 --> 00:55:03,000
+Let me see where you are right now.
+
+853
+00:55:04,000 --> 00:55:05,000
+Let me see your data as well.
+
+854
+00:55:06,000 --> 00:55:08,000
+If you are okay even I will help you out to connect with people.
+
+855
+00:55:09,000 --> 00:55:15,000
+If you are not confident by yourself I will help you out to connect with people who are already working and that kind of level at your experience or even more experience than you.
+
+856
+00:55:16,000 --> 00:55:20,000
+When you speak with them you can even ask them and you can tell them that this is what I have been doing in my career.
+
+857
+00:55:21,000 --> 00:55:22,000
+Do you think if I learn this will I be able to reach there?
+
+858
+00:55:23,000 --> 00:55:24,000
+You will be able to verify with them as well.
+
+859
+00:55:25,000 --> 00:55:28,000
+I will make you speak with senior software developer of Google.
+
+860
+00:55:29,000 --> 00:55:30,000
+I do not mind.
+
+861
+00:55:30,000 --> 00:55:31,000
+You will speak with them end to end.
+
+862
+00:55:32,000 --> 00:55:33,000
+Because we have more networking than you.
+
+863
+00:55:34,000 --> 00:55:35,000
+He knows every company's people from all the other.
+
+864
+00:55:36,000 --> 00:55:38,000
+So he will be able to give you a realistic approach that where you could be.
+
+865
+00:55:39,000 --> 00:55:40,000
+Where is the kind of package that you will learn?
+
+866
+00:55:41,000 --> 00:55:42,000
+What kind of a growth that you will have?
+
+867
+00:55:43,000 --> 00:55:44,000
+When you speak with him you will even get a clarity.
+
+868
+00:55:45,000 --> 00:55:47,000
+So that clarity I can give it to you where you will have that.
+
+869
+00:55:48,000 --> 00:55:50,000
+I will be sitting with you on your dashboard at Scalar.
+
+870
+00:55:51,000 --> 00:55:55,000
+Like I will be sitting with you on a Google Meet and I will show you every single thing about Scalar one on one.
+
+871
+00:55:56,000 --> 00:55:58,000
+At your experience what people are asking you.
+
+872
+00:55:58,000 --> 00:55:59,000
+At your experience what people have gone into with the company.
+
+873
+00:56:00,000 --> 00:56:01,000
+What kind of a position that they are.
+
+874
+00:56:02,000 --> 00:56:03,000
+How much pay that they are right now.
+
+875
+00:56:04,000 --> 00:56:05,000
+I will even show you those results.
+
+876
+00:56:06,000 --> 00:56:07,000
+I do not mind.
+
+877
+00:56:08,000 --> 00:56:09,000
+You will have every single clarity.
+
+878
+00:56:10,000 --> 00:56:11,000
+Let me write the test first.
+
+879
+00:56:12,000 --> 00:56:13,000
+Yeah that is the first thing.
+
+880
+00:56:14,000 --> 00:56:15,000
+I want to see where you are right now.
+
+881
+00:56:16,000 --> 00:56:19,000
+First of all when I see this report then I will be able to show it to people that this person will be right for it.
+
+882
+00:56:20,000 --> 00:56:21,000
+Because his expectation is that he wants to reach at that level.
+
+883
+00:56:22,000 --> 00:56:24,000
+If he is training now he will be able to reach at that level.
+
+884
+00:56:25,000 --> 00:56:26,000
+I will get those clarity as well.
+
+885
+00:56:26,000 --> 00:56:27,000
+Which is very very important.
+
+886
+00:56:28,000 --> 00:56:29,000
+Because it is your hard earned money.
+
+887
+00:56:30,000 --> 00:56:31,000
+It is not that you are doing any illegal work to earn this money.
+
+888
+00:56:32,000 --> 00:56:33,000
+You are working very hard to earn this.
+
+889
+00:56:34,000 --> 00:56:35,000
+I do not want to go for a waste.
+
+890
+00:56:36,000 --> 00:56:37,000
+If this thing cannot help you out I will even tell you that this thing cannot help you out.
+
+891
+00:56:38,000 --> 00:56:39,000
+Your expectations.
+
+892
+00:56:40,000 --> 00:56:41,000
+Simple.
+
+893
+00:56:42,000 --> 00:56:45,000
+If I am not wrong the email id that you have registered at Scalar.
+
+894
+00:56:46,000 --> 00:56:52,000
+It is somewhere named j.bargov.teja.reg email.com.
+
+895
+00:56:53,000 --> 00:56:54,000
+Yes.
+
+896
+00:56:54,000 --> 00:56:55,000
+Okay.
+
+897
+00:56:56,000 --> 00:56:57,000
+And what time you feel that you can write the test.
+
+898
+00:56:58,000 --> 00:56:59,000
+Just for 30 minutes using your phone even if you want.
+
+899
+00:57:00,000 --> 00:57:01,000
+I will write it today night.
+
+900
+00:57:02,000 --> 00:57:03,000
+Today what time?
+
+901
+00:57:04,000 --> 00:57:07,000
+May be around 9.30.
+
+902
+00:57:08,000 --> 00:57:09,000
+9.30.
+
+903
+00:57:10,000 --> 00:57:13,000
+Can that be little earlier because then I will be able to see your report a little earlier.
+
+904
+00:57:14,000 --> 00:57:15,000
+Is that possible?
+
+905
+00:57:16,000 --> 00:57:17,000
+I will try it because right now I am outside.
+
+906
+00:57:18,000 --> 00:57:19,000
+So I need to go.
+
+907
+00:57:20,000 --> 00:57:21,000
+But I am sure before.
+
+908
+00:57:21,000 --> 00:57:23,000
+I want you to enjoy your time with your family.
+
+909
+00:57:24,000 --> 00:57:25,000
+Weekend is very very important.
+
+910
+00:57:26,000 --> 00:57:27,000
+But I am sure you will be able to write it off before 10 pm.
+
+911
+00:57:28,000 --> 00:57:29,000
+You will be able to wrap it off.
+
+912
+00:57:30,000 --> 00:57:32,000
+Before 10 or 11 you can write.
+
+913
+00:57:33,000 --> 00:57:34,000
+Yes.
+
+914
+00:57:35,000 --> 00:57:36,000
+Okay.
+
+915
+00:57:37,000 --> 00:57:39,000
+The test link will be coming up in your email id in the next 10 minutes.
+
+916
+00:57:40,000 --> 00:57:42,000
+The test link will say that it is valid till 24 hours.
+
+917
+00:57:43,000 --> 00:57:44,000
+But it is a default email.
+
+918
+00:57:45,000 --> 00:57:46,000
+But the test will automatically get expired at 11 pm.
+
+919
+00:57:47,000 --> 00:57:48,000
+Post which you will be able to take up the test.
+
+920
+00:57:49,000 --> 00:57:50,000
+Oh is it.
+
+921
+00:57:51,000 --> 00:57:55,000
+So you will be able to take it from this minute anytime before 11 pm you will be able to manage.
+
+922
+00:57:56,000 --> 00:57:57,000
+Okay fine.
+
+923
+00:57:58,000 --> 00:57:59,000
+I will manage.
+
+924
+00:58:00,000 --> 00:58:01,000
+Only 30 minutes.
+
+925
+00:58:02,000 --> 00:58:03,000
+If you want you can use your laptop.
+
+926
+00:58:04,000 --> 00:58:05,000
+May be you want to use your phone.
+
+927
+00:58:06,000 --> 00:58:07,000
+You can use that all of these.
+
+928
+00:58:08,000 --> 00:58:09,000
+Thank you so much.
+
+929
+00:58:10,000 --> 00:58:11,000
+And post this link tomorrow and we will have a better discussion from there.
+
+930
+00:58:12,000 --> 00:58:13,000
+Okay.
+
+931
+00:58:14,000 --> 00:58:15,000
+Thank you.
+

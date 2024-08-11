@@ -1,0 +1,1588 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello.
+
+2
+00:00:01,000 --> 00:00:02,000
+Hey, hi.
+
+3
+00:00:02,000 --> 00:00:05,000
+Am I speaking with Mr. Kadir?
+
+4
+00:00:05,000 --> 00:00:06,000
+Yeah, speaking.
+
+5
+00:00:06,000 --> 00:00:08,000
+Hey, Monica Desai from Scalar.
+
+6
+00:00:08,000 --> 00:00:09,000
+How are you?
+
+7
+00:00:09,000 --> 00:00:10,000
+Hi.
+
+8
+00:00:10,000 --> 00:00:11,000
+Yeah, yeah, yeah.
+
+9
+00:00:11,000 --> 00:00:12,000
+Tell me.
+
+10
+00:00:12,000 --> 00:00:13,000
+I'm good.
+
+11
+00:00:13,000 --> 00:00:14,000
+How are you?
+
+12
+00:00:14,000 --> 00:00:15,000
+I'm good.
+
+13
+00:00:15,000 --> 00:00:16,000
+Thank you so much for asking.
+
+14
+00:00:16,000 --> 00:00:19,600
+After you've been watching few of the articles of Scalar and submitted one form as well that
+
+15
+00:00:19,600 --> 00:00:22,000
+you are planning for a transition and...
+
+16
+00:00:22,000 --> 00:00:23,000
+Correct, yeah.
+
+17
+00:00:23,000 --> 00:00:24,000
+Yeah.
+
+18
+00:00:24,000 --> 00:00:26,000
+So basically, let me introduce myself first.
+
+19
+00:00:26,000 --> 00:00:27,000
+Right.
+
+20
+00:00:27,000 --> 00:00:29,000
+So I'm the community leader of Scalar Academy.
+
+21
+00:00:29,000 --> 00:00:32,000
+This is someone having more than 15 years of experience.
+
+22
+00:00:32,000 --> 00:00:36,000
+So I'm the person who take the final interview before giving them the admission from Scalar.
+
+23
+00:00:36,000 --> 00:00:37,000
+Okay.
+
+24
+00:00:37,000 --> 00:00:38,000
+Oh, okay.
+
+25
+00:00:38,000 --> 00:00:39,000
+Yeah.
+
+26
+00:00:39,000 --> 00:00:42,000
+So I think you must be knowing it that there is no direct admissions as well.
+
+27
+00:00:42,000 --> 00:00:43,000
+Right.
+
+28
+00:00:43,000 --> 00:00:49,000
+So initially, you will be understanding that whether we will be able to match your expectations
+
+29
+00:00:49,000 --> 00:00:50,000
+or not.
+
+30
+00:00:50,000 --> 00:00:51,000
+Okay.
+
+31
+00:00:51,000 --> 00:00:56,000
+In life academy, of course, because of the tie-ups of companies, we cannot just directly,
+
+32
+00:00:56,000 --> 00:00:57,000
+you know, take the profiles.
+
+33
+00:00:57,000 --> 00:00:58,000
+Correct.
+
+34
+00:00:58,000 --> 00:00:59,000
+Okay.
+
+35
+00:00:59,000 --> 00:01:00,000
+We need to give them a roadmap first.
+
+36
+00:01:00,000 --> 00:01:01,000
+Right.
+
+37
+00:01:01,000 --> 00:01:02,000
+Okay.
+
+38
+00:01:02,000 --> 00:01:04,000
+So I would like to know more about yourself.
+
+39
+00:01:04,000 --> 00:01:05,000
+Okay.
+
+40
+00:01:05,000 --> 00:01:08,000
+That what you do, how many years of experience exactly you carry.
+
+41
+00:01:08,000 --> 00:01:09,000
+Right.
+
+42
+00:01:09,000 --> 00:01:11,000
+So please help me understand those details.
+
+43
+00:01:11,000 --> 00:01:12,000
+Yeah.
+
+44
+00:01:12,000 --> 00:01:13,000
+Okay.
+
+45
+00:01:13,000 --> 00:01:14,000
+Sure.
+
+46
+00:01:14,000 --> 00:01:15,000
+Yeah.
+
+47
+00:01:15,000 --> 00:01:16,000
+Okay.
+
+48
+00:01:16,000 --> 00:01:17,000
+So my name is Gulam.
+
+49
+00:01:17,000 --> 00:01:22,000
+So I am currently working with one of the big fours as a data engineer in Azure.
+
+50
+00:01:22,000 --> 00:01:23,000
+Okay.
+
+51
+00:01:24,000 --> 00:01:31,000
+It's almost 11 years now I'm working in the IT industry.
+
+52
+00:01:31,000 --> 00:01:38,000
+And then it's around five years working on the data platform as well as cloud.
+
+53
+00:01:38,000 --> 00:01:39,000
+So, yeah.
+
+54
+00:01:39,000 --> 00:01:46,000
+So my, what I was looking for is, I actually wanted to transition over to the data science
+
+55
+00:01:46,000 --> 00:01:47,000
+side, right?
+
+56
+00:01:47,000 --> 00:01:49,000
+So data science, machine learning and AI.
+
+57
+00:01:49,000 --> 00:01:50,000
+Yeah.
+
+58
+00:01:50,000 --> 00:01:51,000
+Yeah.
+
+59
+00:01:51,000 --> 00:01:52,000
+So actually.
+
+60
+00:01:52,000 --> 00:01:53,000
+Transition for you.
+
+61
+00:01:53,000 --> 00:01:54,000
+Yeah.
+
+62
+00:01:54,000 --> 00:02:00,000
+Oh, actually, I started my career as a working in legacy systems.
+
+63
+00:02:00,000 --> 00:02:01,000
+Okay.
+
+64
+00:02:01,000 --> 00:02:05,000
+So I was actually I was in a company which actually had masses.
+
+65
+00:02:05,000 --> 00:02:09,000
+So I was forced to do something that didn't like, but I didn't have any options at that
+
+66
+00:02:09,000 --> 00:02:10,000
+time.
+
+67
+00:02:10,000 --> 00:02:16,000
+So almost for four to five years, then I transitioned towards big data and cloud.
+
+68
+00:02:16,000 --> 00:02:17,000
+Right.
+
+69
+00:02:17,000 --> 00:02:19,000
+And then I started working in it.
+
+70
+00:02:19,000 --> 00:02:23,000
+And now again, since the shift is on another side, right.
+
+71
+00:02:23,000 --> 00:02:32,000
+And even in our the leaders of our organization, they're also like telling us to learn and
+
+72
+00:02:32,000 --> 00:02:39,000
+move towards ML and AI, because now it's everything like the future is AI.
+
+73
+00:02:39,000 --> 00:02:40,000
+Right.
+
+74
+00:02:40,000 --> 00:02:43,000
+So like, it doesn't matter whatever you do.
+
+75
+00:02:43,000 --> 00:02:48,000
+AI will help in all your activities, whatever you're doing.
+
+76
+00:02:48,000 --> 00:02:50,000
+This is what the trend is now.
+
+77
+00:02:50,000 --> 00:02:51,000
+Right.
+
+78
+00:02:51,000 --> 00:02:54,000
+And I want to keep myself updated in that particular trend.
+
+79
+00:02:54,000 --> 00:02:56,000
+I don't want to fall back.
+
+80
+00:02:56,000 --> 00:02:57,000
+Right.
+
+81
+00:02:57,000 --> 00:02:59,000
+I know it's not an easy thing.
+
+82
+00:02:59,000 --> 00:03:01,000
+It might be challenging because you have your daily work.
+
+83
+00:03:01,000 --> 00:03:03,000
+You have your family commitments.
+
+84
+00:03:03,000 --> 00:03:04,000
+Right.
+
+85
+00:03:04,000 --> 00:03:10,000
+And again, in between that doing something new on top of that, it's a big commitment.
+
+86
+00:03:10,000 --> 00:03:15,000
+But still, I want to at least give it a try so that at later point of time, I have not
+
+87
+00:03:15,000 --> 00:03:18,000
+been blaming myself that, OK, I didn't even try.
+
+88
+00:03:18,000 --> 00:03:20,000
+Yes, yes, correct.
+
+89
+00:03:20,000 --> 00:03:21,000
+Fair enough.
+
+90
+00:03:21,000 --> 00:03:23,000
+A very good statement that you made.
+
+91
+00:03:23,000 --> 00:03:26,000
+But yes, I'll tell you one thing.
+
+92
+00:03:26,000 --> 00:03:33,000
+Right now, you will see in your company, only top candidates or top employees or few, let's
+
+93
+00:03:33,000 --> 00:03:39,000
+say even if there is 10 people in one domain, that only two people actually succeed.
+
+94
+00:03:39,000 --> 00:03:42,000
+But they always push their comfort zone.
+
+95
+00:03:42,000 --> 00:03:43,000
+That is the fact.
+
+96
+00:03:43,000 --> 00:03:44,000
+Right.
+
+97
+00:03:44,000 --> 00:03:48,000
+Even if I talk about myself, I'm just having three years of experience and right now in
+
+98
+00:03:48,000 --> 00:03:50,000
+the bracket of 30 above.
+
+99
+00:03:50,000 --> 00:03:52,000
+OK, OK, OK.
+
+100
+00:03:52,000 --> 00:03:54,000
+This is a very clear statement.
+
+101
+00:03:54,000 --> 00:03:55,000
+That is something that I can say.
+
+102
+00:03:55,000 --> 00:03:56,000
+Why?
+
+103
+00:03:56,000 --> 00:03:57,000
+Because I belong to commerce domain.
+
+104
+00:03:57,000 --> 00:03:58,000
+Then I shifted to IT.
+
+105
+00:03:58,000 --> 00:04:01,000
+So, of course, that was very challenging for me as well.
+
+106
+00:04:01,000 --> 00:04:06,000
+But if I if right now, also, if I stop upskilling, trust me, any junior will be happy to take
+
+107
+00:04:06,000 --> 00:04:08,000
+the package of 20 lakh and work on the same.
+
+108
+00:04:08,000 --> 00:04:09,000
+Correct, correct, correct.
+
+109
+00:04:09,000 --> 00:04:13,000
+So, being a research analyst, also, I'll suggest you only one thing.
+
+110
+00:04:13,000 --> 00:04:19,000
+Even if you are right now planning for upskilling first, understand what will be the requirement
+
+111
+00:04:19,000 --> 00:04:22,000
+that exactly that industry will be asking for.
+
+112
+00:04:22,000 --> 00:04:23,000
+Right.
+
+113
+00:04:23,000 --> 00:04:26,000
+Once you'll understand this, then yes, we are good to go.
+
+114
+00:04:26,000 --> 00:04:27,000
+Correct.
+
+115
+00:04:27,000 --> 00:04:29,000
+So, which company are working in right now?
+
+116
+00:04:29,000 --> 00:04:31,000
+Currently, I'm working for KPMG.
+
+117
+00:04:31,000 --> 00:04:32,000
+KPMG.
+
+118
+00:04:32,000 --> 00:04:33,000
+OK.
+
+119
+00:04:33,000 --> 00:04:37,000
+So, you must be knowing about Scalar Audit Report as well, right?
+
+120
+00:04:37,000 --> 00:04:38,000
+Yeah, yeah, I know.
+
+121
+00:04:38,000 --> 00:04:39,000
+Yes, yes.
+
+122
+00:04:39,000 --> 00:04:44,000
+So, it's right now the 97 percentage of placement success, where right now we are having overall
+
+123
+00:04:44,000 --> 00:04:46,000
+800 companies in tie up.
+
+124
+00:04:46,000 --> 00:04:49,000
+So, there is candidates who actually got placed in KPMG.
+
+125
+00:04:49,000 --> 00:04:52,000
+There is candidate who enrolled from KPMG.
+
+126
+00:04:52,000 --> 00:04:57,000
+So, again, if I talk about your transition, so, would like to know as you're working in
+
+127
+00:04:57,000 --> 00:04:59,000
+working as data engineer, right?
+
+128
+00:04:59,000 --> 00:05:00,000
+It's been so long.
+
+129
+00:05:00,000 --> 00:05:01,000
+Correct.
+
+130
+00:05:01,000 --> 00:05:04,000
+So, can you help me understand your hands on experience?
+
+131
+00:05:04,000 --> 00:05:06,000
+Yeah, sure.
+
+132
+00:05:06,000 --> 00:05:11,000
+So, if I tell you starting from starting, I have been working in mainframes.
+
+133
+00:05:11,000 --> 00:05:14,000
+I started my career with that for four to five years.
+
+134
+00:05:14,000 --> 00:05:22,000
+And then, again, I transitioned over to big data, working in Spark with Scalar.
+
+135
+00:05:22,000 --> 00:05:28,000
+And again, then I got an opportunity to work on Cloud in Azure, right?
+
+136
+00:05:28,000 --> 00:05:32,000
+So, again, it has been totally Azure big data, right?
+
+137
+00:05:32,000 --> 00:05:37,000
+So, it's like the data ecosystem of Azure along with Spark.
+
+138
+00:05:37,000 --> 00:05:43,000
+So, Spark, again, like due to some company policies for company no code policy, we are using more
+
+139
+00:05:43,000 --> 00:05:49,000
+tools of Azure data, like there is some tool called Azure Data Factory, which actually does all the
+
+140
+00:05:49,000 --> 00:05:53,000
+things for you which Spark can do without any code, right?
+
+141
+00:05:53,000 --> 00:05:55,000
+So, it's a drag and drop.
+
+142
+00:05:55,000 --> 00:05:59,000
+So, all those things because of that, I have been working in Cloud.
+
+143
+00:05:59,000 --> 00:06:00,000
+So, it's a drag and drop.
+
+144
+00:06:00,000 --> 00:06:05,000
+So, all those things because of that, from the last one or two years, you can say I have not been
+
+145
+00:06:05,000 --> 00:06:07,000
+using much of Spark.
+
+146
+00:06:07,000 --> 00:06:15,000
+But again, like it's the data again, we have a homegrown data platform which we are actually
+
+147
+00:06:15,000 --> 00:06:19,000
+building as well as we are maintaining that.
+
+148
+00:06:19,000 --> 00:06:21,000
+And yeah, so it's mostly SQL.
+
+149
+00:06:21,000 --> 00:06:24,000
+It's mostly Scalar.
+
+150
+00:06:24,000 --> 00:06:28,000
+SQL, if I ask you to scale yourself in SQL, how much will be scaling out of 10?
+
+151
+00:06:28,000 --> 00:06:30,000
+Out of 10, 8 definitely.
+
+152
+00:06:30,000 --> 00:06:31,000
+Very good.
+
+153
+00:06:31,000 --> 00:06:32,000
+Okay.
+
+154
+00:06:32,000 --> 00:06:36,000
+So, mainframe, one thing, MySQL, second thing.
+
+155
+00:06:36,000 --> 00:06:38,000
+And what else?
+
+156
+00:06:38,000 --> 00:06:40,000
+Not MySQL, SQL Server.
+
+157
+00:06:40,000 --> 00:06:41,000
+SQL Server.
+
+158
+00:06:41,000 --> 00:06:42,000
+Yeah.
+
+159
+00:06:42,000 --> 00:06:43,000
+And then again, Spark.
+
+160
+00:06:43,000 --> 00:06:47,000
+I do have a good knowledge of Spark with Scalar.
+
+161
+00:06:47,000 --> 00:06:48,000
+Yeah.
+
+162
+00:06:48,000 --> 00:06:50,000
+Not with Python, with Scalar.
+
+163
+00:06:50,000 --> 00:06:52,000
+Okay.
+
+164
+00:06:52,000 --> 00:06:56,000
+Fair enough.
+
+165
+00:06:56,000 --> 00:06:58,000
+What is the recent salary package?
+
+166
+00:06:58,000 --> 00:07:02,000
+It is fixed at 31.
+
+167
+00:07:02,000 --> 00:07:03,000
+Sorry?
+
+168
+00:07:03,000 --> 00:07:05,000
+31 is fixed.
+
+169
+00:07:05,000 --> 00:07:08,000
+31 LPA, right?
+
+170
+00:07:08,000 --> 00:07:09,000
+Yeah, yeah.
+
+171
+00:07:09,000 --> 00:07:10,000
+It's fixed.
+
+172
+00:07:10,000 --> 00:07:12,000
+Oh, great.
+
+173
+00:07:12,000 --> 00:07:13,000
+Okay.
+
+174
+00:07:13,000 --> 00:07:16,000
+So, now we can plan something back.
+
+175
+00:07:16,000 --> 00:07:17,000
+Okay.
+
+176
+00:07:17,000 --> 00:07:18,000
+Great, great.
+
+177
+00:07:18,000 --> 00:07:19,000
+Good to know that.
+
+178
+00:07:19,000 --> 00:07:21,000
+So, now first of all, understand one thing.
+
+179
+00:07:21,000 --> 00:07:24,000
+11-year experience, 31 LPA, of course.
+
+180
+00:07:24,000 --> 00:07:33,000
+There should not be, you know, any, I'll tell you one thing we can directly plan from here as a machine learning engineer as a first break up on your profile.
+
+181
+00:07:33,000 --> 00:07:38,000
+Second, I'll share the roadmap in the group as well with the program team people.
+
+182
+00:07:38,000 --> 00:07:41,000
+But now, I have few questions for you.
+
+183
+00:07:41,000 --> 00:07:42,000
+Okay.
+
+184
+00:07:42,000 --> 00:07:45,000
+So, what all things you know about Scalar Academy?
+
+185
+00:07:45,000 --> 00:07:46,000
+Okay.
+
+186
+00:07:46,000 --> 00:07:54,000
+So, what I know is, Scalar, the founders of Scalar, I have been following them recently.
+
+187
+00:07:54,000 --> 00:07:55,000
+Okay.
+
+188
+00:07:55,000 --> 00:07:56,000
+I know, I know.
+
+189
+00:07:56,000 --> 00:08:01,000
+Yeah, I see them having a very good technical background, right?
+
+190
+00:08:01,000 --> 00:08:06,000
+They work for the messenger and even for the Facebook.
+
+191
+00:08:06,000 --> 00:08:10,000
+So, Anil Manalade is one of the co-founder of that.
+
+192
+00:08:10,000 --> 00:08:19,000
+But again, if I talk about the transition that they had right now in terms of their journey, they started with something else.
+
+193
+00:08:19,000 --> 00:08:25,000
+And right now, they have already started up one startup with the 800 companies tie up in this year.
+
+194
+00:08:25,000 --> 00:08:27,000
+Of course, it's a very big achievement.
+
+195
+00:08:27,000 --> 00:08:29,000
+Yeah, definitely.
+
+196
+00:08:29,000 --> 00:08:30,000
+Right.
+
+197
+00:08:30,000 --> 00:08:34,000
+So, now you tell me, what are the expectations you have from Scalar?
+
+198
+00:08:34,000 --> 00:08:35,000
+Yeah.
+
+199
+00:08:35,000 --> 00:08:45,000
+So, my expectation is for, see, what I, for the last past one week only, I'm doing this research and all, right?
+
+200
+00:08:45,000 --> 00:08:57,000
+So, about machine learning and data science and AI and the different platforms that actually helps you get that skill, right?
+
+201
+00:08:57,000 --> 00:09:09,000
+So, what I understand is Scalar is the one, the syllabus that I saw, the brochure that I saw, it's very vast.
+
+202
+00:09:09,000 --> 00:09:14,000
+I mean, it covers almost everything in very depth.
+
+203
+00:09:14,000 --> 00:09:15,000
+The whole reality.
+
+204
+00:09:15,000 --> 00:09:16,000
+Yes.
+
+205
+00:09:16,000 --> 00:09:17,000
+Yes.
+
+206
+00:09:17,000 --> 00:09:18,000
+Very few people understand this.
+
+207
+00:09:18,000 --> 00:09:19,000
+Yeah.
+
+208
+00:09:19,000 --> 00:09:27,000
+So, the reason I'm saying this because see, okay, I'll give you a brief understanding before that, okay, before you end the curriculum statement.
+
+209
+00:09:27,000 --> 00:09:32,000
+See, we all are aware there are separate courses for data engineering, right?
+
+210
+00:09:32,000 --> 00:09:39,000
+In India, there are separate courses available for, again, when it comes to data science, there are separate courses available for analytics.
+
+211
+00:09:39,000 --> 00:09:47,000
+But very less people are aware that every single content is interrelated and that is a trajectory that one person follows.
+
+212
+00:09:47,000 --> 00:09:57,000
+So, someone starting from analyst, you know, take example, there is people working as analysts getting paid 15 lakhs, there is people who's working as analysts getting paid 31 lakhs.
+
+213
+00:09:57,000 --> 00:10:00,000
+I'm one of the early live example for that.
+
+214
+00:10:00,000 --> 00:10:01,000
+Getting my point.
+
+215
+00:10:01,000 --> 00:10:05,000
+Someone working as business analyst getting paid 40-50 as well.
+
+216
+00:10:05,000 --> 00:10:06,000
+Correct.
+
+217
+00:10:06,000 --> 00:10:10,000
+So, it totally varies that from what exactly tools you carry.
+
+218
+00:10:10,000 --> 00:10:11,000
+Correct.
+
+219
+00:10:12,000 --> 00:10:20,000
+Now, as I talk about, do you have any idea how many institutes are there in India who can teach you, taught you for data science?
+
+220
+00:10:20,000 --> 00:10:22,000
+There is 4200 a day.
+
+221
+00:10:22,000 --> 00:10:23,000
+Correct.
+
+222
+00:10:23,000 --> 00:10:26,000
+It's a very big market, right?
+
+223
+00:10:26,000 --> 00:10:40,000
+And trust me, every options are there as in terms of let's say if someone looking for only five months of satisfaction of learning, happiness, someone can get into the Coursera, Udemy and Telepath, right?
+
+224
+00:10:40,000 --> 00:10:41,000
+Yeah, I've done that.
+
+225
+00:10:41,000 --> 00:10:45,000
+I have tried all these things, but it has not made that much difference to me.
+
+226
+00:10:45,000 --> 00:10:49,000
+So, yeah, so second kind of academy you will find out is the Affiliation Academy.
+
+227
+00:10:49,000 --> 00:10:55,000
+They will tell you that they'll give you the certificate from let's say IIT or let's say even some affiliations.
+
+228
+00:10:55,000 --> 00:10:57,000
+Even Scala do have master program.
+
+229
+00:10:57,000 --> 00:11:00,000
+I have been in touch with them for the last two-three days.
+
+230
+00:11:00,000 --> 00:11:03,000
+So, they will tell you that exactly.
+
+231
+00:11:03,000 --> 00:11:05,000
+Scala do have one of the master program from WULF.
+
+232
+00:11:05,000 --> 00:11:06,000
+Okay.
+
+233
+00:11:06,000 --> 00:11:16,000
+So, but Gulaam, the fact is someone who is sitting with let's say this so many years of experience, I'm asking them to go for thesis learning.
+
+234
+00:11:16,000 --> 00:11:23,000
+That person will not be able to take much of it right out of that course.
+
+235
+00:11:23,000 --> 00:11:29,000
+Otherwise, I would have suggested you to go for the WULF University Master degree program of data science.
+
+236
+00:11:29,000 --> 00:11:30,000
+Okay.
+
+237
+00:11:30,000 --> 00:11:34,000
+But you are not the right fit right now for that.
+
+238
+00:11:34,000 --> 00:11:41,000
+If you would have touched right now 50-60 LP, that time the last push you will be needing a degree.
+
+239
+00:11:41,000 --> 00:11:44,000
+Right. But not right now.
+
+240
+00:11:44,000 --> 00:11:48,000
+We are right now in the ongoing process of that second increment.
+
+241
+00:11:48,000 --> 00:11:49,000
+Right. And the growth.
+
+242
+00:11:49,000 --> 00:11:50,000
+Correct. Correct.
+
+243
+00:11:50,000 --> 00:11:55,000
+So, right now we need to work on the exposures, not the thesis or theory.
+
+244
+00:11:55,000 --> 00:11:56,000
+Right.
+
+245
+00:11:56,000 --> 00:12:01,000
+So, that is why I'll not suggest you to get into the Scala master program also.
+
+246
+00:12:01,000 --> 00:12:02,000
+Okay.
+
+247
+00:12:02,000 --> 00:12:05,000
+Because again, it is going to take you much time.
+
+248
+00:12:05,000 --> 00:12:08,000
+Again, you will be having a punch of your master course.
+
+249
+00:12:08,000 --> 00:12:09,000
+Right.
+
+250
+00:12:09,000 --> 00:12:10,000
+Got it.
+
+251
+00:12:10,000 --> 00:12:13,000
+So, after 11 years, giving you that understanding is of no use.
+
+252
+00:12:13,000 --> 00:12:16,000
+People think we are, even I am a password from Narasimhanji.
+
+253
+00:12:16,000 --> 00:12:17,000
+Okay.
+
+254
+00:12:17,000 --> 00:12:18,000
+Okay.
+
+255
+00:12:18,000 --> 00:12:19,000
+Yeah.
+
+256
+00:12:19,000 --> 00:12:28,000
+But again, the thing that I understood right now, person who is not sitting with a very good package, again getting one degree can just give us that praise.
+
+257
+00:12:28,000 --> 00:12:29,000
+Oh, okay.
+
+258
+00:12:29,000 --> 00:12:31,000
+You are having good package and the degree also.
+
+259
+00:12:31,000 --> 00:12:35,000
+But when the question is, Raze, is that yes, okay.
+
+260
+00:12:35,000 --> 00:12:43,000
+When it comes to the design round, when it comes to the project explanation round, we will not be having much of the thing apart from our company's project.
+
+261
+00:12:43,000 --> 00:12:45,000
+That is the loss.
+
+262
+00:12:45,000 --> 00:12:46,000
+Yep. Yep. Yep.
+
+263
+00:12:46,000 --> 00:12:53,000
+So, that's what like, that's what I, because see, when I checked the founder of, for example, Upgrad, right?
+
+264
+00:12:53,000 --> 00:12:55,000
+Yeah. Upgrad. Great learning.
+
+265
+00:12:55,000 --> 00:12:56,000
+Yeah.
+
+266
+00:12:56,000 --> 00:12:57,000
+Yeah.
+
+267
+00:12:57,000 --> 00:12:58,000
+Yeah.
+
+268
+00:12:58,000 --> 00:12:59,000
+The founder of Upgrad is a film producer.
+
+269
+00:12:59,000 --> 00:13:00,000
+Okay.
+
+270
+00:13:00,000 --> 00:13:01,000
+Correct. Correct. Correct.
+
+271
+00:13:01,000 --> 00:13:02,000
+So, like, again, that makes difference, right?
+
+272
+00:13:02,000 --> 00:13:12,000
+When a particular person who is actually founding a company, who actually belongs to a technical background, and a person who is founding a company, who is actually not from that background.
+
+273
+00:13:12,000 --> 00:13:14,000
+So, there are, like.
+
+274
+00:13:14,000 --> 00:13:17,000
+I will not say this, but rather I will tell you one thing.
+
+275
+00:13:17,000 --> 00:13:20,000
+If you would have told me, Monica, I am sitting with 50-60 LP.
+
+276
+00:13:20,000 --> 00:13:23,000
+Trust me, I would have suggested you to compare all three academies.
+
+277
+00:13:23,000 --> 00:13:26,000
+Great learning, Upgrad, and Scalar also.
+
+278
+00:13:26,000 --> 00:13:27,000
+Correct.
+
+279
+00:13:27,000 --> 00:13:31,000
+But right now, it is not the right place for you, again, to have that discussion.
+
+280
+00:13:31,000 --> 00:13:36,000
+See, I am not going to suggest you the master program at all right now.
+
+281
+00:13:36,000 --> 00:13:47,000
+I have taken the people interview who is right now earning 2.5 CR as well, who is earning 20 CR, 20 Lakh also, and a person who is having right now 2 Lakh salary as well.
+
+282
+00:13:47,000 --> 00:13:48,000
+Okay.
+
+283
+00:13:48,000 --> 00:13:53,000
+So, it is very important for you guys to understand that, okay, when to start and what to start, right?
+
+284
+00:13:53,000 --> 00:13:57,000
+That is something very, very important for you, right, to understand.
+
+285
+00:13:57,000 --> 00:14:02,000
+See, if you are in front of the system, just type Vinod Benure.
+
+286
+00:14:02,000 --> 00:14:05,000
+He is right now SDET Google, okay.
+
+287
+00:14:05,000 --> 00:14:08,000
+Morning only we had taken the admission, okay.
+
+288
+00:14:08,000 --> 00:14:10,000
+He is earning right now 2.5 CR.
+
+289
+00:14:10,000 --> 00:14:16,000
+So, do you really think that if he is right now reporting to the California office, okay.
+
+290
+00:14:16,000 --> 00:14:20,000
+So, if I talk about, if you want to have the discussion, you can have it with him.
+
+291
+00:14:20,000 --> 00:14:24,000
+Really, like, people like that take like an admission?
+
+292
+00:14:24,000 --> 00:14:26,000
+I will share you, okay.
+
+293
+00:14:26,000 --> 00:14:27,000
+That is a very good question.
+
+294
+00:14:27,000 --> 00:14:29,000
+I will share you thousands of profiles.
+
+295
+00:14:29,000 --> 00:14:30,000
+How many you want?
+
+296
+00:14:30,000 --> 00:14:31,000
+Tell me.
+
+297
+00:14:31,000 --> 00:14:36,000
+Even if I will share you the profiles of AVP of Apple, I will share you the Adobe Architect,
+
+298
+00:14:36,000 --> 00:14:39,000
+who is already sitting with 1.2 CR package.
+
+299
+00:14:39,000 --> 00:14:43,000
+I will share you all the profiles, who enrolled in Scalar already, okay.
+
+300
+00:14:43,000 --> 00:14:45,000
+Don't worry, you can do your research work.
+
+301
+00:14:45,000 --> 00:14:50,000
+But again, the fact is, these are the people who do maximum upskilling.
+
+302
+00:14:50,000 --> 00:14:56,000
+And it is not because they want to grow, but it is because they want to sustain in the same.
+
+303
+00:14:56,000 --> 00:14:57,000
+Correct.
+
+304
+00:14:57,000 --> 00:14:58,000
+That is the reality.
+
+305
+00:14:58,000 --> 00:15:05,000
+That is why you are doing that upskilling because you want the same offer and much more offer from five companies in the industry.
+
+306
+00:15:05,000 --> 00:15:06,000
+Tell me if I am wrong.
+
+307
+00:15:06,000 --> 00:15:07,000
+Yeah, yeah, correct.
+
+308
+00:15:07,000 --> 00:15:08,000
+It is actually correct.
+
+309
+00:15:08,000 --> 00:15:14,000
+So, this is what, when I was talking to Vinod, so he said only one thing, Monica,
+
+310
+00:15:14,000 --> 00:15:18,000
+as the Google itself is having right now, if you can see on the page,
+
+311
+00:15:18,000 --> 00:15:22,000
+type Google how many courses that we are providing and how many users we have.
+
+312
+00:15:22,000 --> 00:15:27,000
+So, even Google was not able to place us, right, home server is landing right now.
+
+313
+00:15:27,000 --> 00:15:28,000
+The people are there.
+
+314
+00:15:28,000 --> 00:15:32,000
+So, the fact is, the practical learning is the only thing.
+
+315
+00:15:32,000 --> 00:15:37,000
+You cannot rely on any academy, right, unless you are having the practical learning.
+
+316
+00:15:37,000 --> 00:15:38,000
+Getting my point?
+
+317
+00:15:38,000 --> 00:15:43,000
+So, that kind of visibility he is having, so that comes with the understanding of the market.
+
+318
+00:15:43,000 --> 00:15:48,000
+And you will wonder, he is just having seven years of experience, only seven.
+
+319
+00:15:48,000 --> 00:15:49,000
+Who?
+
+320
+00:15:49,000 --> 00:15:51,000
+That Vinod I was talking about, right?
+
+321
+00:15:51,000 --> 00:15:52,000
+Really?
+
+322
+00:15:52,000 --> 00:15:55,000
+Yeah, so I was also very impressed.
+
+323
+00:15:55,000 --> 00:16:00,000
+Because that is a motivating thing, whenever you see these kind of people.
+
+324
+00:16:00,000 --> 00:16:05,000
+So, yes, second thing is, if I talk about the profiles, yes, you will see the ICICI,
+
+325
+00:16:05,000 --> 00:16:10,000
+AVP, Excess Bank, AVP, HSBC, Goldman Sachs, AVP.
+
+326
+00:16:10,000 --> 00:16:12,000
+So, there is all people you can see.
+
+327
+00:16:12,000 --> 00:16:16,000
+Go to the LinkedIn, type the scalar and alumni, you will see everyone there.
+
+328
+00:16:16,000 --> 00:16:21,000
+Okay, so, but the fact is, if you are going ahead with that learning,
+
+329
+00:16:22,000 --> 00:16:28,000
+that means you will be expecting the scalar to help you to get at least 60% of growth.
+
+330
+00:16:28,000 --> 00:16:31,000
+Otherwise, 30% you can do it by your own.
+
+331
+00:16:31,000 --> 00:16:34,000
+I am trusting the process, right?
+
+332
+00:16:34,000 --> 00:16:37,000
+Because you reached there, you know the trick.
+
+333
+00:16:37,000 --> 00:16:39,000
+Fair enough, right?
+
+334
+00:16:39,000 --> 00:16:45,000
+So, that is what, if we are coming together, that means we need to work as a team.
+
+335
+00:16:45,000 --> 00:16:47,000
+Getting my point?
+
+336
+00:16:47,000 --> 00:16:52,000
+So, now, yes, you were telling something related to the curriculum, correct?
+
+337
+00:16:52,000 --> 00:16:56,000
+Now, why this is long, why this is lengthy?
+
+338
+00:16:56,000 --> 00:17:02,000
+Because I am 100% sure this will be your last learning at least for next 5 years.
+
+339
+00:17:02,000 --> 00:17:06,000
+Definitely, because I did my last transition 5 years back.
+
+340
+00:17:06,000 --> 00:17:08,000
+Yeah, exactly, this is how it works.
+
+341
+00:17:08,000 --> 00:17:11,000
+I thought it will stay again for 20 years, but now it's here.
+
+342
+00:17:11,000 --> 00:17:12,000
+No, no, no, no, no, 5 years.
+
+343
+00:17:12,000 --> 00:17:14,000
+It is done, yeah, trust me.
+
+344
+00:17:15,000 --> 00:17:18,000
+Make sure, see, every 5 years you will be doing something.
+
+345
+00:17:18,000 --> 00:17:20,000
+Make sure you are doing it.
+
+346
+00:17:20,000 --> 00:17:23,000
+And trust me, you will remember this statement from my side.
+
+347
+00:17:23,000 --> 00:17:29,000
+You will reach to that expectation way beyond expectation that you are thinking about your profile.
+
+348
+00:17:29,000 --> 00:17:35,000
+So, why because we need to update every 5 years because IT always asks for more.
+
+349
+00:17:35,000 --> 00:17:37,000
+Correct?
+
+350
+00:17:37,000 --> 00:17:42,000
+So, we actually divided the whole course into 3 parts right now.
+
+351
+00:17:42,000 --> 00:17:43,000
+Okay.
+
+352
+00:17:43,000 --> 00:17:44,000
+Okay.
+
+353
+00:17:44,000 --> 00:17:47,000
+But Gulaam, what we did is the focus will be to provide you guys the maximum exposure.
+
+354
+00:17:47,000 --> 00:17:51,000
+See, right now, if you are going ahead for the practical learning,
+
+355
+00:17:51,000 --> 00:17:55,000
+it will cost you one real-time project, 18,000 from the market, right?
+
+356
+00:17:55,000 --> 00:17:56,000
+To bought it.
+
+357
+00:17:56,000 --> 00:17:57,000
+Correct.
+
+358
+00:17:57,000 --> 00:17:59,000
+I am not talking about the dummy, I am talking about the capstone also.
+
+359
+00:17:59,000 --> 00:18:00,000
+Capstone, yeah.
+
+360
+00:18:00,000 --> 00:18:05,000
+So, if someone, but there is people who is doing it from lead code,
+
+361
+00:18:05,000 --> 00:18:09,000
+there is people who is registered on GitHub, there is people who is doing it from Kaggle.
+
+362
+00:18:09,000 --> 00:18:10,000
+Correct.
+
+363
+00:18:10,000 --> 00:18:16,000
+But do you really think after seeing those 5 dummy projects and the used data,
+
+364
+00:18:16,000 --> 00:18:18,000
+someone will give you the 50 lakhs of package?
+
+365
+00:18:18,000 --> 00:18:20,000
+That's true.
+
+366
+00:18:20,000 --> 00:18:22,000
+No one, right?
+
+367
+00:18:22,000 --> 00:18:27,000
+So, the fact is you need to work on the real-time projects, the harsh reality.
+
+368
+00:18:27,000 --> 00:18:28,000
+Correct?
+
+369
+00:18:28,000 --> 00:18:37,000
+So, what Scaler did here is that we wholly divided the whole course into 3 parts, 3 stages.
+
+370
+00:18:37,000 --> 00:18:42,000
+As you are coming from, let's say, tech background, even from non-tech,
+
+371
+00:18:42,000 --> 00:18:46,000
+you will be needing the, according to your persona learning.
+
+372
+00:18:46,000 --> 00:18:50,000
+You will not be looking here that, okay, Monica, I know SQL Server,
+
+373
+00:18:50,000 --> 00:18:54,000
+and again, let's say Scaler started teaching you SQL Server.
+
+374
+00:18:54,000 --> 00:18:55,000
+It is of no use.
+
+375
+00:18:55,000 --> 00:18:56,000
+5 minutes?
+
+376
+00:18:56,000 --> 00:18:57,000
+Correct?
+
+377
+00:18:57,000 --> 00:18:58,000
+5 minutes.
+
+378
+00:18:58,000 --> 00:18:59,000
+Hello.
+
+379
+00:18:59,000 --> 00:19:00,000
+5 minutes.
+
+380
+00:19:00,000 --> 00:19:01,000
+Hello.
+
+381
+00:19:01,000 --> 00:19:02,000
+Yes.
+
+382
+00:19:02,000 --> 00:19:06,000
+Monica, sorry, actually, I need to turn my, okay.
+
+383
+00:19:06,000 --> 00:19:07,000
+Can you give me just 10 minutes?
+
+384
+00:19:07,000 --> 00:19:10,000
+I will, like, can you call me in 10 minutes?
+
+385
+00:19:10,000 --> 00:19:12,000
+You do one thing.
+
+386
+00:19:12,000 --> 00:19:14,000
+You can give me a call back on the same number.
+
+387
+00:19:14,000 --> 00:19:15,000
+Sure, sure, I can do that.
+
+388
+00:19:15,000 --> 00:19:16,000
+I can do that.
+
+389
+00:19:16,000 --> 00:19:18,000
+Are you sure it will take only 10 minutes?
+
+390
+00:19:18,000 --> 00:19:19,000
+10 to 15 minutes mostly.
+
+391
+00:19:19,000 --> 00:19:24,000
+Yeah, so make sure you are giving me a call back because I need to jump to take one interview.
+
+392
+00:19:24,000 --> 00:19:25,000
+I will do that.
+
+393
+00:19:25,000 --> 00:19:27,000
+Actually, I have a meeting at 3 also.
+
+394
+00:19:27,000 --> 00:19:28,000
+So, before that, I will call you.
+
+395
+00:19:28,000 --> 00:19:30,000
+Yeah, give me a call back by 15 minutes.
+
+396
+00:19:30,000 --> 00:19:31,000
+Sure, okay.
+
+397
+00:19:31,000 --> 00:19:32,000
+Okay, bye-bye.
+

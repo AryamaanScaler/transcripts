@@ -1,0 +1,416 @@
+1
+00:00:00,000 --> 00:00:02,220
+Hello
+
+2
+00:00:04,220 --> 00:00:05,280
+Hello
+
+3
+00:00:05,320 --> 00:00:06,540
+Are you able to hear me well?
+
+4
+00:00:06,540 --> 00:00:08,340
+yes, I can hear you
+
+5
+00:00:08,360 --> 00:00:10,360
+How are you?
+
+6
+00:00:10,740 --> 00:00:14,340
+Good! I was busy in the morning, did not answer your call
+
+7
+00:00:14,500 --> 00:00:14,700
+No, I だ 憂 y 껦 d ye ye
+
+8
+00:00:14,700 --> 00:00:15,440
+этому delivered me
+
+9
+00:00:15,440 --> 00:00:18,800
+kite
+
+10
+00:00:18,800 --> 00:00:19,060
+Yes, yes
+
+11
+00:00:19,140 --> 00:00:21,380
+You said you come back.
+
+12
+00:00:21,400 --> 00:00:22,000
+Did you reach to your home?
+
+13
+00:00:22,000 --> 00:00:22,840
+yes
+
+14
+00:00:22,900 --> 00:00:23,240
+Oh
+
+15
+00:00:23,240 --> 00:00:24,960
+I am in progress of almost staying in place
+
+16
+00:00:24,960 --> 00:00:26,800
+Okay, how are you?
+
+17
+00:00:26,940 --> 00:00:27,440
+what exactly do you have to say?
+
+18
+00:00:27,440 --> 00:00:28,780
+Yes
+
+19
+00:00:28,780 --> 00:00:30,780
+You are very late.
+
+20
+00:00:30,780 --> 00:00:34,780
+Actually, our working hours are flexible.
+
+21
+00:00:34,780 --> 00:00:36,780
+So we have to complete 9 hours.
+
+22
+00:00:36,780 --> 00:00:40,780
+If I come at 11, I have to log out at 8.
+
+23
+00:00:40,780 --> 00:00:42,780
+Yes.
+
+24
+00:00:42,780 --> 00:00:46,780
+If I am late for office, I have to log out late.
+
+25
+00:00:46,780 --> 00:00:48,780
+Okay.
+
+26
+00:00:48,780 --> 00:00:50,780
+How will you manage your time?
+
+27
+00:00:50,780 --> 00:00:52,780
+Have you decided anything?
+
+28
+00:00:52,780 --> 00:00:58,780
+I will come early to office.
+
+29
+00:00:58,780 --> 00:01:02,780
+There was a function in my school.
+
+30
+00:01:02,780 --> 00:01:04,780
+So I went there in the morning.
+
+31
+00:01:04,780 --> 00:01:06,780
+Okay. You went there in the morning.
+
+32
+00:01:06,780 --> 00:01:08,780
+Yes.
+
+33
+00:01:08,780 --> 00:01:12,780
+So basically, I had talked about your scholarship.
+
+34
+00:01:12,780 --> 00:01:14,780
+What can we do further?
+
+35
+00:01:14,780 --> 00:01:18,780
+You have your final challenge.
+
+36
+00:01:18,780 --> 00:01:20,780
+Okay.
+
+37
+00:01:20,780 --> 00:01:24,780
+So first, you have to give an assessment.
+
+38
+00:01:24,780 --> 00:01:26,780
+When?
+
+39
+00:01:26,780 --> 00:01:32,780
+Today evening, by 10 or 11, you can attempt it.
+
+40
+00:01:32,780 --> 00:01:34,780
+It won't be on Saturday.
+
+41
+00:01:34,780 --> 00:01:36,780
+Saturday?
+
+42
+00:01:36,780 --> 00:01:38,780
+Guests have also come.
+
+43
+00:01:38,780 --> 00:01:40,780
+We have to go and cook.
+
+44
+00:01:40,780 --> 00:01:44,780
+Can we have a discussion tomorrow morning?
+
+45
+00:01:44,780 --> 00:01:46,780
+If you can get some time tomorrow morning.
+
+46
+00:01:46,780 --> 00:01:48,780
+We have to give some time.
+
+47
+00:01:48,780 --> 00:01:50,780
+There is a basic platform.
+
+48
+00:01:50,780 --> 00:01:52,780
+Management is also important.
+
+49
+00:01:52,780 --> 00:01:56,780
+If you can't give half an hour in the beginning,
+
+50
+00:01:56,780 --> 00:01:58,780
+how will you give 12 months commitment?
+
+51
+00:01:58,780 --> 00:02:00,780
+It becomes difficult.
+
+52
+00:02:00,780 --> 00:02:02,780
+I will manage.
+
+53
+00:02:02,780 --> 00:02:06,780
+When I have time, I will attend live lectures.
+
+54
+00:02:06,780 --> 00:02:10,780
+Otherwise, I will do recorded lectures.
+
+55
+00:02:10,780 --> 00:02:12,780
+It will be good.
+
+56
+00:02:12,780 --> 00:02:16,780
+What is the timing of going to office tomorrow?
+
+57
+00:02:16,780 --> 00:02:18,780
+It depends.
+
+58
+00:02:18,780 --> 00:02:20,780
+I get up at 3 in the morning.
+
+59
+00:02:20,780 --> 00:02:22,780
+Okay.
+
+60
+00:02:22,780 --> 00:02:24,780
+Everyone is on top of one another.
+
+61
+00:02:24,780 --> 00:02:26,780
+It depends.
+
+62
+00:02:26,780 --> 00:02:28,780
+I understand.
+
+63
+00:02:28,780 --> 00:02:30,780
+So let's do one thing.
+
+64
+00:02:30,780 --> 00:02:32,780
+I will connect with you tomorrow morning at 10.
+
+65
+00:02:32,780 --> 00:02:34,780
+Okay.
+
+66
+00:02:34,780 --> 00:02:36,780
+Till then, I will be active.
+
+67
+00:02:36,780 --> 00:02:38,780
+Okay.
+
+68
+00:02:38,780 --> 00:02:40,780
+If possible, I can go at night.
+
+69
+00:02:40,780 --> 00:02:42,780
+Okay.
+
+70
+00:02:42,780 --> 00:02:44,780
+You can give it at night.
+
+71
+00:02:44,780 --> 00:02:46,780
+You can give it at night.
+
+72
+00:02:46,780 --> 00:02:48,780
+There is no time at night.
+
+73
+00:02:48,780 --> 00:02:50,780
+It is 12 o'clock.
+
+74
+00:02:50,780 --> 00:02:52,780
+I will do one thing.
+
+75
+00:02:52,780 --> 00:02:54,780
+I will be active till morning.
+
+76
+00:02:54,780 --> 00:02:56,780
+I will be active till morning.
+
+77
+00:02:56,780 --> 00:02:58,780
+Till 10 or 11 o'clock in the morning.
+
+78
+00:02:58,780 --> 00:03:00,780
+I will give it before sleeping.
+
+79
+00:03:00,780 --> 00:03:02,780
+Okay.
+
+80
+00:03:02,780 --> 00:03:04,780
+It will be easy for you.
+
+81
+00:03:04,780 --> 00:03:06,780
+Once you have your assessment,
+
+82
+00:03:06,780 --> 00:03:08,780
+we can apply for scholarship.
+
+83
+00:03:08,780 --> 00:03:10,780
+Okay.
+
+84
+00:03:10,780 --> 00:03:12,780
+Okay.
+
+85
+00:03:12,780 --> 00:03:14,780
+I have evaluated your CV from team.
+
+86
+00:03:14,780 --> 00:03:16,780
+Okay.
+
+87
+00:03:16,780 --> 00:03:18,780
+I will call you at 10 in the morning.
+
+88
+00:03:18,780 --> 00:03:20,780
+Okay.
+
+89
+00:03:20,780 --> 00:03:22,780
+Till then, hopefully you will give test.
+
+90
+00:03:22,780 --> 00:03:24,780
+Okay.
+
+91
+00:03:24,780 --> 00:03:26,780
+We will talk in detail tomorrow morning.
+
+92
+00:03:26,780 --> 00:03:28,780
+Okay.
+
+93
+00:03:28,780 --> 00:03:30,780
+Will you share syllabus and rules with me?
+
+94
+00:03:30,780 --> 00:03:32,780
+I have already sent you
+
+95
+00:03:32,780 --> 00:03:34,780
+the syllabus on email.
+
+96
+00:03:34,780 --> 00:03:36,780
+I think I have not seen it.
+
+97
+00:03:36,780 --> 00:03:38,780
+I will share it with you again.
+
+98
+00:03:38,780 --> 00:03:40,780
+Okay.
+
+99
+00:03:40,780 --> 00:03:42,780
+Once you go through the video.
+
+100
+00:03:42,780 --> 00:03:44,780
+Okay.
+
+101
+00:03:44,780 --> 00:03:46,780
+Alright.
+
+102
+00:03:46,780 --> 00:03:48,780
+Bye.
+
+103
+00:03:48,780 --> 00:03:50,780
+Thank you. Take care.
+
+104
+00:03:50,780 --> 00:03:52,780
+Bye.
+

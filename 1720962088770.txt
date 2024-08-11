@@ -1,0 +1,544 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello
+
+2
+00:00:01,000 --> 00:00:05,000
+Hello, yeah, hi. Is this Fayaz that I am speaking with?
+
+3
+00:00:05,000 --> 00:00:06,000
+Yes
+
+4
+00:00:06,000 --> 00:00:10,000
+Yeah, hi. My name is Srini. I am giving a call from Skiller Academy
+
+5
+00:00:10,000 --> 00:00:15,000
+And I think admissions team would have already reached out to you regarding the test
+
+6
+00:00:15,000 --> 00:00:18,000
+You have cleared the test as well. Congratulations on that part
+
+7
+00:00:18,000 --> 00:00:23,000
+So we just kind of, you know, trying to filter out the people who gave the test
+
+8
+00:00:23,000 --> 00:00:27,000
+So I wanted to understand how was your experience with the test?
+
+9
+00:00:27,000 --> 00:00:32,000
+How did you think you have done in the test?
+
+10
+00:00:34,000 --> 00:00:41,000
+I think my performance was almost average, not the best
+
+11
+00:00:41,000 --> 00:00:45,000
+Okay, so there were total 18 questions and you attempted all the 18 ones
+
+12
+00:00:45,000 --> 00:00:51,000
+And you solved 11 of them, so your net is 55.13 is the score
+
+13
+00:00:51,000 --> 00:00:54,000
+So you cleared the test in the first place, so 35 is the cutoff, you have cleared the test
+
+14
+00:00:54,000 --> 00:00:56,000
+So you are eligible for the scholarship now
+
+15
+00:00:56,000 --> 00:01:04,000
+First thing, second, just based on the analysis of your test report
+
+16
+00:01:04,000 --> 00:01:07,000
+What I could see is your logical reasoning is good
+
+17
+00:01:07,000 --> 00:01:11,000
+Your basic math, points is really good, that is there
+
+18
+00:01:11,000 --> 00:01:14,000
+I mean your logical and aptitude seems alright
+
+19
+00:01:14,000 --> 00:01:22,000
+What's the challenge here right now in terms of basic time complexity analysis and code output?
+
+20
+00:01:22,000 --> 00:01:26,000
+That is where we have gotten most of the answers incorrect
+
+21
+00:01:26,000 --> 00:01:34,000
+So that puts me into perspective as to, you know, your coding could be challenged slightly
+
+22
+00:01:34,000 --> 00:01:38,000
+Because you are not working as of now, is it?
+
+23
+00:01:38,000 --> 00:01:39,000
+Yes
+
+24
+00:01:39,000 --> 00:01:41,000
+Okay, so that could be one of the reasons
+
+25
+00:01:41,000 --> 00:01:49,000
+But what really intrigues us or makes us interested in your profile is that your logic and math and aptitude is on point
+
+26
+00:01:49,000 --> 00:01:53,000
+So you have to understand from this perspective, if I ask
+
+27
+00:01:53,000 --> 00:01:58,000
+That at the end of the day, if someone doesn't know coding, it's very easy for us to train them on coding
+
+28
+00:01:58,000 --> 00:02:00,000
+Because that is what we are best at
+
+29
+00:02:00,000 --> 00:02:03,000
+But if someone's logic is bad, we can't train them
+
+30
+00:02:03,000 --> 00:02:05,000
+It's very difficult for us
+
+31
+00:02:05,000 --> 00:02:09,000
+If you listen, someone's logical thought process is very bad
+
+32
+00:02:09,000 --> 00:02:13,000
+I am teaching them coding, but learning coding won't solve the problem
+
+33
+00:02:13,000 --> 00:02:15,000
+The problem to solve is, what is coding?
+
+34
+00:02:15,000 --> 00:02:17,000
+It's just a programming language, right?
+
+35
+00:02:17,000 --> 00:02:18,000
+It's a tool
+
+36
+00:02:18,000 --> 00:02:23,000
+A programming language, let's say we are talking in Hindi, English, if there was another language
+
+37
+00:02:23,000 --> 00:02:25,000
+For example, I am from Bihar, I know Bhojpuri
+
+38
+00:02:25,000 --> 00:02:27,000
+Where do you belong, Fayaz?
+
+39
+00:02:27,000 --> 00:02:28,000
+Rajasthan
+
+40
+00:02:28,000 --> 00:02:32,000
+Rajasthan, if there was another common language, we could have spoken in that
+
+41
+00:02:32,000 --> 00:02:38,000
+But let's say I am from Kashmir, I speak in Tamil and you speak in another language
+
+42
+00:02:38,000 --> 00:02:41,000
+It would become very difficult for us to communicate
+
+43
+00:02:41,000 --> 00:02:43,000
+So language is just a tool to communicate
+
+44
+00:02:43,000 --> 00:02:48,000
+The idea is, if you use language and you are not able to solve problems in the first place
+
+45
+00:02:48,000 --> 00:02:51,000
+That is when it will create problems for us
+
+46
+00:02:51,000 --> 00:02:56,000
+And that is when you will not be able to become that solid problem solver or solid software developer
+
+47
+00:02:56,000 --> 00:02:58,000
+The product based company that we are searching for
+
+48
+00:02:58,000 --> 00:03:01,000
+And we focus on a good problem solver
+
+49
+00:03:01,000 --> 00:03:09,000
+Because we know that if you have logical ability, we will show you coding in such a way that you would end up becoming a very solid problem solver
+
+50
+00:03:09,000 --> 00:03:12,000
+We don't just want to code, we want to solve problems with coding
+
+51
+00:03:12,000 --> 00:03:15,000
+And that is what product based companies look out for
+
+52
+00:03:15,000 --> 00:03:21,000
+Product based companies don't just look at the language that you know, Java or Python
+
+53
+00:03:21,000 --> 00:03:27,000
+They check that if you know Java or GoBol or Golang or Cobol, any language
+
+54
+00:03:27,000 --> 00:03:32,000
+If you are able to solve a problem with that language, for them you become an asset
+
+55
+00:03:32,000 --> 00:03:36,000
+If you are not able to solve a problem, that is when they start questioning your candidature
+
+56
+00:03:36,000 --> 00:03:40,000
+So what we do is, at the end of the day, what we try to do is
+
+57
+00:03:40,000 --> 00:03:44,000
+By the end of the course, you will see yourself becoming a very solid software engineer
+
+58
+00:03:44,000 --> 00:03:50,000
+That includes your problem solving skills, that includes data, the essay, that includes system design
+
+59
+00:03:50,000 --> 00:03:57,000
+And that includes projects which will be a capstone project, which will have an end to end project that will come under your name
+
+60
+00:03:57,000 --> 00:04:03,000
+Which would be as extensive as designing an Instagram app end to end
+
+61
+00:04:03,000 --> 00:04:07,000
+From writing its algorithm to deploying it on any other server
+
+62
+00:04:07,000 --> 00:04:10,000
+So all of this would come under your bucket
+
+63
+00:04:10,000 --> 00:04:13,000
+So this is something that Scalar does
+
+64
+00:04:13,000 --> 00:04:17,000
+Now I wanted to understand that this is not the first time you have been interacting with Scalar
+
+65
+00:04:17,000 --> 00:04:19,000
+You have had multiple interactions
+
+66
+00:04:19,000 --> 00:04:25,000
+This is the first time that you have come so far to understand what Scalar really is trying to do
+
+67
+00:04:25,000 --> 00:04:32,000
+So I wanted to understand why did you not take that decision to really look into this program
+
+68
+00:04:32,000 --> 00:04:34,000
+And probably you would not have been in this situation
+
+69
+00:04:34,000 --> 00:04:36,000
+Why did you not take this decision earlier?
+
+70
+00:04:38,000 --> 00:04:43,000
+Because I was not very much satisfied with the fee structure
+
+71
+00:04:43,000 --> 00:04:48,000
+Okay, so are you satisfied now? I mean is what I am trying to understand
+
+72
+00:04:48,000 --> 00:04:51,000
+Not exactly, but I might
+
+73
+00:04:51,000 --> 00:04:54,000
+Okay, look into it
+
+74
+00:04:54,000 --> 00:04:55,000
+Yeah
+
+75
+00:04:56,000 --> 00:04:59,000
+See, the best thing we could do at this point of time is
+
+76
+00:04:59,000 --> 00:05:04,000
+Possibly we could sit for a 30 minute profile analysis session
+
+77
+00:05:04,000 --> 00:05:06,000
+Where we understand your profile
+
+78
+00:05:06,000 --> 00:05:08,000
+And you understand what Scalar has to offer
+
+79
+00:05:08,000 --> 00:05:12,000
+And what all financial assistance we could provide at this point of time
+
+80
+00:05:12,000 --> 00:05:14,000
+See, there is no assistance in terms of reducing the price
+
+81
+00:05:14,000 --> 00:05:17,000
+But there are EMI's that we can opt for
+
+82
+00:05:17,000 --> 00:05:22,000
+That could help you, you know, assess your financial choices
+
+83
+00:05:22,000 --> 00:05:25,000
+So that it would make it a lot more easier for you
+
+84
+00:05:25,000 --> 00:05:26,000
+Right
+
+85
+00:05:26,000 --> 00:05:27,000
+Okay
+
+86
+00:05:27,000 --> 00:05:32,000
+So would you be available today at 7.30 for a small 30 minute discussion?
+
+87
+00:05:34,000 --> 00:05:36,000
+Can you reschedule it to tomorrow?
+
+88
+00:05:36,000 --> 00:05:39,000
+Tomorrow would be slightly tight
+
+89
+00:05:39,000 --> 00:05:43,000
+So yes, would it be not possible today at 7.30?
+
+90
+00:05:43,000 --> 00:05:44,000
+7.30, sorry
+
+91
+00:05:44,000 --> 00:05:45,000
+Okay
+
+92
+00:05:48,000 --> 00:05:51,000
+Then how about any day after tomorrow?
+
+93
+00:05:51,000 --> 00:05:59,000
+No, the batches are closing today, if any, because the batch is supposed to start from 16th
+
+94
+00:05:59,000 --> 00:06:01,000
+The first meet and meet is with 16th
+
+95
+00:06:01,000 --> 00:06:06,000
+So if you take a call that you would want to proceed with Scalar, the decision has to be taken today
+
+96
+00:06:06,000 --> 00:06:11,000
+And if we decide to take it tomorrow, it is just another run of the mill production
+
+97
+00:06:11,000 --> 00:06:14,000
+Whereas we are just delaying it one more time
+
+98
+00:06:14,000 --> 00:06:16,000
+We have already done it multiple times
+
+99
+00:06:16,000 --> 00:06:19,000
+If we are only about to delay it, you can choose to delay it
+
+100
+00:06:19,000 --> 00:06:24,000
+But if you are really serious about it and if you think that this can really change how your career is progressing
+
+101
+00:06:24,000 --> 00:06:26,000
+Possibly we can sit for 30 minutes
+
+102
+00:06:26,000 --> 00:06:28,000
+And I think this time you are really serious about your career
+
+103
+00:06:28,000 --> 00:06:34,000
+Because you already have had tough times with layoffs and XYZ reasons
+
+104
+00:06:34,000 --> 00:06:36,000
+So you can genuinely give it a thought
+
+105
+00:06:36,000 --> 00:06:40,000
+It wouldn't take more than 30 minutes for us to wrap up the entire session
+
+106
+00:06:40,000 --> 00:06:44,000
+If you think that this is something that you would like to do
+
+107
+00:06:44,000 --> 00:06:46,000
+This is something that you could invest in
+
+108
+00:06:46,000 --> 00:06:48,000
+Both in terms of time and money
+
+109
+00:06:48,000 --> 00:06:50,000
+Please go ahead, you can join
+
+110
+00:06:50,000 --> 00:06:54,000
+See, any way you see all of this program is under an observation period
+
+111
+00:06:54,000 --> 00:06:56,000
+So let's say you give it a thought also
+
+112
+00:06:56,000 --> 00:07:00,000
+Let's give it a thought, let's try Scalar for the first time
+
+113
+00:07:00,000 --> 00:07:05,000
+So you still will have time till 31st of July to give it a complete shot
+
+114
+00:07:05,000 --> 00:07:09,000
+So till 31st of July, if you think that this is not something that you would want to do
+
+115
+00:07:09,000 --> 00:07:13,000
+This is not something where you would want to put your money and effort and everything
+
+116
+00:07:13,000 --> 00:07:15,000
+You can ask for a refund
+
+117
+00:07:15,000 --> 00:07:19,000
+Every single transaction that would have happened between the two parties would be refunded to you
+
+118
+00:07:19,000 --> 00:07:22,000
+As it is not even a single penny would be charged
+
+119
+00:07:22,000 --> 00:07:26,000
+So for you to give it a shot wouldn't cost you a penny
+
+120
+00:07:26,000 --> 00:07:29,000
+You can just pay 20,000 through credit cards
+
+121
+00:07:29,000 --> 00:07:31,000
+And can get the EMI's done as well
+
+122
+00:07:31,000 --> 00:07:36,000
+And in case if you think that this program is not a great fit for you
+
+123
+00:07:36,000 --> 00:07:39,000
+You will get your 20,000 back and you will get your EMI's back as well
+
+124
+00:07:39,000 --> 00:07:41,000
+I mean your EMI's would be cancelled as well
+
+125
+00:07:41,000 --> 00:07:45,000
+So you will not pay anything in case things are not falling in
+
+126
+00:07:45,000 --> 00:07:50,000
+Or you feel that financially you would not be able to manage it
+
+127
+00:07:50,000 --> 00:07:51,000
+Okay
+
+128
+00:07:51,000 --> 00:07:52,000
+Understood
+
+129
+00:07:52,000 --> 00:07:53,000
+Works?
+
+130
+00:07:53,000 --> 00:07:57,000
+Yeah, so I will just give you a call on this number
+
+131
+00:07:57,000 --> 00:08:01,000
+Yeah, sure, can you give me a call by 7
+
+132
+00:08:01,000 --> 00:08:04,000
+Because I will be wrapping up the day by then
+
+133
+00:08:04,000 --> 00:08:06,000
+So I will have to finalize the session by 7
+
+134
+00:08:06,000 --> 00:08:09,000
+So give me a call by 7 and let me know if you are okay to join the session at 7.30
+
+135
+00:08:09,000 --> 00:08:10,000
+Okay
+
+136
+00:08:10,000 --> 00:08:12,000
+Alright, cool, bye
+

@@ -1,0 +1,1940 @@
+1
+00:00:00,000 --> 00:00:04,240
+Hello, hello. Yeah, hi is it an urban I'm speaking with
+
+2
+00:00:06,480 --> 00:00:09,180
+Hello, hello, is it an urban I'm speaking with
+
+3
+00:00:10,220 --> 00:00:18,040
+Hi, yes, I'm Irwin. This is Shivani here. He's calling from scalar academy. You requested for a call back in scalar for data science
+
+4
+00:00:19,080 --> 00:00:22,420
+Hi, yes, ma'am. So is it a right time we can speak right now?
+
+5
+00:00:23,420 --> 00:00:24,420
+Hi, yes, ma'am.
+
+6
+00:00:24,420 --> 00:00:31,420
+Okay, and Irwin, you requested for data science. So are you already from data science field or are you thinking of making a career in data science field?
+
+7
+00:00:31,420 --> 00:00:34,420
+I'm thinking of making a career, ma'am.
+
+8
+00:00:34,420 --> 00:00:37,420
+Okay, and how did you get to know about scalar?
+
+9
+00:00:39,420 --> 00:00:42,420
+Ma'am, I don't know much about scalar.
+
+10
+00:00:43,420 --> 00:00:49,420
+So, did someone refer you or did you know about scalar before? Did you do any research?
+
+11
+00:00:50,420 --> 00:00:56,420
+I saw about scalar. I was seeing scalar for a long time.
+
+12
+00:00:58,420 --> 00:01:02,420
+Okay, I'll tell you about my profile. I'm a senior consultant in scalar.
+
+13
+00:01:03,420 --> 00:01:06,420
+I have 9 years of experience in data science machine learning AI.
+
+14
+00:01:06,420 --> 00:01:13,420
+So my major work is to understand profile, that with which background, qualification, experience you come.
+
+15
+00:01:13,420 --> 00:01:22,420
+And if you go into data science, then what all things you have to study, how will be your career trajectory, how will your learning be and at last you will get outcome.
+
+16
+00:01:22,420 --> 00:01:25,420
+I mean, placements etc. etc. etc.
+
+17
+00:01:25,420 --> 00:01:29,420
+Which industry you can apply to, so you can discuss all these things with me.
+
+18
+00:01:29,420 --> 00:01:34,420
+Okay, so first you tell me your profile, Andhan. What field have you completed your graduation from?
+
+19
+00:01:35,420 --> 00:01:39,420
+I'm a B.Tech student from electrical engineering.
+
+20
+00:01:39,420 --> 00:01:43,420
+And I got my passworn on 2017.
+
+21
+00:01:44,420 --> 00:01:48,420
+Now I'm working on service dex.
+
+22
+00:01:49,420 --> 00:01:51,420
+Give me a second, Andhan.
+
+23
+00:01:53,420 --> 00:01:56,420
+Okay, so you completed from electronic and communication.
+
+24
+00:01:57,420 --> 00:02:00,420
+No, no, no, ma'am. I completed from electrical engineering.
+
+25
+00:02:00,420 --> 00:02:03,420
+Okay, so you completed from electrical engineering.
+
+26
+00:02:03,420 --> 00:02:07,420
+So there are 3 things, electrical, electronic and BEEE.
+
+27
+00:02:07,420 --> 00:02:10,420
+So you have completed from only electrical engineering.
+
+28
+00:02:11,420 --> 00:02:12,420
+Yes, ma'am.
+
+29
+00:02:12,420 --> 00:02:17,420
+Okay, and after 2017, what are your qualifications and experience after qualification?
+
+30
+00:02:19,420 --> 00:02:24,420
+After qualification, I have worked in an electrical company for 1 year.
+
+31
+00:02:25,420 --> 00:02:26,420
+Okay, which company?
+
+32
+00:02:26,420 --> 00:02:27,420
+Not 1 year.
+
+33
+00:02:27,420 --> 00:02:32,420
+No, no, ma'am. I'm a channel partner of ABB.
+
+34
+00:02:33,420 --> 00:02:35,420
+I worked there only.
+
+35
+00:02:35,420 --> 00:02:38,420
+After lockdown, I went on service dex.
+
+36
+00:02:40,420 --> 00:02:42,420
+And I'm still doing that.
+
+37
+00:02:42,420 --> 00:02:44,420
+So what's your main job now?
+
+38
+00:02:45,420 --> 00:02:48,420
+I have a job in ticketing tool.
+
+39
+00:02:48,420 --> 00:02:49,420
+I have a job in processing.
+
+40
+00:02:49,420 --> 00:02:52,420
+You have a job in ticketing tool and processing. Which company are you in now?
+
+41
+00:02:53,420 --> 00:02:55,420
+I'm in ProdEvance now.
+
+42
+00:02:55,420 --> 00:02:58,420
+ProdEvance technology privately.
+
+43
+00:02:59,420 --> 00:03:00,420
+ProdEvance?
+
+44
+00:03:01,420 --> 00:03:02,420
+ProdEvance.
+
+45
+00:03:02,420 --> 00:03:04,420
+You are in ProdEvance. Okay.
+
+46
+00:03:04,420 --> 00:03:09,420
+So what's your role here? If I ask your designation, what's your designation?
+
+47
+00:03:10,420 --> 00:03:16,420
+I'm here on service dex, which I told you.
+
+48
+00:03:17,420 --> 00:03:19,420
+So you are not getting any projects?
+
+49
+00:03:20,420 --> 00:03:24,420
+Yes, I'm working in a GSI project, Calcutta based.
+
+50
+00:03:25,420 --> 00:03:29,420
+I'm also working on a government project.
+
+51
+00:03:30,420 --> 00:03:31,420
+Okay.
+
+52
+00:03:31,420 --> 00:03:32,420
+So I want to switch.
+
+53
+00:03:33,420 --> 00:03:36,420
+Okay. So Anirban, what CTC are you getting from the company?
+
+54
+00:03:36,420 --> 00:03:38,420
+And how many years have you been working here?
+
+55
+00:03:40,420 --> 00:03:42,420
+It's been about three years, ma'am.
+
+56
+00:03:43,420 --> 00:03:46,420
+It's been three years. And what CTC is this company giving you?
+
+57
+00:03:46,420 --> 00:03:48,420
+I'm getting CTC of 2.5 lakhs.
+
+58
+00:03:48,420 --> 00:03:49,420
+You're getting 2.5 lakhs.
+
+59
+00:03:50,420 --> 00:03:53,420
+So you have done a lot of research on Scalar.
+
+60
+00:03:53,420 --> 00:03:55,420
+You said that you know a lot of things.
+
+61
+00:03:55,420 --> 00:03:57,420
+So what does Scalar do according to you?
+
+62
+00:03:57,420 --> 00:04:03,420
+Because a lot of people think that Scalar gives a course in which training and placements are there.
+
+63
+00:04:03,420 --> 00:04:07,420
+According to you, what you have an idea about Scalar Academy?
+
+64
+00:04:08,420 --> 00:04:15,420
+Ma'am, I saw that the community of Scalar is very big.
+
+65
+00:04:16,420 --> 00:04:27,420
+If you get proper courses from here, I thought I would ask you.
+
+66
+00:04:28,420 --> 00:04:31,420
+Anirban, let me tell you. Scalar is a skill-oriented program.
+
+67
+00:04:31,420 --> 00:04:36,420
+Skill-oriented program means that we try to understand everyone's profile first.
+
+68
+00:04:36,420 --> 00:04:41,420
+Rather than giving you a course and taking a certificate, that will not help.
+
+69
+00:04:42,420 --> 00:04:44,420
+So first of all, we take a small test of yours.
+
+70
+00:04:44,420 --> 00:04:49,420
+If you are from a non-technical background, it is based on mathematics and logical reasoning.
+
+71
+00:04:49,420 --> 00:04:50,420
+It is a basic test.
+
+72
+00:04:50,420 --> 00:04:57,420
+If you get less than 40% in this test, we ourselves deny that the field of data science is not relevant for you.
+
+73
+00:04:57,420 --> 00:05:02,420
+And if you get more than 40%, that means this field is relevant for you.
+
+74
+00:05:02,420 --> 00:05:04,420
+You can take your transition in this.
+
+75
+00:05:04,420 --> 00:05:09,420
+So after this test, you will also get confidence that I am choosing the right career for myself.
+
+76
+00:05:09,420 --> 00:05:15,420
+And we will also get confidence that we are choosing the right learner who we can train and get placements in the end.
+
+77
+00:05:15,420 --> 00:05:21,420
+When you do this, when your entrance examination and eligibility test is done, and suppose you enroll in Scalar,
+
+78
+00:05:21,420 --> 00:05:25,420
+after enrollment, we will take an exam of two hours.
+
+79
+00:05:25,420 --> 00:05:29,420
+In that two-hour exam, we will evaluate your entire profile.
+
+80
+00:05:29,420 --> 00:05:38,420
+What do you know and what do you not know as per industry standards, such as mathematics, statistics, probability, business acumen, programming questions.
+
+81
+00:05:38,420 --> 00:05:44,420
+Now, according to this result, I know that Arunbhan does not know anything about data science.
+
+82
+00:05:44,420 --> 00:05:49,420
+So in that condition, I will put you in the beginner batch, where things will be taught from scratch level.
+
+83
+00:05:49,420 --> 00:05:55,420
+Because Arunbhan, in Scalar, people come from 0 years to 25 years and everyone's vision is different.
+
+84
+00:05:55,420 --> 00:05:59,420
+For example, you have to become a data analyst or data scientist.
+
+85
+00:05:59,420 --> 00:06:02,420
+If someone is a data analyst from the beginning, he will have to become a data scientist.
+
+86
+00:06:02,420 --> 00:06:06,420
+If someone is a data scientist from the beginning, he will have to become a machine learning scientist.
+
+87
+00:06:06,420 --> 00:06:08,420
+So everyone's goal is different.
+
+88
+00:06:08,420 --> 00:06:09,420
+Correct?
+
+89
+00:06:09,420 --> 00:06:11,420
+So I can't give everyone the same course.
+
+90
+00:06:11,420 --> 00:06:22,420
+So what I will do is I will take that two-hour exam to evaluate how good the work he is doing is and what batch I have to start from so that I can give him the right learning.
+
+91
+00:06:22,420 --> 00:06:24,420
+So it's a personalized driven program.
+
+92
+00:06:24,420 --> 00:06:25,420
+Okay.
+
+93
+00:06:25,420 --> 00:06:26,420
+Now, you know...
+
+94
+00:06:26,420 --> 00:06:28,420
+I will say it first.
+
+95
+00:06:28,420 --> 00:06:30,420
+I am from a non-coding background.
+
+96
+00:06:30,420 --> 00:06:32,420
+Yes, you will go to the beginner.
+
+97
+00:06:32,420 --> 00:06:36,420
+I am just giving you an example of how we personalize batches for learners.
+
+98
+00:06:36,420 --> 00:06:40,420
+Because if you go to the market and say that you want to do data science,
+
+99
+00:06:40,420 --> 00:06:45,420
+then they will tell you the curriculum, they will give you the syllabus, they will tell you the mentor details, they will tell you the placements and they will tell you the fees.
+
+100
+00:06:45,420 --> 00:06:47,420
+You have to pay the fees and join.
+
+101
+00:06:47,420 --> 00:06:53,420
+Neither will they evaluate your profile, nor will they be able to tell you whether it is right to go into data science or not.
+
+102
+00:06:53,420 --> 00:06:56,420
+For them, you will just do the course and they will give you the certificate.
+
+103
+00:06:56,420 --> 00:07:00,420
+But look, the placement record of the scaler is 97%.
+
+104
+00:07:00,420 --> 00:07:07,420
+Now, in that condition, I cannot take such learners who do not have confidence that they will be able to be placed after the full training.
+
+105
+00:07:07,420 --> 00:07:09,420
+That's why we take the exam.
+
+106
+00:07:09,420 --> 00:07:12,420
+And the second exam is taken so that you can understand your profile.
+
+107
+00:07:12,420 --> 00:07:14,420
+If you know math, then how much do you know?
+
+108
+00:07:14,420 --> 00:07:16,420
+If you know stats, then how much do you know?
+
+109
+00:07:16,420 --> 00:07:18,420
+What basics do we need to teach?
+
+110
+00:07:18,420 --> 00:07:19,420
+Okay.
+
+111
+00:07:19,420 --> 00:07:22,420
+So, we have done a course of about 8-9 months.
+
+112
+00:07:22,420 --> 00:07:26,420
+In which, the foundation will be taught in 8-9 months.
+
+113
+00:07:26,420 --> 00:07:30,420
+And in that foundation, all the projects will be done, which are done by tier-1 companies.
+
+114
+00:07:30,420 --> 00:07:35,420
+From Netflix, from Amazon, from McKinsey, from Walmart, from Ulu, from Delivery.
+
+115
+00:07:35,420 --> 00:07:40,420
+We make you do real-time projects through the good companies in the market.
+
+116
+00:07:40,420 --> 00:07:46,420
+So, like a freelancer projects, he is working on a real project of a company.
+
+117
+00:07:46,420 --> 00:07:50,420
+Similarly, you will work on a real business problem of a company and on real projects.
+
+118
+00:07:50,420 --> 00:07:52,420
+And you have full training on that.
+
+119
+00:07:52,420 --> 00:07:55,420
+So, the training pattern of the scaler is not theory.
+
+120
+00:07:55,420 --> 00:07:58,420
+We do not teach you only theory from Python, SQL.
+
+121
+00:07:58,420 --> 00:08:00,420
+Its application will be taught.
+
+122
+00:08:00,420 --> 00:08:02,420
+Data will be given to you.
+
+123
+00:08:02,420 --> 00:08:06,420
+The whole instructor who is teaching you will be data scientists, machine learning scientists.
+
+124
+00:08:06,420 --> 00:08:09,420
+Those who have a good experience of 10-15 years.
+
+125
+00:08:09,420 --> 00:08:11,420
+They take the same classes here.
+
+126
+00:08:11,420 --> 00:08:15,420
+And they will train you in such a way that if you become a data analyst in a company,
+
+127
+00:08:15,420 --> 00:08:17,420
+then what does a data analyst do?
+
+128
+00:08:17,420 --> 00:08:22,420
+After complete training, when you have done the projects,
+
+129
+00:08:22,420 --> 00:08:27,420
+you have hands-on experience, you know how a data analyst works on projects.
+
+130
+00:08:27,420 --> 00:08:30,420
+Then we create your resume, make you make LinkedIn,
+
+131
+00:08:30,420 --> 00:08:35,420
+prepare your mock interview, you are properly prepared for the interview.
+
+132
+00:08:35,420 --> 00:08:40,420
+And at the end, the scaler schedules your interview from where your placement is done.
+
+133
+00:08:40,420 --> 00:08:45,420
+So, from the start to the end, all the things are done in a very personalized way.
+
+134
+00:08:45,420 --> 00:08:50,420
+Your doubt sessions, mock interview sessions, all this is done in a personalized way.
+
+135
+00:08:52,420 --> 00:08:54,420
+And if I tell you the placement of the scaler,
+
+136
+00:08:54,420 --> 00:08:59,420
+then the placement of 0-3 years is 16.6 LPA average.
+
+137
+00:08:59,420 --> 00:09:02,420
+The minimum placement of this is 10.5 LPA.
+
+138
+00:09:02,420 --> 00:09:07,420
+So far, the package of 10.5 Lakhs is the lowest and the maximum is 1.7 crore rupees.
+
+139
+00:09:08,420 --> 00:09:13,420
+So, not maximum, but a normal package of 0-3 years is 12-15 Lakhs.
+
+140
+00:09:16,420 --> 00:09:18,420
+Do you have any question?
+
+141
+00:09:26,420 --> 00:09:28,420
+Yes, this was the main thing.
+
+142
+00:09:28,420 --> 00:09:31,420
+I have to ask you that your salary is very less as per the experience.
+
+143
+00:09:31,420 --> 00:09:36,420
+Because you have been working for 3-4 years, but the package is only 20,000.
+
+144
+00:09:36,420 --> 00:09:40,420
+Now, the fees of the scaler is 3.14 Lakhs.
+
+145
+00:09:40,420 --> 00:09:48,420
+If you go for EMI in 3.14 Lakhs, then you have to pay 20,000 to get admission.
+
+146
+00:09:48,420 --> 00:09:53,420
+And the remaining 2.94 Lakhs, you can convert it into EMI.
+
+147
+00:09:53,420 --> 00:09:58,420
+The minimum EMI of which is 7,300 rupees per month.
+
+148
+00:09:58,420 --> 00:10:03,420
+Ma'am, I am asking you.
+
+149
+00:10:03,420 --> 00:10:09,420
+Ma'am, can you tell me what is the pay after placement package?
+
+150
+00:10:09,420 --> 00:10:12,420
+You have heard that my package is 10.
+
+151
+00:10:12,420 --> 00:10:15,420
+No, Annam, pay after placement is a scam.
+
+152
+00:10:15,420 --> 00:10:18,420
+If you watch the video of pay after placement on YouTube,
+
+153
+00:10:18,420 --> 00:10:21,420
+you will get so many scams.
+
+154
+00:10:21,420 --> 00:10:23,420
+What do they do in pay after placement?
+
+155
+00:10:23,420 --> 00:10:25,420
+They don't take fees from you first.
+
+156
+00:10:25,420 --> 00:10:28,420
+They take 10-15,000 rupees for registration.
+
+157
+00:10:28,420 --> 00:10:33,420
+After that, they get you a year's education and they tie your EMI.
+
+158
+00:10:33,420 --> 00:10:37,420
+The interest that is in one year is included in your fees.
+
+159
+00:10:37,420 --> 00:10:39,420
+Because they are not taking fees for one year.
+
+160
+00:10:39,420 --> 00:10:43,420
+After that, when one year is over, they will give you placement in any company.
+
+161
+00:10:43,420 --> 00:10:48,420
+Where your placement is 3 lakh rupees, 4 lakh rupees, 5 lakh rupees, 10 lakh rupees,
+
+162
+00:10:48,420 --> 00:10:52,420
+it doesn't mean that you have to give them placement according to them.
+
+163
+00:10:52,420 --> 00:10:56,420
+After that, if the company gives you a two to three month's leave,
+
+164
+00:10:56,420 --> 00:10:59,420
+you can't go and say anything to them.
+
+165
+00:10:59,420 --> 00:11:02,420
+Because they will say that they have given you a pay after placement.
+
+166
+00:11:02,420 --> 00:11:05,420
+They have taught you everything and they have given you a placement.
+
+167
+00:11:05,420 --> 00:11:07,420
+Now you will not be working in the company.
+
+168
+00:11:07,420 --> 00:11:11,420
+You will not have learned things as per the company's requirements.
+
+169
+00:11:11,420 --> 00:11:14,420
+That is why the company has given you a leave.
+
+170
+00:11:14,420 --> 00:11:16,420
+So, you can't do anything according to their terms and conditions.
+
+171
+00:11:16,420 --> 00:11:20,420
+Neither can you do anything on them because you have signed the terms and conditions
+
+172
+00:11:20,420 --> 00:11:22,420
+of the pay after placement.
+
+173
+00:11:22,420 --> 00:11:25,420
+Neither can you ask them why they have given you a leave.
+
+174
+00:11:25,420 --> 00:11:27,420
+Because you have to get them a placement.
+
+175
+00:11:27,420 --> 00:11:29,420
+So, this has happened to many children.
+
+176
+00:11:29,420 --> 00:11:32,420
+They have completed the course in the name of pay after placement.
+
+177
+00:11:32,420 --> 00:11:35,420
+They have taken a placement and then they have to pay the entire fees
+
+178
+00:11:35,420 --> 00:11:38,420
+because auto debit is IMI.
+
+179
+00:11:38,420 --> 00:11:41,420
+It is very simple, but if you are not giving me fees,
+
+180
+00:11:41,420 --> 00:11:44,420
+then I don't have the resources to give you.
+
+181
+00:11:44,420 --> 00:11:47,420
+If I am running a company, suppose I have 50 children.
+
+182
+00:11:47,420 --> 00:11:50,420
+They are not giving me fees of 50.
+
+183
+00:11:50,420 --> 00:11:55,420
+So, all the training, salary, projects,
+
+184
+00:11:55,420 --> 00:11:59,420
+and the one-to-one sessions that we will give you,
+
+185
+00:11:59,420 --> 00:12:02,420
+I have no money to get all of that done.
+
+186
+00:12:02,420 --> 00:12:07,420
+I have not invested any money from my pocket to give you that much training.
+
+187
+00:12:07,420 --> 00:12:09,420
+So, what will be my plan?
+
+188
+00:12:09,420 --> 00:12:13,420
+I will be like, do this and get them a class and get them a placement.
+
+189
+00:12:13,420 --> 00:12:16,420
+Even if it takes a job of 4-5 lakhs, it is okay.
+
+190
+00:12:16,420 --> 00:12:19,420
+I will get my fees of 3.5 lakhs.
+
+191
+00:12:19,420 --> 00:12:21,420
+After that, the company is giving you or keeping you,
+
+192
+00:12:21,420 --> 00:12:23,420
+I don't care.
+
+193
+00:12:24,420 --> 00:12:27,420
+Even the university doesn't give pay after placement.
+
+194
+00:12:27,420 --> 00:12:29,420
+Even in the university, when you need a degree,
+
+195
+00:12:29,420 --> 00:12:32,420
+you must have paid fees before you graduated.
+
+196
+00:12:32,420 --> 00:12:34,420
+Then they gave you classes.
+
+197
+00:12:34,420 --> 00:12:38,420
+When you pay me fees, then I will give you good instructors.
+
+198
+00:12:38,420 --> 00:12:40,420
+Because I will pay their salary with that fee.
+
+199
+00:12:40,420 --> 00:12:43,420
+I will get you projects with that fee.
+
+200
+00:12:43,420 --> 00:12:46,420
+And nothing happens with 3.14 lakhs.
+
+201
+00:12:46,420 --> 00:12:48,420
+3.14 thousand into 500.
+
+202
+00:12:48,420 --> 00:12:50,420
+500 students enroll.
+
+203
+00:12:50,420 --> 00:12:53,420
+So, the 500 that you multiply in 3.14 lakhs,
+
+204
+00:12:53,420 --> 00:12:56,420
+now all the money you have, all that money is used to do everything.
+
+205
+00:12:56,420 --> 00:12:58,420
+The collaboration with the company will be done.
+
+206
+00:12:58,420 --> 00:13:00,420
+Your instructors will be given salaries.
+
+207
+00:13:00,420 --> 00:13:04,420
+Money will be given for your projects so that you can get real-time projects
+
+208
+00:13:04,420 --> 00:13:06,420
+from Netflix, Amazon delivery.
+
+209
+00:13:06,420 --> 00:13:08,420
+Your doubt sessions will be done.
+
+210
+00:13:08,420 --> 00:13:10,420
+You will be given proper training because you have already paid the fees.
+
+211
+00:13:10,420 --> 00:13:12,420
+We can do all this with the fees.
+
+212
+00:13:15,420 --> 00:13:17,420
+You can discuss with your family.
+
+213
+00:13:17,420 --> 00:13:21,420
+If they can afford 7000 rupees with you,
+
+214
+00:13:21,420 --> 00:13:24,420
+how will we get 7000 rupees for a year?
+
+215
+00:13:24,420 --> 00:13:26,420
+You have to get it for a year only.
+
+216
+00:13:26,420 --> 00:13:29,420
+Placement starts after 8-9 months.
+
+217
+00:13:29,420 --> 00:13:33,420
+I will assume that you will be in placement for 1-2 months.
+
+218
+00:13:33,420 --> 00:13:36,420
+If you add 7000 rupees in a year,
+
+219
+00:13:36,420 --> 00:13:41,420
+you have registered for 7000 rupees for 11 months plus 20,000 rupees.
+
+220
+00:13:41,420 --> 00:13:43,420
+You have registered for 97,000.
+
+221
+00:13:43,420 --> 00:13:46,420
+You have done your training, classes,
+
+222
+00:13:46,420 --> 00:13:49,420
+you have studied properly and you have been in placement.
+
+223
+00:13:49,420 --> 00:13:53,420
+After being in placement, you can continue the remaining EMI.
+
+224
+00:13:53,420 --> 00:13:56,420
+Because then you will not have to take help from your family.
+
+225
+00:13:56,420 --> 00:13:58,420
+How much will be your earning?
+
+226
+00:13:58,420 --> 00:14:00,420
+Will you continue it yourself?
+
+227
+00:14:00,420 --> 00:14:05,420
+First, to enroll, I will get 20,000 rupees.
+
+228
+00:14:05,420 --> 00:14:08,420
+The remaining EMI will start in August.
+
+229
+00:14:08,420 --> 00:14:10,420
+No EMI is given in July.
+
+230
+00:14:10,420 --> 00:14:14,420
+It will start in August and will be 7300 rupees per month.
+
+231
+00:14:14,420 --> 00:14:17,420
+How many months will you have to give?
+
+232
+00:14:17,420 --> 00:14:19,420
+It is a 5-year EMI.
+
+233
+00:14:19,420 --> 00:14:21,420
+It is a 5-year EMI.
+
+234
+00:14:21,420 --> 00:14:23,420
+You will have to pay a 2-year EMI.
+
+235
+00:14:23,420 --> 00:14:26,420
+2-year EMI is 12,250 rupees.
+
+236
+00:14:26,420 --> 00:14:30,420
+In a salary of 20,000 rupees, 12,000 rupees.
+
+237
+00:14:30,420 --> 00:14:32,420
+I will tell you again.
+
+238
+00:14:32,420 --> 00:14:35,420
+There are 3,14,000 fees after the scholarship.
+
+239
+00:14:35,420 --> 00:14:37,420
+In which when you pay 20,000 admission,
+
+240
+00:14:37,420 --> 00:14:40,420
+we will convert 2,94,000 into EMI.
+
+241
+00:14:40,420 --> 00:14:43,420
+If you convert 2,94,000 in 2 years,
+
+242
+00:14:43,420 --> 00:14:46,420
+you will have to pay 12,250 per month.
+
+243
+00:14:46,420 --> 00:14:48,420
+There is no interest in this.
+
+244
+00:14:48,420 --> 00:14:51,420
+There is no GST, no processing fees, nothing.
+
+245
+00:14:51,420 --> 00:14:53,420
+You check in the calculator.
+
+246
+00:14:53,420 --> 00:14:57,420
+2,94,000 divided by 24 months, 12,250 exact amount comes.
+
+247
+00:14:57,420 --> 00:14:59,420
+The second is a 5-year EMI.
+
+248
+00:14:59,420 --> 00:15:01,420
+The one who cannot afford 12,000
+
+249
+00:15:01,420 --> 00:15:03,420
+goes to 7300 EMI.
+
+250
+00:15:03,420 --> 00:15:05,420
+But interest is also included in this.
+
+251
+00:15:05,420 --> 00:15:07,420
+If you go to 7300 EMI,
+
+252
+00:15:07,420 --> 00:15:09,420
+then you pay the same EMI for a year
+
+253
+00:15:09,420 --> 00:15:11,420
+so that you do not have a burden on you.
+
+254
+00:15:11,420 --> 00:15:14,420
+After a year, when your placement is done,
+
+255
+00:15:14,420 --> 00:15:16,420
+then the remaining 4-year EMI,
+
+256
+00:15:16,420 --> 00:15:18,420
+you can pay it quickly.
+
+257
+00:15:18,420 --> 00:15:21,420
+Because your salary will be 10-12 lakh rupees.
+
+258
+00:15:21,420 --> 00:15:23,420
+Then why will you pay 7,000?
+
+259
+00:15:23,420 --> 00:15:25,420
+Then you pay 15,000, 20,000 a month.
+
+260
+00:15:25,420 --> 00:15:28,420
+So that you finish the 4-year EMI in 2 years.
+
+261
+00:15:32,420 --> 00:15:34,420
+If you understand my point,
+
+262
+00:15:34,420 --> 00:15:36,420
+the fees of the scaler cannot be reduced.
+
+263
+00:15:36,420 --> 00:15:39,420
+Whether you talk today or after 6 months.
+
+264
+00:15:39,420 --> 00:15:42,420
+Because the scaler has created a brand
+
+265
+00:15:42,420 --> 00:15:44,420
+and we cannot negotiate in quality.
+
+266
+00:15:44,420 --> 00:15:46,420
+If I reduce the fees,
+
+267
+00:15:46,420 --> 00:15:48,420
+then I will not be able to get such instructors
+
+268
+00:15:48,420 --> 00:15:51,420
+who are good instructors like senior data scientist,
+
+269
+00:15:51,420 --> 00:15:53,420
+Suraj Haseeja sir.
+
+270
+00:15:53,420 --> 00:15:55,420
+He is working in Google.
+
+271
+00:15:55,420 --> 00:15:57,420
+Machine learning scientist is Shrikant Verma sir.
+
+272
+00:15:57,420 --> 00:15:59,420
+He is working in Amazon.
+
+273
+00:15:59,420 --> 00:16:02,420
+So such people have their own 15-20 years of experience
+
+274
+00:16:02,420 --> 00:16:04,420
+and their own salary is 80-90 lakh rupees.
+
+275
+00:16:04,420 --> 00:16:07,420
+Now if I am calling them to do classes,
+
+276
+00:16:07,420 --> 00:16:09,420
+then obviously they are taking so much cost
+
+277
+00:16:09,420 --> 00:16:11,420
+because they have a skill set.
+
+278
+00:16:11,420 --> 00:16:13,420
+So if I reduce the fees,
+
+279
+00:16:13,420 --> 00:16:15,420
+then I will give the professor instead of them.
+
+280
+00:16:15,420 --> 00:16:17,420
+The professor who will take 20 lakh rupees
+
+281
+00:16:17,420 --> 00:16:19,420
+for a year for 20 lakh rupees,
+
+282
+00:16:19,420 --> 00:16:21,420
+but he will properly teach you only theory.
+
+283
+00:16:21,420 --> 00:16:23,420
+Then there will be no placement.
+
+284
+00:16:23,420 --> 00:16:25,420
+Second, projects also.
+
+285
+00:16:25,420 --> 00:16:27,420
+If I get you projects from TCS, Infosys,
+
+286
+00:16:27,420 --> 00:16:29,420
+service based companies,
+
+287
+00:16:29,420 --> 00:16:31,420
+then it will take a job of 4-5 lakhs.
+
+288
+00:16:31,420 --> 00:16:33,420
+I have to get you a good package.
+
+289
+00:16:33,420 --> 00:16:35,420
+The package goes up to 12-17 lakhs in the scaler.
+
+290
+00:16:35,420 --> 00:16:37,420
+So I have to get you projects from Netflix,
+
+291
+00:16:37,420 --> 00:16:39,420
+Amazon, Delivery, good companies
+
+292
+00:16:39,420 --> 00:16:41,420
+so that your training can be good.
+
+293
+00:16:41,420 --> 00:16:43,420
+There is a year's struggle.
+
+294
+00:16:43,420 --> 00:16:45,420
+You can think in two ways.
+
+295
+00:16:45,420 --> 00:16:47,420
+Either you are doing it for 3-4 years.
+
+296
+00:16:47,420 --> 00:16:49,420
+You have a salary of 20,000 rupees.
+
+297
+00:16:49,420 --> 00:16:51,420
+You are struggling a lot in that.
+
+298
+00:16:51,420 --> 00:16:53,420
+There will be financial issues.
+
+299
+00:16:53,420 --> 00:16:55,420
+You will have to do something.
+
+300
+00:16:55,420 --> 00:16:57,420
+You can continue that.
+
+301
+00:16:57,420 --> 00:16:59,420
+The second option is that you struggle for a year.
+
+302
+00:16:59,420 --> 00:17:01,420
+Rather than struggling for a whole life,
+
+303
+00:17:01,420 --> 00:17:03,420
+we struggle for a year.
+
+304
+00:17:03,420 --> 00:17:05,420
+In a year, I have to arrange 7000 rupees per month
+
+305
+00:17:05,420 --> 00:17:07,420
+in any way so that I can train properly.
+
+306
+00:17:07,420 --> 00:17:09,420
+When you get trained in a year,
+
+307
+00:17:09,420 --> 00:17:11,420
+you will have a good skill set,
+
+308
+00:17:11,420 --> 00:17:13,420
+you will have studied well,
+
+309
+00:17:13,420 --> 00:17:15,420
+and data science is booming.
+
+310
+00:17:15,420 --> 00:17:17,420
+So there is a lot of requirement of data science in the market.
+
+311
+00:17:17,420 --> 00:17:19,420
+Every other company is hiring data analysts.
+
+312
+00:17:19,420 --> 00:17:21,420
+So if you get trained at that level,
+
+313
+00:17:21,420 --> 00:17:23,420
+then the lowest salary is 10 lakh rupees.
+
+314
+00:17:23,420 --> 00:17:25,420
+You get a package of 10-11 lakh rupees.
+
+315
+00:17:25,420 --> 00:17:27,420
+Your monthly salary will be 80-90 thousand rupees.
+
+316
+00:17:27,420 --> 00:17:29,420
+You will easily be able to fill the EMI.
+
+317
+00:17:29,420 --> 00:17:31,420
+So the struggle you have to do is for a year.
+
+318
+00:17:31,420 --> 00:17:33,420
+If your family supports you for that one year,
+
+319
+00:17:33,420 --> 00:17:35,420
+what does your family do?
+
+320
+00:17:35,420 --> 00:17:37,420
+I have a family of more than one.
+
+321
+00:17:37,420 --> 00:17:39,420
+I have a family of more than one.
+
+322
+00:17:39,420 --> 00:17:41,420
+I have a family of more than one.
+
+323
+00:17:41,420 --> 00:17:43,420
+I have a family of more than one.
+
+324
+00:17:43,420 --> 00:17:45,420
+I have a family of more than one.
+
+325
+00:17:45,420 --> 00:17:47,420
+I don't have a family background.
+
+326
+00:17:47,420 --> 00:17:49,420
+I don't have a family background.
+
+327
+00:17:49,420 --> 00:17:51,420
+What do your parents do?
+
+328
+00:17:51,420 --> 00:17:53,420
+What do my parents do?
+
+329
+00:17:53,420 --> 00:17:55,420
+My mother is a housewife.
+
+330
+00:17:55,420 --> 00:17:57,420
+My father was a teacher at a retired school.
+
+331
+00:17:57,420 --> 00:17:59,420
+Okay.
+
+332
+00:17:59,420 --> 00:18:01,420
+So you must be able to get their pension.
+
+333
+00:18:01,420 --> 00:18:03,420
+Yes, I must be able to get their pension.
+
+334
+00:18:03,420 --> 00:18:05,420
+You can do this also.
+
+335
+00:18:05,420 --> 00:18:07,420
+I can give you a suggestion.
+
+336
+00:18:07,420 --> 00:18:09,420
+You can do this also.
+
+337
+00:18:09,420 --> 00:18:11,420
+The money you earn for 20,000 rupees,
+
+338
+00:18:11,420 --> 00:18:13,420
+you must be able to help your family.
+
+339
+00:18:13,420 --> 00:18:15,420
+You must be able to help your family.
+
+340
+00:18:15,420 --> 00:18:17,420
+You can talk to your father
+
+341
+00:18:17,420 --> 00:18:19,420
+and ask him to give you one year.
+
+342
+00:18:19,420 --> 00:18:21,420
+In this one year, you must do proper training.
+
+343
+00:18:21,420 --> 00:18:23,420
+Because your struggle will never end,
+
+344
+00:18:23,420 --> 00:18:25,420
+but you will not give up your skills.
+
+345
+00:18:25,420 --> 00:18:27,420
+There will be no miracle
+
+346
+00:18:27,420 --> 00:18:29,420
+that a company will come next year
+
+347
+00:18:29,420 --> 00:18:31,420
+and ask you to take a 10 lakh package.
+
+348
+00:18:31,420 --> 00:18:33,420
+Until you study, you will not take training.
+
+349
+00:18:33,420 --> 00:18:35,420
+Until you are skilled, the company will not give you a job.
+
+350
+00:18:35,420 --> 00:18:37,420
+So either you do it now,
+
+351
+00:18:37,420 --> 00:18:39,420
+that after one year, I will have a good placement.
+
+352
+00:18:39,420 --> 00:18:41,420
+After one year, I will have a good placement.
+
+353
+00:18:41,420 --> 00:18:43,420
+In May-June, I will have a good placement.
+
+354
+00:18:43,420 --> 00:18:45,420
+I will be on a 10-12 lakh package.
+
+355
+00:18:45,420 --> 00:18:47,420
+Or you will switch to another company
+
+356
+00:18:47,420 --> 00:18:49,420
+instead of 2 lakh 20,000 rupees.
+
+357
+00:18:49,420 --> 00:18:51,420
+The other company will give you 22,000 rupees instead of 20,000.
+
+358
+00:18:51,420 --> 00:18:53,420
+It will give you 25,000 rupees.
+
+359
+00:18:53,420 --> 00:18:55,420
+You can discuss with your father
+
+360
+00:18:55,420 --> 00:18:57,420
+that you should give me one year.
+
+361
+00:18:57,420 --> 00:18:59,420
+In which I have to pay 7,000 rupees
+
+362
+00:18:59,420 --> 00:19:01,420
+for my studies.
+
+363
+00:19:01,420 --> 00:19:03,420
+The rest of the money I will give you at home.
+
+364
+00:19:03,420 --> 00:19:05,420
+Let's cut a little for one year.
+
+365
+00:19:05,420 --> 00:19:07,420
+Let's cut a little for any extra things,
+
+366
+00:19:07,420 --> 00:19:09,420
+extra shopping, anything extra.
+
+367
+00:19:09,420 --> 00:19:11,420
+Let's cut a little for one year.
+
+368
+00:19:11,420 --> 00:19:13,420
+Because after one year, when your salary is 11-12 lakh rupees,
+
+369
+00:19:13,420 --> 00:19:15,420
+your family's financial will be completely solved.
+
+370
+00:19:17,420 --> 00:19:19,420
+Because at that time, when you are earning
+
+371
+00:19:19,420 --> 00:19:21,420
+80-90,000 rupees, your father's pension is coming,
+
+372
+00:19:21,420 --> 00:19:23,420
+it is not coming.
+
+373
+00:19:23,420 --> 00:19:25,420
+Even if it comes, it will not make any difference to you
+
+374
+00:19:25,420 --> 00:19:27,420
+because you will handle the whole family in a comfortable way
+
+375
+00:19:27,420 --> 00:19:29,420
+and from there you will be able to grow further.
+
+376
+00:19:31,420 --> 00:19:33,420
+So if your family helps for 7,000 rupees,
+
+377
+00:19:33,420 --> 00:19:35,420
+and you do not even have to ask for 7,000 rupees,
+
+378
+00:19:35,420 --> 00:19:37,420
+you are also earning 20,000 rupees.
+
+379
+00:19:37,420 --> 00:19:39,420
+So out of that 20,000 rupees, you have to
+
+380
+00:19:39,420 --> 00:19:41,420
+put 7,000 rupees in your studies.
+
+381
+00:19:41,420 --> 00:19:43,420
+The rest of the money you give at home is 14,000 rupees.
+
+382
+00:19:45,420 --> 00:19:47,420
+Any other queries, Arindam?
+
+383
+00:19:47,420 --> 00:19:49,420
+No, no, ma'am. Thank you.
+
+384
+00:19:49,420 --> 00:19:51,420
+Thank you so much.
+
+385
+00:19:51,420 --> 00:19:53,420
+For telling me everything.
+
+386
+00:19:53,420 --> 00:19:55,420
+Can I save your number?
+
+387
+00:19:55,420 --> 00:19:57,420
+Yes, yes, you can save it.
+
+388
+00:19:57,420 --> 00:19:59,420
+Yes, you can call on this number.
+
+389
+00:19:59,420 --> 00:20:01,420
+I am working. Is this number on WhatsApp?
+
+390
+00:20:01,420 --> 00:20:03,420
+No, no, ma'am.
+
+391
+00:20:03,420 --> 00:20:05,420
+I am not on WhatsApp.
+
+392
+00:20:05,420 --> 00:20:07,420
+I will tell you my WhatsApp number.
+
+393
+00:20:07,420 --> 00:20:09,420
+I will send you some details so that you can go through
+
+394
+00:20:09,420 --> 00:20:11,420
+the details and see the placements.
+
+395
+00:20:11,420 --> 00:20:13,420
+Tell me the number.
+
+396
+00:20:13,420 --> 00:20:15,420
+Yes, yes.
+
+397
+00:20:15,420 --> 00:20:17,420
+875
+
+398
+00:20:17,420 --> 00:20:19,420
+983
+
+399
+00:20:19,420 --> 00:20:21,420
+1214
+
+400
+00:20:21,420 --> 00:20:23,420
+1214
+
+401
+00:20:23,420 --> 00:20:25,420
+I will give you some details on WhatsApp.
+
+402
+00:20:25,420 --> 00:20:27,420
+You can go through all those details.
+
+403
+00:20:29,420 --> 00:20:31,420
+After going through, you will see the placements
+
+404
+00:20:31,420 --> 00:20:33,420
+and placements records.
+
+405
+00:20:33,420 --> 00:20:35,420
+You will see how many courses are there in a month,
+
+406
+00:20:35,420 --> 00:20:37,420
+what is the duration and I will send you
+
+407
+00:20:37,420 --> 00:20:39,420
+some videos of 4-5 minutes.
+
+408
+00:20:39,420 --> 00:20:41,420
+Go through all the details and first of all
+
+409
+00:20:41,420 --> 00:20:43,420
+you give the test because when you talk at home
+
+410
+00:20:43,420 --> 00:20:45,420
+they will say yes or no, that is the second thing.
+
+411
+00:20:45,420 --> 00:20:47,420
+If they say yes
+
+412
+00:20:47,420 --> 00:20:49,420
+and you have given the entrance exam and you have failed
+
+413
+00:20:49,420 --> 00:20:51,420
+then there is no point.
+
+414
+00:20:51,420 --> 00:20:53,420
+Because then you cannot join anyway.
+
+415
+00:20:53,420 --> 00:20:55,420
+If you give the evaluation test first
+
+416
+00:20:55,420 --> 00:20:57,420
+and if your score is above 40%
+
+417
+00:20:57,420 --> 00:20:59,420
+and you feel that yes, you are eligible
+
+418
+00:20:59,420 --> 00:21:01,420
+now I can go home and talk.
+
+419
+00:21:01,420 --> 00:21:03,420
+Because you know that if your family says yes
+
+420
+00:21:03,420 --> 00:21:05,420
+then you can at least join more.
+
+421
+00:21:07,420 --> 00:21:09,420
+Because that is the main thing.
+
+422
+00:21:09,420 --> 00:21:11,420
+What is the age-based?
+
+423
+00:21:11,420 --> 00:21:13,420
+Basic Maths and Basic Logical Reasoning.
+
+424
+00:21:15,420 --> 00:21:17,420
+In 10th and 12th grade
+
+425
+00:21:17,420 --> 00:21:19,420
+the basic Maths and Logic
+
+426
+00:21:19,420 --> 00:21:21,420
+that you have studied during your graduation
+
+427
+00:21:21,420 --> 00:21:23,420
+the same questions come and there will be 15 questions
+
+428
+00:21:23,420 --> 00:21:25,420
+based on all the MCQ.
+
+429
+00:21:25,420 --> 00:21:27,420
+It is a test of 25-30 minutes.
+
+430
+00:21:27,420 --> 00:21:29,420
+Okay.
+
+431
+00:21:29,420 --> 00:21:31,420
+What time are you free today?
+
+432
+00:21:31,420 --> 00:21:33,420
+Tell me, I will send you the test at that time.
+
+433
+00:21:33,420 --> 00:21:35,420
+At 8, 9, 10.
+
+434
+00:21:35,420 --> 00:21:37,420
+You can be free for half an hour anytime.
+
+435
+00:21:39,420 --> 00:21:41,420
+I am busy right now.
+
+436
+00:21:41,420 --> 00:21:43,420
+Can I do it tomorrow?
+
+437
+00:21:43,420 --> 00:21:45,420
+Yes, you can give the test tomorrow.
+
+438
+00:21:45,420 --> 00:21:47,420
+If you want tomorrow morning
+
+439
+00:21:47,420 --> 00:21:49,420
+then you can give the test between 10 and 1.
+
+440
+00:21:49,420 --> 00:21:51,420
+Yes, I am free.
+
+441
+00:21:51,420 --> 00:21:53,420
+It is better. Okay, I will do one thing.
+
+442
+00:21:53,420 --> 00:21:55,420
+I will send you all the details.
+
+443
+00:21:55,420 --> 00:21:57,420
+I will send you the details in your mail
+
+444
+00:21:57,420 --> 00:21:59,420
+or I will send you the details on WhatsApp.
+
+445
+00:21:59,420 --> 00:22:01,420
+Between 10 am and 1 am
+
+446
+00:22:01,420 --> 00:22:03,420
+you can be free for half an hour
+
+447
+00:22:03,420 --> 00:22:05,420
+in 3 hours.
+
+448
+00:22:05,420 --> 00:22:07,420
+Click on that link.
+
+449
+00:22:07,420 --> 00:22:09,420
+There are 15 questions.
+
+450
+00:22:09,420 --> 00:22:11,420
+Complete that and submit it.
+
+451
+00:22:11,420 --> 00:22:13,420
+I will tell you if you have qualified
+
+452
+00:22:13,420 --> 00:22:15,420
+or not.
+
+453
+00:22:15,420 --> 00:22:17,420
+If you have qualified then you can go
+
+454
+00:22:17,420 --> 00:22:19,420
+and talk to your parents.
+
+455
+00:22:19,420 --> 00:22:21,420
+If you have any doubts then you can
+
+456
+00:22:21,420 --> 00:22:23,420
+talk to them.
+
+457
+00:22:23,420 --> 00:22:25,420
+If you have any doubts then I will
+
+458
+00:22:25,420 --> 00:22:27,420
+refuse and you can
+
+459
+00:22:27,420 --> 00:22:29,420
+register again after 6 months.
+
+460
+00:22:29,420 --> 00:22:31,420
+If I have not qualified
+
+461
+00:22:31,420 --> 00:22:33,420
+then after 6 months.
+
+462
+00:22:33,420 --> 00:22:35,420
+Yes, you will have to come after
+
+463
+00:22:35,420 --> 00:22:37,420
+the second batch.
+
+464
+00:22:37,420 --> 00:22:39,420
+Okay.
+
+465
+00:22:39,420 --> 00:22:41,420
+This is eligibility criteria.
+
+466
+00:22:41,420 --> 00:22:43,420
+If you have not qualified then
+
+467
+00:22:43,420 --> 00:22:45,420
+you should not go in data science field.
+
+468
+00:22:45,420 --> 00:22:47,420
+You will face a lot of difficulties in the future.
+
+469
+00:22:47,420 --> 00:22:49,420
+Why do you choose such a career
+
+470
+00:22:49,420 --> 00:22:51,420
+in which you know that you will not be successful
+
+471
+00:22:51,420 --> 00:22:53,420
+because no one can change
+
+472
+00:22:53,420 --> 00:22:55,420
+the basic math and logic
+
+473
+00:22:55,420 --> 00:22:57,420
+because you have read
+
+474
+00:22:57,420 --> 00:22:59,420
+those things in your childhood.
+
+475
+00:22:59,420 --> 00:23:01,420
+We can groom you more
+
+476
+00:23:01,420 --> 00:23:03,420
+and teach you better.
+
+477
+00:23:03,420 --> 00:23:05,420
+But you need a base that you know math
+
+478
+00:23:05,420 --> 00:23:07,420
+because you have to work in data analysis
+
+479
+00:23:07,420 --> 00:23:09,420
+on mathematics and statistics.
+
+480
+00:23:09,420 --> 00:23:11,420
+Okay.
+
+481
+00:23:11,420 --> 00:23:13,420
+I will send you the details
+
+482
+00:23:13,420 --> 00:23:15,420
+and write EMI and other things on WhatsApp.
+
+483
+00:23:15,420 --> 00:23:17,420
+You can check it and give a test tomorrow.
+
+484
+00:23:17,420 --> 00:23:19,420
+Okay.
+
+485
+00:23:19,420 --> 00:23:21,420
+Thank you.
+

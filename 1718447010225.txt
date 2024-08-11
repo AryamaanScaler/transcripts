@@ -1,0 +1,396 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello
+
+2
+00:00:01,000 --> 00:00:02,000
+Hi Aditya
+
+3
+00:00:02,000 --> 00:00:03,000
+Hi Shree
+
+4
+00:00:03,000 --> 00:00:04,000
+Yeah, is it audible now?
+
+5
+00:00:04,000 --> 00:00:05,000
+Yes, yes
+
+6
+00:00:05,000 --> 00:00:06,000
+Yeah, yeah
+
+7
+00:00:06,000 --> 00:00:07,000
+Okay, so Aditya, had your lunch?
+
+8
+00:00:07,000 --> 00:00:08,000
+Yes, yes, completed
+
+9
+00:00:08,000 --> 00:00:19,000
+Great, great, okay, first of all, I really appreciate it by taking up the test on time,
+
+10
+00:00:19,000 --> 00:00:20,000
+okay?
+
+11
+00:00:20,000 --> 00:00:21,000
+Yeah
+
+12
+00:00:21,000 --> 00:00:27,000
+So now, you will have a final discussion with the program manager of Scalar Academy, Aditya,
+
+13
+00:00:27,000 --> 00:00:28,000
+okay?
+
+14
+00:00:28,000 --> 00:00:29,000
+Okay
+
+15
+00:00:29,000 --> 00:00:30,000
+And then, you will have a one-on-one basis, okay?
+
+16
+00:00:30,000 --> 00:00:31,000
+Okay
+
+17
+00:00:31,000 --> 00:00:35,000
+It's from the admission committee, so we will definitely have a word with you regarding
+
+18
+00:00:35,000 --> 00:00:40,160
+this and if everything goes well, then we can take it forward from here, okay?
+
+19
+00:00:40,160 --> 00:00:44,160
+The score discussion, everything would be happening in a one-on-one basis, Aditya, and
+
+20
+00:00:44,160 --> 00:00:48,520
+that session is also recorded and that will be audited as well, okay?
+
+21
+00:00:48,520 --> 00:00:49,520
+Okay
+
+22
+00:00:49,520 --> 00:00:54,960
+So, whatever questions, doubts you have, clarify with them very clearly and then take up a
+
+23
+00:00:54,960 --> 00:00:55,960
+decision on this, okay?
+
+24
+00:00:55,960 --> 00:00:56,960
+Okay
+
+25
+00:00:56,960 --> 00:00:57,960
+Okay, I am moving your candice here to the front
+
+26
+00:00:57,960 --> 00:00:58,960
+Okay
+
+27
+00:00:59,920 --> 00:01:02,920
+So, this is the final round of interview, this is going to be just 32, 32?
+
+28
+00:01:02,920 --> 00:01:10,480
+I have a meeting at 4, it goes to, I think, yeah, it's not a programming meeting, so I
+
+29
+00:01:10,480 --> 00:01:19,240
+think it goes 4 to 6, so after that, can we connect tomorrow because some serious deployments
+
+30
+00:01:19,240 --> 00:01:21,400
+are pending, that's why I am working Saturday
+
+31
+00:01:21,400 --> 00:01:26,200
+Uh-huh, so because this program managers are available till 8 p.m. today
+
+32
+00:01:26,200 --> 00:01:27,200
+Okay
+
+33
+00:01:27,440 --> 00:01:32,040
+Okay, okay, if I am getting 3, I will get you
+
+34
+00:01:32,040 --> 00:01:35,800
+Yeah, till 6 p.m. you have deployment, right, as you told, okay?
+
+35
+00:01:35,800 --> 00:01:36,800
+Yes, yes
+
+36
+00:01:36,800 --> 00:01:42,120
+Let it be till like 7 itself, we can have the final round of interview, sharp at 7.30
+
+37
+00:01:42,120 --> 00:01:43,120
+today, Aditya
+
+38
+00:01:43,120 --> 00:01:44,120
+7.30?
+
+39
+00:01:44,120 --> 00:01:47,120
+7.30 to 8 p.m.
+
+40
+00:01:47,120 --> 00:01:48,120
+Okay, okay
+
+41
+00:01:48,120 --> 00:01:49,120
+That works, right?
+
+42
+00:01:49,120 --> 00:01:52,120
+Yeah, yeah, I think, I think
+
+43
+00:01:52,120 --> 00:01:53,120
+Okay
+
+44
+00:01:53,120 --> 00:01:58,240
+If anything goes wrong, that's why I am saying that if everything is working fine, then it's
+
+45
+00:01:58,240 --> 00:01:59,240
+okay for me
+
+46
+00:01:59,240 --> 00:02:04,440
+See, why I am like postponing it after one and a half hours of the commitment you told
+
+47
+00:02:04,440 --> 00:02:07,600
+Still 4 to 6 p.m. there is a commitment, right?
+
+48
+00:02:07,600 --> 00:02:10,800
+I don't want to, you don't want to miss that, right?
+
+49
+00:02:10,800 --> 00:02:13,480
+You also need to work accordingly, you need to take this, right?
+
+50
+00:02:13,480 --> 00:02:17,320
+This is going to be just a 30 minutes of conversation with the program manager
+
+51
+00:02:17,320 --> 00:02:18,320
+Yes, yes
+
+52
+00:02:18,320 --> 00:02:22,320
+And this will come to a conclusion, Aditya, if it's yes or no, that's it, okay?
+
+53
+00:02:22,520 --> 00:02:26,720
+If yes, obviously as you mentioned it, right, you will be proceeding with this, we can confirm
+
+54
+00:02:26,720 --> 00:02:28,320
+the seat, right?
+
+55
+00:02:28,320 --> 00:02:29,960
+Then we can have a discussion, right?
+
+56
+00:02:29,960 --> 00:02:34,840
+Later, once you are on board and this, we can have a discussion, but like if it's not,
+
+57
+00:02:34,840 --> 00:02:38,520
+it should be an updated today, Aditya, that is why it's, don't think me wrong, we are
+
+58
+00:02:38,520 --> 00:02:43,360
+taking it like immediate basis, but that is how we work, either it's an yes or no, we
+
+59
+00:02:43,360 --> 00:02:47,600
+will conclude it on the same dates with any learner at this, okay?
+
+60
+00:02:47,600 --> 00:02:48,600
+Okay, okay
+
+61
+00:02:48,880 --> 00:02:52,720
+If from your end you are good to go, right, let's confirm the seat, if in case, if you
+
+62
+00:02:52,720 --> 00:02:56,560
+have been selected, let's confirm the seat, it's completely first come, first serve basis,
+
+63
+00:02:56,560 --> 00:02:57,560
+okay?
+
+64
+00:02:57,560 --> 00:03:03,720
+So, 6 o'clock you told, till 6 p.m. you are engaged, I am extending that session till
+
+65
+00:03:03,720 --> 00:03:10,320
+7.30, the last block, 7.30 to 8 p.m., the final round of interview would be happening
+
+66
+00:03:10,320 --> 00:03:12,440
+with the program manager, okay?
+
+67
+00:03:12,440 --> 00:03:17,600
+I am blocking the last slot of the session today, this is the last slot which we have,
+
+68
+00:03:17,600 --> 00:03:22,680
+I am blocking it for you Aditya, make sure you come up on screen face to face, okay?
+
+69
+00:03:22,680 --> 00:03:23,680
+Okay, okay
+
+70
+00:03:23,680 --> 00:03:30,320
+So, just a moment, let me first block the calendar with the program manager on the call itself,
+
+71
+00:03:30,320 --> 00:03:34,920
+so that meanwhile you can also accept that invite on the call itself, okay?
+
+72
+00:03:34,920 --> 00:03:35,920
+Okay
+
+73
+00:03:35,920 --> 00:03:36,920
+Just a moment, yeah?
+
+74
+00:03:36,920 --> 00:03:47,320
+Yeah, I think, if it is possible, just let me check, okay, it is possible to, can we
+
+75
+00:03:48,320 --> 00:03:49,320
+connect the call in 4?
+
+76
+00:03:49,320 --> 00:03:50,320
+4 p.m.?
+
+77
+00:03:50,320 --> 00:03:51,320
+Yes
+
+78
+00:03:51,320 --> 00:03:52,320
+4 to?
+
+79
+00:03:52,320 --> 00:03:53,320
+4 to 4.30
+
+80
+00:03:53,320 --> 00:03:58,320
+4 to 4.30, right away we can do it, can you join the session right away?
+
+81
+00:03:58,320 --> 00:03:59,320
+Yes, I think
+
+82
+00:03:59,320 --> 00:04:09,320
+Okay, Jan, Jasmeet, check, it is 4.30, it is 4 o'clock, yeah, Amrit is there, okay, I
+
+83
+00:04:09,320 --> 00:04:14,120
+will schedule the session sharp at now, you can just join the session right away, 4 p.m.
+
+84
+00:04:14,120 --> 00:04:20,640
+I am blocking the calendar for you, you can just join the meet, once you accepted it,
+
+85
+00:04:20,640 --> 00:04:25,480
+then only the program manager will come, okay, let us conclude it, just be on hold, just
+
+86
+00:04:25,480 --> 00:04:26,480
+be on hold
+
+87
+00:04:26,480 --> 00:04:47,360
+Amrit, you are right, 4 to 4.30 today, just check whether you got the invite now?
+
+88
+00:04:48,240 --> 00:05:06,240
+I am just checking, just checking, yes, I received the invite
+
+89
+00:05:06,240 --> 00:05:12,240
+You can see an option called yes, no, maybe, I believe I have accepted that, right?
+
+90
+00:05:12,240 --> 00:05:13,240
+Yes
+
+91
+00:05:14,120 --> 00:05:19,800
+Great, okay, now just come on this link Aditya, so that like I will inform the
+
+92
+00:05:19,800 --> 00:05:20,800
+Join Google meet, right?
+
+93
+00:05:20,800 --> 00:05:21,800
+Yeah, yeah, Google meet, join now
+
+94
+00:05:21,800 --> 00:05:22,800
+Session, you have a session, no?
+
+95
+00:05:22,800 --> 00:05:23,800
+You have a session?
+
+96
+00:05:23,800 --> 00:05:39,800
+Yeah, yeah, yeah, Aditya, I have blocked it, the program manager is going to join now,
+
+97
+00:05:40,360 --> 00:05:41,360
+you can also join the session, okay?
+
+98
+00:05:41,360 --> 00:05:42,360
+Yes, I joined it
+
+99
+00:05:42,360 --> 00:05:45,360
+Let me know, you joined right, okay, just a moment
+

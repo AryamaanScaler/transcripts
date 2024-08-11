@@ -1,0 +1,636 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,360 --> 00:00:08,720
+Yeah, oh, yeah, am I talking to Swagat? Yeah. Yeah. Hi Swagat Abhishek this side from scalar
+
+3
+00:00:09,600 --> 00:00:14,320
+Yeah, yeah Swagat here. Yeah Swagat Abhishek this side from scalar academy. How are you?
+
+4
+00:00:15,320 --> 00:00:18,400
+Yeah, I'm doing good. Yeah, is this the right time to talk?
+
+5
+00:00:18,920 --> 00:00:25,600
+Yeah, yeah. Yeah. Got it. So just to confirm few things you enrolled in our academy course and the current batch
+
+6
+00:00:25,600 --> 00:00:28,760
+I can say is July 24. So you recently enrolled in our program
+
+7
+00:00:29,400 --> 00:00:33,720
+Correct. Right. So how things going on for you? Like everything is going well till date
+
+8
+00:00:35,080 --> 00:00:38,120
+Yeah, everything is going fine. Actually see I
+
+9
+00:00:39,000 --> 00:00:40,560
+was
+
+10
+00:00:40,560 --> 00:00:42,560
+supposed to go out of town from
+
+11
+00:00:43,320 --> 00:00:46,720
+21st 28th. Okay, that's what I told
+
+12
+00:00:46,720 --> 00:00:52,940
+I don't remember the name Shreyas from onboarding and then whoever was his senior manager
+
+13
+00:00:53,260 --> 00:00:56,340
+So but they told you get enrolled this month only
+
+14
+00:00:56,980 --> 00:01:03,700
+Because in July you will not have the main classes the main classes starts from August. Okay
+
+15
+00:01:04,700 --> 00:01:05,980
+but
+
+16
+00:01:05,980 --> 00:01:12,060
+Then I went on vacation and they told you after you come back, you don't have you will not have assignments and all
+
+17
+00:01:12,060 --> 00:01:15,980
+You just have to go through these behavioral classes building mindset and things again
+
+18
+00:01:16,300 --> 00:01:21,200
+But I come back and see they have almost finished 70% of arrays
+
+19
+00:01:21,520 --> 00:01:28,640
+Okay, okay now I am clearing the backlog sitting and attending the live classes but and also clearing the backlog
+
+20
+00:01:28,640 --> 00:01:32,640
+I got with the assignments. I got it. I got it. So
+
+21
+00:01:33,240 --> 00:01:37,720
+You would like to restart it again or like it's okay to one. No, no, no
+
+22
+00:01:37,720 --> 00:01:41,000
+I don't want to restart but then I'll have to manage within that
+
+23
+00:01:41,240 --> 00:01:48,220
+So I'll do that not of issue another issue is so I while paying right three like 14,000 20,000 up front
+
+24
+00:01:49,020 --> 00:01:51,020
+Then we have to like 94,000
+
+25
+00:01:51,220 --> 00:01:55,940
+Spread over a span of 18 months EMI no cost EMI. Yes bank is what I did
+
+26
+00:01:56,340 --> 00:01:58,340
+So it comes around 16,000
+
+27
+00:01:58,700 --> 00:01:59,980
+334
+
+28
+00:01:59,980 --> 00:02:03,260
+Okay, okay, and this one I got my credit card bill
+
+29
+00:02:03,700 --> 00:02:09,160
+the first EMI it is some eight and seven hundred or eight hundred more than
+
+30
+00:02:09,780 --> 00:02:11,460
+16334
+
+31
+00:02:11,460 --> 00:02:16,860
+It's actually 1000 more but 200 is processing fee that I understand. It's a one-time thing. It will go
+
+32
+00:02:16,940 --> 00:02:19,100
+Yeah, but apart from that there is some
+
+33
+00:02:20,780 --> 00:02:25,600
+670 rupees some 18% GST is what they are charging
+
+34
+00:02:26,540 --> 00:02:31,940
+Correct. So somewhere like around 18% of GST on the interest you have to pay other than that
+
+35
+00:02:31,940 --> 00:02:35,540
+It's a no cost EMI for you, but there'll be a GST on the interest
+
+36
+00:02:36,980 --> 00:02:38,620
+Who will pay that?
+
+37
+00:02:38,620 --> 00:02:44,260
+So have you not informed about it like there will be a GST on the interest. They told me your
+
+38
+00:02:45,260 --> 00:02:47,700
+You just have to pay to like 94,000 and
+
+39
+00:02:48,620 --> 00:02:54,000
+That's it. And if you divide it by 18, it's a section 334. That's what you have to pay nothing else
+
+40
+00:02:56,660 --> 00:03:01,900
+Giving that link these all information was there in mail. Have you checked that before making a payment?
+
+41
+00:03:02,220 --> 00:03:06,660
+So while making a payment you must have received one link from scalar official, right?
+
+42
+00:03:06,660 --> 00:03:11,340
+In that link itself there will be an information like in case if you are using credit card
+
+43
+00:03:11,580 --> 00:03:15,340
+There will be processing fee plus 18% of GST on the interest
+
+44
+00:03:15,980 --> 00:03:18,940
+So why before making the payment have you checked that part?
+
+45
+00:03:20,180 --> 00:03:25,740
+But it's a no cost EMI, right? Where is the interest coming from? Right it's a no cost EMI for you, but
+
+46
+00:03:26,620 --> 00:03:30,820
+Scalar will be an interest on behalf of you. So for you it will be a no cost EMI
+
+47
+00:03:30,940 --> 00:03:35,220
+But instead of paying interest, you know, you will not directly be paying interest
+
+48
+00:03:35,340 --> 00:03:42,580
+But scalar will be let's suppose if you paid two lakh ninety four thousand rupees you you'll be paying two lakh ninety four only
+
+49
+00:03:43,060 --> 00:03:44,500
+but
+
+50
+00:03:44,500 --> 00:03:46,780
+scalar will receive lesser amount just because
+
+51
+00:03:47,460 --> 00:03:55,680
+Interest rate whatever the interest is there scalar will be a on behalf of you. That's the whole what what is the interest amount?
+
+52
+00:03:56,740 --> 00:04:01,400
+I am not sure about it. So basically I'm from the different team. I called you you can
+
+53
+00:04:05,980 --> 00:04:12,500
+That is something which you can raise it to support and the operations team will connect with you support team will connect with you
+
+54
+00:04:12,500 --> 00:04:14,500
+I have called I've been calling says
+
+55
+00:04:14,980 --> 00:04:17,820
+Couple of times he told he'll get in touch with the fire
+
+56
+00:04:17,820 --> 00:04:23,160
+The finance team will get to me as soon as possible within two hours and it's already more than three days
+
+57
+00:04:23,500 --> 00:04:26,200
+And nobody has reached out to me. I can do it
+
+58
+00:04:27,200 --> 00:04:32,300
+Like you can try it from your end directly reach out to support either by chat or by call and
+
+59
+00:04:32,820 --> 00:04:34,820
+Team will guide you on it
+
+60
+00:04:35,620 --> 00:04:41,340
+Okay, yeah in your dashboard only won't be a help desk option. They'll be a help desk option, right?
+
+61
+00:04:41,460 --> 00:04:46,080
+So what you have to do is just need to click on that help desk option and then there will be two option
+
+62
+00:04:46,380 --> 00:04:52,800
+Call or chat so either of the one you can do it like either you can directly call or you can directly text
+
+63
+00:04:54,140 --> 00:04:56,140
+Okay, okay
+
+64
+00:04:56,460 --> 00:04:58,460
+Banking they told
+
+65
+00:04:59,020 --> 00:05:06,380
+You might get cash back or something from your merchant, but that one we are not sure you just get in touch with a merchant
+
+66
+00:05:07,140 --> 00:05:09,300
+So that's what okay
+
+67
+00:05:09,300 --> 00:05:14,880
+Please raise all these issue to support and the team will immediately get in touch with you and help you to resolve it
+
+68
+00:05:15,980 --> 00:05:20,520
+Okay, wait by your own self like you can directly raise it from your dashboard itself
+
+69
+00:05:21,520 --> 00:05:23,040
+Okay, okay fine
+
+70
+00:05:23,040 --> 00:05:29,860
+Yeah, the reason I called you mr. Swagat like, you know as you enrolled in our certification course, right?
+
+71
+00:05:30,720 --> 00:05:33,560
+Call I'm just calling you from scalar masters team
+
+72
+00:05:33,560 --> 00:05:37,960
+I am not sure like whether you are aware of this or not as you were a part of our
+
+73
+00:05:38,240 --> 00:05:42,880
+Certification program you have an option to convert this certification into a full-time regular masters
+
+74
+00:05:44,120 --> 00:05:46,200
+Okay. Yeah, are you aware about it?
+
+75
+00:05:47,120 --> 00:05:52,980
+No, no, okay, so are you looking you know to convert this certification into a full-time masters
+
+76
+00:05:54,040 --> 00:05:56,900
+Then what will be the duration of the course then right?
+
+77
+00:05:56,900 --> 00:05:59,720
+So as of now your current duration for the program is 12 month
+
+78
+00:05:59,720 --> 00:06:02,420
+If you are upgrading into the masters, it will be 18 month
+
+79
+00:06:02,660 --> 00:06:07,000
+So you have to put more six months to complete some mandatory modules for masters
+
+80
+00:06:08,560 --> 00:06:12,640
+Okay, what's extra what models are extra in that right?
+
+81
+00:06:12,640 --> 00:06:18,040
+So there are two kind of elective right one is mandatory elective and the one will be recorded elective in
+
+82
+00:06:18,560 --> 00:06:23,240
+Mandatory you will be having eight modules like data engineering product management
+
+83
+00:06:23,840 --> 00:06:30,640
+advanced ESA for competitive programming DSA advanced concept and four modules of data science and machine learning
+
+84
+00:06:32,000 --> 00:06:36,760
+Okay, okay apart from this there will be six more module in a form of recorded elective
+
+85
+00:06:36,880 --> 00:06:40,880
+Which will be dedicated to advanced level of data science and machine learning
+
+86
+00:06:41,320 --> 00:06:44,800
+So almost you will be having ten modules of data science and machine learning
+
+87
+00:06:45,320 --> 00:06:51,640
+Four will be foundational level of data science and machine learning and other six will be dedicated to advanced level of data science and machine learning
+
+88
+00:06:53,280 --> 00:06:55,280
+Okay, but it is into a email
+
+89
+00:06:56,560 --> 00:07:04,220
+So the masters will be the masters degree name will be master in science in computer science with a specialization software engineering for you
+
+90
+00:07:05,760 --> 00:07:08,480
+Additionally, you will be learning data science and machine learning as well
+
+91
+00:07:08,720 --> 00:07:10,720
+Okay
+
+92
+00:07:10,720 --> 00:07:15,080
+What is the cost again? Yeah, so it's a full-time regular masters
+
+93
+00:07:15,080 --> 00:07:21,320
+So the difference amount you have to pay as you already a part of scalar which is 1.5. Like only one lakh fifty thousand rupees
+
+94
+00:07:22,520 --> 00:07:30,480
+You can have a globally recognized full-time masters equal into any full-time masters from USA Canada or any European Union countries
+
+95
+00:07:31,560 --> 00:07:37,400
+At the same time, but then what's the end result? I mean, what's the what what extra benefit do I get out of it?
+
+96
+00:07:37,720 --> 00:07:43,080
+The first of all with the same flexibility you'll be completing the certification
+
+97
+00:07:43,760 --> 00:07:49,300
+Exactly same that will be in masters. So you don't need to put any additional effort apart from additional six month
+
+98
+00:07:49,760 --> 00:07:55,000
+Okay, the coursework know that you are following class time. Everything is gonna be same here
+
+99
+00:07:55,600 --> 00:08:00,960
+Okay, additionally, you can have a six month of more extra placement support, right?
+
+100
+00:08:00,960 --> 00:08:04,560
+So let's suppose if you have 12 month of placement support in your regular program
+
+101
+00:08:04,640 --> 00:08:07,540
+It'll be having 18 month of placement support in masters
+
+102
+00:08:08,480 --> 00:08:14,280
+Hmm, right. So and second thing is like based upon the additional skill that you're gonna learn here
+
+103
+00:08:14,520 --> 00:08:18,120
+You know if you're looking for any good product based company
+
+104
+00:08:18,840 --> 00:08:22,060
+Right now, you know things are evolving into an AI ML part
+
+105
+00:08:22,320 --> 00:08:25,840
+So even as a developer if you know, you know
+
+106
+00:08:26,000 --> 00:08:31,360
+if you have a good knowledge of data science and machine learning it will help you to make your CV looks more stronger and
+
+107
+00:08:32,320 --> 00:08:37,920
+Ultimately it there will be high chance for you to make your CV short-lifted for more and more companies
+
+108
+00:08:38,160 --> 00:08:45,600
+So in terms of opportunities you can expect like little bit opportunity will be slightly higher in masters based upon the additional skill set
+
+109
+00:08:45,600 --> 00:08:47,080
+That you're gonna learn
+
+110
+00:08:47,080 --> 00:08:53,120
+And whatever the time money and effort you are putting in your certification you can utilize everything and
+
+111
+00:08:53,960 --> 00:08:57,660
+You know and at the end have a full-time regular degree in your hand
+
+112
+00:08:58,260 --> 00:09:00,260
+Okay
+
+113
+00:09:00,540 --> 00:09:03,180
+Okay, but I would want to take this decision
+
+114
+00:09:03,900 --> 00:09:07,340
+Maybe around the after 10 months from now
+
+115
+00:09:07,340 --> 00:09:13,220
+I want to see where I am after 10 months on the knowledge base that I have
+
+116
+00:09:14,220 --> 00:09:19,660
+I'm in the current program that I am in and maybe take a decision during that time
+
+117
+00:09:19,660 --> 00:09:23,580
+Okay, if you want to pursue it further go for a masters or not
+
+118
+00:09:24,060 --> 00:09:27,660
+But I don't think I'm not in the right place right now to take that decision
+
+119
+00:09:28,700 --> 00:09:31,980
+Alright, so the thing is like 10 months we cannot extend it because
+
+120
+00:09:32,700 --> 00:09:38,740
+Ultimately, there's a guideline from the university if the learner has completed the X number of course work
+
+121
+00:09:38,940 --> 00:09:42,320
+Which is required for the upgradation in that time frame
+
+122
+00:09:42,320 --> 00:09:44,980
+They can upgrade but in case if they have completed more than that
+
+123
+00:09:45,220 --> 00:09:49,760
+Then it would be difficult for Wolf University to consider your profile for the upgradation
+
+124
+00:09:49,920 --> 00:09:54,980
+Why so because the number of activities that you are doing let's suppose as of now you enrolled in
+
+125
+00:09:56,000 --> 00:10:00,600
+You know, you must be doing some tasks. You must be solving assignments case study and the end
+
+126
+00:10:00,600 --> 00:10:06,040
+There'll be an examination as well, right? So that cannot directly get evaluated for masters
+
+127
+00:10:06,560 --> 00:10:11,520
+Right. So you have to repeat everything again after the upgradation. Everything means you have to repeat your exams
+
+128
+00:10:11,520 --> 00:10:13,800
+you have to repeat your missed assignments and all and
+
+129
+00:10:14,400 --> 00:10:18,920
+Other than that what scalar suggest if you really want to go ahead with the masters
+
+130
+00:10:19,400 --> 00:10:25,840
+Better is like you can enroll as early as possible. Why because you'll be having less spending tasks and
+
+131
+00:10:26,480 --> 00:10:28,840
+Me, you know, maybe after two months or three months
+
+132
+00:10:28,840 --> 00:10:35,560
+you will be in advanced module and then like you have to pay more attention on those modules and it would be very difficult for
+
+133
+00:10:35,560 --> 00:10:37,560
+you to continue with those modules and
+
+134
+00:10:38,120 --> 00:10:45,280
+You know alongside you have to complete the previous assignments and the examination that you have given it will be more burden on your head
+
+135
+00:10:46,160 --> 00:10:51,000
+What we use assignments because currently whatever course I'm whatever class I'm going
+
+136
+00:10:51,640 --> 00:10:57,160
+Through I am completing the current the corresponding assignment interaction problems, right?
+
+137
+00:10:57,160 --> 00:11:00,520
+But you know, you are completing your assignments and homeworks
+
+138
+00:11:00,520 --> 00:11:06,840
+But in case if I talk about examination that you'll be giving that will not be a proctored exam, right?
+
+139
+00:11:06,840 --> 00:11:10,320
+It is just for your own evaluation like how you are performing in the course
+
+140
+00:11:10,520 --> 00:11:14,560
+But in master's like, you know, everything will be evaluated and you know
+
+141
+00:11:14,560 --> 00:11:20,580
+Everything will be proctored and based upon your performance will be achieving credits grades and GPA
+
+142
+00:11:21,200 --> 00:11:24,080
+So that is the major difference, right? Yeah
+
+143
+00:11:25,120 --> 00:11:26,960
+apart from this
+
+144
+00:11:26,960 --> 00:11:30,700
+In next six month or seven month you will be eligible for the placement part
+
+145
+00:11:30,960 --> 00:11:36,020
+So if you're a part of masters your masters pure placement will be happening as for the masters
+
+146
+00:11:36,380 --> 00:11:42,760
+So there will be slightly difference in both those things right so if you're a part of masters you can take those benefits as well
+
+147
+00:11:44,700 --> 00:11:46,700
+Right
+
+148
+00:11:51,180 --> 00:11:58,340
+I understand no worries. You can take your time. Just do some research about the program. Meanwhile, if this is your whatsapp number
+
+149
+00:11:58,340 --> 00:12:00,340
+I'm sharing you some relevant
+
+150
+00:12:00,340 --> 00:12:05,140
+Details on your whatsapp number. You may go through it once have a clear understanding about it
+
+151
+00:12:05,140 --> 00:12:10,140
+And then maybe we can connect next week if you have any further doubts, we can have a discussion on it
+
+152
+00:12:10,820 --> 00:12:12,820
+Sure. Sure. Thanks a lot. Okay
+
+153
+00:12:13,140 --> 00:12:16,140
+If there is anything just give me a call on this number
+
+154
+00:12:16,140 --> 00:12:20,060
+I'll be more than happy to assist you and depend coming to that payment part
+
+155
+00:12:20,260 --> 00:12:25,220
+You know the problem that you are facing I would request you to please raise it immediately to support and
+
+156
+00:12:26,300 --> 00:12:33,340
+Do I get a support today on Sunday? Oh, you can raise it today, but maybe like tomorrow you'll be getting a report for sure
+
+157
+00:12:35,140 --> 00:12:39,340
+But do it today as early as possible so that our team can resolve it immediately
+
+158
+00:12:40,980 --> 00:12:47,020
+Sure, sure. Thanks a lot. Yeah, you can save this number. My name is Abhishek for any such queries. Give me a call. Yeah
+
+159
+00:12:48,580 --> 00:12:50,580
+Thank you. Have a nice day. Thank you
+

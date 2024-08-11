@@ -1,0 +1,3964 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, Hi, am I speaking with Tirupal?
+
+2
+00:00:04,000 --> 00:00:06,000
+Yes, may I know who this is?
+
+3
+00:00:06,000 --> 00:00:12,000
+Hi, Mashaarib Desai, I am calling you from Bangalore on behalf of Interbill platform Scalar Academy
+
+4
+00:00:12,000 --> 00:00:15,000
+Can you please repeat?
+
+5
+00:00:15,000 --> 00:00:19,000
+I am calling you from Scalar Academy
+
+6
+00:00:19,000 --> 00:00:21,000
+Scalar, yes yes
+
+7
+00:00:21,000 --> 00:00:25,000
+I believe a week back you made a registration at Scalar
+
+8
+00:00:25,000 --> 00:00:28,000
+How to become a great software developer, right?
+
+9
+00:00:28,000 --> 00:00:33,000
+Yes, actually I am a Kafka admin, I have 8 years of IT experience
+
+10
+00:00:33,000 --> 00:00:36,000
+Previously I worked on VMware for 5 years
+
+11
+00:00:36,000 --> 00:00:40,000
+Then I shifted to Kafka administration
+
+12
+00:00:40,000 --> 00:00:48,000
+I have some doubts, it's like how Scalar can help me
+
+13
+00:00:48,000 --> 00:00:52,000
+I want to enhance my skills on Kafka administration
+
+14
+00:00:52,000 --> 00:01:00,000
+Kafka deployment and implementation in different types of environments like cloud and Kubernetes
+
+15
+00:01:00,000 --> 00:01:08,000
+So, like Scalar will help me or like Scalar is going to help like a fresher who can give training to the fresher like that
+
+16
+00:01:08,000 --> 00:01:12,000
+Got it, I will definitely help you out for the same
+
+17
+00:01:12,000 --> 00:01:16,000
+Before that, I have some questions I wanted to know, where are they?
+
+18
+00:01:16,000 --> 00:01:20,000
+Then I will be able to help you out, you mentioned 8 years of experience you are having, right?
+
+19
+00:01:20,000 --> 00:01:21,000
+Yes, yes
+
+20
+00:01:21,000 --> 00:01:23,000
+And you are a Kafka admin right now, correct?
+
+21
+00:01:23,000 --> 00:01:24,000
+Yes, yes
+
+22
+00:01:24,000 --> 00:01:26,000
+Are you aware right about Kafka?
+
+23
+00:01:26,000 --> 00:01:30,000
+I am very well aware about Kafka, Zookeeper, I am very well aware about these things
+
+24
+00:01:30,000 --> 00:01:32,000
+So you don't have to worry about that
+
+25
+00:01:32,000 --> 00:01:35,000
+So currently which company are you working in?
+
+26
+00:01:35,000 --> 00:01:39,000
+Like 3 months before I was working in Courtney CTS
+
+27
+00:01:39,000 --> 00:01:44,000
+Due to lack of project, currently I am not working
+
+28
+00:01:44,000 --> 00:01:46,000
+I came out of Courtney and got it
+
+29
+00:01:46,000 --> 00:01:51,000
+So it has been 3 months that you are not working, am I saying it right?
+
+30
+00:01:51,000 --> 00:01:52,000
+Yes, yes
+
+31
+00:01:52,000 --> 00:01:54,000
+And in the 3 months what actually you were doing?
+
+32
+00:01:54,000 --> 00:01:57,000
+Like you were applying for the jobs or what actually is it?
+
+33
+00:01:57,000 --> 00:02:06,000
+I am applying for the jobs, there is lack of requirement and one thing is the requirement is different to my profile
+
+34
+00:02:06,000 --> 00:02:10,000
+So I worked on Confluent platform
+
+35
+00:02:11,000 --> 00:02:19,000
+But now the requirement is to work on Cobra, to implement on Cobra Nets, Cloud and cell scripting
+
+36
+00:02:19,000 --> 00:02:20,000
+Exactly
+
+37
+00:02:20,000 --> 00:02:24,000
+So there is lot of stuff they are asking, where I have some technical gap
+
+38
+00:02:24,000 --> 00:02:30,000
+So I know where I have the gap and I have to fill that gap
+
+39
+00:02:30,000 --> 00:02:32,000
+Correct, correct, correct
+
+40
+00:02:32,000 --> 00:02:38,000
+Got it, I totally get and I totally agree also what you are saying at this point of time
+
+41
+00:02:38,000 --> 00:02:44,000
+Ok, so yeah, and can you tell me one thing like what actually your goal is?
+
+42
+00:02:44,000 --> 00:02:47,000
+Like you are working as an admin, Kafka admin was your last designation right?
+
+43
+00:02:47,000 --> 00:02:52,000
+So entirely 8 years you have been working as an administration itself or what actually was it?
+
+44
+00:02:52,000 --> 00:02:58,000
+Can you just give me a walkthrough about your career from the first year, what actually you did till now?
+
+45
+00:02:58,000 --> 00:03:03,000
+I worked as an administration, completely in administration, I don't have any development experience
+
+46
+00:03:03,000 --> 00:03:04,000
+Got it, got it
+
+47
+00:03:04,000 --> 00:03:09,000
+I started working with VMware where you know right, it's completely into, there won't be any coding
+
+48
+00:03:09,000 --> 00:03:11,000
+Just to support existing software
+
+49
+00:03:11,000 --> 00:03:12,000
+Correct
+
+50
+00:03:12,000 --> 00:03:19,000
+So up to 5 years I was in VMware, later I moved to Kafka administration with the help of friends
+
+51
+00:03:19,000 --> 00:03:20,000
+Got it
+
+52
+00:03:20,000 --> 00:03:24,000
+Kafka also we have taken care of Kafka cluster
+
+53
+00:03:24,000 --> 00:03:25,000
+Correct
+
+54
+00:03:25,000 --> 00:03:31,000
+So the producer, consumer where development is required, there it is we have separate team
+
+55
+00:03:31,000 --> 00:03:32,000
+Correct
+
+56
+00:03:32,000 --> 00:03:33,000
+Now the requirement is changed
+
+57
+00:03:33,000 --> 00:03:34,000
+Right
+
+58
+00:03:34,000 --> 00:03:40,000
+So now the clients are expecting like who have, they are expecting automation one thing
+
+59
+00:03:40,000 --> 00:03:41,000
+Right
+
+60
+00:03:41,000 --> 00:03:45,000
+And they want to implement Kafka on different platforms like Kubernetes
+
+61
+00:03:45,000 --> 00:03:46,000
+Correct
+
+62
+00:03:46,000 --> 00:03:49,000
+And support on cloud environment
+
+63
+00:03:49,000 --> 00:03:54,000
+Correct, correct, true what you are saying is totally right
+
+64
+00:03:54,000 --> 00:03:59,000
+So I am understanding over here like you have started your career into the support and the administration domain
+
+65
+00:03:59,000 --> 00:04:02,000
+That is what actually your 8 years of career has been there, am I saying it right?
+
+66
+00:04:02,000 --> 00:04:03,000
+Yes, yes
+
+67
+00:04:03,000 --> 00:04:04,000
+Got it
+
+68
+00:04:04,000 --> 00:04:09,000
+And now because I will tell you one thing because when you talk about support or administration domain
+
+69
+00:04:09,000 --> 00:04:12,000
+See at one point of time this career becomes saturated
+
+70
+00:04:12,000 --> 00:04:14,000
+Do you agree with that?
+
+71
+00:04:14,000 --> 00:04:15,000
+Yes sir
+
+72
+00:04:15,000 --> 00:04:17,000
+Now you know from that point you have two options
+
+73
+00:04:17,000 --> 00:04:20,000
+One is learn coding and become a developer, get into that domain
+
+74
+00:04:20,000 --> 00:04:23,000
+Second thing is there that get into the cloud side
+
+75
+00:04:23,000 --> 00:04:27,000
+And get as a solution architect and grow up the ladder from there
+
+76
+00:04:27,000 --> 00:04:34,000
+So from your end you want to go into the end to end development part or you are looking to get into the cloud
+
+77
+00:04:34,000 --> 00:04:40,000
+I will tell you like after 8 years of experience without zero knowledge
+
+78
+00:04:40,000 --> 00:04:42,000
+Now if I start learning also it is not easy
+
+79
+00:04:42,000 --> 00:04:43,000
+Exactly, true
+
+80
+00:04:43,000 --> 00:04:47,000
+So I cannot work as a effective in development side
+
+81
+00:04:47,000 --> 00:04:55,000
+So I have to continue so I can learn minimum coding where I can do some modifications not into complete coding
+
+82
+00:04:55,000 --> 00:04:56,000
+Correct, correct
+
+83
+00:04:56,000 --> 00:05:02,000
+So it is better to move into administration side only, either cloud
+
+84
+00:05:02,000 --> 00:05:04,000
+What about cyber security?
+
+85
+00:05:04,000 --> 00:05:15,000
+Correct, correct and that is true also because the next career goal for people coming from support or administration background is getting into cloud or cyber security domain itself, right
+
+86
+00:05:15,000 --> 00:05:17,000
+We have told the right thing itself over here
+
+87
+00:05:17,000 --> 00:05:21,000
+Now see one thing again I wanted to know from you is tell me
+
+88
+00:05:21,000 --> 00:05:24,000
+Currently first thing is I have to get the job
+
+89
+00:05:24,000 --> 00:05:33,000
+I am getting calls but one thing is I want to fill that gap first I have to take the opportunity as a cop administration
+
+90
+00:05:33,000 --> 00:05:34,000
+Correct
+
+91
+00:05:34,000 --> 00:05:43,000
+So apparently I will plan to move I have the goal either cloud engineer or cyber security
+
+92
+00:05:43,000 --> 00:05:47,000
+I have to choose either any of the one which will have the good demand
+
+93
+00:05:47,000 --> 00:05:55,000
+And minimum 5 years I have to work on one technology I don't want to change
+
+94
+00:05:55,000 --> 00:05:58,000
+You got it right?
+
+95
+00:05:58,000 --> 00:06:05,000
+Correct, I will tell you one thing over here is see cyber security is something again you need to have a good understanding in terms of the coding part
+
+96
+00:06:05,000 --> 00:06:13,000
+Okay, when you talk about web application security or when you talk about same security information even management if you have heard about that
+
+97
+00:06:13,000 --> 00:06:19,000
+Okay all of these require a deep knowledge in terms of the coding aspect
+
+98
+00:06:19,000 --> 00:06:20,000
+Okay, okay
+
+99
+00:06:20,000 --> 00:06:26,000
+So I would not recommend you that rather than cloud or dev office something that minimum understanding about coding is required
+
+100
+00:06:26,000 --> 00:06:29,000
+That means only I need to have a knowledge about python
+
+101
+00:06:29,000 --> 00:06:30,000
+Okay
+
+102
+00:06:30,000 --> 00:06:36,000
+So that is it now one thing I wanted to understand over here then I will help you out with if skiller would be able to help you out or not
+
+103
+00:06:36,000 --> 00:06:41,000
+So you have worked entirely your career into a service company am I saying it right?
+
+104
+00:06:41,000 --> 00:06:42,000
+Yes, yes
+
+105
+00:06:42,000 --> 00:06:51,000
+So now what goal do you have like see I understand 3 months you are not working you are right now looking to get a job that is first priority for you correct?
+
+106
+00:06:51,000 --> 00:06:52,000
+Yes, yes
+
+107
+00:06:52,000 --> 00:06:59,000
+But other than that have you thought that okay I want to get into a service company or product company have you given that a thought as well?
+
+108
+00:06:59,000 --> 00:07:11,000
+Product base say first of all service base or product base first thing is I have to work on some technology that is the main
+
+109
+00:07:11,000 --> 00:07:18,000
+I want to get a job so as of now I have worked in service base
+
+110
+00:07:18,000 --> 00:07:33,000
+Got it I get it okay and one more question I have is like last like when you resigned from the current company okay what was the salary that you were drawing last time 3 months back at what salary you resigned?
+
+111
+00:07:33,000 --> 00:07:44,000
+It is 21 LPA but actually in previous company I am getting it is 12.5 before I moved to Cornead
+
+112
+00:07:44,000 --> 00:07:45,000
+Correct
+
+113
+00:07:45,000 --> 00:07:47,000
+So later I got 21
+
+114
+00:07:47,000 --> 00:07:51,000
+Got it so 21 was fixed or like it was variable how was it?
+
+115
+00:07:51,000 --> 00:07:56,000
+It was 20 is the fixed and 70,000 is the variable
+
+116
+00:07:56,000 --> 00:08:00,000
+Got it got it so 20 LPA was the fixed and the rest are the variable right?
+
+117
+00:08:00,000 --> 00:08:01,000
+Yes, yes
+
+118
+00:08:01,000 --> 00:08:11,000
+Now when you are applying for the admin job as I mentioned see Kafka admin when you talk about it is a very niche role not every company has a requirement for a Kafka admin
+
+119
+00:08:11,000 --> 00:08:12,000
+Yes
+
+120
+00:08:12,000 --> 00:08:24,000
+Okay and the second thing is that when you talk about in terms of compensation the probability is very high that you might not get paid even 20 LPA you might get settled in paying lesser as compared to 20 LPA
+
+121
+00:08:24,000 --> 00:08:25,000
+Okay
+
+122
+00:08:25,000 --> 00:08:26,000
+Yes
+
+123
+00:08:26,000 --> 00:08:36,000
+Now I will tell you like how what is Scalar and what we do is but I want to know one thing like has anyone recommended you Scalar as a platform or how you got to know about Scalar?
+
+124
+00:08:36,000 --> 00:08:44,000
+Just my friend taught me he has not taken any he has not joined in Scalar
+
+125
+00:08:44,000 --> 00:08:48,000
+He just informed me about Scalar
+
+126
+00:08:48,000 --> 00:08:49,000
+Okay
+
+127
+00:08:49,000 --> 00:08:52,000
+Then I searched in Google and I have registered
+
+128
+00:08:52,000 --> 00:08:53,000
+Got it but
+
+129
+00:08:53,000 --> 00:08:56,000
+Before that I have no idea because I don't get the requirement
+
+130
+00:08:56,000 --> 00:09:05,000
+Correct correct you didn't have that requirement at that time now that is there when you are stuck so now you have that requirement earlier on you didn't have so you were not aware about Scalar right?
+
+131
+00:09:05,000 --> 00:09:06,000
+Yes
+
+132
+00:09:06,000 --> 00:09:17,000
+Totally fine no worries now see one thing while having a word with you I got to understand that you are someone like you are looking to upskill yourself at this point of time that is the most priority for you correct?
+
+133
+00:09:17,000 --> 00:09:18,000
+Yes
+
+134
+00:09:18,000 --> 00:09:21,000
+So has that upskillment begun or you are still planning to do it?
+
+135
+00:09:21,000 --> 00:09:30,000
+It's first thing is I want I need support for enhancing in Kafka side
+
+136
+00:09:30,000 --> 00:09:31,000
+Exactly
+
+137
+00:09:31,000 --> 00:09:44,000
+So Kafka I need support like real time support like how to install Kafka and Co-Operate environment whether Scalar can help me in that or not
+
+138
+00:09:44,000 --> 00:09:49,000
+So that is the reason why you have called not to know more about that correct?
+
+139
+00:09:49,000 --> 00:09:50,000
+Yes
+
+140
+00:09:50,000 --> 00:09:59,000
+Actually I will tell you one thing okay Scalar is not a platform where we offer you let's say Tripalov bhaiya like a short term solution
+
+141
+00:09:59,000 --> 00:10:00,000
+Okay okay
+
+142
+00:10:00,000 --> 00:10:09,000
+So this is a platform where we make people enroll where we are looking for a long term solution and what I mean by long term solution is you have 80 years of experience right now correct?
+
+143
+00:10:09,000 --> 00:10:10,000
+Okay
+
+144
+00:10:10,000 --> 00:10:14,000
+Let's say 15 to 20 years of your IT career is still in front of you am I saying it right?
+
+145
+00:10:14,000 --> 00:10:15,000
+Yes
+
+146
+00:10:15,000 --> 00:10:16,000
+So at Scalar
+
+147
+00:10:16,000 --> 00:10:17,000
+Minimum 10 years
+
+148
+00:10:17,000 --> 00:10:19,000
+Minimum 10 years is right now in front of you correct?
+
+149
+00:10:19,000 --> 00:10:20,000
+Okay
+
+150
+00:10:20,000 --> 00:10:26,000
+So we at Scalar want to avoid what situation you are at this point of time that should not come in that 10 years of duration
+
+151
+00:10:26,000 --> 00:10:27,000
+Yes yes
+
+152
+00:10:27,000 --> 00:10:37,000
+So again giving you that idea or clarity over here see Kafka Kubernetes is something that on YouTube you will get recording videos and all that is not a big deal okay
+
+153
+00:10:37,000 --> 00:10:38,000
+Okay
+
+154
+00:10:38,000 --> 00:10:49,000
+So if you are joining at Scalar that means you are looking for good position you are looking for good salary and how you secure your career for the next 10-15 years that is still in front of you
+
+155
+00:10:49,000 --> 00:10:50,000
+Yes
+
+156
+00:10:50,000 --> 00:11:03,000
+And I will tell you how that happens is see when you talk about Kafka or Zuggibadad to anyhow at Scalar you will learn but as you mentioned to me that you don't have much you know like idea about like Scalar as a platform and all right?
+
+157
+00:11:03,000 --> 00:11:04,000
+Yeah
+
+158
+00:11:04,000 --> 00:11:25,000
+So I will help you out with that but just correct me if I am wrong I am just summarizing over here that you mentioned you want to learn about Kafka and Zuggibadad second thing is there are you aware about the CTC that right now a person who is working in a product company let's say as an admin or as a DevOps cloud engineer how much they are getting paid any idea you are having about it?
+
+159
+00:11:25,000 --> 00:11:35,000
+I have idea with my friends but how much what is the maximum we can get I will show you that fast
+
+160
+00:11:35,000 --> 00:11:36,000
+Okay
+
+161
+00:11:36,000 --> 00:11:53,000
+See someone who is 20-23 graduate okay that means someone who is a fresher if they get into companies like Amazon, Google, Meta or startups like Mintra, Misho their salary goes upward till 30 lakh rupees for fresher
+
+162
+00:11:53,000 --> 00:12:17,000
+Now someone for fresher I am talking about okay and I am not talking about development I am talking over here about the support operations and DevOps role okay now someone with let's say more than 8 years of experience in a good product company like Walmart, Salesforce, SAP Lab the salary goes upward till around 65-85 lakh rupees okay
+
+163
+00:12:17,000 --> 00:12:26,000
+Okay so that is what right now is the market standards that is what a person with 8 years of experience is getting paid at this point of time
+
+164
+00:12:26,000 --> 00:12:27,000
+Okay
+
+165
+00:12:27,000 --> 00:12:36,000
+Now in your case we both agreed that okay with the amount of experience or the service that you have given to the industry you have been underpaid
+
+166
+00:12:36,000 --> 00:12:53,000
+That is okay now I have some knowledge on VMware and Kafka so what you suggest me which platform you suggest me and how I can scale up I see now getting job is anyway we can manage interviews nowadays
+
+167
+00:12:53,000 --> 00:13:01,000
+Right but after entering the company I should not be I should not you know like I should not depend upon others
+
+168
+00:13:01,000 --> 00:13:02,000
+Correct
+
+169
+00:13:02,000 --> 00:13:06,000
+So I have to be in such a way like individually I have to perform
+
+170
+00:13:06,000 --> 00:13:07,000
+Exactly
+
+171
+00:13:07,000 --> 00:13:13,000
+So how is how you your scale are going to help me
+
+172
+00:13:13,000 --> 00:13:19,000
+I will tell you how we help you out over here see we not only give you the training over here
+
+173
+00:13:19,000 --> 00:13:20,000
+Okay
+
+174
+00:13:20,000 --> 00:13:25,000
+So as an a training you also have a mentor that would be assigned to you okay
+
+175
+00:13:25,000 --> 00:13:26,000
+Okay
+
+176
+00:13:26,000 --> 00:13:40,000
+So now see your instructor your concept building part is happening in the life classes there would be more than 50 plus projects that I'll come back to soon but at scalar what happens is you would be having the access where you are connecting with someone who is an industry expert
+
+177
+00:13:40,000 --> 00:13:53,000
+Let's say someone who is an architect working with a proper product based company who has more years of experience and let's say someone who is interviewing at your level who is coming in their company
+
+178
+00:13:53,000 --> 00:14:07,000
+For example I'll tell you let's say you're working with the current company let's say you want to change the domain that let's say you want to go into media or entertainment industry FinTech let's say you're wanting to target JP Morgan or something like that companies PayPal
+
+179
+00:14:07,000 --> 00:14:08,000
+Okay
+
+180
+00:14:08,000 --> 00:14:22,000
+So what we'll do with that scalar is we would be assigning you a mentor who is currently working in these kind of companies so what they'll tell you is they'll tell you what are the tech stack that is required for you to crack those top interviews
+
+181
+00:14:22,000 --> 00:14:37,000
+Second thing is that they'll take your mock interviews like BS algo mock interviews system designing mock interviews they'll help you with a resume makeover and see what happens is this is an end to end process and what happens is this mentorship is given on a one on one level
+
+182
+00:14:37,000 --> 00:14:45,000
+It's not like a classroom so you are having that personal connect with that person professionally as well as personally got it
+
+183
+00:14:45,000 --> 00:14:46,000
+Okay
+
+184
+00:14:46,000 --> 00:14:59,000
+So that is one aspect of it and I'll tell you like as you mentioned now over here like how actually you would be able to sustain into the industry for a longer run because you told getting a job is not a big deal at this point of time because you'd be having the referrals
+
+185
+00:14:59,000 --> 00:15:00,000
+Correct
+
+186
+00:15:00,000 --> 00:15:01,000
+Yeah
+
+187
+00:15:01,000 --> 00:15:02,000
+Yeah
+
+188
+00:15:02,000 --> 00:15:09,000
+So now again what happens at scalar is other than the instructors and mentor you have TA that is teaching assistants got it
+
+189
+00:15:09,000 --> 00:15:10,000
+Okay
+
+190
+00:15:10,000 --> 00:15:14,000
+See now in IT having a doubts is very much common am I saying it right
+
+191
+00:15:14,000 --> 00:15:15,000
+Yes
+
+192
+00:15:15,000 --> 00:15:23,000
+Now when we let these doubts now cook up in our mind it becomes a perfect recipe to lose motivation I would not be motivated to learn
+
+193
+00:15:23,000 --> 00:15:24,000
+Right
+
+194
+00:15:24,000 --> 00:15:25,000
+Okay
+
+195
+00:15:25,000 --> 00:15:40,000
+So now in this case you also have a teaching assistant with scalar where any doubt you're having at any point of time there would be a subject matter expert available for you from morning till night even to solve the simplest of doubt whenever you are having at whatever point of time
+
+196
+00:15:40,000 --> 00:15:51,000
+So now this is a third person that would be there for you to train now what I'm saying over here is everything at scalar would be coupled with networking part
+
+197
+00:15:51,000 --> 00:15:52,000
+Okay
+
+198
+00:15:52,000 --> 00:16:00,000
+So what happens now networking is something that will help you to grow and that is something that would be helping you to really yield value for the rest of the career
+
+199
+00:16:00,000 --> 00:16:01,000
+Correct
+
+200
+00:16:01,000 --> 00:16:07,000
+Now what I mean by the networking I'll tell you at scalar we are having 25,000 plus alumni at scalar
+
+201
+00:16:07,000 --> 00:16:08,000
+Okay
+
+202
+00:16:08,000 --> 00:16:18,000
+Now people coming from Microsoft, Google, Apple, Amazon, Walmart all these kind of people are there as an alumni with scalar
+
+203
+00:16:18,000 --> 00:16:19,000
+Okay
+
+204
+00:16:19,000 --> 00:16:28,000
+So that is where we are looking to build performers at scalar who can actually sustain in the industry and let's say can create that impact for the company
+
+205
+00:16:28,000 --> 00:16:29,000
+Okay
+
+206
+00:16:29,000 --> 00:16:35,000
+So that is how you will be able to sustain in the industry for the next five or to ten years as you mentioned like ten years if you have still in your career
+
+207
+00:16:35,000 --> 00:16:36,000
+Right
+
+208
+00:16:36,000 --> 00:16:37,000
+Yes sir
+
+209
+00:16:37,000 --> 00:16:47,000
+And even if you think practically see there are two things down the line that would be helping you from this point of time one is inevitably the skill that you acquire over the time am I saying it right
+
+210
+00:16:47,000 --> 00:16:48,000
+Yes sir
+
+211
+00:16:48,000 --> 00:16:55,000
+Second is the networking that means the people that you have interacted or that you know those are the people who are going to help you out
+
+212
+00:16:55,000 --> 00:16:56,000
+Right
+
+213
+00:16:56,000 --> 00:16:57,000
+Okay
+
+214
+00:16:57,000 --> 00:17:06,000
+So at scalar it's not only about the learning it's also about the mentorship means there is someone who is personally seeing you how you are growing as a person or what doubts you are having
+
+215
+00:17:06,000 --> 00:17:16,000
+Solving that for you preparing you for the interview you have PA third person who again is clearing your doubt and when everything is combined over here with the networking aspect
+
+216
+00:17:16,000 --> 00:17:21,000
+So that is going to secure you for the next ten fifteen or how long you are looking to work into the IT
+
+217
+00:17:21,000 --> 00:17:22,000
+Got it
+
+218
+00:17:22,000 --> 00:17:28,000
+Okay like one thing is here technically you are going to teach a course
+
+219
+00:17:28,000 --> 00:17:33,000
+Right right I will help you out with that aspect also see what happens is as you mentioned you are not much aware about
+
+220
+00:17:33,000 --> 00:17:39,000
+First thing is suppose when I am changing the technology first thing I have to learn the technology
+
+221
+00:17:39,000 --> 00:17:40,000
+Correct
+
+222
+00:17:40,000 --> 00:17:43,000
+Suppose if it is cloud I have to now I have a VMWare background
+
+223
+00:17:43,000 --> 00:17:44,000
+Correct
+
+224
+00:17:44,000 --> 00:17:46,000
+So cloud it can be helpful
+
+225
+00:17:46,000 --> 00:17:47,000
+Exactly
+
+226
+00:17:47,000 --> 00:17:50,000
+So I have to complete the course I have to complete the certification
+
+227
+00:17:50,000 --> 00:17:51,000
+Correct correct
+
+228
+00:17:51,000 --> 00:17:55,000
+Then I can search for the job and what are the other skills required
+
+229
+00:17:55,000 --> 00:17:56,000
+Correct
+
+230
+00:17:56,000 --> 00:17:57,000
+To support a project
+
+231
+00:17:57,000 --> 00:17:58,000
+Correct correct
+
+232
+00:17:58,000 --> 00:18:03,000
+So here scalar will teach or I have to take from outside only
+
+233
+00:18:03,000 --> 00:18:04,000
+No no no
+
+234
+00:18:04,000 --> 00:18:07,000
+You don't have to take anything from anywhere
+
+235
+00:18:07,000 --> 00:18:08,000
+Okay
+
+236
+00:18:08,000 --> 00:18:12,000
+As I told you this is a very systemized end to end training program
+
+237
+00:18:12,000 --> 00:18:13,000
+Okay
+
+238
+00:18:13,000 --> 00:18:14,000
+Okay
+
+239
+00:18:14,000 --> 00:18:21,000
+Where starting from teaching till mentorship teaching assistance community everything is there in a very systemized way
+
+240
+00:18:21,000 --> 00:18:26,000
+Okay coming to your question over here is I will tell you see this is an exclusive platform
+
+241
+00:18:26,000 --> 00:18:27,000
+Okay
+
+242
+00:18:27,000 --> 00:18:33,000
+Where we don't take everyone who wants to go into this platform so we carry a test for every learner
+
+243
+00:18:33,000 --> 00:18:36,000
+So you have to clear the test to become eligible over here
+
+244
+00:18:36,000 --> 00:18:42,000
+See now what happens is with the test we get to understand which kind of a training do you need
+
+245
+00:18:42,000 --> 00:18:45,000
+You need a beginner, intermediate or advanced level training
+
+246
+00:18:45,000 --> 00:18:46,000
+Got it
+
+247
+00:18:46,000 --> 00:18:47,000
+Okay okay
+
+248
+00:18:47,000 --> 00:18:55,000
+So now in that case as you mentioned about the cloud so what we have done is the curriculum that we have made in that first will teach you about python
+
+249
+00:18:55,000 --> 00:18:56,000
+Okay
+
+250
+00:18:56,000 --> 00:18:57,000
+Okay
+
+251
+00:18:57,000 --> 00:18:59,000
+Because python is a non-negotiable language
+
+252
+00:18:59,000 --> 00:19:00,000
+Okay
+
+253
+00:19:00,000 --> 00:19:04,000
+Right now in even as a IT guy if you want to go into the administration role also
+
+254
+00:19:04,000 --> 00:19:05,000
+Okay
+
+255
+00:19:05,000 --> 00:19:07,000
+So you have two sort of coding knowledge you need to have
+
+256
+00:19:07,000 --> 00:19:08,000
+Okay
+
+257
+00:19:08,000 --> 00:19:09,000
+Then we teach you Linux
+
+258
+00:19:09,000 --> 00:19:10,000
+Okay
+
+259
+00:19:10,000 --> 00:19:15,000
+Third thing is there we will teach you about the computer fundamentals and networking basic
+
+260
+00:19:15,000 --> 00:19:16,000
+Okay
+
+261
+00:19:16,000 --> 00:19:24,000
+This is your base now the base is built then over here at Scala we will teach you somewhat DSA data structures algorithm
+
+262
+00:19:24,000 --> 00:19:25,000
+Okay
+
+263
+00:19:25,000 --> 00:19:29,000
+And I will tell you why now DSA you don't use as a cloud engineer or into the admin role
+
+264
+00:19:29,000 --> 00:19:34,000
+But to clear those interviews a product company would be asked DSA question
+
+265
+00:19:34,000 --> 00:19:35,000
+Okay
+
+266
+00:19:35,000 --> 00:19:36,000
+So you should know
+
+267
+00:19:36,000 --> 00:19:37,000
+Okay
+
+268
+00:19:37,000 --> 00:19:43,000
+So DSA would be covered then we will be covering Kubernetes Ansible Puppet Chef Nagios all the DevOps tools
+
+269
+00:19:43,000 --> 00:19:44,000
+Okay
+
+270
+00:19:44,000 --> 00:19:51,000
+And cloud we would be covering AWS anyhow that is the most used cloud what you can say service right now in India and globally also
+
+271
+00:19:51,000 --> 00:19:52,000
+Right
+
+272
+00:19:52,000 --> 00:19:55,000
+Okay so you are going you are covering only single cloud
+
+273
+00:19:55,000 --> 00:19:57,000
+Yeah yeah single cloud is enough right now
+
+274
+00:19:57,000 --> 00:19:58,000
+Okay
+
+275
+00:19:58,000 --> 00:20:02,000
+I can tell you that right now multiple cloud and all these things are trending in the market
+
+276
+00:20:02,000 --> 00:20:05,000
+That thing is there for service company not for product company
+
+277
+00:20:05,000 --> 00:20:06,000
+Okay
+
+278
+00:20:06,000 --> 00:20:07,000
+Yeah I agree
+
+279
+00:20:07,000 --> 00:20:12,000
+Product company don't look for the people who knows multiple technologies they look for problem solver
+
+280
+00:20:12,000 --> 00:20:17,000
+If you can solve problem in YouTube also if you go you learn Azure not a very big problem
+
+281
+00:20:17,000 --> 00:20:18,000
+Correct
+
+282
+00:20:18,000 --> 00:20:19,000
+Okay
+
+283
+00:20:19,000 --> 00:20:26,000
+That is how systemized it would be there and see when we talk about the teaching aspect I will tell you have you heard about Anshuman Singh
+
+284
+00:20:26,000 --> 00:20:31,000
+Like in our what you can say website or by any chance have you gone through LinkedIn
+
+285
+00:20:31,000 --> 00:20:32,000
+No
+
+286
+00:20:32,000 --> 00:20:33,000
+Where Anshuman Singh came in picture
+
+287
+00:20:33,000 --> 00:20:34,000
+No
+
+288
+00:20:34,000 --> 00:20:35,000
+No
+
+289
+00:20:35,000 --> 00:20:36,000
+What he will teach
+
+290
+00:20:36,000 --> 00:20:41,000
+I will tell you exactly so Anshuman who is Anshuman I will tell you he is a co-founder of Scalar
+
+291
+00:20:41,000 --> 00:20:42,000
+Okay
+
+292
+00:20:42,000 --> 00:20:43,000
+Okay
+
+293
+00:20:43,000 --> 00:20:45,000
+In 2010 he was working with Facebook
+
+294
+00:20:45,000 --> 00:20:46,000
+Okay
+
+295
+00:20:46,000 --> 00:20:50,000
+And he was the one who co-created the Facebook messenger
+
+296
+00:20:50,000 --> 00:20:51,000
+Okay
+
+297
+00:20:51,000 --> 00:20:56,000
+He was directly working with Mark Zuckerberg and he developed and deployed the entire Facebook messenger app
+
+298
+00:20:56,000 --> 00:20:57,000
+Okay
+
+299
+00:20:57,000 --> 00:20:59,000
+So he is the one who is one of the trainer with Scalar
+
+300
+00:20:59,000 --> 00:21:00,000
+Okay
+
+301
+00:21:00,000 --> 00:21:03,000
+Another co-founder of Scalar is Abhimanyu
+
+302
+00:21:03,000 --> 00:21:04,000
+Okay
+
+303
+00:21:04,000 --> 00:21:06,000
+So Abhimanyu is a triple IT Hyderabad graduate
+
+304
+00:21:06,000 --> 00:21:07,000
+Okay
+
+305
+00:21:07,000 --> 00:21:12,000
+He was working as a senior architect in fab.com that is a very big e-commerce platform based in New York
+
+306
+00:21:12,000 --> 00:21:13,000
+Okay
+
+307
+00:21:13,000 --> 00:21:18,000
+He was working over there another guy is Modit Goel have you heard about Modit Goel
+
+308
+00:21:18,000 --> 00:21:19,000
+No
+
+309
+00:21:19,000 --> 00:21:23,000
+Modit Goel was working as a tech lead in LinkedIn and into it
+
+310
+00:21:23,000 --> 00:21:30,000
+So let's say if you go to LinkedIn right now all the recommendation that comes not to you dad okay you are a recommender for this job
+
+311
+00:21:30,000 --> 00:21:34,000
+That entire designing was developed and deployed by Modit
+
+312
+00:21:34,000 --> 00:21:36,000
+Okay he is front end engineer
+
+313
+00:21:36,000 --> 00:21:37,000
+Front end engineer
+
+314
+00:21:37,000 --> 00:21:39,000
+Exactly front end and back end architect he was
+
+315
+00:21:39,000 --> 00:21:40,000
+Okay
+
+316
+00:21:40,000 --> 00:21:45,000
+And if you know there is a school called as coding element very popular school in India
+
+317
+00:21:45,000 --> 00:21:47,000
+So he is a co-founder of coding school
+
+318
+00:21:47,000 --> 00:21:48,000
+Okay
+
+319
+00:21:48,000 --> 00:21:54,000
+Other than that I will tell you because at Scalar there are very highly experienced person over here who teach you
+
+320
+00:21:54,000 --> 00:21:56,000
+There is a guy called as Vidya Sagar
+
+321
+00:21:56,000 --> 00:22:00,000
+He is the head and director of engineering of sales force
+
+322
+00:22:00,000 --> 00:22:01,000
+Okay
+
+323
+00:22:01,000 --> 00:22:07,000
+His salary is more than 2 CR he is one of the instructor and he comes live every 9 PM at Scalar to teach
+
+324
+00:22:07,000 --> 00:22:12,000
+Okay what he will teach he needs particular technology
+
+325
+00:22:12,000 --> 00:22:13,000
+Sales force it is anyhow
+
+326
+00:22:13,000 --> 00:22:14,000
+Self-force
+
+327
+00:22:14,000 --> 00:22:15,000
+Yeah yeah
+
+328
+00:22:15,000 --> 00:22:16,000
+Okay
+
+329
+00:22:16,000 --> 00:22:26,000
+Can you tell me about cloud or cyber security like this is my goal either I have to take the cloud or
+
+330
+00:22:26,000 --> 00:22:28,000
+I told you very clearly over here because
+
+331
+00:22:28,000 --> 00:22:29,000
+Yeah
+
+332
+00:22:29,000 --> 00:22:33,000
+When you talk about cyber security entirely it is entered into the coding aspect okay
+
+333
+00:22:33,000 --> 00:22:40,000
+So I believe like a feature cyber security will create more jobs than cloud
+
+334
+00:22:40,000 --> 00:22:44,000
+I will tell you with that okay because we have been there in the industry right now
+
+335
+00:22:44,000 --> 00:22:45,000
+What about
+
+336
+00:22:45,000 --> 00:22:46,000
+Yeah please
+
+337
+00:22:46,000 --> 00:22:49,000
+What I was saying is currently cloud is booming a lot
+
+338
+00:22:49,000 --> 00:22:50,000
+Okay
+
+339
+00:22:50,000 --> 00:22:55,000
+So now what happens is right now people who knows cloud with security cloud security
+
+340
+00:22:55,000 --> 00:22:56,000
+Cloud security
+
+341
+00:22:56,000 --> 00:23:00,000
+So that is also something that is booming at this point of time because when you talk about security aspect
+
+342
+00:23:00,000 --> 00:23:06,000
+How many people do you see that are there for network security or you can say the system security
+
+343
+00:23:06,000 --> 00:23:08,000
+Very few people will be finding for that again
+
+344
+00:23:08,000 --> 00:23:09,000
+Yes yes
+
+345
+00:23:09,000 --> 00:23:11,000
+It is a niche profile got it
+
+346
+00:23:11,000 --> 00:23:12,000
+Okay
+
+347
+00:23:12,000 --> 00:23:19,000
+Software development cloud and DevOps data science these are the industry that is booming and that has got huge requirements
+
+348
+00:23:19,000 --> 00:23:22,000
+If I tell you in India if 10 jobs are there for example
+
+349
+00:23:22,000 --> 00:23:23,000
+Okay
+
+350
+00:23:23,000 --> 00:23:29,000
+Four would be there in software development four would be there in cloud and DevOps and two you would be finding in the data science
+
+351
+00:23:29,000 --> 00:23:30,000
+Okay
+
+352
+00:23:30,000 --> 00:23:36,000
+So that is there so there are huge opportunities and see right now this industry is booming and you know whatever is booming
+
+353
+00:23:36,000 --> 00:23:40,000
+At one point of time it becomes saturated am I saying it right or wrong
+
+354
+00:23:40,000 --> 00:23:42,000
+Yeah definitely it will happen
+
+355
+00:23:42,000 --> 00:23:43,000
+It will become saturated right
+
+356
+00:23:43,000 --> 00:23:49,000
+So now also it is a very good time for the people to learn these necessary skills and get into that
+
+357
+00:23:49,000 --> 00:23:56,000
+Because now the boom is there after one to two years again it will become what you can say stagnant and yeah it will go
+
+358
+00:23:56,000 --> 00:23:57,000
+Yeah
+
+359
+00:23:57,000 --> 00:24:06,000
+So that is there that is how I believe like what question you had in your mind I believe you got the answer of the question that you asked me right
+
+360
+00:24:06,000 --> 00:24:07,000
+Yes yes
+
+361
+00:24:07,000 --> 00:24:11,000
+Perfect and are you aware about the placement aspect how things work at Scalar
+
+362
+00:24:11,000 --> 00:24:13,000
+No no G
+
+363
+00:24:13,000 --> 00:24:14,000
+You are not aware about it right
+
+364
+00:24:14,000 --> 00:24:15,000
+I am not aware
+
+365
+00:24:15,000 --> 00:24:20,000
+So as I told you about the classes correct who takes and how it is conducted I believe that is clear to you
+
+366
+00:24:20,000 --> 00:24:23,000
+Yeah for sales pools you told me Vidyasagar
+
+367
+00:24:23,000 --> 00:24:25,000
+Correct Vidyasagar conducts the training over here okay
+
+368
+00:24:25,000 --> 00:24:26,000
+Okay
+
+369
+00:24:26,000 --> 00:24:31,000
+So other than that there are so many people as I told you Mudit he is coming from Intuit and LinkedIn
+
+370
+00:24:31,000 --> 00:24:32,000
+Okay
+
+371
+00:24:32,000 --> 00:24:35,000
+Online classes not videos you are going to teach directly in online
+
+372
+00:24:35,000 --> 00:24:36,000
+Online classes
+
+373
+00:24:36,000 --> 00:24:40,000
+Okay and classes are conducted on Monday Wednesday Friday
+
+374
+00:24:40,000 --> 00:24:44,000
+Okay Wednesday Monday Wednesday and Friday
+
+375
+00:24:44,000 --> 00:24:45,000
+Three days in a week
+
+376
+00:24:45,000 --> 00:24:46,000
+In a week
+
+377
+00:24:46,000 --> 00:24:47,000
+Yeah
+
+378
+00:24:47,000 --> 00:24:49,000
+Timing 9 pm to 11 pm
+
+379
+00:24:49,000 --> 00:24:51,000
+In the morning
+
+380
+00:24:51,000 --> 00:24:53,000
+No no 9 pm evening
+
+381
+00:24:53,000 --> 00:24:55,000
+9 pm to 11 pm
+
+382
+00:24:55,000 --> 00:24:59,000
+11 pm it is a live classes live classes you will get recordings
+
+383
+00:24:59,000 --> 00:25:00,000
+Okay
+
+384
+00:25:00,000 --> 00:25:01,000
+For every live class
+
+385
+00:25:02,000 --> 00:25:09,000
+And now these live classes would be having two projects because you told the right thing that if you don't have that experience
+
+386
+00:25:09,000 --> 00:25:10,000
+Yes
+
+387
+00:25:10,000 --> 00:25:12,000
+Automatically it is not going to be counted anywhere
+
+388
+00:25:12,000 --> 00:25:13,000
+Right
+
+389
+00:25:13,000 --> 00:25:14,000
+Yes
+
+390
+00:25:14,000 --> 00:25:22,000
+Though you are certified with AWS or any certification again it is a certification for your practical knowledge not for the practical knowledge
+
+391
+00:25:22,000 --> 00:25:23,000
+Yes
+
+392
+00:25:23,000 --> 00:25:31,000
+So at Scala we have collaborations with Netflix, Walmart, Meta, Google all these companies we have a collaboration with
+
+393
+00:25:31,000 --> 00:25:35,000
+Where we teach you how you work into these large scale products
+
+394
+00:25:35,000 --> 00:25:36,000
+Okay
+
+395
+00:25:36,000 --> 00:25:40,000
+For example let's say in your current company let's say you are working as an administrator for example I am saying
+
+396
+00:25:40,000 --> 00:25:47,000
+So tell me what was the load or are you aware about the scale part what was the scale in which you were working on
+
+397
+00:25:47,000 --> 00:25:49,000
+Let's say with Kafka
+
+398
+00:25:49,000 --> 00:25:50,000
+Okay
+
+399
+00:25:50,000 --> 00:25:52,000
+Or let's say you worked as a Kafka administrator
+
+400
+00:25:52,000 --> 00:25:53,000
+Yes yes
+
+401
+00:25:53,000 --> 00:25:58,000
+What was the scale that you were handling or let's say how many user base you were handling over there
+
+402
+00:26:00,000 --> 00:26:03,000
+I worked for BMW
+
+403
+00:26:03,000 --> 00:26:04,000
+Okay
+
+404
+00:26:04,000 --> 00:26:05,000
+Single client
+
+405
+00:26:05,000 --> 00:26:06,000
+Okay
+
+406
+00:26:06,000 --> 00:26:09,000
+Later in Cartagent we don't have the project
+
+407
+00:26:09,000 --> 00:26:10,000
+Hmm
+
+408
+00:26:10,000 --> 00:26:11,000
+We got
+
+409
+00:26:11,000 --> 00:26:17,000
+God I will tell you why I asked you this question is see now using Kafka or ZoomKeeper for example
+
+410
+00:26:17,000 --> 00:26:18,000
+Okay
+
+411
+00:26:18,000 --> 00:26:19,000
+Okay
+
+412
+00:26:19,000 --> 00:26:25,000
+Let's say you have a BMW as a client let's say BMW has 10,000 users on a daily basis for example
+
+413
+00:26:25,000 --> 00:26:26,000
+Okay
+
+414
+00:26:26,000 --> 00:26:27,000
+Okay
+
+415
+00:26:27,000 --> 00:26:32,000
+Now building Kafka designing Kafka for those people would be different as compared to when I compared it with Amazon
+
+416
+00:26:32,000 --> 00:26:37,000
+Because Amazon has 1 billion users that comes on it E platform on a daily basis
+
+417
+00:26:37,000 --> 00:26:38,000
+Correct
+
+418
+00:26:38,000 --> 00:26:39,000
+Okay okay
+
+419
+00:26:39,000 --> 00:26:42,000
+At Scala we will teach you the scale part the scalability aspect
+
+420
+00:26:42,000 --> 00:26:43,000
+Okay
+
+421
+00:26:43,000 --> 00:26:49,000
+When you talk about cloud also AWS you know there is a service called as S3 I believe you are aware about it
+
+422
+00:26:49,000 --> 00:26:50,000
+Simple storage system
+
+423
+00:26:50,000 --> 00:26:51,000
+Yes storage
+
+424
+00:26:51,000 --> 00:26:52,000
+Simple storage right
+
+425
+00:26:52,000 --> 00:27:00,000
+Now simple S3 for let's say your company might be taking a database of let's say 100 TB for example
+
+426
+00:27:00,000 --> 00:27:01,000
+See I have a doubt
+
+427
+00:27:01,000 --> 00:27:02,000
+These are
+
+428
+00:27:02,000 --> 00:27:04,000
+So if I choose cloud computing
+
+429
+00:27:04,000 --> 00:27:05,000
+Hmm
+
+430
+00:27:05,000 --> 00:27:06,000
+AWS
+
+431
+00:27:06,000 --> 00:27:07,000
+Hmm
+
+432
+00:27:07,000 --> 00:27:08,000
+There are some hundreds of services are there
+
+433
+00:27:08,000 --> 00:27:09,000
+Exactly
+
+434
+00:27:09,000 --> 00:27:10,000
+I think everything is not necessary for me
+
+435
+00:27:10,000 --> 00:27:11,000
+Correct
+
+436
+00:27:11,000 --> 00:27:15,000
+Like what is necessary I say VMware administrator
+
+437
+00:27:15,000 --> 00:27:16,000
+Hmm
+
+438
+00:27:16,000 --> 00:27:19,000
+And Kafka administrator like what services will help me
+
+439
+00:27:19,000 --> 00:27:24,000
+See I will tell you over here is like AWS when you talk about S3 is there
+
+440
+00:27:24,000 --> 00:27:25,000
+Okay
+
+441
+00:27:25,000 --> 00:27:26,000
+Okay
+
+442
+00:27:26,000 --> 00:27:27,000
+When you talk about EC2 is there
+
+443
+00:27:27,000 --> 00:27:28,000
+Okay
+
+444
+00:27:28,000 --> 00:27:29,000
+Yeah
+
+445
+00:27:29,000 --> 00:27:30,000
+Lambda services are there
+
+446
+00:27:30,000 --> 00:27:31,000
+Okay
+
+447
+00:27:31,000 --> 00:27:33,000
+AWS Aurora is there not everything is useful as we mentioned
+
+448
+00:27:33,000 --> 00:27:34,000
+But yeah
+
+449
+00:27:34,000 --> 00:27:37,000
+You need to have a good understanding about most of the service and I will tell you why
+
+450
+00:27:37,000 --> 00:27:38,000
+Okay
+
+451
+00:27:38,000 --> 00:27:42,000
+I am saying that is because you don't plan to be administrator in your entire life
+
+452
+00:27:42,000 --> 00:27:43,000
+Right
+
+453
+00:27:43,000 --> 00:27:44,000
+You want to get that promotion
+
+454
+00:27:44,000 --> 00:27:45,000
+Am I saying it right
+
+455
+00:27:45,000 --> 00:27:46,000
+Yes
+
+456
+00:27:46,000 --> 00:27:49,000
+See what happens is if you know everything from zero from end to end
+
+457
+00:27:49,000 --> 00:27:52,000
+What happens is lot of time on senior level
+
+458
+00:27:52,000 --> 00:27:53,000
+Okay
+
+459
+00:27:53,000 --> 00:27:56,000
+You don't do things from your own end you need to take that decisions
+
+460
+00:27:56,000 --> 00:27:57,000
+Am I saying it right
+
+461
+00:27:57,000 --> 00:27:58,000
+Okay
+
+462
+00:27:58,000 --> 00:28:00,000
+Now let's say if you know everything properly
+
+463
+00:28:00,000 --> 00:28:05,000
+Then only you can make that decision and let's say I am having a system and being an architect
+
+464
+00:28:05,000 --> 00:28:10,000
+I need to make a decision that I need a CPU heavy machine or a memory heavy machine
+
+465
+00:28:10,000 --> 00:28:11,000
+Correct
+
+466
+00:28:11,000 --> 00:28:12,000
+Yes
+
+467
+00:28:12,000 --> 00:28:15,000
+Let's say I would be using the Lambda function or EC2 machines for that
+
+468
+00:28:15,000 --> 00:28:16,000
+Okay
+
+469
+00:28:16,000 --> 00:28:19,000
+So all these choices you need to make when you reach up the senior level
+
+470
+00:28:19,000 --> 00:28:20,000
+Yes
+
+471
+00:28:20,000 --> 00:28:24,000
+And that will only come when you know all the services by the back of your hand
+
+472
+00:28:24,000 --> 00:28:25,000
+Correct
+
+473
+00:28:25,000 --> 00:28:26,000
+Yeah that is true
+
+474
+00:28:26,000 --> 00:28:30,000
+So that is what at Scalar we teach because everything over here is going to be practically
+
+475
+00:28:30,000 --> 00:28:31,000
+Okay
+
+476
+00:28:31,000 --> 00:28:36,000
+So what I am coming to this point is that you are not learning over here only the tools at Scalar
+
+477
+00:28:36,000 --> 00:28:40,000
+Because at senior level company won't judge you by the tools that you know
+
+478
+00:28:40,000 --> 00:28:45,000
+They won't be saying that we are hiring only Kafka administrator or Zookeeper administrator
+
+479
+00:28:45,000 --> 00:28:46,000
+Got it
+
+480
+00:28:46,000 --> 00:28:47,000
+Yes
+
+481
+00:28:47,000 --> 00:28:52,000
+They will hire administrator and they will understand that you would be working with all the technologies that they give you
+
+482
+00:28:52,000 --> 00:28:53,000
+Okay
+
+483
+00:28:53,000 --> 00:28:58,000
+So that is what we are making you ready because if you are only ready with one or two technology
+
+484
+00:28:58,000 --> 00:29:03,000
+You might not even get opportunity or maybe if you get after one or two years the problem that you are facing right now
+
+485
+00:29:03,000 --> 00:29:04,000
+That again will come
+
+486
+00:29:04,000 --> 00:29:06,000
+So we are not solving that problem
+
+487
+00:29:06,000 --> 00:29:07,000
+Correct
+
+488
+00:29:07,000 --> 00:29:08,000
+Yeah
+
+489
+00:29:08,000 --> 00:29:13,000
+If you want to solve it for the longer run this is the approach that we need to follow where we need to build that capability
+
+490
+00:29:13,000 --> 00:29:18,000
+That whatever comes in my plate I would be able to adapt into that and I would be performing
+
+491
+00:29:18,000 --> 00:29:20,000
+Yeah that is true
+
+492
+00:29:20,000 --> 00:29:26,000
+Again this is something this answer also gives the answer to the question that you asked me initially
+
+493
+00:29:26,000 --> 00:29:31,000
+When you told that for 10 years how actually I will be able to sustain my career and how Scalar helps
+
+494
+00:29:31,000 --> 00:29:32,000
+Correct
+
+495
+00:29:32,000 --> 00:29:33,000
+Yes
+
+496
+00:29:33,000 --> 00:29:39,000
+This is how by learning by knowing how to learn these new technologies in a faster way and that is what we will teach you at Scalar
+
+497
+00:29:39,000 --> 00:29:40,000
+Got it
+
+498
+00:29:40,000 --> 00:29:41,000
+Yes
+
+499
+00:29:41,000 --> 00:29:44,000
+And see when you know this salary is anyhow the by-product for that
+
+500
+00:29:44,000 --> 00:29:51,000
+Because talking to you I got to understand that you are not looking for the compensation part for you right now is getting a job
+
+501
+00:29:51,000 --> 00:29:52,000
+Right
+
+502
+00:29:52,000 --> 00:29:53,000
+Yes
+
+503
+00:29:53,000 --> 00:29:58,000
+But if I tell you about the compensation part is because see if you work into IT there is only two things
+
+504
+00:29:58,000 --> 00:30:01,000
+One is the learning aspect and one is the earning aspect
+
+505
+00:30:01,000 --> 00:30:02,000
+Right
+
+506
+00:30:02,000 --> 00:30:06,000
+Now if you do the learning aspect automatically earning also would be coming on your plate
+
+507
+00:30:06,000 --> 00:30:13,000
+And as I told you is with 8 years of experience company anyhow is rewarding over there more than 80 LP right now to the folks
+
+508
+00:30:13,000 --> 00:30:19,000
+Coming from the what you can say administrator background or from the cloud background into a product company
+
+509
+00:30:19,000 --> 00:30:20,000
+Got it
+
+510
+00:30:20,000 --> 00:30:21,000
+Okay
+
+511
+00:30:21,000 --> 00:30:26,000
+I will tell you we are having so many people I will tell you I had a learner 8 years of experience his name is Varun
+
+512
+00:30:26,000 --> 00:30:28,000
+He was coming from TCS
+
+513
+00:30:28,000 --> 00:30:29,000
+Okay
+
+514
+00:30:29,000 --> 00:30:31,000
+He joined Scalar in 2021
+
+515
+00:30:31,000 --> 00:30:38,000
+Means 3 years back in TCS he was working as an admin 20 lakh package same like you
+
+516
+00:30:38,000 --> 00:30:39,000
+Okay
+
+517
+00:30:39,000 --> 00:30:42,000
+After Scalar he got into PayPal
+
+518
+00:30:42,000 --> 00:30:46,000
+So from 20 salary in PayPal increased to 55 LP
+
+519
+00:30:46,000 --> 00:30:49,000
+Means he got 150% of hike in the salary
+
+520
+00:30:49,000 --> 00:30:50,000
+Okay
+
+521
+00:30:50,000 --> 00:30:53,000
+Last year he got a job in Atlassian
+
+522
+00:30:53,000 --> 00:30:54,000
+Okay
+
+523
+00:30:54,000 --> 00:30:59,000
+Again Atlassian is a very big cloud organization in Atlassian currently is earning 90 LP
+
+524
+00:30:59,000 --> 00:31:00,000
+Okay
+
+525
+00:31:00,000 --> 00:31:01,000
+So you can see
+
+526
+00:31:01,000 --> 00:31:05,000
+So he is working in TCS and parallel he joined
+
+527
+00:31:05,000 --> 00:31:06,000
+Exactly
+
+528
+00:31:06,000 --> 00:31:07,000
+Scalar
+
+529
+00:31:07,000 --> 00:31:08,000
+Correct
+
+530
+00:31:08,000 --> 00:31:09,000
+But how long he took the time like
+
+531
+00:31:09,000 --> 00:31:12,000
+So that Scalar the training takes approximately 9 months to finish entirely
+
+532
+00:31:12,000 --> 00:31:13,000
+Okay
+
+533
+00:31:13,000 --> 00:31:17,000
+So 9 months he gave him the time but you see the outcome
+
+534
+00:31:17,000 --> 00:31:20,000
+Initially also he got the outcome but if you see the longer run also
+
+535
+00:31:20,000 --> 00:31:21,000
+Okay
+
+536
+00:31:21,000 --> 00:31:25,000
+After 3-4 years ago again that knowledge itself helped him to get into Atlassian
+
+537
+00:31:25,000 --> 00:31:26,000
+Okay
+
+538
+00:31:26,000 --> 00:31:30,000
+That means in 4 years from 20 lakh right now he is at around 90 lakh rupees
+
+539
+00:31:30,000 --> 00:31:31,000
+Okay
+
+540
+00:31:31,000 --> 00:31:38,000
+That means that is such a big growth that is what for the longer run we train people over here as I mentioned to you over here
+
+541
+00:31:38,000 --> 00:31:43,000
+If we want to avoid that problem that if you are getting into a company you should be able to perform well
+
+542
+00:31:43,000 --> 00:31:44,000
+Correct
+
+543
+00:31:44,000 --> 00:31:45,000
+Yes
+
+544
+00:31:45,000 --> 00:31:46,000
+Correct
+
+545
+00:31:46,000 --> 00:31:51,000
+So one more thing I was coming over here for you is because as you mentioned to me about the initial job opportunities
+
+546
+00:31:51,000 --> 00:31:53,000
+They are looking for right now opportunities
+
+547
+00:31:53,000 --> 00:31:54,000
+Right
+
+548
+00:31:54,000 --> 00:31:59,000
+See what happens is at Scalar getting a referral is not a big deal at Scalar
+
+549
+00:31:59,000 --> 00:32:00,000
+Okay
+
+550
+00:32:00,000 --> 00:32:03,000
+As I told you because of the community aspect because there are so many people
+
+551
+00:32:03,000 --> 00:32:07,000
+When you will be coming at Scalar you will be finding people coming from Google, Amazon
+
+552
+00:32:07,000 --> 00:32:12,000
+You will be seeing VP of Apple, JP Morgan Chase being a learner at Scalar
+
+553
+00:32:12,000 --> 00:32:18,000
+So what happens is we give referrals over here to people and there has been people who have got place in 2 months also
+
+554
+00:32:18,000 --> 00:32:19,000
+Got it
+
+555
+00:32:19,000 --> 00:32:20,000
+Okay
+
+556
+00:32:20,000 --> 00:32:24,000
+But what happens is in order to get that referral you also should be able to clear those interviews
+
+557
+00:32:24,000 --> 00:32:25,000
+Correct
+
+558
+00:32:25,000 --> 00:32:26,000
+Okay
+
+559
+00:32:26,000 --> 00:32:29,000
+And if without having skills you would not be able to clear those interviews
+
+560
+00:32:29,000 --> 00:32:30,000
+Right
+
+561
+00:32:30,000 --> 00:32:31,000
+Yeah that is true
+
+562
+00:32:31,000 --> 00:32:37,000
+Initially if you want that help also from Scalar we will give you that in terms of helping you in terms of the referral
+
+563
+00:32:37,000 --> 00:32:41,000
+But again it is up to you if you are able to cash in those opportunities or not
+
+564
+00:32:41,000 --> 00:32:42,000
+Okay
+
+565
+00:32:42,000 --> 00:32:50,000
+And everything at the end of the day depends upon you also because what happens is the sooner you will be learning from this platform
+
+566
+00:32:50,000 --> 00:32:53,000
+The sooner you will be starting getting opportunities as well
+
+567
+00:32:53,000 --> 00:32:54,000
+Okay
+
+568
+00:32:54,000 --> 00:33:00,000
+And I will tell you the entire training as I mentioned it takes you around 9 months to finish the entire training at Scalar
+
+569
+00:33:00,000 --> 00:33:01,000
+Entire training
+
+570
+00:33:01,000 --> 00:33:02,000
+9 months
+
+571
+00:33:02,000 --> 00:33:04,000
+So what all you will cover in this 9 months
+
+572
+00:33:04,000 --> 00:33:06,000
+As I mentioned to you first
+
+573
+00:33:07,000 --> 00:33:12,000
+So my goal is cloud computing
+
+574
+00:33:12,000 --> 00:33:13,000
+Exactly
+
+575
+00:33:13,000 --> 00:33:17,000
+So this 9 months what all you cover
+
+576
+00:33:17,000 --> 00:33:22,000
+I have mentioned to you over here is see first we will build the base of your system
+
+577
+00:33:22,000 --> 00:33:26,000
+So you can get into the cloud for a longer time
+
+578
+00:33:26,000 --> 00:33:27,000
+Got it
+
+579
+00:33:27,000 --> 00:33:31,000
+So when you talk about your base, base comprises of Linux
+
+580
+00:33:31,000 --> 00:33:32,000
+Okay
+
+581
+00:33:32,000 --> 00:33:38,000
+It comprises of Python and it comprises of networking and basic computer fundamentals
+
+582
+00:33:38,000 --> 00:33:39,000
+Okay
+
+583
+00:33:39,000 --> 00:33:48,000
+Like the charge will be given according to that taking number of courses or it is a common fixed one for all
+
+584
+00:33:48,000 --> 00:33:49,000
+It is fixed itself
+
+585
+00:33:49,000 --> 00:33:54,000
+Okay so I was coming over here to you is because it is a very premium platform when you talk about Scalar
+
+586
+00:33:54,000 --> 00:33:55,000
+Okay
+
+587
+00:33:55,000 --> 00:34:02,000
+So once you get into this platform you only have to pay 20,000 rupees as registration fees
+
+588
+00:34:02,000 --> 00:34:04,000
+20,000 registration
+
+589
+00:34:04,000 --> 00:34:10,000
+And what does that 20,000 does to you is it gives you one month of access to the platform
+
+590
+00:34:10,000 --> 00:34:11,000
+Got it
+
+591
+00:34:11,000 --> 00:34:12,000
+Okay
+
+592
+00:34:12,000 --> 00:34:13,000
+And one month
+
+593
+00:34:13,000 --> 00:34:17,000
+What can I see this one month
+
+594
+00:34:17,000 --> 00:34:21,000
+That is what I was coming to you is your classes starts
+
+595
+00:34:21,000 --> 00:34:22,000
+Okay
+
+596
+00:34:22,000 --> 00:34:23,000
+Okay
+
+597
+00:34:23,000 --> 00:34:28,000
+Your mentor as I told you whichever mentor you want let's say you want someone from Google, Amazon
+
+598
+00:34:28,000 --> 00:34:30,000
+Whichever company you want to get into
+
+599
+00:34:30,000 --> 00:34:33,000
+You will select your mentor, your mentorship session everything will start
+
+600
+00:34:33,000 --> 00:34:36,000
+And the trial period is till 31st of August
+
+601
+00:34:36,000 --> 00:34:37,000
+Okay
+
+602
+00:34:37,000 --> 00:34:38,000
+By any chance
+
+603
+00:34:38,000 --> 00:34:39,000
+31st of August
+
+604
+00:34:39,000 --> 00:34:41,000
+That means one month you have a trial period with Scalar
+
+605
+00:34:41,000 --> 00:34:42,000
+Okay
+
+606
+00:34:42,000 --> 00:34:43,000
+Okay
+
+607
+00:34:43,000 --> 00:34:46,000
+Let's say you don't like the training because we only have 2% of refund
+
+608
+00:34:46,000 --> 00:34:47,000
+Array trial
+
+609
+00:34:47,000 --> 00:34:52,000
+But let's say in the worst case you don't like the training your 20,000 rupees is secured
+
+610
+00:34:52,000 --> 00:34:54,000
+You will get that refunded back to you
+
+611
+00:34:54,000 --> 00:34:56,000
+So you are not losing on to anything
+
+612
+00:34:56,000 --> 00:35:02,000
+But let's say if you want to go ahead with that training in that case there is an EMI option
+
+613
+00:35:02,000 --> 00:35:04,000
+That is available with us
+
+614
+00:35:04,000 --> 00:35:09,000
+And now the EMI is of around 12,250 rupees
+
+615
+00:35:09,000 --> 00:35:10,000
+Okay
+
+616
+00:35:10,000 --> 00:35:14,000
+On a monthly basis and now as you are not working right now
+
+617
+00:35:14,000 --> 00:35:19,000
+So one thing that we can do for you is that for the folks who are currently not working for them
+
+618
+00:35:19,000 --> 00:35:21,000
+We start the EMI from the month of October
+
+619
+00:35:21,000 --> 00:35:22,000
+October
+
+620
+00:35:22,000 --> 00:35:25,000
+So July and September are two months that you have
+
+621
+00:35:25,000 --> 00:35:28,000
+In that you are only paying 20,000 rupees
+
+622
+00:35:28,000 --> 00:35:33,000
+And if you are not getting any calls of interview let's say from LinkedIn or Nokri
+
+623
+00:35:33,000 --> 00:35:36,000
+You don't have to worry because you have your mentor
+
+624
+00:35:36,000 --> 00:35:39,000
+Who is interviewing in his company for your position or for your level
+
+625
+00:35:39,000 --> 00:35:42,000
+So they would prepare you for the interview
+
+626
+00:35:42,000 --> 00:35:44,000
+They will see if any problem is there in your resume or not
+
+627
+00:35:44,000 --> 00:35:47,000
+And they will help you for initial two months also
+
+628
+00:35:47,000 --> 00:35:49,000
+If you get any offer
+
+629
+00:35:49,000 --> 00:35:52,000
+So EMI as I told you 12,250 it is there
+
+630
+00:35:52,000 --> 00:35:56,000
+And this goes for 24 months of EMI is there
+
+631
+00:35:56,000 --> 00:35:57,000
+Okay
+
+632
+00:35:57,000 --> 00:36:01,000
+Now what happens is this training will be starting to yield value
+
+633
+00:36:01,000 --> 00:36:04,000
+Or would be able to give you the return in nine months only
+
+634
+00:36:04,000 --> 00:36:10,000
+Now whichever company you join after Scalar would be a product company only
+
+635
+00:36:10,000 --> 00:36:14,000
+If you know product company pay you minimum 3 to 4 lakh rupees as joining bonus
+
+636
+00:36:14,000 --> 00:36:20,000
+So once you take that joining bonus you can repay the EMI at one go itself at Scalar
+
+637
+00:36:20,000 --> 00:36:23,000
+That is how everyone who joins this platform does
+
+638
+00:36:23,000 --> 00:36:24,000
+Okay
+
+639
+00:36:24,000 --> 00:36:30,000
+So I hope that part in terms of the finances that is clear
+
+640
+00:36:30,000 --> 00:36:32,000
+Overall what is the amount?
+
+641
+00:36:32,000 --> 00:36:36,000
+Overall I will tell you it comes up to around 3,69,000 rupees
+
+642
+00:36:36,000 --> 00:36:37,000
+3.69
+
+643
+00:36:37,000 --> 00:36:39,000
+3.69
+
+644
+00:36:39,000 --> 00:36:43,000
+3.69 it is there in which scholarship is there
+
+645
+00:36:43,000 --> 00:36:44,000
+Okay
+
+646
+00:36:44,000 --> 00:36:47,000
+So scholarship how you take a scholarship is there is a test
+
+647
+00:36:47,000 --> 00:36:51,000
+That you have to give that is a Scalar assessment test
+
+648
+00:36:51,000 --> 00:36:55,000
+So once you give a test in that you will get a 40,000 rupees of scholarship
+
+649
+00:36:55,000 --> 00:36:58,000
+Directly on the behalf of the test
+
+650
+00:36:58,000 --> 00:36:59,000
+Okay
+
+651
+00:36:59,000 --> 00:37:03,000
+So payable amount comes over here at 3.24
+
+652
+00:37:03,000 --> 00:37:07,000
+In that 3.24 only 20,000 rupees you are paying
+
+653
+00:37:07,000 --> 00:37:12,000
+The remaining 3.4 get converted into EMIs through Scalar
+
+654
+00:37:12,000 --> 00:37:14,000
+NBFC partners
+
+655
+00:37:14,000 --> 00:37:15,000
+Okay
+
+656
+00:37:15,000 --> 00:37:20,000
+And that it is up to you let's say 12,250 is an option for no cost EMI
+
+657
+00:37:20,000 --> 00:37:22,000
+That means no interest is there
+
+658
+00:37:22,000 --> 00:37:23,000
+Okay
+
+659
+00:37:23,000 --> 00:37:27,000
+But let's say if you want a lesser commitment of 7,000 rupees on a monthly basis
+
+660
+00:37:27,000 --> 00:37:29,000
+That option also we have
+
+661
+00:37:29,000 --> 00:37:34,000
+But that goes to 60 months and there is a 10% of interest rate that is there in that aspect
+
+662
+00:37:34,000 --> 00:37:35,000
+Got it
+
+663
+00:37:35,000 --> 00:37:41,000
+So this 3.69 it is for 9 months or for what period?
+
+664
+00:37:41,000 --> 00:37:44,000
+I will tell you the duration for the course is 9 months
+
+665
+00:37:44,000 --> 00:37:45,000
+Got it
+
+666
+00:37:45,000 --> 00:37:46,000
+Okay
+
+667
+00:37:46,000 --> 00:37:49,000
+But the placements or the service that you will be getting from Scalar
+
+668
+00:37:49,000 --> 00:37:52,000
+The placement is additional 9 months
+
+669
+00:37:52,000 --> 00:37:54,000
+So 18 months service is there
+
+670
+00:37:54,000 --> 00:37:55,000
+Got it
+
+671
+00:37:55,000 --> 00:37:56,000
+18 months service
+
+672
+00:37:56,000 --> 00:37:59,000
+18 months service is there and community access is till lifetime
+
+673
+00:37:59,000 --> 00:38:03,000
+Because once you are a part of the community you would be there till lifetime
+
+674
+00:38:03,000 --> 00:38:05,000
+Because whatever contacts you will be making over there
+
+675
+00:38:05,000 --> 00:38:08,000
+That is something that is genuine and that would be there with you till the lifetime
+
+676
+00:38:08,000 --> 00:38:09,000
+Right
+
+677
+00:38:09,000 --> 00:38:16,000
+And also I will tell you till now we have not revoked any learners access till now in the last 11 years
+
+678
+00:38:16,000 --> 00:38:17,000
+Got it
+
+679
+00:38:17,000 --> 00:38:18,000
+Okay
+
+680
+00:38:18,000 --> 00:38:22,000
+But just to tell you it would be 18 months but till now no one access we have removed till now
+
+681
+00:38:22,000 --> 00:38:24,000
+So it would be genuinely would be there with you
+
+682
+00:38:24,000 --> 00:38:25,000
+Okay
+
+683
+00:38:25,000 --> 00:38:31,000
+And this platform is something like can you tell me like which city or state you are coming from?
+
+684
+00:38:32,000 --> 00:38:35,000
+I am from Andhra Pradesh and I prefer Bangalore
+
+685
+00:38:35,000 --> 00:38:36,000
+Bangalore location
+
+686
+00:38:36,000 --> 00:38:44,000
+No worries why I ask you about Andhra Pradesh is we are also having one more what you can say trainer from Andhra Pradesh
+
+687
+00:38:44,000 --> 00:38:46,000
+His name is Srikant Verma Chekure
+
+688
+00:38:46,000 --> 00:38:47,000
+Okay
+
+689
+00:38:47,000 --> 00:38:50,000
+So he was working as a lead data scientist in Amazon
+
+690
+00:38:50,000 --> 00:38:51,000
+Oh
+
+691
+00:38:51,000 --> 00:38:58,000
+And when Amazon was not building this when they were like building this AWS before the launch aspect
+
+692
+00:38:58,000 --> 00:39:01,000
+So he was also working over there as an architect for AWS
+
+693
+00:39:01,000 --> 00:39:08,000
+So most of the services or the pricing model that is there in Amazon that was developed and built by Srikant itself
+
+694
+00:39:08,000 --> 00:39:15,000
+He has a very famous school in Hyderabad if you know the school name is I will tell you it is called as Coding Elements
+
+695
+00:39:15,000 --> 00:39:17,000
+Have you heard about this school before?
+
+696
+00:39:17,000 --> 00:39:18,000
+No no
+
+697
+00:39:18,000 --> 00:39:23,000
+Or have you heard about a school called as named as Applied AI Roots have you heard about it?
+
+698
+00:39:23,000 --> 00:39:26,000
+Yeah I heard somehow
+
+699
+00:39:26,000 --> 00:39:27,000
+You have?
+
+700
+00:39:27,000 --> 00:39:29,000
+Yeah I heard the name
+
+701
+00:39:29,000 --> 00:39:36,000
+So Applied AI Roots again when he came back to India when he left Amazon so he co-founded the school called as AI Applied Roots
+
+702
+00:39:36,000 --> 00:39:40,000
+And currently he is one of the lead instructor with Scalar also
+
+703
+00:39:40,000 --> 00:39:47,000
+So what happens is these all people coming from these regions would be a part of your community part as well
+
+704
+00:39:47,000 --> 00:39:54,000
+So in future also if you need any help because you don't know how the market will be in one year two year five years
+
+705
+00:39:54,000 --> 00:39:55,000
+No one can predict that
+
+706
+00:39:55,000 --> 00:39:56,000
+Correct
+
+707
+00:39:56,000 --> 00:40:06,000
+So even in that case also if you have any problem down the line also you have these experienced folks who have great experience and have been an entrepreneur as well
+
+708
+00:40:06,000 --> 00:40:09,000
+These people would be able to help you out for that aspect as well
+
+709
+00:40:09,000 --> 00:40:10,000
+Okay
+
+710
+00:40:10,000 --> 00:40:22,000
+So not 3.69 this entire 3.24 would be comprising of all these services that is your training, clearing your doubt, your one on one mentorship session, building your resume
+
+711
+00:40:22,000 --> 00:40:32,000
+Helping you to clear those interviews and again helping you in terms of building that community that would be giving you the result after that training everything comprises of that
+
+712
+00:40:32,000 --> 00:40:34,000
+Okay
+
+713
+00:40:34,000 --> 00:40:37,000
+Got it I hope now you got that clarity correct
+
+714
+00:40:37,000 --> 00:40:38,000
+Yes
+
+715
+00:40:38,000 --> 00:40:43,000
+And one more question I had with you is like are you aware about ATS application trafficking system?
+
+716
+00:40:43,000 --> 00:40:45,000
+No
+
+717
+00:40:45,000 --> 00:40:46,000
+You are not aware about right?
+
+718
+00:40:46,000 --> 00:40:48,000
+I am not aware of that
+
+719
+00:40:48,000 --> 00:40:52,000
+Why I ask you that is because let's say a company like Amazon
+
+720
+00:40:52,000 --> 00:40:53,000
+Okay
+
+721
+00:40:53,000 --> 00:40:59,000
+Now what happens is Amazon would be getting more than one million applications in a daily basis
+
+722
+00:40:59,000 --> 00:41:03,000
+Now your no HR would be going through these many applications
+
+723
+00:41:03,000 --> 00:41:04,000
+Correct
+
+724
+00:41:04,000 --> 00:41:12,000
+So what they have done is they have built an application tracking system that is an ATS that is there in their entire databases
+
+725
+00:41:12,000 --> 00:41:18,000
+And this select people on the basis of those keywords, patterns and that is how your resume gets shortlisted
+
+726
+00:41:18,000 --> 00:41:26,000
+Now the mentor that you will be selecting who are working in these companies they also have that better understanding about what get you shortlisted
+
+727
+00:41:26,000 --> 00:41:32,000
+And they will also help you to build that resume and how you can clear that ATS criteria also
+
+728
+00:41:32,000 --> 00:41:37,000
+So everything that you know or even you don't know your mentors are going to help you out for that aspect
+
+729
+00:41:37,000 --> 00:41:39,000
+Okay
+
+730
+00:41:39,000 --> 00:41:43,000
+I hope now you got a clarity about what kind of platform this is
+
+731
+00:41:43,000 --> 00:41:54,000
+So see like after currently I thought of upscaling cloud computing
+
+732
+00:41:54,000 --> 00:42:01,000
+Suppose due to some friend I want to change the domain to DevOps
+
+733
+00:42:01,000 --> 00:42:02,000
+Correct
+
+734
+00:42:02,000 --> 00:42:03,000
+Is it possible?
+
+735
+00:42:03,000 --> 00:42:06,000
+See cloud and DevOps is not a very different thing
+
+736
+00:42:06,000 --> 00:42:08,000
+Okay so I will clear with that also
+
+737
+00:42:08,000 --> 00:42:14,000
+See cloud is a service provider AWS, Azure, GCP
+
+738
+00:42:14,000 --> 00:42:16,000
+They are one of the most famous services storage
+
+739
+00:42:16,000 --> 00:42:17,000
+Right
+
+740
+00:42:17,000 --> 00:42:21,000
+But they don't only give storage there is compute services so many things they do
+
+741
+00:42:21,000 --> 00:42:22,000
+Right
+
+742
+00:42:22,000 --> 00:42:28,000
+Now when you talk about DevOps, DevOps is an automation tool that automates the environment
+
+743
+00:42:28,000 --> 00:42:29,000
+Got it
+
+744
+00:42:29,000 --> 00:42:32,000
+So let's say if you work as a DevOps engineer
+
+745
+00:42:33,000 --> 00:42:39,000
+Now what happens is you worked on tools like Kubernetes, Linux, Ansible all these things
+
+746
+00:42:39,000 --> 00:42:42,000
+But at the same time you are also using cloud also
+
+747
+00:42:42,000 --> 00:42:46,000
+So cloud and DevOps goes hand to hand with each other
+
+748
+00:42:46,000 --> 00:42:47,000
+Yes
+
+749
+00:42:47,000 --> 00:42:51,000
+And also if I tell you about the designation aspect also
+
+750
+00:42:51,000 --> 00:42:55,000
+So entry level position anyone who gets as an entry level position over here
+
+751
+00:42:55,000 --> 00:42:59,000
+They are giving the designation of DevOps engineer
+
+752
+00:42:59,000 --> 00:43:00,000
+Got it
+
+753
+00:43:00,000 --> 00:43:04,000
+Now once you get promoted you become a cloud engineer
+
+754
+00:43:04,000 --> 00:43:05,000
+Okay
+
+755
+00:43:05,000 --> 00:43:09,000
+So cloud and DevOps is not different thing they are same itself
+
+756
+00:43:09,000 --> 00:43:10,000
+Got it
+
+757
+00:43:10,000 --> 00:43:11,000
+Okay almost same
+
+758
+00:43:11,000 --> 00:43:18,000
+Almost same itself because if I am a cloud engineer 70% of my work I am doing in DevOps only
+
+759
+00:43:18,000 --> 00:43:21,000
+Yeah I got I understood
+
+760
+00:43:21,000 --> 00:43:25,000
+And after that I will become an SRE site reliability engineer
+
+761
+00:43:25,000 --> 00:43:26,000
+Yes
+
+762
+00:43:26,000 --> 00:43:31,000
+So see the beginner designation in this domain is DevOps engineer
+
+763
+00:43:31,000 --> 00:43:36,000
+Then comes cloud engineer and then comes SRE site reliability engineer
+
+764
+00:43:36,000 --> 00:43:37,000
+Okay
+
+765
+00:43:37,000 --> 00:43:43,000
+And then you become a staff engineer CTO VP AVP this is something how you grow up the ladder over here
+
+766
+00:43:43,000 --> 00:43:44,000
+Got it
+
+767
+00:43:44,000 --> 00:43:52,000
+So this will not become stagnant like the support domain or the Linux domain where you have reached the pinnacle now you cannot grow
+
+768
+00:43:52,000 --> 00:43:58,000
+Over here the growth will go up to the VP CTO and even till partner it go up to
+
+769
+00:43:58,000 --> 00:44:03,000
+So your entire career you will grow itself in terms of designation work and salary aspect also
+
+770
+00:44:03,000 --> 00:44:05,000
+Okay okay
+
+771
+00:44:05,000 --> 00:44:10,000
+I hope now you have the clarity right because both the things are entirely same itself and that is a designation
+
+772
+00:44:10,000 --> 00:44:13,000
+Right
+
+773
+00:44:13,000 --> 00:44:16,000
+Yeah I hope like you are clear on that aspect
+
+774
+00:44:16,000 --> 00:44:17,000
+Yes yes
+
+775
+00:44:17,000 --> 00:44:18,000
+So
+
+776
+00:44:18,000 --> 00:44:19,000
+Yeah
+
+777
+00:44:19,000 --> 00:44:20,000
+Please tell me
+
+778
+00:44:20,000 --> 00:44:24,000
+I have as of now I have not done any research
+
+779
+00:44:24,000 --> 00:44:25,000
+Exactly
+
+780
+00:44:25,000 --> 00:44:27,000
+I have no idea about Scalar
+
+781
+00:44:27,000 --> 00:44:28,000
+Correct correct
+
+782
+00:44:28,000 --> 00:44:31,000
+Where I can find some information about Scalar
+
+783
+00:44:31,000 --> 00:44:37,000
+I will do one thing Rupal for you is okay because what happens is we are actually closing the application on this Sunday itself
+
+784
+00:44:37,000 --> 00:44:43,000
+I will do one help for you is I will roll down an assessment test for you at Scalar
+
+785
+00:44:43,000 --> 00:44:44,000
+Okay
+
+786
+00:44:44,000 --> 00:44:49,000
+You can do one thing is you can attempt the test is free of cost it's only make you eligible got it
+
+787
+00:44:49,000 --> 00:44:56,000
+Second thing I will do for you is I am having your email it's rupal.397 at the rates email dot com is that right
+
+788
+00:44:56,000 --> 00:44:58,000
+Yes yes
+
+789
+00:44:58,000 --> 00:45:04,000
+Over there I will send you all the research material about Scalar what is Scalar when was it founded
+
+790
+00:45:04,000 --> 00:45:07,000
+Placement rate everything I will send it to you okay
+
+791
+00:45:07,000 --> 00:45:14,000
+Third thing is there that as you mentioned currently you are not working and you have friends who have recommended you about Scalar
+
+792
+00:45:14,000 --> 00:45:19,000
+But you usually are not much aware about Scalar as a platform right
+
+793
+00:45:19,000 --> 00:45:20,000
+Yeah yeah
+
+794
+00:45:20,000 --> 00:45:26,000
+I will do one thing for you is tomorrow I will connect you with an alumni at Scalar okay
+
+795
+00:45:26,000 --> 00:45:32,000
+So I am having alumni from Andhra Pradesh region itself his name is Naidu okay
+
+796
+00:45:32,000 --> 00:45:40,000
+In Naidu what happens is why I am saying that is he is having around 14 years of experience right now in IT got it
+
+797
+00:45:40,000 --> 00:45:48,000
+Got it and he takes interview in his company also and he is one of the learner with Scalar he has been a learner with Scalar
+
+798
+00:45:48,000 --> 00:45:57,000
+And I will tell you about his history right now so currently he is working in sales force as a senior engineering manager
+
+799
+00:45:57,000 --> 00:45:58,000
+Okay
+
+800
+00:45:58,000 --> 00:46:02,000
+And his current salary right now is 1.5 CR crore
+
+801
+00:46:02,000 --> 00:46:03,000
+1.5 CR
+
+802
+00:46:03,000 --> 00:46:11,000
+1.5 CR is his current salary and I will tell you before joining Scalar he was working with Wells Fargo
+
+803
+00:46:11,000 --> 00:46:12,000
+Okay
+
+804
+00:46:12,000 --> 00:46:20,000
+So he was working with Wells Fargo as a senior software engineer and he was at 15 lakh rupees when he joined Scalar
+
+805
+00:46:20,000 --> 00:46:21,000
+15 lakhs
+
+806
+00:46:21,000 --> 00:46:22,000
+1.5
+
+807
+00:46:22,000 --> 00:46:23,000
+Okay
+
+808
+00:46:23,000 --> 00:46:30,000
+After Scalar he worked as a principal software engineer in One Muthood if you had heard about that company One Muthood product company it is
+
+809
+00:46:30,000 --> 00:46:31,000
+Yes yes
+
+810
+00:46:31,000 --> 00:46:36,000
+And he made a switch at 35 lakh rupees in One Muthood okay
+
+811
+00:46:36,000 --> 00:46:37,000
+Okay okay
+
+812
+00:46:37,000 --> 00:46:46,000
+Four months back itself he got opportunity from sales force and he cleared the interview over there and currently working over there as a senior engineering manager
+
+813
+00:46:46,000 --> 00:46:50,000
+With 1.5 CR is his current salary that is getting over there
+
+814
+00:46:50,000 --> 00:46:51,000
+Okay okay
+
+815
+00:46:51,000 --> 00:46:55,000
+So imagine starting and he joins Scalar in 2020 that is
+
+816
+00:46:55,000 --> 00:46:56,000
+Okay
+
+817
+00:46:56,000 --> 00:47:04,000
+So he was nine months that means in three years from 15 he jumped to 40 and then now at around 1.5 CR okay
+
+818
+00:47:04,000 --> 00:47:11,000
+And he is currently working and leading the entire cloud project in a sales force got it
+
+819
+00:47:11,000 --> 00:47:12,000
+Okay
+
+820
+00:47:12,000 --> 00:47:15,000
+I will do one thing you can give the assessment because that makes you eligible with Scalar
+
+821
+00:47:15,000 --> 00:47:19,000
+I will send you the study materials or the research material about Scalar okay
+
+822
+00:47:19,000 --> 00:47:24,000
+And tomorrow I will check with Naidu what time he is available
+
+823
+00:47:25,000 --> 00:47:26,000
+You are saying something
+
+824
+00:47:26,000 --> 00:47:27,000
+Okay
+
+825
+00:47:27,000 --> 00:47:33,000
+Not tomorrow shall we make it on Monday tomorrow I have some personal work going out of my town
+
+826
+00:47:33,000 --> 00:47:34,000
+Okay okay
+
+827
+00:47:34,000 --> 00:47:40,000
+No worries on that why I am saying it is because mostly we would be closing the applications that is the thing
+
+828
+00:47:40,000 --> 00:47:41,000
+Can you make out a time on Sunday
+
+829
+00:47:41,000 --> 00:47:44,000
+Monday Monday
+
+830
+00:47:44,000 --> 00:47:45,000
+Monday let me check
+
+831
+00:47:45,000 --> 00:47:46,000
+Monday morning
+
+832
+00:47:46,000 --> 00:47:52,000
+Because what happens is these are not people who are employed with Scalar they are working in their own company correct
+
+833
+00:47:52,000 --> 00:47:53,000
+I understood I understood
+
+834
+00:47:53,000 --> 00:47:59,000
+So we have a different team at Scalar that is called as alumini team who keep in touch with these folks got it
+
+835
+00:47:59,000 --> 00:48:00,000
+Okay okay
+
+836
+00:48:00,000 --> 00:48:06,000
+I would be just sending you the details to you I will ask my team if Naidu is available on Monday
+
+837
+00:48:06,000 --> 00:48:13,000
+And then and can you tell me Monday two three timings can you give me like 9 am 10 am like can you give me two three timings
+
+838
+00:48:13,000 --> 00:48:16,000
+Accordingly I can see with Naidu what time he will be available
+
+839
+00:48:16,000 --> 00:48:19,000
+Morning 10 am
+
+840
+00:48:19,000 --> 00:48:20,000
+Morning 10 am
+
+841
+00:48:20,000 --> 00:48:23,000
+At 10 am other than that 10 11 12 that works for you
+
+842
+00:48:23,000 --> 00:48:28,000
+10 and 11 right yeah it is fine
+
+843
+00:48:28,000 --> 00:48:32,000
+So I will do one thing I am sending you those research materials for you to just go through okay
+
+844
+00:48:32,000 --> 00:48:42,000
+And accordingly one more thing you can do is once you get free now you can just make a note let's say take a copy and a notebook and a pen or just open your laptop make some notes about Scalar
+
+845
+00:48:42,000 --> 00:48:43,000
+Okay
+
+846
+00:48:43,000 --> 00:48:44,000
+Okay
+
+847
+00:48:44,000 --> 00:48:57,000
+And when you connect with Naidu then you can ask him about those doubts so some question can come like how he managed the time with Scalar how things were there is how this platform helped everything you can ask him on an individual level he will help you out
+
+848
+00:48:57,000 --> 00:48:58,000
+Okay
+
+849
+00:48:58,000 --> 00:48:59,000
+Okay okay
+
+850
+00:48:59,000 --> 00:49:07,000
+And one thing I have a doubt like Scalar you said it is for 9 months duration and you will support additional 9 months totally 18 months right
+
+851
+00:49:07,000 --> 00:49:08,000
+Correct correct
+
+852
+00:49:08,000 --> 00:49:14,000
+So that is officially that is official but as I told you till now no one access we have removed got it
+
+853
+00:49:14,000 --> 00:49:18,000
+Okay suppose you will provide lab right
+
+854
+00:49:18,000 --> 00:49:19,000
+Exactly
+
+855
+00:49:19,000 --> 00:49:20,000
+From starting there
+
+856
+00:49:20,000 --> 00:49:23,000
+So like after 9 months will you remove the lab access
+
+857
+00:49:23,000 --> 00:49:31,000
+No no till 18 months it would be there so I will tell you when I talk about the fees okay in that everything is included
+
+858
+00:49:31,000 --> 00:49:32,000
+Okay
+
+859
+00:49:32,000 --> 00:49:39,000
+When you talk about AWS and AWS also because you know there is a free access that is there then there is a paid service correct
+
+860
+00:49:39,000 --> 00:49:40,000
+Okay
+
+861
+00:49:40,000 --> 00:49:58,000
+So everything that is paid of the highest quality everything Scalar purchase for every learner so whatever you want to practice S3 EC2 at any limit you want to go everything already is purchased by Scalar Linux access SQL access Python access DevOps access everything that is comes with some kind of a license or something
+
+862
+00:50:01,000 --> 00:50:16,000
+Okay so when you start purchasing everything is bought from Scalar and will give you the entire sandbox where everything you will be practicing from scratch and no problem you will be having we have built an entire environment that I will show you on Monday how things go at Scalar
+
+863
+00:50:16,000 --> 00:50:17,000
+Okay
+
+864
+00:50:17,000 --> 00:50:20,000
+Okay okay sure sure
+
+865
+00:50:20,000 --> 00:50:21,000
+I will do one thing
+
+866
+00:50:21,000 --> 00:50:22,000
+Your name please
+
+867
+00:50:22,000 --> 00:50:23,000
+My name is Masarib
+
+868
+00:50:23,000 --> 00:50:24,000
+Masar
+
+869
+00:50:24,000 --> 00:50:25,000
+Masar
+
+870
+00:50:25,000 --> 00:50:26,000
+Masarib yeah
+
+871
+00:50:26,000 --> 00:50:31,000
+I am from New Delhi I am also working in Bangalore itself
+
+872
+00:50:31,000 --> 00:50:32,000
+Okay
+
+873
+00:50:32,000 --> 00:50:35,000
+It's my third year in counseling folks
+
+874
+00:50:35,000 --> 00:50:36,000
+Okay
+
+875
+00:50:36,000 --> 00:50:37,000
+Yeah
+
+876
+00:50:37,000 --> 00:50:40,000
+In Bangalore where it is Scalar okay I will search in Google
+
+877
+00:50:40,000 --> 00:50:45,000
+I will tell you you can search it also so in Bangalore now we are having four offices okay
+
+878
+00:50:45,000 --> 00:50:46,000
+Okay
+
+879
+00:50:46,000 --> 00:50:49,000
+So the founders office is in Sharjapur you are also from Bangalore
+
+880
+00:50:49,000 --> 00:50:52,000
+No currently I am in my native
+
+881
+00:50:52,000 --> 00:50:57,000
+So I will tell you in Bangalore there is a place called as Sharjapur over there Microsoft offices there
+
+882
+00:50:57,000 --> 00:50:58,000
+Okay
+
+883
+00:50:58,000 --> 00:50:59,000
+Okay
+
+884
+00:50:59,000 --> 00:51:07,000
+So just opposite to that we are having one office second office where I am calling you know over here it's in Belandur it's again located just beside Wipro
+
+885
+00:51:07,000 --> 00:51:08,000
+Okay
+
+886
+00:51:08,000 --> 00:51:09,000
+Wipro okay
+
+887
+00:51:09,000 --> 00:51:13,000
+Now what we are having is we are having schools also like colleges
+
+888
+00:51:13,000 --> 00:51:14,000
+Okay
+
+889
+00:51:14,000 --> 00:51:20,000
+So we are having one Scalar school of technology it is for the like 12th pass students four years degree program
+
+890
+00:51:20,000 --> 00:51:21,000
+Okay
+
+891
+00:51:21,000 --> 00:51:28,000
+And it is an electronic city I believe if you listen about Bangalore electronic city you must have heard if I am not wrong
+
+892
+00:51:28,000 --> 00:51:32,000
+No no I know I know I know I stayed in Bangalore before my first job in Wipro
+
+893
+00:51:32,000 --> 00:51:33,000
+Got it
+
+894
+00:51:33,000 --> 00:51:35,000
+I want to say more than that I know all the areas
+
+895
+00:51:35,000 --> 00:51:44,000
+This Bangalore office that is there no Wipro it's new office itself beside that only we are having our office and as I told you we have two schools
+
+896
+00:51:44,000 --> 00:51:47,000
+One is Scalar school of technology that is a four year degree program
+
+897
+00:51:47,000 --> 00:51:48,000
+Okay
+
+898
+00:51:48,000 --> 00:51:49,000
+Okay
+
+899
+00:51:49,000 --> 00:51:53,000
+And other than that we have Scalar school of business that is an MBA degree program
+
+900
+00:51:53,000 --> 00:51:54,000
+Okay
+
+901
+00:51:54,000 --> 00:51:55,000
+Okay
+
+902
+00:51:55,000 --> 00:52:05,000
+And this company anyhow when you talk about Scalar as a platform it is right now India's biggest air tech platform and it has this turnover of more than 1000 CR in a year
+
+903
+00:52:05,000 --> 00:52:06,000
+Okay okay
+
+904
+00:52:06,000 --> 00:52:10,000
+And has created jobs over here for more than 25000 people
+
+905
+00:52:10,000 --> 00:52:12,000
+Okay okay really good
+
+906
+00:52:12,000 --> 00:52:18,000
+I would be sending these details to you and one more thing I wanted to know from you is are you aware I believe you would be aware about KPMG
+
+907
+00:52:18,000 --> 00:52:20,000
+If I am not wrong right
+
+908
+00:52:20,000 --> 00:52:21,000
+KPMG
+
+909
+00:52:21,000 --> 00:52:22,000
+KPMG
+
+910
+00:52:22,000 --> 00:52:23,000
+Yes
+
+911
+00:52:23,000 --> 00:52:27,000
+So if you talk about these big firms EY, KPMG okay
+
+912
+00:52:27,000 --> 00:52:33,000
+So what Scalar does is every year we get our data audited by these firms
+
+913
+00:52:33,000 --> 00:52:44,000
+And audited means because you know in 2021, 2022 was a good market for IT everyone was getting jobs left right every company was hiring after the cold wave right
+
+914
+00:52:44,000 --> 00:52:53,000
+But when you see 2023 and 2024 the GDP has gone down there has been lot of companies who have stopped the recruitment and they are just doing the firing
+
+915
+00:52:53,000 --> 00:52:55,000
+I believe you are aware about that right
+
+916
+00:52:55,000 --> 00:52:57,000
+See yeah it happened to me I know
+
+917
+00:52:57,000 --> 00:53:01,000
+I will tell you about the bad market 2023 and 2024
+
+918
+00:53:01,000 --> 00:53:02,000
+Okay
+
+919
+00:53:02,000 --> 00:53:08,000
+So in 2023 as I told you it is a limited platform and we only onboard 200 people in a month
+
+920
+00:53:08,000 --> 00:53:09,000
+Okay
+
+921
+00:53:09,000 --> 00:53:14,000
+So in 2023 2000 people were eligible for the placement from Scalar
+
+922
+00:53:14,000 --> 00:53:27,000
+And out of that 2000 people 1500 people they opted for placements 500 people they were working in top positions in companies like VP, AVP so they didn't need the placement part okay
+
+923
+00:53:27,000 --> 00:53:41,000
+But out of those 1500 people 1470 people got placed that means we had 93.5% of placement in 2022 and 2023
+
+924
+00:53:41,000 --> 00:53:42,000
+Okay
+
+925
+00:53:42,000 --> 00:53:43,000
+Okay
+
+926
+00:53:43,000 --> 00:53:51,000
+And I will tell you about the last year that is 2023 and 2024 the placement is at around 96% for the last year got it
+
+927
+00:53:51,000 --> 00:53:52,000
+Okay
+
+928
+00:53:52,000 --> 00:54:00,000
+And the highest salary for the last year batch that we actually calculated was around 2.5 CR was the highest
+
+929
+00:54:00,000 --> 00:54:02,000
+Okay and what technology
+
+930
+00:54:02,000 --> 00:54:04,000
+In cloud itself cloud and software
+
+931
+00:54:04,000 --> 00:54:05,000
+Okay
+
+932
+00:54:05,000 --> 00:54:09,000
+But that was for someone who already was coming with a package of 2 crore
+
+933
+00:54:09,000 --> 00:54:10,000
+Okay
+
+934
+00:54:10,000 --> 00:54:20,000
+But when you talk about the average if I talk about the average over here so the average at Scalar for fresher goes at around 20 LPA average
+
+935
+00:54:20,000 --> 00:54:21,000
+Okay
+
+936
+00:54:21,000 --> 00:54:27,000
+And someone with 8 to 15 8 to 12 years of experience range 55 LPA is the average
+
+937
+00:54:27,000 --> 00:54:28,000
+Okay
+
+938
+00:54:28,000 --> 00:54:35,000
+And I am not talking about one or two candidates over here I am talking about the data set that we took for 2000 people who have done the training
+
+939
+00:54:35,000 --> 00:54:36,000
+Okay
+
+940
+00:54:36,000 --> 00:54:47,000
+And this is something again is audited by a very big firm called as B2K analytics and this data is also been there on the website if you go now on Google just write it over there
+
+941
+00:54:47,000 --> 00:54:55,000
+Scalar KPMG audited report or placement report you will get the reports and you can just watch that also I will send you that also in your email
+
+942
+00:54:55,000 --> 00:54:59,000
+It's trupal.397 at the red gmail.com correct
+
+943
+00:54:59,000 --> 00:55:00,000
+Sure sure
+
+944
+00:55:00,000 --> 00:55:01,000
+I will send it over there
+
+945
+00:55:01,000 --> 00:55:07,000
+Okay and I will do one more thing I will also on this number you use on the WhatsApp also
+
+946
+00:55:07,000 --> 00:55:08,000
+Yes yes
+
+947
+00:55:08,000 --> 00:55:11,000
+I will send you Naidu's LinkedIn also you use LinkedIn
+
+948
+00:55:11,000 --> 00:55:13,000
+Yeah I have LinkedIn
+
+949
+00:55:13,000 --> 00:55:14,000
+Yeah I have LinkedIn
+
+950
+00:55:14,000 --> 00:55:25,000
+You have LinkedIn I will send his LinkedIn also and accordingly as you told 10 to 11 am I will do one more thing on Sunday in the evening I will again try connecting with you so if there is a change in terms of the plan or something
+
+951
+00:55:25,000 --> 00:55:26,000
+Okay
+
+952
+00:55:26,000 --> 00:55:37,000
+If not then we will go with a plan where we will be scheduling this thing on Monday 10 am or 11 am accordingly Naidu is available and then we can help you in terms of clearing your doubts and all
+
+953
+00:55:37,000 --> 00:55:38,000
+Okay
+
+954
+00:55:38,000 --> 00:55:39,000
+Okay okay
+
+955
+00:55:39,000 --> 00:55:40,000
+Yeah
+
+956
+00:55:40,000 --> 00:55:44,000
+Any other questions you have
+
+957
+00:55:44,000 --> 00:55:45,000
+One second
+
+958
+00:55:45,000 --> 00:55:50,000
+So you said EMI is 12000 per month right
+
+959
+00:55:50,000 --> 00:55:54,000
+And this I will make sure it starts from October for you got it
+
+960
+00:55:54,000 --> 00:55:56,000
+Starts from October
+
+961
+00:55:56,000 --> 00:56:02,000
+So August and September no commitment you have to pay only 20000 rupees that also refundable
+
+962
+00:56:02,000 --> 00:56:08,000
+Okay okay when it is refundable suppose I was not satisfied with the training
+
+963
+00:56:08,000 --> 00:56:09,000
+Correct
+
+964
+00:56:09,000 --> 00:56:18,000
+So what happens is once your training also starts Na first day you have greet and meet with the co founder of Scalar I told you about Anshuman and Abhimanyu right
+
+965
+00:56:18,000 --> 00:56:19,000
+Yes
+
+966
+00:56:19,000 --> 00:56:32,000
+So these people would be having a greet and meet with you online itself before the class start and they itself would be telling you that if you don't like the training till 31st of August you have time where you can take the refund if you don't like the platform
+
+967
+00:56:32,000 --> 00:56:38,000
+Okay okay I will do one thing even my side I will just do some research
+
+968
+00:56:38,000 --> 00:56:40,000
+Definitely I am sending you those details okay to do the research
+
+969
+00:56:40,000 --> 00:56:42,000
+Please clear me the details
+
+970
+00:56:42,000 --> 00:56:47,000
+I am sending you right now so it would be good that you make some points for those okay
+
+971
+00:56:47,000 --> 00:56:54,000
+And you can connect on Monday with Naidu you can ask all the doubts for him got it
+
+972
+00:56:54,000 --> 00:56:55,000
+Yes yes
+
+973
+00:56:55,000 --> 00:57:05,000
+Okay so I will also be able to help you out and then what we will be doing is if your doubt cleared by Naidu and everything is cleared I will also show you the dashboard of Scalar
+
+974
+00:57:05,000 --> 00:57:06,000
+Okay
+
+975
+00:57:06,000 --> 00:57:07,000
+Okay
+
+976
+00:57:07,000 --> 00:57:18,000
+What I mean by dashboard is how life classes is there how teaching assistants happen how placement is happening on real time basis how mentorship sessions happen all the things real time I will show you got it
+
+977
+00:57:18,000 --> 00:57:19,000
+Sure sure
+
+978
+00:57:19,000 --> 00:57:21,000
+And then we will take this forward after that okay
+
+979
+00:57:21,000 --> 00:57:22,000
+Yes yes
+
+980
+00:57:22,000 --> 00:57:26,000
+Okay so your email id is trupal.397 at the rategmail.com right
+
+981
+00:57:26,000 --> 00:57:27,000
+Yeah
+
+982
+00:57:27,000 --> 00:57:38,000
+So the research materials I will send you on the email the people who train you at Scalar I will send you that email also and regarding the refund and the EMI part fees part also I will send you on the email okay
+
+983
+00:57:38,000 --> 00:57:39,000
+Okay okay
+
+984
+00:57:39,000 --> 00:57:45,000
+Okay if anything else you need I am just sending you a high on the WhatsApp you can text me there or you can call me on the same number okay
+
+985
+00:57:45,000 --> 00:57:47,000
+Okay okay sure
+
+986
+00:57:48,000 --> 00:57:56,000
+Okay trupal it was great talking to you I hope lot of doubts or the problem that you were having I believe this call somewhat was able to solve that
+
+987
+00:57:56,000 --> 00:58:02,000
+Yes yes I hope I got almost you have given lot of information
+
+988
+00:58:02,000 --> 00:58:07,000
+Good right right now like it's time for you to do the research I am sending you those details okay
+
+989
+00:58:07,000 --> 00:58:08,000
+Sure sure
+
+990
+00:58:08,000 --> 00:58:10,000
+Okay have a good day bye
+
+991
+00:58:10,000 --> 00:58:11,000
+Thank you
+

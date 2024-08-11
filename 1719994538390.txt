@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello?
+
+2
+00:00:01,000 --> 00:00:02,000
+Hello?
+
+3
+00:00:02,000 --> 00:00:03,000
+Hello?
+
+4
+00:00:03,000 --> 00:00:04,000
+Hello?
+
+5
+00:00:04,000 --> 00:00:05,000
+Hello?
+
+6
+00:00:05,000 --> 00:00:06,000
+Hello?
+
+7
+00:00:06,000 --> 00:00:07,000
+Yeah, hi Pratik.
+
+8
+00:00:07,000 --> 00:00:08,000
+Hello?
+
+9
+00:00:08,000 --> 00:00:09,000
+Yeah, hello?
+
+10
+00:00:09,000 --> 00:00:10,000
+Yeah, can you hear me?
+
+11
+00:00:10,000 --> 00:00:11,000
+Hello?
+
+12
+00:00:11,000 --> 00:00:12,000
+Hello?
+
+13
+00:00:12,000 --> 00:00:28,760
+Yes, you are, but your voice is coming, like it's coming from very far, seems like that.
+
+14
+00:00:28,760 --> 00:00:29,760
+Can you speak something once?
+
+15
+00:00:29,760 --> 00:00:30,760
+Yeah, now it is better.
+
+16
+00:00:30,760 --> 00:00:31,760
+Yes, yes.
+
+17
+00:00:31,760 --> 00:00:36,760
+Yeah, I am saying Manali this side, I am calling you from scaler team.
+
+18
+00:00:36,760 --> 00:00:37,760
+Yes, yes.
+
+19
+00:00:37,760 --> 00:00:38,760
+Got it.
+
+20
+00:00:38,760 --> 00:00:41,760
+Did you check the details on WhatsApp I checked?
+
+21
+00:00:41,760 --> 00:00:42,760
+Yes, yes.
+
+22
+00:00:42,760 --> 00:00:44,760
+I have checked the details.
+
+23
+00:00:44,760 --> 00:00:46,760
+Okay, any doubts, questions?
+
+24
+00:00:46,760 --> 00:00:48,760
+No, no.
+
+25
+00:00:48,760 --> 00:00:51,760
+Okay, and what is the update?
+
+26
+00:00:52,760 --> 00:01:16,760
+Actually, I have targeted groups, like since the parents and the friends and all, so I won't be joining the new RCT academy, like the one that we have said, I won't be joining it right away, but after maybe two or three months I will definitely look into that.
+
+27
+00:01:16,760 --> 00:01:18,760
+So what is the reason?
+
+28
+00:01:18,760 --> 00:01:20,760
+Why are you not doing it from the start?
+
+29
+00:01:20,760 --> 00:01:39,760
+From the start, it's nothing like, nothing like that, but I think that I will have some burden on me right away if I don't want it.
+
+30
+00:01:40,760 --> 00:01:44,760
+Burden in which sense you are saying, like financially or how?
+
+31
+00:01:44,760 --> 00:01:48,760
+Yes, you can say financially also.
+
+32
+00:01:48,760 --> 00:01:56,760
+I have to get my things in order first, I have to get a job and then I will think about that.
+
+33
+00:01:56,760 --> 00:02:03,760
+I told you, I just started my new period, Sunday.
+
+34
+00:02:03,760 --> 00:02:07,760
+So once I get the job and then I will think about that.
+
+35
+00:02:07,760 --> 00:02:13,760
+I don't have any set offer, I have a TCS, but I will tell you that I won't be joining that.
+
+36
+00:02:13,760 --> 00:02:17,760
+What you said, if you find something?
+
+37
+00:02:17,760 --> 00:02:24,760
+No, no, I have an offer in my hand right now, but I won't be joining that.
+
+38
+00:02:24,760 --> 00:02:26,760
+I told you, I guess, last time.
+
+39
+00:02:26,760 --> 00:02:29,760
+No, you told me you will join TCS.
+
+40
+00:02:29,760 --> 00:02:33,760
+No, I won't be joining TCS, I said.
+
+41
+00:02:33,760 --> 00:02:35,760
+Why?
+
+42
+00:02:35,760 --> 00:02:47,760
+There are some reasons, I don't want to join TCS, they are not my specific things, I guess, so that's why.
+
+43
+00:02:47,760 --> 00:02:52,760
+So why are you not leaving, I mean why did you leave Capgemini then?
+
+44
+00:02:56,760 --> 00:03:06,760
+I don't know, I will get a few more opportunities, but I am still appearing for the interviews, I told you that outside.
+
+45
+00:03:06,760 --> 00:03:10,760
+I am still appearing for the interviews and all.
+
+46
+00:03:10,760 --> 00:03:11,760
+Okay.
+
+47
+00:03:11,760 --> 00:03:19,760
+What is the reason I am saying is because let's say if you do it later on, like you said after 2 months, 3 months,
+
+48
+00:03:19,760 --> 00:03:24,760
+then the EMI that we will be doing will be a separate EMI first thing.
+
+49
+00:03:24,760 --> 00:03:28,760
+We will not be able to club it to your current EMI.
+
+50
+00:03:28,760 --> 00:03:37,760
+That would be a separate plan which will add up around 8000, around 8000 to 10,000 extra on your current EMI.
+
+51
+00:03:37,760 --> 00:03:38,760
+Okay.
+
+52
+00:03:38,760 --> 00:03:48,760
+And second thing is that even the modules that you have done till now, right, that won't be synced for Masters because you are not doing it from the start.
+
+53
+00:03:48,760 --> 00:03:49,760
+Okay.
+
+54
+00:03:49,760 --> 00:03:57,760
+So these would be the changes and complications as well as we will be going for an approval process, right, through the University
+
+55
+00:03:57,760 --> 00:04:00,760
+because your batch would have already completed a few months.
+
+56
+00:04:00,760 --> 00:04:05,760
+So depending on the preference list, right, because the latest batches are given the first preference.
+
+57
+00:04:05,760 --> 00:04:10,760
+So based on that availability, we will be able to take your profile at that point.
+
+58
+00:04:10,760 --> 00:04:11,760
+Right.
+
+59
+00:04:11,760 --> 00:04:17,760
+So hence I had suggested you to pick it up in the start only so that it becomes easier for you also.
+
+60
+00:04:17,760 --> 00:04:18,760
+Right.
+
+61
+00:04:18,760 --> 00:04:29,760
+Let's say even if it takes some time for you to get a job, right, you can at least say that I was pursuing a degree and hence, you know, I wasn't working from July onwards.
+
+62
+00:04:30,760 --> 00:04:36,760
+I mean, that kind of story can be built so that no one can question on your gap.
+
+63
+00:04:39,760 --> 00:04:46,760
+Right. So like what I'm trying to understand is that anyway, you're going to do the normal course.
+
+64
+00:04:46,760 --> 00:04:57,760
+Right. So instead of that, if you add this up, what exactly will, you know, like I only see that it's only going to benefit you more.
+
+65
+00:04:57,760 --> 00:05:00,760
+Right. So I don't see any harm there.
+
+66
+00:05:04,760 --> 00:05:08,760
+So is there anything specific or like what exactly?
+
+67
+00:05:08,760 --> 00:05:10,760
+I didn't understand the entire thing.
+
+68
+00:05:19,760 --> 00:05:24,760
+I don't know. I'm just looking into the finance.
+
+69
+00:05:25,760 --> 00:05:29,760
+So that's what I'm saying. After two, three months, you're trying for jobs.
+
+70
+00:05:29,760 --> 00:05:34,760
+But let's say if you get similar offers like TCS, you'll keep declining those.
+
+71
+00:05:34,760 --> 00:05:41,760
+Right. Now, in that case, it can take even six months for you to get a job that you are satisfied with.
+
+72
+00:05:43,760 --> 00:05:53,760
+There is no see first thing you need to understand that if you have offers in hand, OK, which are other than the ones like you said,
+
+73
+00:05:53,760 --> 00:05:59,760
+like TCS, which you're interested in. Right. That's a different story.
+
+74
+00:06:00,760 --> 00:06:05,760
+OK. Right now, there are no offers in hand. Right. Apart from TCS.
+
+75
+00:06:05,760 --> 00:06:11,760
+So as an individual, it can even take six months. It can even take five months. Right.
+
+76
+00:06:11,760 --> 00:06:17,760
+There is no guaranteed definite time we can conclude, nor you nor me.
+
+77
+00:06:17,760 --> 00:06:26,760
+Right. So my point is that that how can you decide that it is only going to take two to three months?
+
+78
+00:06:26,760 --> 00:06:35,760
+In fact, even if you take it after two to three months, your overall EMI, like let's say right now as a combo, you're getting 18.5 as an EMI plan.
+
+79
+00:06:35,760 --> 00:06:38,760
+Right. That time it is going to be 20 or more.
+
+80
+00:06:38,760 --> 00:06:45,760
+So it's only going to add up the amount also. But again, your call, Pratik, like, I don't know what have you thought through.
+
+81
+00:06:45,760 --> 00:06:49,760
+But I mean, I'm just telling you what all will happen later.
+
+82
+00:06:49,760 --> 00:06:56,760
+And plus, there is no specific timeline that we can receive from your side.
+
+83
+00:06:56,760 --> 00:07:01,760
+Right. So hence considering your profile for later becomes difficult for us.
+
+84
+00:07:01,760 --> 00:07:05,760
+Hello. Hello. Can you hear me?
+

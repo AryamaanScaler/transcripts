@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, Nupur. Good afternoon.
+
+2
+00:00:04,000 --> 00:00:08,000
+Hello. Hi, Nupur. Good afternoon. How are you?
+
+3
+00:00:08,000 --> 00:00:10,000
+Hi, hi, hi.
+
+4
+00:00:10,000 --> 00:00:18,000
+Yeah, so I just wanted to take a quick update about your classes and everything. How is it going for you?
+
+5
+00:00:18,000 --> 00:00:21,000
+Going good, ma'am.
+
+6
+00:00:21,000 --> 00:00:26,000
+So whether you are able to attend the classes on time and interact with your mentors or not.
+
+7
+00:00:26,000 --> 00:00:30,000
+Have you interacted and scheduled your mentor session? That additional mentor session?
+
+8
+00:00:30,000 --> 00:00:33,000
+No, no, no. Still not scheduled.
+
+9
+00:00:33,000 --> 00:00:35,000
+Okay, why?
+
+10
+00:00:35,000 --> 00:00:40,000
+Actually, I had a little busy schedule. I will do that next week.
+
+11
+00:00:40,000 --> 00:00:47,000
+No, no. That free session will be available only till Tuesday.
+
+12
+00:00:47,000 --> 00:00:51,000
+Okay. I will have to plan it tomorrow.
+
+13
+00:00:52,000 --> 00:01:01,000
+So you can check your time schedule and all. But I will take some time and suggest you to interact with your mentors so that you can have a proper alignment.
+
+14
+00:01:01,000 --> 00:01:09,000
+The other things will be parallel but you should be aware about your journey. So I was going to suggest you to interact with them.
+
+15
+00:01:09,000 --> 00:01:16,000
+Okay. I will check on the dashboard. If it is today's evening, then today's or tomorrow's.
+
+16
+00:01:16,000 --> 00:01:21,000
+Okay.
+
+17
+00:01:21,000 --> 00:01:31,000
+Anything else that is there? If you have any doubts or any other areas, then the customer support team will be available for you.
+
+18
+00:01:31,000 --> 00:01:39,000
+You can raise your request there. Call support, chat support, both are available.
+
+19
+00:01:39,000 --> 00:01:41,000
+Okay, ma'am.
+
+20
+00:01:41,000 --> 00:01:44,000
+Okay. Thank you. Have a nice day. Bye-bye.
+
+21
+00:01:44,000 --> 00:01:45,000
+Thank you, ma'am.
+
+22
+00:01:45,000 --> 00:01:46,000
+Bye.
+

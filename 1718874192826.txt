@@ -1,0 +1,544 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hello, yes?
+
+4
+00:00:08,000 --> 00:00:10,000
+I got a call from this number
+
+5
+00:00:10,000 --> 00:00:12,000
+What's your name?
+
+6
+00:00:12,000 --> 00:00:14,000
+Just before 5 minutes, Pradeek
+
+7
+00:00:16,000 --> 00:00:18,000
+Pradeek, right?
+
+8
+00:00:20,000 --> 00:00:22,000
+Yeah Pradeek, like Sujit said
+
+9
+00:00:22,000 --> 00:00:24,000
+I'm calling you from scalar academy
+
+10
+00:00:24,000 --> 00:00:26,000
+Oh, yeah yeah, Sujit, yes
+
+11
+00:00:26,000 --> 00:00:28,000
+Yeah, you haven't
+
+12
+00:00:28,000 --> 00:00:30,000
+So, this on-ride
+
+13
+00:00:30,000 --> 00:00:32,000
+What is your final call?
+
+14
+00:00:32,000 --> 00:00:34,000
+Can you help me?
+
+15
+00:00:36,000 --> 00:00:38,000
+Okay, so regarding the decision
+
+16
+00:00:38,000 --> 00:00:40,000
+Yes, yes
+
+17
+00:00:40,000 --> 00:00:42,000
+Yes, yes, yes
+
+18
+00:00:42,000 --> 00:00:44,000
+I decided that I'll take some time
+
+19
+00:00:44,000 --> 00:00:46,000
+right now
+
+20
+00:00:46,000 --> 00:00:48,000
+I'll continue
+
+21
+00:00:48,000 --> 00:00:50,000
+with the next batch or something
+
+22
+00:00:50,000 --> 00:00:52,000
+Which batch?
+
+23
+00:00:52,000 --> 00:00:54,000
+Yes
+
+24
+00:00:54,000 --> 00:00:56,000
+What batch?
+
+25
+00:00:56,000 --> 00:00:58,000
+No, the next batch
+
+26
+00:00:58,000 --> 00:01:00,000
+will be starting
+
+27
+00:01:00,000 --> 00:01:02,000
+Not this one
+
+28
+00:01:02,000 --> 00:01:04,000
+No, there is no
+
+29
+00:01:04,000 --> 00:01:06,000
+next batches, right? That's why I told you
+
+30
+00:01:06,000 --> 00:01:08,000
+on that day as well
+
+31
+00:01:08,000 --> 00:01:10,000
+that the batch will be after 6 months
+
+32
+00:01:10,000 --> 00:01:12,000
+So, you will be only able to
+
+33
+00:01:12,000 --> 00:01:14,000
+join up
+
+34
+00:01:14,000 --> 00:01:16,000
+like when
+
+35
+00:01:16,000 --> 00:01:18,000
+like obviously this batch
+
+36
+00:01:18,000 --> 00:01:20,000
+is the next month only, right? That we are starting
+
+37
+00:01:20,000 --> 00:01:22,000
+So, after that when we'll be having a batch
+
+38
+00:01:22,000 --> 00:01:24,000
+maybe 3-4 months, it will take time, right?
+
+39
+00:01:24,000 --> 00:01:26,000
+Because we don't have like all the batches
+
+40
+00:01:26,000 --> 00:01:28,000
+usually
+
+41
+00:01:28,000 --> 00:01:30,000
+we are taking in and the people also
+
+42
+00:01:30,000 --> 00:01:32,000
+who are coming in future, we want to take from
+
+43
+00:01:32,000 --> 00:01:34,000
+those people, okay?
+
+44
+00:01:34,000 --> 00:01:36,000
+Not the old profile that you want to cater
+
+45
+00:01:38,000 --> 00:01:40,000
+But you can tell me what is the
+
+46
+00:01:40,000 --> 00:01:42,000
+problem, like what is the
+
+47
+00:01:42,000 --> 00:01:44,000
+constraint?
+
+48
+00:01:46,000 --> 00:01:48,000
+No such constraint, but
+
+49
+00:01:48,000 --> 00:01:50,000
+yes
+
+50
+00:01:50,000 --> 00:01:52,000
+I just think that I would like
+
+51
+00:01:52,000 --> 00:01:54,000
+to take some time off
+
+52
+00:01:54,000 --> 00:01:56,000
+with all the schedules and all
+
+53
+00:01:56,000 --> 00:01:58,000
+I'll join a new company
+
+54
+00:01:58,000 --> 00:02:00,000
+and see
+
+55
+00:02:00,000 --> 00:02:02,000
+Not this one like you said
+
+56
+00:02:02,000 --> 00:02:04,000
+I'll have to put your
+
+57
+00:02:04,000 --> 00:02:06,000
+application on hold or something
+
+58
+00:02:06,000 --> 00:02:08,000
+like that you said the other day
+
+59
+00:02:10,000 --> 00:02:12,000
+So, please
+
+60
+00:02:12,000 --> 00:02:14,000
+do that
+
+61
+00:02:14,000 --> 00:02:16,000
+I won't be joining as of now, but definitely
+
+62
+00:02:16,000 --> 00:02:18,000
+in future I'll
+
+63
+00:02:18,000 --> 00:02:20,000
+I'll have your number
+
+64
+00:02:20,000 --> 00:02:22,000
+and all
+
+65
+00:02:22,000 --> 00:02:24,000
+I'll get it ready
+
+66
+00:02:24,000 --> 00:02:26,000
+and I'll be ready
+
+67
+00:02:28,000 --> 00:02:30,000
+Okay
+
+68
+00:02:30,000 --> 00:02:32,000
+So, how much time do you want?
+
+69
+00:02:32,000 --> 00:02:34,000
+That's the same thing I'm asking
+
+70
+00:02:34,000 --> 00:02:36,000
+I don't have
+
+71
+00:02:36,000 --> 00:02:38,000
+any time to schedule
+
+72
+00:02:38,000 --> 00:02:40,000
+this amount of time
+
+73
+00:02:40,000 --> 00:02:42,000
+I'll be reading like that
+
+74
+00:02:42,000 --> 00:02:44,000
+So, is it that you are not sure about Scalar?
+
+75
+00:02:44,000 --> 00:02:46,000
+No
+
+76
+00:02:46,000 --> 00:02:48,000
+It's not that I'm not sure about
+
+77
+00:02:48,000 --> 00:02:50,000
+Scalar and all
+
+78
+00:02:50,000 --> 00:02:52,000
+I'll definitely
+
+79
+00:02:52,000 --> 00:02:54,000
+I'll
+
+80
+00:02:54,000 --> 00:02:56,000
+enroll someday
+
+81
+00:02:56,000 --> 00:02:58,000
+but not now
+
+82
+00:03:02,000 --> 00:03:04,000
+So, you are making a delay just because
+
+83
+00:03:04,000 --> 00:03:06,000
+of the time problem
+
+84
+00:03:06,000 --> 00:03:08,000
+Yes
+
+85
+00:03:08,000 --> 00:03:10,000
+This time problem that you are having when you do
+
+86
+00:03:10,000 --> 00:03:12,000
+this program right, then these things come
+
+87
+00:03:12,000 --> 00:03:14,000
+when you do the program as well
+
+88
+00:03:14,000 --> 00:03:16,000
+It's not like that
+
+89
+00:03:16,000 --> 00:03:18,000
+that this is a very new thing
+
+90
+00:03:18,000 --> 00:03:20,000
+which is coming right
+
+91
+00:03:20,000 --> 00:03:22,000
+because it's a program, it's a long program
+
+92
+00:03:22,000 --> 00:03:24,000
+Menu, when you are looking for a change?
+
+93
+00:03:26,000 --> 00:03:28,000
+Yes
+
+94
+00:03:28,000 --> 00:03:30,000
+When you are looking for a change Menu?
+
+95
+00:03:34,000 --> 00:03:36,000
+I'm not sure what you are trying to ask
+
+96
+00:03:36,000 --> 00:03:38,000
+I'm asking when you are looking for a change
+
+97
+00:03:38,000 --> 00:03:40,000
+like your job change
+
+98
+00:03:40,000 --> 00:03:42,000
+Job change
+
+99
+00:03:42,000 --> 00:03:44,000
+Yes
+
+100
+00:03:44,000 --> 00:03:46,000
+So, on this
+
+101
+00:03:46,000 --> 00:03:48,000
+I'll be done with my
+
+102
+00:03:48,000 --> 00:03:50,000
+work spirit
+
+103
+00:03:50,000 --> 00:03:52,000
+After that I'll be joining
+
+104
+00:03:52,000 --> 00:03:54,000
+a new company
+
+105
+00:03:54,000 --> 00:03:56,000
+or I'm still appearing for the interviews
+
+106
+00:03:56,000 --> 00:03:58,000
+and all
+
+107
+00:03:58,000 --> 00:04:00,000
+So, that we already discussed
+
+108
+00:04:00,000 --> 00:04:02,000
+that we already discussed
+
+109
+00:04:02,000 --> 00:04:04,000
+that you will be joining a new company
+
+110
+00:04:04,000 --> 00:04:06,000
+you are going to be work there but we are not
+
+111
+00:04:06,000 --> 00:04:08,000
+solving the bigger problem right
+
+112
+00:04:08,000 --> 00:04:10,000
+that we already discussed
+
+113
+00:04:10,000 --> 00:04:12,000
+This Pro
+
+114
+00:04:12,000 --> 00:04:14,000
+No, I think that
+
+115
+00:04:14,000 --> 00:04:16,000
+I need some time like that
+
+116
+00:04:16,000 --> 00:04:18,000
+because I'm really
+
+117
+00:04:18,000 --> 00:04:20,000
+I've reached my saturation point
+
+118
+00:04:20,000 --> 00:04:22,000
+I think I've worked so
+
+119
+00:04:22,000 --> 00:04:24,000
+long and then
+
+120
+00:04:24,000 --> 00:04:26,000
+been long
+
+121
+00:04:26,000 --> 00:04:28,000
+couple of years and also
+
+122
+00:04:28,000 --> 00:04:30,000
+like continuation
+
+123
+00:04:30,000 --> 00:04:32,000
+in that I'll study study and then
+
+124
+00:04:32,000 --> 00:04:34,000
+I need some time I think
+
+125
+00:04:34,000 --> 00:04:36,000
+to just loosen up and all
+
+126
+00:04:36,000 --> 00:04:38,000
+then after that once I'm back
+
+127
+00:04:38,000 --> 00:04:40,000
+with my group
+
+128
+00:04:40,000 --> 00:04:42,000
+I'll start skill level
+
+129
+00:04:42,000 --> 00:04:44,000
+I'm thinking like that
+
+130
+00:04:44,000 --> 00:04:46,000
+Okay, sure
+
+131
+00:04:46,000 --> 00:04:48,000
+Yeah, thank you
+
+132
+00:04:48,000 --> 00:04:50,000
+Yeah, thank you
+
+133
+00:04:50,000 --> 00:04:52,000
+Yeah, I'll just
+
+134
+00:04:52,000 --> 00:04:54,000
+closing your application you can reach out to me
+
+135
+00:04:54,000 --> 00:04:56,000
+on my whatsapp number
+
+136
+00:04:56,000 --> 00:04:58,000
+Sure, sure
+

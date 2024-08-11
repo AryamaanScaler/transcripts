@@ -1,0 +1,780 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello
+
+2
+00:00:01,000 --> 00:00:05,000
+Hello, Hi Shalini Apur, this side calling you from Scalar Academy, how are you?
+
+3
+00:00:05,000 --> 00:00:06,000
+Yeah, Hi Apur, I'm good
+
+4
+00:00:06,000 --> 00:00:09,000
+Yeah, Shalini, you gave the test yesterday, right?
+
+5
+00:00:09,000 --> 00:00:10,000
+Yeah
+
+6
+00:00:10,000 --> 00:00:11,000
+How was the test?
+
+7
+00:00:11,000 --> 00:00:13,000
+Oh, for me it was okay
+
+8
+00:00:13,000 --> 00:00:15,000
+For you it was okay
+
+9
+00:00:15,000 --> 00:00:17,000
+Any difficulties while giving the test?
+
+10
+00:00:17,000 --> 00:00:18,000
+No
+
+11
+00:00:18,000 --> 00:00:22,000
+No, okay, okay, so Shalini, I've got the reports here with me
+
+12
+00:00:22,000 --> 00:00:23,000
+Yeah
+
+13
+00:00:23,000 --> 00:00:27,000
+Congratulations, you have cleared the test, you have scored 91% in your test
+
+14
+00:00:27,000 --> 00:00:28,000
+Okay
+
+15
+00:00:28,000 --> 00:00:32,000
+So this has availed you the scholarship that we had talked about
+
+16
+00:00:32,000 --> 00:00:33,000
+Okay
+
+17
+00:00:33,000 --> 00:00:37,000
+Now, I want to understand what are you thinking about it?
+
+18
+00:00:37,000 --> 00:00:43,000
+You see, I'm bit confused because the test was easy for me, maybe one or two questions here and there
+
+19
+00:00:43,000 --> 00:00:49,000
+Otherwise generally I know all those basics of mathematics
+
+20
+00:00:49,000 --> 00:00:50,000
+Correct
+
+21
+00:00:50,000 --> 00:00:53,000
+So for me it was not difficult
+
+22
+00:00:53,000 --> 00:00:54,000
+Yeah
+
+23
+00:00:54,000 --> 00:01:05,000
+And second, it is like, how is it going to really, is it going to help me in my career or I'll just be wasting my time and money?
+
+24
+00:01:05,000 --> 00:01:10,000
+No, no, no, see, the intention of this test is to understand if you have
+
+25
+00:01:10,000 --> 00:01:14,000
+No, no, I'm not talking about test, test is to anyway negligible for me
+
+26
+00:01:14,000 --> 00:01:15,000
+Okay
+
+27
+00:01:15,000 --> 00:01:20,000
+But you said then I just appeared, because I said any basic analytical test I can go for it
+
+28
+00:01:20,000 --> 00:01:25,000
+I'm pretty sure I'll score 80% and above only
+
+29
+00:01:25,000 --> 00:01:26,000
+Great, great
+
+30
+00:01:26,000 --> 00:01:31,000
+So maybe that is what you have seen, because I'm a math student so I don't think these things are difficult for me
+
+31
+00:01:31,000 --> 00:01:33,000
+And after that I've done MBA also
+
+32
+00:01:33,000 --> 00:01:34,000
+Correct
+
+33
+00:01:34,000 --> 00:01:40,000
+I'm just asking because after doing MBA and after working for 15 years, does this course really going to help me?
+
+34
+00:01:40,000 --> 00:01:48,000
+Because I wanted to do something which is related to AI, not basically, I mean I don't know where I'm getting this thing through
+
+35
+00:01:48,000 --> 00:01:54,000
+See, this program is all about AI, machine learning, deep learning, generative AI only
+
+36
+00:01:54,000 --> 00:01:55,000
+Okay
+
+37
+00:01:55,000 --> 00:01:56,000
+Okay
+
+38
+00:01:56,000 --> 00:02:00,000
+All these things, all these curriculums, everything is covered in this
+
+39
+00:02:00,000 --> 00:02:04,000
+Now I need to ask you one thing, did you watch the videos I sent you yesterday?
+
+40
+00:02:04,000 --> 00:02:06,000
+No, I couldn't
+
+41
+00:02:06,000 --> 00:02:12,000
+So that would have given you a little more clarity regarding the same domain and program also, okay?
+
+42
+00:02:12,000 --> 00:02:20,000
+Now we should know our main intention to join the program is to be able to get the opportunities out there
+
+43
+00:02:22,000 --> 00:02:23,000
+Yeah
+
+44
+00:02:23,000 --> 00:02:24,000
+Yeah, and specifically
+
+45
+00:02:24,000 --> 00:02:30,000
+Actually somebody called me from Great Learning also and she confused me so much that I only totally got confused about the course
+
+46
+00:02:30,000 --> 00:02:33,000
+What did she tell you about?
+
+47
+00:02:33,000 --> 00:02:38,000
+First she said that, and somebody contacted me from Manipal Academy also
+
+48
+00:02:38,000 --> 00:02:39,000
+Oh
+
+49
+00:02:39,000 --> 00:02:49,000
+First, Great Learning said that both of these are academies and anytime and there are so many frauds which is scalar, scalar is happening and you are just two years old
+
+50
+00:02:49,000 --> 00:02:57,000
+So probably you may not be that perfect, the one which I want and I don't know what all, I mean lot of things
+
+51
+00:02:57,000 --> 00:02:59,000
+Oh, so complete bashing was going around
+
+52
+00:02:59,000 --> 00:03:07,000
+And she sent me the LinkedIn profiles also wherein people are talking bad about scalar, that it is that, it is not that and so on
+
+53
+00:03:07,000 --> 00:03:08,000
+So all
+
+54
+00:03:08,000 --> 00:03:18,000
+My question, yeah, I got totally confused that I thought that better not to go for this course, I mean why to get exhausted so much and when I am not going to get anything out of it
+
+55
+00:03:18,000 --> 00:03:22,000
+So my question is that, you please understand my profile
+
+56
+00:03:22,000 --> 00:03:23,000
+Yeah, yeah
+
+57
+00:03:23,000 --> 00:03:30,000
+I am already 15 years experienced, I am at 30 lakh LPA, I am not looking for 10 lakh salary, I mean nobody would like to go back
+
+58
+00:03:30,000 --> 00:03:31,000
+Obviously, obviously
+
+59
+00:03:31,000 --> 00:03:39,000
+So I am asking whether and I am into goods selling market, goods means lighting and now I am into lighting consultancy
+
+60
+00:03:39,000 --> 00:03:45,000
+So my question is really is it going to help me or it is just going to be wastage of time
+
+61
+00:03:45,000 --> 00:03:58,000
+See Shalini, the only good thing, the only great thing about you and me connecting and having a understand, like talk is that you also are a person who belongs from a technical domain, right?
+
+62
+00:03:58,000 --> 00:04:01,000
+And I am also a person who belongs from a technical domain
+
+63
+00:04:01,000 --> 00:04:09,000
+I am not technical domain person, please don't misunderstand me, I am a goods selling basically sales person
+
+64
+00:04:09,000 --> 00:04:13,000
+Yeah, yeah, no, no, like previously the graduation domain that you had
+
+65
+00:04:13,000 --> 00:04:20,000
+Yeah, maths and all, I mean learning this course is not a problem for me, but after learning whether it is going to help me or not
+
+66
+00:04:20,000 --> 00:04:32,000
+I am not saying you that learning or anything that right now, what I am trying to make you understand is that I am right now understanding your profile, talking to you
+
+67
+00:04:32,000 --> 00:04:40,000
+Keeping in mind that I know the domain entirely and I know the potential, it can be useful to you
+
+68
+00:04:40,000 --> 00:04:44,000
+We discussed about the opportunities in US yesterday, right?
+
+69
+00:04:44,000 --> 00:04:50,000
+I told you, but we didn't discuss the opportunities, what kind of opportunities
+
+70
+00:04:50,000 --> 00:04:58,000
+Yeah, so what I am trying to tell you is, I am not going to go ahead assure you any, see this is the same talk that I have told you yesterday
+
+71
+00:04:58,000 --> 00:05:01,000
+I am not assuring you any job, I am not telling you anything right now
+
+72
+00:05:01,000 --> 00:05:12,000
+All I am saying is, the profile that will come out once you complete a data science program, I am not saying be it from great learning, be it from scalar, be it from anywhere
+
+73
+00:05:12,000 --> 00:05:15,000
+But the right profile needs to be there
+
+74
+00:05:15,000 --> 00:05:23,000
+From great learning they are confirming because they have some types and all, so they are confirming the job also
+
+75
+00:05:23,000 --> 00:05:24,000
+In US?
+
+76
+00:05:24,000 --> 00:05:25,000
+As you are not
+
+77
+00:05:28,000 --> 00:05:33,000
+No, no, in US great learning is like confirming your jobs
+
+78
+00:05:33,000 --> 00:05:40,000
+Yeah, they are saying they have connections and they told me a lot of companies, basically IT companies
+
+79
+00:05:41,000 --> 00:05:53,000
+See, Shalini, understand one thing, I am not defying if they have said this or not, but ask them for a little proof and little alumni from the companies that they have gone abroad, right?
+
+80
+00:05:55,000 --> 00:05:57,000
+You can ask the profiles to them
+
+81
+00:05:57,000 --> 00:05:59,000
+See, these are just
+
+82
+00:05:59,000 --> 00:06:07,000
+Suppose even in India, let's not discuss abroad, let's discuss India, if I do this course, what will I get in India?
+
+83
+00:06:07,000 --> 00:06:11,000
+In India, you will have a tremendous growth opportunity over here
+
+84
+00:06:11,000 --> 00:06:21,000
+How? Those tremendous, I just want, I don't want qualitative figure, I just want quantitative figure, which company will give me the job better than what I am doing currently
+
+85
+00:06:21,000 --> 00:06:25,000
+We are going to aim companies into three categories, okay?
+
+86
+00:06:25,000 --> 00:06:36,000
+First will be tier one companies, tier one product based companies called Amazon, Microsoft, Netflix, Facebook and all these meta based companies, okay? That is tier one
+
+87
+00:06:36,000 --> 00:06:41,000
+So there I will work as a fresher, right? Because I don't have any experience
+
+88
+00:06:41,000 --> 00:06:45,000
+No, no, no, we are not going to move ahead and make you work as a fresher at all
+
+89
+00:06:45,000 --> 00:06:50,000
+We are going to use the experience you have to convert into relevant experience
+
+90
+00:06:50,000 --> 00:07:01,000
+Now how this process goes is while you are doing the program, you get your skill certifications, you get your projects, you get an understanding of the domain
+
+91
+00:07:01,000 --> 00:07:10,000
+So while you be present this in your CV, your previous experience is converted into a relevant experience showing the skills and projects that you have made
+
+92
+00:07:10,000 --> 00:07:15,000
+Alright
+
+93
+00:07:15,000 --> 00:07:27,000
+I don't know, somehow I am not convinced that my previous experience will help me because I don't have any analytical experience, I don't have any data related management experience
+
+94
+00:07:27,000 --> 00:07:32,000
+I think so, I will be considered as a fresher only if I go for Amazon and all
+
+95
+00:07:32,000 --> 00:07:36,000
+How my lighting experience will help Amazon? Tell me
+
+96
+00:07:36,000 --> 00:07:37,000
+How your?
+
+97
+00:07:37,000 --> 00:07:40,000
+Lighting experience will help Amazon
+
+98
+00:07:40,000 --> 00:07:50,000
+So basically when we will be applying into product based companies, no, we will not be applying for fresher roles, we will be applying for roles which involve leadership decision making roles
+
+99
+00:07:50,000 --> 00:07:59,000
+Okay, over here what will be happening is your previous experience would be counted as experience into the industry plus
+
+100
+00:07:59,000 --> 00:08:04,000
+I know that you do not have like experience in analytics or data science or machine learning
+
+101
+00:08:04,000 --> 00:08:10,000
+But while you are doing the program, you are gaining the experience through the projects of these, right?
+
+102
+00:08:10,000 --> 00:08:19,000
+That projects when we add in a portfolio makes a previous experience also look like having a relevant experience because you know these skills, you have worked on these projects
+
+103
+00:08:19,000 --> 00:08:20,000
+Now do you understand?
+
+104
+00:08:20,000 --> 00:08:26,000
+But you are not confirming any job so later on you will say I didn't confirm you at starting or
+
+105
+00:08:26,000 --> 00:08:28,000
+See, see, see, see, see, see, see, understand one thing
+
+106
+00:08:28,000 --> 00:08:34,000
+I am telling you jobs are there for you, I just need one thing from you for that, okay?
+
+107
+00:08:34,000 --> 00:08:44,000
+I need a attendance ratio of more than 75% and a problem solving skills of more than 80%, that means just regularly attend the program
+
+108
+00:08:44,000 --> 00:08:46,000
+That I will do, that is not an issue.
+
+109
+00:08:46,000 --> 00:08:47,000
+If you are doing that.
+
+110
+00:08:47,000 --> 00:08:51,000
+Suppose I do that, what is the guarantee I will get a job through you?
+
+111
+00:08:51,000 --> 00:08:56,000
+Out of 100 people who do the program Shalini, 95% of the people get the placement.
+
+112
+00:08:56,000 --> 00:09:01,000
+The minimum to minimum hike that they get in their CTCs is 50 to 70%.
+
+113
+00:09:01,000 --> 00:09:05,000
+Do you have any proof for this?
+
+114
+00:09:05,000 --> 00:09:08,000
+I have all the profiles, I have everything here with me.
+
+115
+00:09:08,000 --> 00:09:12,000
+I want you to do one thing Shalini, let's do one thing for you, okay?
+
+116
+00:09:12,000 --> 00:09:16,000
+I am going to go ahead and schedule a meeting for you.
+
+117
+00:09:16,000 --> 00:09:23,000
+In that meeting you will be connected with an alumni of Scalar who belongs from a non-tech domain.
+
+118
+00:09:23,000 --> 00:09:26,000
+Who belongs from a non-tech domain.
+
+119
+00:09:26,000 --> 00:09:33,000
+Studied the same program that as you are going to study and is now placed in one of the top product based companies.
+
+120
+00:09:33,000 --> 00:09:34,000
+Alright.
+
+121
+00:09:34,000 --> 00:09:36,000
+Will this help?
+
+122
+00:09:36,000 --> 00:09:43,000
+Yeah, probably because so many people confuse me so much that I only thought that let me not go through this.
+
+123
+00:09:43,000 --> 00:09:46,000
+This is a wastage of time and effort, I don't want to do it.
+
+124
+00:09:46,000 --> 00:09:50,000
+I totally understand. I am not asking you to enroll in the program anywhere right now.
+
+125
+00:09:50,000 --> 00:09:54,000
+We are just right now designing a career roadmap and these things for you.
+
+126
+00:09:54,000 --> 00:09:57,000
+Getting in the program is the last question.
+
+127
+00:09:57,000 --> 00:09:58,000
+Okay.
+
+128
+00:09:58,000 --> 00:10:03,000
+Right? I am not going to go ahead and bash any other platform in front of you.
+
+129
+00:10:03,000 --> 00:10:10,000
+See, if you are paying 3 lakh rupees for a program that is obviously going to give you something out of it.
+
+130
+00:10:10,000 --> 00:10:11,000
+Otherwise, won't...
+
+131
+00:10:11,000 --> 00:10:17,000
+The program will definitely give me but that program is right for me or not, that is the question.
+
+132
+00:10:17,000 --> 00:10:21,000
+Yeah, that is what we are going to decide right now in the process.
+
+133
+00:10:21,000 --> 00:10:24,000
+It's not a one day decision we are making, right?
+
+134
+00:10:24,000 --> 00:10:25,000
+Okay.
+
+135
+00:10:25,000 --> 00:10:28,000
+Okay, only if you agree then we are going to go forward.
+
+136
+00:10:28,000 --> 00:10:30,000
+And when is your program starting?
+
+137
+00:10:30,000 --> 00:10:35,000
+It is starting from 17th of August maximum, the time we have is still Monday.
+
+138
+00:10:35,000 --> 00:10:36,000
+Okay.
+
+139
+00:10:36,000 --> 00:10:40,000
+Okay. I guess it will be enough for us to decide if we will be going forward with the program or not, right?
+
+140
+00:10:40,000 --> 00:10:43,000
+Yeah, I can decide in one day also but better...
+
+141
+00:10:43,000 --> 00:10:47,000
+I mean I should understand for example whether it is going to be useful or not.
+
+142
+00:10:47,000 --> 00:10:49,000
+Exactly, that is my point. See...
+
+143
+00:10:49,000 --> 00:10:53,000
+Otherwise, I will do in same situation and same money and time.
+
+144
+00:10:53,000 --> 00:10:57,000
+I will do some interior designing course. Why would I go for data management?
+
+145
+00:10:57,000 --> 00:10:58,000
+Exactly, exactly.
+
+146
+00:10:58,000 --> 00:11:02,000
+I mean interior designing will definitely help me more in my career.
+
+147
+00:11:02,000 --> 00:11:03,000
+See, exactly.
+
+148
+00:11:03,000 --> 00:11:04,000
+I don't know if it will switch over.
+
+149
+00:11:04,000 --> 00:11:06,000
+Now, Shalini, understand one thing.
+
+150
+00:11:06,000 --> 00:11:14,000
+Our conversation, our all our talking, all our understanding is only to understand if this program is going to help you or not.
+
+151
+00:11:14,000 --> 00:11:15,000
+Correct.
+
+152
+00:11:15,000 --> 00:11:19,000
+Right? I know this program has helped thousands and thousands of lakhs of people.
+
+153
+00:11:19,000 --> 00:11:21,000
+Yeah, but I should also understand.
+
+154
+00:11:21,000 --> 00:11:23,000
+You should be also one of them, right?
+
+155
+00:11:23,000 --> 00:11:28,000
+If this program is good, if you are enrolling in the program, you should be one of the successful people, correct?
+
+156
+00:11:28,000 --> 00:11:30,000
+Okay.
+
+157
+00:11:30,000 --> 00:11:32,000
+It is just that we are finding that.
+
+158
+00:11:32,000 --> 00:11:39,000
+So right now what I will do is, you tell me what domain you want a person to have come into the data science domain.
+
+159
+00:11:39,000 --> 00:11:43,000
+Like what should be the pre-scalar domain that you want a person to have.
+
+160
+00:11:43,000 --> 00:11:45,000
+I am going to schedule that kind of session for you.
+
+161
+00:11:45,000 --> 00:11:47,000
+No, no, I didn't get you. What you are saying...
+
+162
+00:11:47,000 --> 00:11:50,000
+What I am saying, right now you belong to the lighting domain, right?
+
+163
+00:11:50,000 --> 00:11:51,000
+Yes.
+
+164
+00:11:51,000 --> 00:11:57,000
+What kind of industry do you want a person to have their experience in and made a transition?
+
+165
+00:11:57,000 --> 00:11:59,000
+Any interior or product industry.
+
+166
+00:11:59,000 --> 00:12:01,000
+Any interior or product industry?
+
+167
+00:12:01,000 --> 00:12:02,000
+Yeah, yeah.
+
+168
+00:12:02,000 --> 00:12:04,000
+Can you give me a few examples?
+
+169
+00:12:04,000 --> 00:12:06,000
+You can take any kitchen...
+
+170
+00:12:06,000 --> 00:12:08,000
+See, see, see, that is too specific.
+
+171
+00:12:08,000 --> 00:12:12,000
+You can take anything interior designing company...
+
+172
+00:12:12,000 --> 00:12:14,000
+Shalini, Shalini.
+
+173
+00:12:14,000 --> 00:12:16,000
+You can take any product from interior design.
+
+174
+00:12:16,000 --> 00:12:20,000
+Yeah, yeah. That is a very specific, you are saying, right?
+
+175
+00:12:20,000 --> 00:12:23,000
+So what kind of you want? You suggest then I tell you yes or no?
+
+176
+00:12:23,000 --> 00:12:29,000
+Yeah, like a person belonging from a non-tenant domain, maybe from finance domain, healthcare domain...
+
+177
+00:12:29,000 --> 00:12:30,000
+No, finance is not my...
+
+178
+00:12:30,000 --> 00:12:31,000
+Healthcare domain...
+
+179
+00:12:31,000 --> 00:12:34,000
+Finance and IT, leave finance and IT then we will talk about.
+
+180
+00:12:34,000 --> 00:12:40,000
+A civil engineering domain, a mechanical domain or a person who comes from a product domain like that.
+
+181
+00:12:40,000 --> 00:12:43,000
+See, I am an engineer so it is different.
+
+182
+00:12:43,000 --> 00:12:44,000
+Correct.
+
+183
+00:12:44,000 --> 00:12:50,000
+So you suggest anything who is from science background but non-engineered, non-technical person...
+
+184
+00:12:50,000 --> 00:12:52,000
+Science but non-engineered. Just give me a second.
+
+185
+00:12:52,000 --> 00:12:57,000
+I will load up the profile right in front of me so that I can tell you what all things I have, okay?
+
+186
+00:12:57,000 --> 00:12:59,000
+Just a second.
+
+187
+00:12:59,000 --> 00:13:03,000
+I understand it is going to be useful for finance person but I am not a finance person.
+
+188
+00:13:03,000 --> 00:13:05,000
+Totally, totally right.
+
+189
+00:13:14,000 --> 00:13:29,000
+So let me do one thing over here, Shalini. Let me gather a few profiles for you, okay?
+
+190
+00:13:29,000 --> 00:13:30,000
+Okay, and then call me up.
+
+191
+00:13:30,000 --> 00:13:36,000
+And then I will send the profiles to you on WhatsApp, select one from that and then we will schedule a meeting for you with them.
+
+192
+00:13:36,000 --> 00:13:37,000
+Sure, no problem.
+
+193
+00:13:37,000 --> 00:13:38,000
+Work, Shalini?
+
+194
+00:13:38,000 --> 00:13:39,000
+Yeah.
+
+195
+00:13:39,000 --> 00:13:41,000
+Okay, okay, okay, Shalini.
+

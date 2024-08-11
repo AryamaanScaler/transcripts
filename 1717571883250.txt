@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:07,960
+Hello, speaking to Mr. Anuj. Yes, Mr. Anuj, this is Ashutosh from Scala Academy. We connected
+
+2
+00:00:07,960 --> 00:00:13,360
+on 2nd, you asked me to call back on 5th. Yeah Ashutosh, I'm really sorry, I'm actually
+
+3
+00:00:13,360 --> 00:00:17,600
+a little occupied right now. Can I give you a call back? Can you help me with what time
+
+4
+00:00:17,600 --> 00:00:23,760
+we can connect so I can market accordingly? At around 3.30 of 4? Sure, I will give you
+
+5
+00:00:23,760 --> 00:00:26,640
+a call back by 3.30. Thank you Ashutosh.
+

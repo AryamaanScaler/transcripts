@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello, hello Dhrishthan. Yes, just two minutes. Within two minutes I will call you. Okay.
+
+2
+00:00:05,000 --> 00:00:06,000
+Okay, thank you. Yeah.
+

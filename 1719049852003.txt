@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:00,500
+Hello
+
+2
+00:00:00,500 --> 00:00:02,000
+Hi Kamal, how are you?
+
+3
+00:00:03,500 --> 00:00:04,500
+Fine, and how are you?
+
+4
+00:00:04,500 --> 00:00:06,500
+I am doing good Kamal, thank you for asking
+
+5
+00:00:06,500 --> 00:00:08,500
+So Kamal have you shifted to your work location?
+
+6
+00:00:10,500 --> 00:00:11,000
+Yeah
+
+7
+00:00:11,500 --> 00:00:12,500
+Okay, so in Delhi right?
+
+8
+00:00:13,500 --> 00:00:14,000
+Yes
+
+9
+00:00:14,000 --> 00:00:16,000
+Okay, so are you having your office today?
+
+10
+00:00:18,000 --> 00:00:19,000
+No, no, no
+
+11
+00:00:19,500 --> 00:00:21,500
+Today is holiday, so today is off
+
+12
+00:00:22,000 --> 00:00:23,500
+Today is Saturday, Sunday is off, okay
+
+13
+00:00:24,000 --> 00:00:27,000
+So Kamal today I will be taking your dashboard work through session
+
+14
+00:00:27,000 --> 00:00:30,000
+And I will be explaining you how to use your dashboard
+
+15
+00:00:30,500 --> 00:00:34,000
+So can I settle your call for 4 to 4.30 pm if you are available?
+
+16
+00:00:36,000 --> 00:00:37,000
+4 to 4.30?
+
+17
+00:00:37,500 --> 00:00:38,000
+Yes
+
+18
+00:00:39,000 --> 00:00:39,500
+Yeah
+
+19
+00:00:40,000 --> 00:00:42,000
+You will be available for the call right? 4 to 4.30?
+
+20
+00:00:43,000 --> 00:00:43,500
+Okay
+
+21
+00:00:44,000 --> 00:00:46,000
+Okay, so I will be sharing your Google Meet for the same
+
+22
+00:00:48,000 --> 00:00:48,500
+Okay
+
+23
+00:00:49,000 --> 00:00:51,000
+Okay, so I want you to join that call sharp at 4 pm today, okay?
+
+24
+00:00:52,000 --> 00:00:52,500
+Okay
+
+25
+00:00:53,000 --> 00:00:53,500
+Sure, okay
+
+26
+00:00:54,000 --> 00:00:55,000
+You have your laptop with you right?
+
+27
+00:00:56,000 --> 00:00:56,500
+Yes
+
+28
+00:00:56,500 --> 00:00:57,500
+Okay, great work Sookie
+
+29
+00:00:59,500 --> 00:01:00,000
+Okay
+

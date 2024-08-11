@@ -1,0 +1,528 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Is it Aditya?
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes
+
+5
+00:00:08,000 --> 00:00:10,000
+Hi Aditya, the other side, I am calling you from Scalers referral team
+
+6
+00:00:10,000 --> 00:00:12,000
+Is it a good time to speak to you for 5 to 10 minutes?
+
+7
+00:00:12,000 --> 00:00:14,000
+Yes, please tell me
+
+8
+00:00:14,000 --> 00:00:16,000
+Aditya, basically I have been pointed as a student referral manager for you
+
+9
+00:00:16,000 --> 00:00:18,000
+Okay
+
+10
+00:00:18,000 --> 00:00:20,000
+In that regards only I wanted to talk to you
+
+11
+00:00:20,000 --> 00:00:22,000
+So I can see
+
+12
+00:00:22,000 --> 00:00:24,000
+Aditya, you are a learner from
+
+13
+00:00:24,000 --> 00:00:26,000
+July 2024 batch of scaler
+
+14
+00:00:26,000 --> 00:00:28,000
+I am actually a student referral manager
+
+15
+00:00:28,000 --> 00:00:30,000
+So you enrolled yourself for software development course
+
+16
+00:00:30,000 --> 00:00:32,000
+Yes
+
+17
+00:00:32,000 --> 00:00:34,000
+Okay, so how is your course going on with scaler?
+
+18
+00:00:34,000 --> 00:00:36,000
+I still not started
+
+19
+00:00:36,000 --> 00:00:38,000
+I think the batch started on 17th of July
+
+20
+00:00:38,000 --> 00:00:40,000
+Okay, my bad, my bad
+
+21
+00:00:40,000 --> 00:00:42,000
+I thought you enrolled for the June batch
+
+22
+00:00:42,000 --> 00:00:44,000
+I just read it again
+
+23
+00:00:44,000 --> 00:00:46,000
+So like how
+
+24
+00:00:46,000 --> 00:00:48,000
+process is it completed
+
+25
+00:00:48,000 --> 00:00:50,000
+or is it still going?
+
+26
+00:00:50,000 --> 00:00:52,000
+It is still going
+
+27
+00:00:52,000 --> 00:00:54,000
+So you enrolled yourself for software development course
+
+28
+00:00:54,000 --> 00:00:56,000
+Yes
+
+29
+00:00:56,000 --> 00:00:58,000
+So is it completed or is it still going?
+
+30
+00:00:58,000 --> 00:01:00,000
+It is still going
+
+31
+00:01:00,000 --> 00:01:02,000
+Onboarding is done
+
+32
+00:01:02,000 --> 00:01:04,000
+But I have to give
+
+33
+00:01:04,000 --> 00:01:06,000
+like a test
+
+34
+00:01:06,000 --> 00:01:08,000
+So I am preparing for that test
+
+35
+00:01:08,000 --> 00:01:10,000
+I will do it by tomorrow
+
+36
+00:01:10,000 --> 00:01:12,000
+Okay
+
+37
+00:01:12,000 --> 00:01:14,000
+And then I select the mentor section
+
+38
+00:01:14,000 --> 00:01:16,000
+Okay
+
+39
+00:01:16,000 --> 00:01:18,000
+Then after that they will start my
+
+40
+00:01:18,000 --> 00:01:20,000
+batch
+
+41
+00:01:20,000 --> 00:01:22,000
+and selection what batch I need to select
+
+42
+00:01:22,000 --> 00:01:24,000
+kind of thing
+
+43
+00:01:24,000 --> 00:01:26,000
+So you mean
+
+44
+00:01:26,000 --> 00:01:28,000
+intermediate, advanced or beginner
+
+45
+00:01:28,000 --> 00:01:30,000
+Yeah
+
+46
+00:01:30,000 --> 00:01:32,000
+Understood
+
+47
+00:01:32,000 --> 00:01:34,000
+So how did you came to know about
+
+48
+00:01:34,000 --> 00:01:36,000
+scaler that there is something known as scaler?
+
+49
+00:01:36,000 --> 00:01:38,000
+I
+
+50
+00:01:38,000 --> 00:01:40,000
+got a YouTube
+
+51
+00:01:40,000 --> 00:01:42,000
+ad
+
+52
+00:01:42,000 --> 00:01:44,000
+and one of my friend
+
+53
+00:01:44,000 --> 00:01:46,000
+already studying
+
+54
+00:01:46,000 --> 00:01:48,000
+here
+
+55
+00:01:48,000 --> 00:01:50,000
+So he told me that
+
+56
+00:01:50,000 --> 00:01:52,000
+it is good for upgrading your
+
+57
+00:01:52,000 --> 00:01:54,000
+skill
+
+58
+00:01:54,000 --> 00:01:56,000
+So I take a chance and join
+
+59
+00:01:56,000 --> 00:01:58,000
+it for upgrading myself
+
+60
+00:01:58,000 --> 00:02:00,000
+Understood
+
+61
+00:02:00,000 --> 00:02:02,000
+So did you
+
+62
+00:02:02,000 --> 00:02:04,000
+like research yourself or you went
+
+63
+00:02:04,000 --> 00:02:06,000
+on to your friend's word only?
+
+64
+00:02:06,000 --> 00:02:08,000
+Yeah I researched myself
+
+65
+00:02:08,000 --> 00:02:10,000
+and then
+
+66
+00:02:10,000 --> 00:02:12,000
+I talked to my friend
+
+67
+00:02:12,000 --> 00:02:14,000
+Then I
+
+68
+00:02:14,000 --> 00:02:16,000
+do this thing
+
+69
+00:02:16,000 --> 00:02:18,000
+Understood
+
+70
+00:02:18,000 --> 00:02:20,000
+So there is this referral program
+
+71
+00:02:20,000 --> 00:02:22,000
+here at scaler
+
+72
+00:02:22,000 --> 00:02:24,000
+Did your counselor explain you about it?
+
+73
+00:02:24,000 --> 00:02:26,000
+Yes
+
+74
+00:02:26,000 --> 00:02:28,000
+Kind of like if I
+
+75
+00:02:28,000 --> 00:02:30,000
+gave a referral to one of my friend
+
+76
+00:02:30,000 --> 00:02:32,000
+I got some point
+
+77
+00:02:32,000 --> 00:02:34,000
+from scaler like
+
+78
+00:02:34,000 --> 00:02:36,000
+20,000 point something
+
+79
+00:02:36,000 --> 00:02:38,000
+Okay
+
+80
+00:02:38,000 --> 00:02:40,000
+No that's a
+
+81
+00:02:40,000 --> 00:02:42,000
+wrong thing you misunderstood it
+
+82
+00:02:42,000 --> 00:02:44,000
+Look a lot of our learners they want to
+
+83
+00:02:44,000 --> 00:02:46,000
+refer their friends, colleagues, linked in
+
+84
+00:02:46,000 --> 00:02:48,000
+connections, family members
+
+85
+00:02:48,000 --> 00:02:50,000
+They don't know the right process of it
+
+86
+00:02:50,000 --> 00:02:52,000
+So scaler has appointed me
+
+87
+00:02:52,000 --> 00:02:54,000
+as a referral manager for you
+
+88
+00:02:54,000 --> 00:02:56,000
+That whenever you want to refer any
+
+89
+00:02:56,000 --> 00:02:58,000
+of your friends, colleagues, linked in
+
+90
+00:02:58,000 --> 00:03:00,000
+family members to scaler
+
+91
+00:03:00,000 --> 00:03:02,000
+You can reach out to me
+
+92
+00:03:02,000 --> 00:03:04,000
+Okay
+
+93
+00:03:04,000 --> 00:03:06,000
+this friend of mine is interested to join scaler
+
+94
+00:03:06,000 --> 00:03:08,000
+or is looking to upscale
+
+95
+00:03:08,000 --> 00:03:10,000
+Okay
+
+96
+00:03:10,000 --> 00:03:12,000
+I am not saying that you need to refer 100% interested
+
+97
+00:03:12,000 --> 00:03:14,000
+people to join only
+
+98
+00:03:14,000 --> 00:03:16,000
+If you refer one friend of yours
+
+99
+00:03:16,000 --> 00:03:21,480
+interested to upscale but not necessarily with scaler you can still give their details to me
+
+100
+00:03:21,480 --> 00:03:28,160
+I'll apply you will pass it on to the counselor if he well and good you will get the reward if he
+
+101
+00:03:28,160 --> 00:03:35,360
+doesn't enrolls up still I will be giving you 200 scaler coins from our end okay okay do you know
+
+102
+00:03:35,360 --> 00:03:45,120
+what you can do with scaler points I think buy some products and something yes so you can buy
+
+103
+00:03:45,120 --> 00:04:00,240
+like some like scaler goodies via that and basically if and you want to schedule any mentor
+
+104
+00:04:00,240 --> 00:04:06,800
+session mock interview or something you can do with that as well now coming in rewards for
+
+105
+00:04:06,800 --> 00:04:12,360
+referring your friend that is you will get 10,000 rupees cash in your bank account in
+
+106
+00:04:12,360 --> 00:04:19,520
+addition you will get 2,000 rupees in the form of Amazon voucher okay so for one successful
+
+107
+00:04:19,520 --> 00:04:26,640
+referral you will get a 10 plus 2 that is 12,000 rupees reward okay successful means that the
+
+108
+00:04:26,720 --> 00:04:33,400
+learner should not take any kind of refund okay completely with scaler then only you will get the
+
+109
+00:04:33,400 --> 00:04:44,240
+rewards okay okay so the best part is if you give more reference on your Amazon voucher will
+
+110
+00:04:44,240 --> 00:04:49,320
+exponent so suppose if you are even one friend of yours will get 10,000 rupees plus 2,000 rupees
+
+111
+00:04:49,320 --> 00:04:56,800
+Amazon voucher but friend you will get 20,000 in total of cash but you will not get 4,000 rupees
+
+112
+00:04:56,800 --> 00:05:05,280
+Amazon voucher instead you will get 6,000 rupees answer okay on okay yeah on three friend the
+
+113
+00:05:05,280 --> 00:05:12,760
+Amazon voucher will be of 12,000 four friends will be of 25 friends it will be of 35,000 okay
+
+114
+00:05:12,760 --> 00:05:20,840
+so the more you refer the bigger your Amazon voucher rewards are going to be okay okay so yeah
+
+115
+00:05:20,840 --> 00:05:26,320
+that's how the whole actual program works so on five people there's total reward of 85,000
+
+116
+00:05:26,320 --> 00:05:33,480
+waiting for you if you have some circle right okay do you have any such sort of network you
+
+117
+00:05:33,480 --> 00:05:41,440
+can refer for the learning purpose to scale up I don't have any that any kind of network
+
+118
+00:05:41,440 --> 00:05:49,440
+but the scaler study I talk to many people but but they are not doing this right now
+
+119
+00:05:49,440 --> 00:05:59,080
+okay so currently there is no one who is looking forward for this yes understood so if you find
+
+120
+00:05:59,080 --> 00:06:04,640
+up who anyone who is looking forward to upscale himself into any domain whether it's software
+
+121
+00:06:04,640 --> 00:06:11,320
+development DevOps or data science you can simply reach out to me okay there are three courses with
+
+122
+00:06:11,320 --> 00:06:20,240
+online platform okay so you can refer for any courses out of this so just share me their details
+
+123
+00:06:20,240 --> 00:06:26,320
+and I'll take care of the rest of things okay I need to save your number yeah so just save
+
+124
+00:06:26,320 --> 00:06:34,640
+on my number as a hermit and I'll be there to help you whenever you require my yeah okay
+
+125
+00:06:34,640 --> 00:06:43,680
+okay all right any doubts you have in your mind no no harsh okay cool and so like currently
+
+126
+00:06:43,680 --> 00:06:51,440
+I'm working into this company by the and I get oh my god oh yes a lot of my learners they get
+
+127
+00:06:51,440 --> 00:07:01,920
+placed from scalar at Nagaro as well okay yeah yeah there are a lot of you folks I know because
+
+128
+00:07:01,920 --> 00:07:09,440
+I'm part of scalar from last three like years okay so I know quite a few folks oh yeah it's
+
+129
+00:07:09,440 --> 00:07:19,000
+nice connecting with you like is your same number is on whatsapp as well yes yes okay so I just
+
+130
+00:07:19,000 --> 00:07:24,280
+saved on your number and will whatsapp you the referral program as well so it will be easier
+
+131
+00:07:24,280 --> 00:07:31,440
+for you to just see my number as well yes yes I'm saying that okay so hello then yeah bye bye take
+
+132
+00:07:31,440 --> 00:07:33,040
+care thank you
+

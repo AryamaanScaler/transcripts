@@ -1,0 +1,812 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hey Gulam
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi Anika, tell me
+
+4
+00:00:06,000 --> 00:00:08,000
+Yeah, how's the call?
+
+5
+00:00:08,000 --> 00:00:10,000
+Yeah, it was good actually
+
+6
+00:00:10,000 --> 00:00:12,000
+Got a lot of things cleared
+
+7
+00:00:12,000 --> 00:00:14,000
+I was looking straight to him
+
+8
+00:00:14,000 --> 00:00:16,000
+because he actually has an idea about all the three
+
+9
+00:00:16,000 --> 00:00:18,000
+and though he was working as a data scientist
+
+10
+00:00:18,000 --> 00:00:20,000
+before taking up this course
+
+11
+00:00:20,000 --> 00:00:22,000
+before taking up this course in Scalar
+
+12
+00:00:22,000 --> 00:00:24,000
+he was also working in the data science department
+
+13
+00:00:24,000 --> 00:00:26,000
+before taking up this course in Scalar
+
+14
+00:00:26,000 --> 00:00:28,000
+before taking up this course in Scalar
+
+15
+00:00:28,000 --> 00:00:30,000
+before taking up this course in Scalar
+
+16
+00:00:30,000 --> 00:00:32,000
+he was already working as a data scientist
+
+17
+00:00:32,000 --> 00:00:34,000
+But the salary was way less
+
+18
+00:00:34,000 --> 00:00:36,000
+So he also wanted to get some more depth
+
+19
+00:00:36,000 --> 00:00:38,000
+So he also wanted to get some more depth
+
+20
+00:00:38,000 --> 00:00:40,000
+in knowledge, right? ML ops and all those things
+
+21
+00:00:40,000 --> 00:00:42,000
+That is what I told you, if you remember
+
+22
+00:00:42,000 --> 00:00:44,000
+I shared you lot more profiles
+
+23
+00:00:44,000 --> 00:00:46,000
+People having 1 crore package
+
+24
+00:00:46,000 --> 00:00:48,000
+People having 60 lakhs of package
+
+25
+00:00:48,000 --> 00:00:50,000
+People having 1 crore package
+
+26
+00:00:50,000 --> 00:00:52,000
+They are coming to Scalar not just to go for the content only
+
+27
+00:00:52,000 --> 00:00:54,000
+They are coming to Scalar not just to go for the content only
+
+28
+00:00:54,000 --> 00:00:56,000
+They are actually adding the value to their existing profile
+
+29
+00:00:56,000 --> 00:00:58,000
+They are actually adding the value to their existing profile
+
+30
+00:00:58,000 --> 00:01:00,000
+They are killing because of that as well
+
+31
+00:01:00,000 --> 00:01:02,000
+They are killing because of that as well
+
+32
+00:01:02,000 --> 00:01:04,000
+Let's say you must have seen people
+
+33
+00:01:04,000 --> 00:01:06,000
+working as analysts getting paid 6-7 lakhs also
+
+34
+00:01:06,000 --> 00:01:08,000
+working as analysts getting paid 6-7 lakhs also
+
+35
+00:01:08,000 --> 00:01:10,000
+That is what one should know
+
+36
+00:01:10,000 --> 00:01:12,000
+From where to start, where to end
+
+37
+00:01:12,000 --> 00:01:14,000
+You got my point?
+
+38
+00:01:14,000 --> 00:01:16,000
+You got my point?
+
+39
+00:01:16,000 --> 00:01:18,000
+I have already
+
+40
+00:01:18,000 --> 00:01:20,000
+I have already went through the road map
+
+41
+00:01:20,000 --> 00:01:22,000
+It looks decent to me
+
+42
+00:01:22,000 --> 00:01:24,000
+It looks decent to me
+
+43
+00:01:24,000 --> 00:01:26,000
+Makes sense
+
+44
+00:01:26,000 --> 00:01:28,000
+It's not like it's too much
+
+45
+00:01:28,000 --> 00:01:30,000
+I don't think so that is
+
+46
+00:01:30,000 --> 00:01:32,000
+too much overwhelming
+
+47
+00:01:32,000 --> 00:01:34,000
+what it's actually planned
+
+48
+00:01:34,000 --> 00:01:36,000
+and where I want to see myself in 2 years
+
+49
+00:01:36,000 --> 00:01:38,000
+1-2 years from now
+
+50
+00:01:38,000 --> 00:01:40,000
+So looks good to me
+
+51
+00:01:40,000 --> 00:01:42,000
+So
+
+52
+00:01:42,000 --> 00:01:44,000
+I think then we can
+
+53
+00:01:44,000 --> 00:01:46,000
+get started with this
+
+54
+00:01:46,000 --> 00:01:48,000
+Great, so first of all understand one thing
+
+55
+00:01:48,000 --> 00:01:50,000
+Great, so first of all understand one thing
+
+56
+00:01:50,000 --> 00:01:52,000
+Gulaam, the road map that we have given you is a realistic road map
+
+57
+00:01:52,000 --> 00:01:54,000
+Gulaam, the road map that we have given you is a realistic road map
+
+58
+00:01:54,000 --> 00:01:56,000
+That is something that is achievable
+
+59
+00:01:56,000 --> 00:01:58,000
+That is something that is achievable
+
+60
+00:01:58,000 --> 00:02:00,000
+If we are giving you something that is
+
+61
+00:02:00,000 --> 00:02:02,000
+If we are giving you something that is
+
+62
+00:02:02,000 --> 00:02:04,000
+overwhelming and
+
+63
+00:02:04,000 --> 00:02:06,000
+No, that's not what I was saying
+
+64
+00:02:06,000 --> 00:02:08,000
+The same thing in Upgrad
+
+65
+00:02:08,000 --> 00:02:10,000
+The same thing in Upgrad
+
+66
+00:02:10,000 --> 00:02:12,000
+The content there and the
+
+67
+00:02:12,000 --> 00:02:14,000
+Though they have not put any road map
+
+68
+00:02:14,000 --> 00:02:16,000
+But what they were about to cover in
+
+69
+00:02:16,000 --> 00:02:18,000
+The first 6 months
+
+70
+00:02:18,000 --> 00:02:20,000
+So like the same thing
+
+71
+00:02:20,000 --> 00:02:22,000
+So like the same thing
+
+72
+00:02:22,000 --> 00:02:24,000
+In Scalar they are taking almost
+
+73
+00:02:24,000 --> 00:02:26,000
+1 and a half or around
+
+74
+00:02:26,000 --> 00:02:28,000
+14-14-14 months
+
+75
+00:02:28,000 --> 00:02:30,000
+And the same thing they were
+
+76
+00:02:30,000 --> 00:02:32,000
+Telling they will be covering
+
+77
+00:02:32,000 --> 00:02:34,000
+In 6 months
+
+78
+00:02:34,000 --> 00:02:36,000
+So that was actually a little bit overwhelming to me
+
+79
+00:02:36,000 --> 00:02:38,000
+Because I was just thinking okay
+
+80
+00:02:38,000 --> 00:02:40,000
+This is actually too much, I don't know how I will complete in 6 months
+
+81
+00:02:40,000 --> 00:02:42,000
+Right and if I complete
+
+82
+00:02:42,000 --> 00:02:44,000
+In 6 months also
+
+83
+00:02:44,000 --> 00:02:46,000
+Like would I get that
+
+84
+00:02:46,000 --> 00:02:48,000
+In depth knowledge right?
+
+85
+00:02:48,000 --> 00:02:50,000
+It is not only about the content
+
+86
+00:02:50,000 --> 00:02:52,000
+Knowledge, usually it is
+
+87
+00:02:52,000 --> 00:02:54,000
+It should be about the practical learning
+
+88
+00:02:54,000 --> 00:02:56,000
+Actually, actually
+
+89
+00:02:56,000 --> 00:02:58,000
+We discussed this yesterday
+
+90
+00:02:58,000 --> 00:03:00,000
+Yes, yes, yes
+
+91
+00:03:00,000 --> 00:03:02,000
+Even Dikveja said that
+
+92
+00:03:02,000 --> 00:03:04,000
+During the live classes
+
+93
+00:03:04,000 --> 00:03:06,000
+Also you will be giving
+
+94
+00:03:06,000 --> 00:03:08,000
+You will be given problems to solve
+
+95
+00:03:08,000 --> 00:03:10,000
+And all the central
+
+96
+00:03:10,000 --> 00:03:12,000
+That will be there
+
+97
+00:03:12,000 --> 00:03:14,000
+Okay, so yes
+
+98
+00:03:14,000 --> 00:03:16,000
+Rest of the discussion will be again in the meeting also
+
+99
+00:03:16,000 --> 00:03:18,000
+Okay, if you have any
+
+100
+00:03:18,000 --> 00:03:20,000
+Separate question you can ask directly
+
+101
+00:03:20,000 --> 00:03:22,000
+And I think so far we
+
+102
+00:03:22,000 --> 00:03:24,000
+Cleared everything, is there any doubt
+
+103
+00:03:24,000 --> 00:03:26,000
+You are having related to the fees structure
+
+104
+00:03:26,000 --> 00:03:28,000
+Or anything?
+
+105
+00:03:28,000 --> 00:03:30,000
+So what I want to understand is
+
+106
+00:03:30,000 --> 00:03:32,000
+The EMI
+
+107
+00:03:32,000 --> 00:03:34,000
+Right that you want to create
+
+108
+00:03:34,000 --> 00:03:36,000
+So how is this going to happen?
+
+109
+00:03:36,000 --> 00:03:38,000
+Means
+
+110
+00:03:38,000 --> 00:03:40,000
+Overall the fees structure is 369,000
+
+111
+00:03:40,000 --> 00:03:42,000
+As I told you because of that
+
+112
+00:03:42,000 --> 00:03:44,000
+Filteration, the future
+
+113
+00:03:44,000 --> 00:03:46,000
+Right now for you guys
+
+114
+00:03:46,000 --> 00:03:48,000
+Whoever is using the coupon
+
+115
+00:03:48,000 --> 00:03:50,000
+And let's say getting the extra
+
+116
+00:03:50,000 --> 00:03:52,000
+Coupon for the interview
+
+117
+00:03:52,000 --> 00:03:54,000
+And the interview as well
+
+118
+00:03:54,000 --> 00:03:56,000
+So they will be getting the fees structure
+
+119
+00:03:56,000 --> 00:03:58,000
+Of 314, we also can provide them
+
+120
+00:03:58,000 --> 00:04:00,000
+One coupon if we are impressed
+
+121
+00:04:00,000 --> 00:04:02,000
+But that is limited only
+
+122
+00:04:02,000 --> 00:04:04,000
+So one thing is that
+
+123
+00:04:04,000 --> 00:04:06,000
+And the second thing is though
+
+124
+00:04:06,000 --> 00:04:08,000
+Let's say 264 will be the amount
+
+125
+00:04:08,000 --> 00:04:10,000
+Sorry, 294 will be the amount
+
+126
+00:04:10,000 --> 00:04:12,000
+294 can be
+
+127
+00:04:12,000 --> 00:04:14,000
+Convert into the monthly
+
+128
+00:04:14,000 --> 00:04:16,000
+Installment
+
+129
+00:04:16,000 --> 00:04:18,000
+First is something that
+
+130
+00:04:18,000 --> 00:04:20,000
+2 years no cost EMI
+
+131
+00:04:20,000 --> 00:04:22,000
+That you guys can go ahead with
+
+132
+00:04:22,000 --> 00:04:24,000
+And then 3 years, 4 years, 5 years
+
+133
+00:04:24,000 --> 00:04:26,000
+Totally depends on what you guys want
+
+134
+00:04:26,000 --> 00:04:28,000
+Even if someone
+
+135
+00:04:28,000 --> 00:04:30,000
+2 years is ok for me
+
+136
+00:04:30,000 --> 00:04:32,000
+I also have some other
+
+137
+00:04:32,000 --> 00:04:34,000
+Commitments right
+
+138
+00:04:34,000 --> 00:04:36,000
+Even if it is not there
+
+139
+00:04:36,000 --> 00:04:38,000
+You should take the EMI
+
+140
+00:04:38,000 --> 00:04:40,000
+That is a gentle reminder
+
+141
+00:04:40,000 --> 00:04:42,000
+Every month that you are paying
+
+142
+00:04:42,000 --> 00:04:44,000
+So I assume that is good
+
+143
+00:04:44,000 --> 00:04:46,000
+And if there is no
+
+144
+00:04:46,000 --> 00:04:48,000
+Any extra rupees they are taking
+
+145
+00:04:48,000 --> 00:04:50,000
+What is the loss taking the 24 months
+
+146
+00:04:50,000 --> 00:04:52,000
+No, no that's alright
+
+147
+00:04:52,000 --> 00:04:54,000
+So only good only
+
+148
+00:04:54,000 --> 00:04:56,000
+Ok
+
+149
+00:04:56,000 --> 00:04:58,000
+So
+
+150
+00:04:58,000 --> 00:05:00,000
+Now I think you will be home right
+
+151
+00:05:00,000 --> 00:05:02,000
+Yeah, I am at home
+
+152
+00:05:02,000 --> 00:05:04,000
+So we can have this meeting
+
+153
+00:05:04,000 --> 00:05:06,000
+In like
+
+154
+00:05:06,000 --> 00:05:08,000
+Wait, let me check the calendar of
+
+155
+00:05:08,000 --> 00:05:10,000
+Program head
+
+156
+00:05:20,000 --> 00:05:22,000
+Yeah, so we can have this meeting
+
+157
+00:05:22,000 --> 00:05:24,000
+By 8.30
+
+158
+00:05:24,000 --> 00:05:26,000
+One option, second is 9
+
+159
+00:05:26,000 --> 00:05:28,000
+Because 2 slots are vacant today
+
+160
+00:05:28,000 --> 00:05:30,000
+Ok, so we can have it
+
+161
+00:05:30,000 --> 00:05:32,000
+In any of the time you can choose
+
+162
+00:05:32,000 --> 00:05:34,000
+Ok, ok
+
+163
+00:05:34,000 --> 00:05:36,000
+I suggest you to go ahead with 8.30
+
+164
+00:05:36,000 --> 00:05:38,000
+So that I can have my dinner on time
+
+165
+00:05:38,000 --> 00:05:40,000
+Yeah, yeah sure
+
+166
+00:05:40,000 --> 00:05:42,000
+So I will share you the meeting link
+
+167
+00:05:42,000 --> 00:05:44,000
+8.30
+
+168
+00:05:44,000 --> 00:05:46,000
+And one more thing
+
+169
+00:05:46,000 --> 00:05:48,000
+In the meeting again we will discuss the road map
+
+170
+00:05:48,000 --> 00:05:50,000
+I will ask the program head to come
+
+171
+00:05:50,000 --> 00:05:52,000
+And to give you the better clarity on the same
+
+172
+00:05:52,000 --> 00:05:54,000
+Ok, ok
+
+173
+00:05:54,000 --> 00:05:56,000
+And he will come only for 15 minutes just to give you that idea
+
+174
+00:05:56,000 --> 00:05:58,000
+So far, ok
+
+175
+00:05:58,000 --> 00:06:00,000
+If you have any concern you can directly ping me
+
+176
+00:06:00,000 --> 00:06:02,000
+Ping them in the group
+
+177
+00:06:02,000 --> 00:06:04,000
+Actually they are added
+
+178
+00:06:04,000 --> 00:06:06,000
+So I wanted to talk to you and take the feedback
+
+179
+00:06:06,000 --> 00:06:08,000
+Overall
+
+180
+00:06:08,000 --> 00:06:10,000
+Throughout the journey that is the group that we made
+
+181
+00:06:10,000 --> 00:06:12,000
+Gulaam that is just for
+
+182
+00:06:12,000 --> 00:06:14,000
+Our clarity
+
+183
+00:06:14,000 --> 00:06:16,000
+That is not related to your classes
+
+184
+00:06:16,000 --> 00:06:18,000
+Ok, ok
+
+185
+00:06:18,000 --> 00:06:20,000
+Right, fair enough, any doubt in that
+
+186
+00:06:20,000 --> 00:06:22,000
+No, no
+
+187
+00:06:22,000 --> 00:06:24,000
+We will be just doing the
+
+188
+00:06:24,000 --> 00:06:26,000
+Registration in the meeting
+
+189
+00:06:26,000 --> 00:06:28,000
+Rest process
+
+190
+00:06:28,000 --> 00:06:30,000
+After approval you can do it
+
+191
+00:06:30,000 --> 00:06:32,000
+Rest tomorrow but today only we will be giving you
+
+192
+00:06:32,000 --> 00:06:34,000
+Of a letter of scalar academy
+
+193
+00:06:34,000 --> 00:06:36,000
+With a registration of 20,000
+
+194
+00:06:36,000 --> 00:06:38,000
+Ok, sure
+
+195
+00:06:38,000 --> 00:06:40,000
+Registration of 8.30
+
+196
+00:06:40,000 --> 00:06:42,000
+Ok, and Monica just one more thing
+
+197
+00:06:42,000 --> 00:06:44,000
+So tomorrow and day of tomorrow
+
+198
+00:06:44,000 --> 00:06:46,000
+It might be actually busy because
+
+199
+00:06:46,000 --> 00:06:48,000
+No, you can get everything done
+
+200
+00:06:48,000 --> 00:06:50,000
+You be free
+
+201
+00:06:50,000 --> 00:06:52,000
+Ok, ok, ok
+
+202
+00:06:52,000 --> 00:06:54,000
+Let's meet by 8.30
+
+203
+00:06:54,000 --> 00:06:56,000
+Ok, sure, bye
+

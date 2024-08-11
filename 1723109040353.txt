@@ -1,0 +1,588 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Is this Darshan I am speaking with?
+
+3
+00:00:04,000 --> 00:00:06,000
+Darshan Vermaar
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes, yes who is this?
+
+5
+00:00:08,000 --> 00:00:10,000
+Darshan this is Nupur from Scalar
+
+6
+00:00:10,000 --> 00:00:12,000
+I have been assigned as your referral manager
+
+7
+00:00:12,000 --> 00:00:14,000
+I wanted to talk to you
+
+8
+00:00:14,000 --> 00:00:16,000
+regarding that. I got a call back request
+
+9
+00:00:16,000 --> 00:00:18,000
+also from your side on the referenant page
+
+10
+00:00:18,000 --> 00:00:20,000
+Ma'am what's your good name?
+
+11
+00:00:20,000 --> 00:00:22,000
+My name is Nupur
+
+12
+00:00:22,000 --> 00:00:24,000
+Sorry Nupur ma'am actually that was a fake
+
+13
+00:00:24,000 --> 00:00:26,000
+because I already
+
+14
+00:00:26,000 --> 00:00:28,000
+took the admission in July 2014
+
+15
+00:00:28,000 --> 00:00:30,000
+but that is not the case
+
+16
+00:00:30,000 --> 00:00:32,000
+Listen to me ma'am
+
+17
+00:00:32,000 --> 00:00:34,000
+I have already taken admission
+
+18
+00:00:34,000 --> 00:00:36,000
+I already had to refer two friends
+
+19
+00:00:36,000 --> 00:00:38,000
+Okay
+
+20
+00:00:38,000 --> 00:00:40,000
+Since last one or more than one week
+
+21
+00:00:40,000 --> 00:00:42,000
+I am contacting the person
+
+22
+00:00:42,000 --> 00:00:44,000
+through whom I took admission
+
+23
+00:00:44,000 --> 00:00:46,000
+Neither he is picking up the call nor is he supporting
+
+24
+00:00:46,000 --> 00:00:48,000
+I am logging in to Scalar
+
+25
+00:00:48,000 --> 00:00:50,000
+and trying to take help
+
+26
+00:00:50,000 --> 00:00:52,000
+from the TA's teaching assistant
+
+27
+00:00:52,000 --> 00:00:54,000
+I am not getting any help from there
+
+28
+00:00:54,000 --> 00:00:56,000
+Regarding finance
+
+29
+00:00:56,000 --> 00:00:58,000
+I am going to the help support
+
+30
+00:00:58,000 --> 00:01:00,000
+I am going there
+
+31
+00:01:00,000 --> 00:01:02,000
+and I am getting an invalid user
+
+32
+00:01:02,000 --> 00:01:04,000
+and you attempt too many times
+
+33
+00:01:04,000 --> 00:01:06,000
+and I am getting an error
+
+34
+00:01:06,000 --> 00:01:08,000
+multiple times
+
+35
+00:01:08,000 --> 00:01:10,000
+I am trying to take help
+
+36
+00:01:10,000 --> 00:01:12,000
+and I am not getting any help
+
+37
+00:01:12,000 --> 00:01:14,000
+So I have chosen this
+
+38
+00:01:14,000 --> 00:01:16,000
+referral option
+
+39
+00:01:16,000 --> 00:01:18,000
+What should I do in this case?
+
+40
+00:01:18,000 --> 00:01:20,000
+I was going to refer someone
+
+41
+00:01:20,000 --> 00:01:22,000
+I am not getting my own help
+
+42
+00:01:22,000 --> 00:01:24,000
+I am sending you the number
+
+43
+00:01:24,000 --> 00:01:26,000
+You try that number
+
+44
+00:01:26,000 --> 00:01:28,000
+That number is active
+
+45
+00:01:28,000 --> 00:01:30,000
+If you have any issue
+
+46
+00:01:30,000 --> 00:01:32,000
+anything related to finance
+
+47
+00:01:32,000 --> 00:01:34,000
+Ma'am, that person has made me take admission
+
+48
+00:01:34,000 --> 00:01:36,000
+and no one is supporting
+
+49
+00:01:36,000 --> 00:01:38,000
+In fact, I have picked up the call
+
+50
+00:01:38,000 --> 00:01:40,000
+two days back to back
+
+51
+00:01:40,000 --> 00:01:42,000
+and they are getting angry
+
+52
+00:01:42,000 --> 00:01:44,000
+Why are you calling back to back?
+
+53
+00:01:44,000 --> 00:01:46,000
+When I took admission
+
+54
+00:01:46,000 --> 00:01:48,000
+they were talking politely
+
+55
+00:01:48,000 --> 00:01:50,000
+and supporting me
+
+56
+00:01:50,000 --> 00:01:52,000
+As soon as the call was called
+
+57
+00:01:52,000 --> 00:01:54,000
+I will tell you
+
+58
+00:01:54,000 --> 00:01:56,000
+they are counsellors
+
+59
+00:01:56,000 --> 00:01:58,000
+and their role is to help with the admission
+
+60
+00:01:58,000 --> 00:02:00,000
+They have to get other people's admission
+
+61
+00:02:00,000 --> 00:02:02,000
+How can I ask for help?
+
+62
+00:02:02,000 --> 00:02:04,000
+I don't have any option for help
+
+63
+00:02:04,000 --> 00:02:06,000
+I am telling you
+
+64
+00:02:06,000 --> 00:02:08,000
+how to do that
+
+65
+00:02:08,000 --> 00:02:10,000
+Once you are in the role
+
+66
+00:02:10,000 --> 00:02:12,000
+So, there is a scalar support option
+
+67
+00:02:12,000 --> 00:02:14,000
+There is a number
+
+68
+00:02:14,000 --> 00:02:16,000
+which is active in the morning 11 to 8.30 in the evening
+
+69
+00:02:16,000 --> 00:02:18,000
+on the weekdays
+
+70
+00:02:18,000 --> 00:02:20,000
+That number is active for all students
+
+71
+00:02:20,000 --> 00:02:22,000
+Reach out to them
+
+72
+00:02:22,000 --> 00:02:24,000
+for your mentor sessions
+
+73
+00:02:24,000 --> 00:02:26,000
+Give me the number
+
+74
+00:02:26,000 --> 00:02:28,000
+I will send it in a minute
+
+75
+00:02:28,000 --> 00:02:30,000
+Everybody reaches out to them
+
+76
+00:02:30,000 --> 00:02:32,000
+and their issue is resolved
+
+77
+00:02:32,000 --> 00:02:34,000
+from there
+
+78
+00:02:34,000 --> 00:02:36,000
+They said
+
+79
+00:02:36,000 --> 00:02:38,000
+that during the entire course
+
+80
+00:02:38,000 --> 00:02:40,000
+whenever you need any help
+
+81
+00:02:40,000 --> 00:02:42,000
+just call me
+
+82
+00:02:42,000 --> 00:02:44,000
+No, their role is limited to helping you with the enrollment
+
+83
+00:02:44,000 --> 00:02:46,000
+They also have a lot of work
+
+84
+00:02:46,000 --> 00:02:48,000
+Everyone's work is divided in the scalar
+
+85
+00:02:48,000 --> 00:02:50,000
+If you need any support
+
+86
+00:02:50,000 --> 00:02:52,000
+then reach out to support
+
+87
+00:02:52,000 --> 00:02:54,000
+That is fine
+
+88
+00:02:54,000 --> 00:02:56,000
+During the admission
+
+89
+00:02:56,000 --> 00:02:58,000
+they said that you can call anytime
+
+90
+00:02:58,000 --> 00:03:00,000
+I didn't ask them
+
+91
+00:03:00,000 --> 00:03:02,000
+They clearly said that call on the support number
+
+92
+00:03:02,000 --> 00:03:04,000
+I can't see the support number on the scalar
+
+93
+00:03:04,000 --> 00:03:06,000
+Invalid users are coming frequently
+
+94
+00:03:06,000 --> 00:03:08,000
+I have sent you this number
+
+95
+00:03:08,000 --> 00:03:10,000
+of support
+
+96
+00:03:10,000 --> 00:03:12,000
+Please tell me the number
+
+97
+00:03:12,000 --> 00:03:14,000
+8061174477
+
+98
+00:03:14,000 --> 00:03:16,000
+Now start from 0
+
+99
+00:03:16,000 --> 00:03:18,000
+080
+
+100
+00:03:18,000 --> 00:03:20,000
+080
+
+101
+00:03:20,000 --> 00:03:22,000
+611
+
+102
+00:03:22,000 --> 00:03:24,000
+611
+
+103
+00:03:24,000 --> 00:03:26,000
+744
+
+104
+00:03:26,000 --> 00:03:28,000
+74477
+
+105
+00:03:28,000 --> 00:03:30,000
+Thanks a lot ma'am
+
+106
+00:03:30,000 --> 00:03:32,000
+I am sorry to bother you ma'am
+
+107
+00:03:32,000 --> 00:03:34,000
+That's not a problem
+
+108
+00:03:34,000 --> 00:03:36,000
+I will take care of
+
+109
+00:03:36,000 --> 00:03:38,000
+referrals for you moving forward
+
+110
+00:03:38,000 --> 00:03:40,000
+If you have any referrals from your end
+
+111
+00:03:40,000 --> 00:03:42,000
+then you have to share it with me
+
+112
+00:03:42,000 --> 00:03:44,000
+I will apply your code from the backend
+
+113
+00:03:44,000 --> 00:03:46,000
+I will connect you with the counselor
+
+114
+00:03:46,000 --> 00:03:48,000
+I will take care of the rewards
+
+115
+00:03:48,000 --> 00:03:50,000
+if they enroll
+
+116
+00:03:50,000 --> 00:03:52,000
+Apart from that
+
+117
+00:03:52,000 --> 00:03:54,000
+Anything apart from
+
+118
+00:03:54,000 --> 00:03:56,000
+referrals you reach out to support
+
+119
+00:03:56,000 --> 00:03:58,000
+Finance issue
+
+120
+00:03:58,000 --> 00:04:00,000
+TA issue
+
+121
+00:04:00,000 --> 00:04:02,000
+Mentor session book
+
+122
+00:04:02,000 --> 00:04:04,000
+They will guide you
+
+123
+00:04:04,000 --> 00:04:06,000
+Sorry ma'am
+
+124
+00:04:06,000 --> 00:04:08,000
+You had to contact like this
+
+125
+00:04:08,000 --> 00:04:10,000
+No, not a problem
+
+126
+00:04:10,000 --> 00:04:12,000
+Actually I didn't got any proper channel
+
+127
+00:04:12,000 --> 00:04:14,000
+No problem
+
+128
+00:04:14,000 --> 00:04:16,000
+I will call you anyway
+
+129
+00:04:16,000 --> 00:04:18,000
+I am your referral manager
+
+130
+00:04:18,000 --> 00:04:20,000
+I would have contacted you anyway
+
+131
+00:04:20,000 --> 00:04:22,000
+If I have something
+
+132
+00:04:22,000 --> 00:04:24,000
+I will contact you
+
+133
+00:04:24,000 --> 00:04:26,000
+Because I have some of the
+
+134
+00:04:26,000 --> 00:04:28,000
+students
+
+135
+00:04:28,000 --> 00:04:30,000
+Some of the relatives
+
+136
+00:04:30,000 --> 00:04:32,000
+who are passed out from
+
+137
+00:04:32,000 --> 00:04:34,000
+the GTU University
+
+138
+00:04:34,000 --> 00:04:36,000
+They also asked me for suggestions
+
+139
+00:04:36,000 --> 00:04:38,000
+After 2 or 3 months
+
+140
+00:04:38,000 --> 00:04:40,000
+their bachelors will be completed
+
+141
+00:04:40,000 --> 00:04:42,000
+I will contact you on this number
+
+142
+00:04:42,000 --> 00:04:44,000
+You save your number
+
+143
+00:04:44,000 --> 00:04:46,000
+So that if there is any referral
+
+144
+00:04:46,000 --> 00:04:48,000
+you can reach out to me
+
+145
+00:04:48,000 --> 00:04:50,000
+and I can take care of the process
+
+146
+00:04:50,000 --> 00:04:52,000
+Ok ma'am, thanks a lot ma'am
+
+147
+00:04:52,000 --> 00:04:54,000
+Thank you so much, bye bye
+

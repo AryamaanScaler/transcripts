@@ -1,0 +1,2960 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello, Amishkar?
+
+2
+00:00:02,000 --> 00:00:04,000
+Yes?
+
+3
+00:00:04,000 --> 00:00:06,000
+Amishkar Adnan, the site from Scala
+
+4
+00:00:06,000 --> 00:00:08,000
+I've shared those videos if you would have noticed your WhatsApp
+
+5
+00:00:08,000 --> 00:00:10,000
+Have you got it?
+
+6
+00:00:10,000 --> 00:00:12,000
+Okay, yes
+
+7
+00:00:12,000 --> 00:00:14,000
+Checkered
+
+8
+00:00:14,000 --> 00:00:16,000
+So I really wanted to watch those videos
+
+9
+00:00:16,000 --> 00:00:18,000
+Trust me, it will help you a lot about your career
+
+10
+00:00:18,000 --> 00:00:20,000
+But have you done any research on Scala till yet?
+
+11
+00:00:20,000 --> 00:00:22,000
+Actually I see
+
+12
+00:00:22,000 --> 00:00:24,000
+some curriculum and all
+
+13
+00:00:24,000 --> 00:00:26,000
+Okay
+
+14
+00:00:26,000 --> 00:00:28,000
+Which is like
+
+15
+00:00:28,000 --> 00:00:30,000
+What is your character
+
+16
+00:00:30,000 --> 00:00:32,000
+and all
+
+17
+00:00:32,000 --> 00:00:34,000
+I'll be showing you an excel sheet
+
+18
+00:00:34,000 --> 00:00:36,000
+of the curriculum, I don't mind sharing with that
+
+19
+00:00:36,000 --> 00:00:38,000
+It's more pretty much in detail
+
+20
+00:00:38,000 --> 00:00:40,000
+When I would show you the dashboard of Scala
+
+21
+00:00:40,000 --> 00:00:42,000
+and I would be connecting with you in a Google Meet
+
+22
+00:00:42,000 --> 00:00:44,000
+and at that time you will see what exactly
+
+23
+00:00:44,000 --> 00:00:46,000
+Scala will teach, what projects that you will work
+
+24
+00:00:46,000 --> 00:00:48,000
+what are the things that you will get involved
+
+25
+00:00:48,000 --> 00:00:50,000
+You will even see that
+
+26
+00:00:50,000 --> 00:00:52,000
+Because whatever you are seeing in the curriculum is just
+
+27
+00:00:52,000 --> 00:00:54,000
+10% of the curriculum that we actually do in the world
+
+28
+00:00:54,000 --> 00:00:56,000
+Okay
+
+29
+00:00:56,000 --> 00:00:58,000
+So 10% that I am showing you with you right now
+
+30
+00:00:58,000 --> 00:01:00,000
+That means that 90% that I am not
+
+31
+00:01:00,000 --> 00:01:02,000
+still have showed you in the curriculum
+
+32
+00:01:02,000 --> 00:01:04,000
+But actually
+
+33
+00:01:04,000 --> 00:01:06,000
+I see
+
+34
+00:01:06,000 --> 00:01:08,000
+there is no
+
+35
+00:01:08,000 --> 00:01:10,000
+curriculum fees mentioned
+
+36
+00:01:10,000 --> 00:01:12,000
+You will find the fees in FAQ
+
+37
+00:01:12,000 --> 00:01:14,000
+Frequently Asked Questions
+
+38
+00:01:14,000 --> 00:01:16,000
+Okay
+
+39
+00:01:16,000 --> 00:01:18,000
+I will share you that link
+
+40
+00:01:18,000 --> 00:01:20,000
+But the fees is something that I
+
+41
+00:01:20,000 --> 00:01:22,000
+can even tell you right now
+
+42
+00:01:22,000 --> 00:01:24,000
+The fees of Scala is exactly 369,000
+
+43
+00:01:24,000 --> 00:01:26,000
+That's the fees
+
+44
+00:01:26,000 --> 00:01:28,000
+But the person when you gave the test yesterday
+
+45
+00:01:28,000 --> 00:01:30,000
+That is the reason we got so much
+
+46
+00:01:30,000 --> 00:01:32,000
+motivated looking at the test report
+
+47
+00:01:32,000 --> 00:01:34,000
+that we reduced your fees, we gave you a scholarship
+
+48
+00:01:34,000 --> 00:01:36,000
+so your fees have actually come down to 3,14,000
+
+49
+00:01:36,000 --> 00:01:38,000
+314,000
+
+50
+00:01:38,000 --> 00:01:40,000
+It should be 3,24,000 but
+
+51
+00:01:40,000 --> 00:01:42,000
+314,000
+
+52
+00:01:42,000 --> 00:01:44,000
+Now if I have to ask you
+
+53
+00:01:44,000 --> 00:01:46,000
+For example, Avishkar
+
+54
+00:01:46,000 --> 00:01:48,000
+Let's say you are buying a home or let's say a car
+
+55
+00:01:48,000 --> 00:01:50,000
+that is costing you around 3,00,000
+
+56
+00:01:50,000 --> 00:01:52,000
+How much time you need to pay
+
+57
+00:01:52,000 --> 00:01:54,000
+to pay your fees of 3,00,000
+
+58
+00:01:54,000 --> 00:01:56,000
+Looking at all your current scenarios
+
+59
+00:01:56,000 --> 00:01:58,000
+and expenses, how much time will it take?
+
+60
+00:01:58,000 --> 00:02:00,000
+Practically every 10 years
+
+61
+00:02:00,000 --> 00:02:02,000
+Let's say it will
+
+62
+00:02:02,000 --> 00:02:04,000
+take you 10 years to pay 3,00,000
+
+63
+00:02:04,000 --> 00:02:06,000
+It means actually
+
+64
+00:02:06,000 --> 00:02:08,000
+manage all
+
+65
+00:02:08,000 --> 00:02:10,000
+resources and all
+
+66
+00:02:10,000 --> 00:02:12,000
+For example, with all your expenses
+
+67
+00:02:12,000 --> 00:02:14,000
+For example
+
+68
+00:02:14,000 --> 00:02:16,000
+Right now
+
+69
+00:02:16,000 --> 00:02:18,000
+3,00,000 do you understand? If you break it down
+
+70
+00:02:18,000 --> 00:02:20,000
+3,00,000 in 10 years that means every year you are saying
+
+71
+00:02:20,000 --> 00:02:22,000
+that you will be able to pay 30,000 only
+
+72
+00:02:22,000 --> 00:02:24,000
+Yes
+
+73
+00:02:24,000 --> 00:02:26,000
+Every year that means that is what you can manage
+
+74
+00:02:26,000 --> 00:02:28,000
+Right? Right
+
+75
+00:02:28,000 --> 00:02:30,000
+You do not have to use, there is no option that you pay
+
+76
+00:02:30,000 --> 00:02:32,000
+the fees in 10 years
+
+77
+00:02:32,000 --> 00:02:34,000
+You will be paying the fees of Scaler in next 5 years
+
+78
+00:02:34,000 --> 00:02:36,000
+Okay
+
+79
+00:02:36,000 --> 00:02:38,000
+How?
+
+80
+00:02:38,000 --> 00:02:40,000
+Because when you join Scaler
+
+81
+00:02:40,000 --> 00:02:42,000
+you only pay 20,000
+
+82
+00:02:42,000 --> 00:02:44,000
+That's it
+
+83
+00:02:44,000 --> 00:02:46,000
+Okay
+
+84
+00:02:46,000 --> 00:02:48,000
+The remaining fees is all converted into EMIs
+
+85
+00:02:48,000 --> 00:02:50,000
+And you can choose your EMI from 7k to 12k
+
+86
+00:02:50,000 --> 00:02:52,000
+That's how it works
+
+87
+00:02:52,000 --> 00:02:54,000
+Okay
+
+88
+00:02:54,000 --> 00:02:56,000
+Now, right now when you are making 10 lakh
+
+89
+00:02:56,000 --> 00:02:58,000
+Let's assume you are making 10 lakh
+
+90
+00:02:58,000 --> 00:03:00,000
+Okay
+
+91
+00:03:00,000 --> 00:03:02,000
+And you are making 10 lakh and there is no hike
+
+92
+00:03:02,000 --> 00:03:04,000
+in the next 5 years
+
+93
+00:03:04,000 --> 00:03:06,000
+Let's assume in a worst case situation
+
+94
+00:03:06,000 --> 00:03:08,000
+that you are making 10 lakh right now
+
+95
+00:03:08,000 --> 00:03:10,000
+10 lakh, 10 lakh, 10 lakh, 10 lakh for the next 5 years
+
+96
+00:03:10,000 --> 00:03:12,000
+What is your salary total you made in 50 years?
+
+97
+00:03:12,000 --> 00:03:14,000
+5 years?
+
+98
+00:03:14,000 --> 00:03:16,000
+50 lakh?
+
+99
+00:03:16,000 --> 00:03:18,000
+Yes
+
+100
+00:03:18,000 --> 00:03:20,000
+From that 50 lakh, 3 lakh is the fees of Scaler
+
+101
+00:03:20,000 --> 00:03:22,000
+Okay
+
+102
+00:03:22,000 --> 00:03:24,000
+But still
+
+103
+00:03:24,000 --> 00:03:26,000
+from your pocket
+
+104
+00:03:26,000 --> 00:03:28,000
+you will never pay 3 lakh to Scaler
+
+105
+00:03:28,000 --> 00:03:30,000
+Do you know from your pocket how much you end up paying
+
+106
+00:03:30,000 --> 00:03:32,000
+initially?
+
+107
+00:03:32,000 --> 00:03:34,000
+You will end up paying
+
+108
+00:03:34,000 --> 00:03:36,000
+only 1 lakh 10
+
+109
+00:03:36,000 --> 00:03:38,000
+Do you know how?
+
+110
+00:03:38,000 --> 00:03:40,000
+1 lakh 10
+
+111
+00:03:40,000 --> 00:03:42,000
+Because that is the data that me and Ankit were working yesterday as well
+
+112
+00:03:42,000 --> 00:03:44,000
+Because how much this guy could end up spending
+
+113
+00:03:44,000 --> 00:03:46,000
+They came across with the data that you will end up spending only 1 lakh 10
+
+114
+00:03:46,000 --> 00:03:48,000
+Do you know how 1 lakh 10?
+
+115
+00:03:48,000 --> 00:03:50,000
+Do the fees of Scaler is 3 lakh
+
+116
+00:03:50,000 --> 00:03:52,000
+But how would you spend only 1 lakh 10?
+
+117
+00:03:52,000 --> 00:03:54,000
+Any idea?
+
+118
+00:03:54,000 --> 00:03:56,000
+No idea
+
+119
+00:03:56,000 --> 00:03:58,000
+Because when we looked at the test report
+
+120
+00:03:58,000 --> 00:04:00,000
+we spoke with certain companies as well
+
+121
+00:04:00,000 --> 00:04:02,000
+And we got certain feedbacks
+
+122
+00:04:02,000 --> 00:04:04,000
+that at 3 years of experience how much they were offering
+
+123
+00:04:04,000 --> 00:04:06,000
+what is the package that they were ready to offer
+
+124
+00:04:06,000 --> 00:04:08,000
+Let's say it takes 3 years
+
+125
+00:04:08,000 --> 00:04:10,000
+to get the data
+
+126
+00:04:10,000 --> 00:04:12,000
+to the test report
+
+127
+00:04:12,000 --> 00:04:14,000
+Let's say it takes you
+
+128
+00:04:14,000 --> 00:04:16,000
+worst case, we have seen that data
+
+129
+00:04:16,000 --> 00:04:18,000
+and we have taken good, very good
+
+130
+00:04:18,000 --> 00:04:20,000
+average and worst
+
+131
+00:04:20,000 --> 00:04:22,000
+Now good average, very good I don't want to take that
+
+132
+00:04:22,000 --> 00:04:24,000
+I would always go with worst case scenarios
+
+133
+00:04:24,000 --> 00:04:26,000
+because I like to take that
+
+134
+00:04:26,000 --> 00:04:28,000
+Let's take a worst case scenario that it takes you
+
+135
+00:04:28,000 --> 00:04:30,000
+12 months for you to land up
+
+136
+00:04:30,000 --> 00:04:32,000
+into a company
+
+137
+00:04:32,000 --> 00:04:34,000
+12 months, July to July
+
+138
+00:04:36,000 --> 00:04:38,000
+And in 12 months you are landing
+
+139
+00:04:38,000 --> 00:04:40,000
+and you are completing every single thing in 12 months
+
+140
+00:04:40,000 --> 00:04:42,000
+Let's say after 12 months you get a job
+
+141
+00:04:42,000 --> 00:04:44,000
+and 12 months of EMI
+
+142
+00:04:44,000 --> 00:04:49,000
+you are paying 7000, 7000, 7000, 7000, 7000 for 12 months
+
+143
+00:04:49,000 --> 00:04:51,000
+What is the total now?
+
+144
+00:04:58,000 --> 00:05:00,000
+7 into 12 is how much?
+
+145
+00:05:00,000 --> 00:05:02,000
+Yes, it is nearly
+
+146
+00:05:02,000 --> 00:05:04,000
+84000
+
+147
+00:05:06,000 --> 00:05:08,000
+84000?
+
+148
+00:05:08,000 --> 00:05:10,000
+7000, 7000, 7000
+
+149
+00:05:10,000 --> 00:05:12,000
+you are paying it for 12 months
+
+150
+00:05:12,000 --> 00:05:14,000
+it will be 84000
+
+151
+00:05:14,000 --> 00:05:16,000
+correct?
+
+152
+00:05:16,000 --> 00:05:18,000
+correct?
+
+153
+00:05:18,000 --> 00:05:20,000
+20,000 is what you pay when you
+
+154
+00:05:20,000 --> 00:05:22,000
+join Scala, what's the total now?
+
+155
+00:05:24,000 --> 00:05:26,000
+It is nearly 1,00,000,000
+
+156
+00:05:26,000 --> 00:05:28,000
+1,00,000,000,000,000,000,000
+
+157
+00:05:28,000 --> 00:05:30,000
+correct?
+
+158
+00:05:30,000 --> 00:05:32,000
+Let's round it off, we get 1,00,000,000,000,000,000,000,000,000
+
+159
+00:05:32,000 --> 00:05:34,000
+Can we?
+
+160
+00:05:34,000 --> 00:05:36,000
+But at least after that
+
+161
+00:05:36,000 --> 00:05:38,000
+you would be working in the company that you wanted to work
+
+162
+00:05:40,000 --> 00:05:42,000
+the kind of project that you always wanted to do
+
+163
+00:05:42,000 --> 00:05:44,000
+and anywhere
+
+164
+00:05:44,000 --> 00:05:46,000
+anywhere when you will go to any
+
+165
+00:05:46,000 --> 00:05:48,000
+product based company, even if it's a tier 2 product based company
+
+166
+00:05:48,000 --> 00:05:50,000
+the worst case that you will make is
+
+167
+00:05:50,000 --> 00:05:52,000
+around 18 or 19 LP
+
+168
+00:05:52,000 --> 00:05:54,000
+or worst case even 20 LP
+
+169
+00:05:54,000 --> 00:05:56,000
+could be the case, because 3 years of experience you have
+
+170
+00:05:56,000 --> 00:05:58,000
+if you are working another 12 months
+
+171
+00:05:58,000 --> 00:06:00,000
+you will actually be almost 3 plus years of experience
+
+172
+00:06:00,000 --> 00:06:02,000
+almost 4
+
+173
+00:06:02,000 --> 00:06:04,000
+so somewhere you will be in that bracket of 20 LP
+
+174
+00:06:04,000 --> 00:06:06,000
+when you will be making yourself
+
+175
+00:06:06,000 --> 00:06:08,000
+skillful, you will become skillful
+
+176
+00:06:08,000 --> 00:06:10,000
+that means your salary will also
+
+177
+00:06:10,000 --> 00:06:12,000
+increase, right?
+
+178
+00:06:12,000 --> 00:06:14,000
+any company that you will land
+
+179
+00:06:14,000 --> 00:06:16,000
+that is the data that we came across
+
+180
+00:06:16,000 --> 00:06:18,000
+that even in the worst case that you will be sitting in a bracket of 20 LP
+
+181
+00:06:20,000 --> 00:06:22,000
+and when you sit in a bracket of 20 LP
+
+182
+00:06:22,000 --> 00:06:24,000
+you will always get a joining bonus
+
+183
+00:06:24,000 --> 00:06:26,000
+majority, majority of the company will give you a joining bonus
+
+184
+00:06:26,000 --> 00:06:28,000
+you know, product based company give joining bonus
+
+185
+00:06:28,000 --> 00:06:30,000
+are you aware about that?
+
+186
+00:06:30,000 --> 00:06:32,000
+yes, yes, yes
+
+187
+00:06:32,000 --> 00:06:34,000
+with that joining bonus you will easily clear off your EMI's in one single go
+
+188
+00:06:34,000 --> 00:06:36,000
+so basically
+
+189
+00:06:36,000 --> 00:06:38,000
+you are starting your career
+
+190
+00:06:38,000 --> 00:06:40,000
+and you will not be making 10 lakhs
+
+191
+00:06:40,000 --> 00:06:42,000
+for the next 5 years
+
+192
+00:06:42,000 --> 00:06:44,000
+next year from 10 LP you will be jumping to 20 LP
+
+193
+00:06:44,000 --> 00:06:46,000
+but forget every single thing
+
+194
+00:06:46,000 --> 00:06:48,000
+forget money, forget every single thing
+
+195
+00:06:48,000 --> 00:06:50,000
+you would become skillful
+
+196
+00:06:52,000 --> 00:06:54,000
+you would be able to do it
+
+197
+00:06:54,000 --> 00:06:56,000
+you would be able to do it
+
+198
+00:06:56,000 --> 00:06:58,000
+you would be able to do it
+
+199
+00:06:58,000 --> 00:07:00,000
+you would be able to do it
+
+200
+00:07:00,000 --> 00:07:02,000
+you would be able to do more complex problems
+
+201
+00:07:02,000 --> 00:07:04,000
+you would be able to know how to design product
+
+202
+00:07:04,000 --> 00:07:06,000
+you will be able to work on other many technologies
+
+203
+00:07:06,000 --> 00:07:08,000
+and build product end to end
+
+204
+00:07:08,000 --> 00:07:10,000
+because then
+
+205
+00:07:10,000 --> 00:07:12,000
+after one or two years
+
+206
+00:07:12,000 --> 00:07:14,000
+you will become a senior software developer
+
+207
+00:07:14,000 --> 00:07:16,000
+you can never run away from that, can you?
+
+208
+00:07:16,000 --> 00:07:18,000
+can you stop yourself
+
+209
+00:07:18,000 --> 00:07:20,000
+and tell yourself that
+
+210
+00:07:20,000 --> 00:07:22,000
+okay next year I will not become 4 years
+
+211
+00:07:22,000 --> 00:07:24,000
+can you do that?
+
+212
+00:07:24,000 --> 00:07:26,000
+you can't
+
+213
+00:07:26,000 --> 00:07:28,000
+you will become a senior software developer
+
+214
+00:07:28,000 --> 00:07:30,000
+whether you know technologies you do not know technology
+
+215
+00:07:30,000 --> 00:07:32,000
+but at that time you have to perform
+
+216
+00:07:36,000 --> 00:07:38,000
+that is how the fees of scaler works
+
+217
+00:07:40,000 --> 00:07:42,000
+I never wanted to discuss about the fees
+
+218
+00:07:42,000 --> 00:07:44,000
+because I never cared about you joining or not joining
+
+219
+00:07:44,000 --> 00:07:46,000
+what I cared about is
+
+220
+00:07:46,000 --> 00:07:48,000
+do you feel that scaler can help you out
+
+221
+00:07:50,000 --> 00:07:52,000
+that is what I want
+
+222
+00:07:52,000 --> 00:07:54,000
+means actually I read it
+
+223
+00:07:54,000 --> 00:07:56,000
+the
+
+224
+00:07:56,000 --> 00:07:58,000
+what
+
+225
+00:07:58,000 --> 00:08:00,000
+I am not
+
+226
+00:08:00,000 --> 00:08:02,000
+seeing any fees and all
+
+227
+00:08:02,000 --> 00:08:04,000
+that is why I am just asking
+
+228
+00:08:04,000 --> 00:08:06,000
+I told you because I wanted to be very upfront and honest
+
+229
+00:08:06,000 --> 00:08:08,000
+I know that
+
+230
+00:08:08,000 --> 00:08:10,000
+somewhere I know if you invest something in yourself
+
+231
+00:08:10,000 --> 00:08:12,000
+that will make the most out of it
+
+232
+00:08:12,000 --> 00:08:14,000
+I have so many references
+
+233
+00:08:14,000 --> 00:08:16,000
+that I can give you of people
+
+234
+00:08:16,000 --> 00:08:18,000
+you use LinkedIn by the way
+
+235
+00:08:18,000 --> 00:08:20,000
+yes
+
+236
+00:08:20,000 --> 00:08:22,000
+there is a guy on LinkedIn you will always come across
+
+237
+00:08:22,000 --> 00:08:24,000
+his name is Salik Saifi
+
+238
+00:08:24,000 --> 00:08:26,000
+there are two guys that I can even tell you
+
+239
+00:08:26,000 --> 00:08:28,000
+similarly Zerock's copy of your profile
+
+240
+00:08:28,000 --> 00:08:30,000
+Salik Saifi
+
+241
+00:08:30,000 --> 00:08:32,000
+and there is a guy named Ganesh Gupta
+
+242
+00:08:32,000 --> 00:08:34,000
+now Salik Saifi
+
+243
+00:08:34,000 --> 00:08:36,000
+he was having 2 plus years of experience
+
+244
+00:08:36,000 --> 00:08:38,000
+and he was working in
+
+245
+00:08:38,000 --> 00:08:40,000
+Tech Mahindra
+
+246
+00:08:40,000 --> 00:08:42,000
+a service based company
+
+247
+00:08:42,000 --> 00:08:44,000
+and he was earning 7 LPA
+
+248
+00:08:44,000 --> 00:08:46,000
+7 LPA was his CTC not fixed
+
+249
+00:08:46,000 --> 00:08:48,000
+his fixed was only 6 LPA
+
+250
+00:08:50,000 --> 00:08:52,000
+so I interviewed this guy
+
+251
+00:08:52,000 --> 00:08:54,000
+I know that he was not doing proper development work
+
+252
+00:08:54,000 --> 00:08:56,000
+and he was doing support job
+
+253
+00:08:56,000 --> 00:08:58,000
+not that much
+
+254
+00:08:58,000 --> 00:09:00,000
+then when we interviewed him out
+
+255
+00:09:00,000 --> 00:09:02,000
+he did give his test we saw his
+
+256
+00:09:02,000 --> 00:09:04,000
+potential that he has potential
+
+257
+00:09:04,000 --> 00:09:06,000
+then he joined
+
+258
+00:09:06,000 --> 00:09:08,000
+Scala because he realized that something is not doing good
+
+259
+00:09:10,000 --> 00:09:12,000
+he got an offer letter in 8 months
+
+260
+00:09:12,000 --> 00:09:14,000
+from Airtel at 24 LPA
+
+261
+00:09:16,000 --> 00:09:18,000
+but just a question
+
+262
+00:09:18,000 --> 00:09:20,000
+in a curriculum
+
+263
+00:09:20,000 --> 00:09:22,000
+let's see the 10, 12
+
+264
+00:09:22,000 --> 00:09:24,000
+and 14
+
+265
+00:09:24,000 --> 00:09:26,000
+10, 12 is the month
+
+266
+00:09:26,000 --> 00:09:28,000
+yeah it will take you 10 to 12
+
+267
+00:09:28,000 --> 00:09:30,000
+months the journey is there
+
+268
+00:09:32,000 --> 00:09:34,000
+because we are not here
+
+269
+00:09:34,000 --> 00:09:36,000
+to sort and we are not here
+
+270
+00:09:36,000 --> 00:09:38,000
+just to help you getting into companies product
+
+271
+00:09:38,000 --> 00:09:40,000
+base that's not the goal
+
+272
+00:09:40,000 --> 00:09:42,000
+we want to sort your next 5 years of your career
+
+273
+00:09:42,000 --> 00:09:44,000
+development can never
+
+274
+00:09:44,000 --> 00:09:46,000
+be learned in 6 months, 5 months, 4 months
+
+275
+00:09:46,000 --> 00:09:48,000
+you need time to learn because you are a
+
+276
+00:09:48,000 --> 00:09:50,000
+working guy, you are working on your weekends as well
+
+277
+00:09:50,000 --> 00:09:52,000
+so we need to see every single thing
+
+278
+00:09:52,000 --> 00:09:54,000
+right
+
+279
+00:09:54,000 --> 00:09:56,000
+more importantly
+
+280
+00:09:56,000 --> 00:09:58,000
+14 months of people
+
+281
+00:09:58,000 --> 00:10:00,000
+there is a curriculum where people does not know even coding
+
+282
+00:10:00,000 --> 00:10:02,000
+but I am sure you know coding
+
+283
+00:10:04,000 --> 00:10:06,000
+you have done some
+
+284
+00:10:06,000 --> 00:10:08,000
+development work so 14 months are
+
+285
+00:10:08,000 --> 00:10:10,000
+for beginner people, beginner means the people
+
+286
+00:10:10,000 --> 00:10:12,000
+who does not know coding at all
+
+287
+00:10:12,000 --> 00:10:14,000
+you are not in that category looking at your test report
+
+288
+00:10:14,000 --> 00:10:16,000
+you are in the category of intermediate
+
+289
+00:10:16,000 --> 00:10:18,000
+that's your path
+
+290
+00:10:18,000 --> 00:10:20,000
+that is what the ideal path is for you
+
+291
+00:10:20,000 --> 00:10:22,000
+nothing left, nothing right
+
+292
+00:10:22,000 --> 00:10:24,000
+so worst case even if we are taking
+
+293
+00:10:24,000 --> 00:10:26,000
+worst case we are taking a date of 12 months
+
+294
+00:10:26,000 --> 00:10:28,000
+but it's not that we will be helping you
+
+295
+00:10:28,000 --> 00:10:30,000
+with job opportunities after 12 months
+
+296
+00:10:30,000 --> 00:10:32,000
+no
+
+297
+00:10:32,000 --> 00:10:34,000
+as soon as your DSA and LLD is over
+
+298
+00:10:34,000 --> 00:10:36,000
+you will start applying for jobs
+
+299
+00:10:36,000 --> 00:10:38,000
+and you will be cracking like anything
+
+300
+00:10:38,000 --> 00:10:40,000
+because you are still
+
+301
+00:10:40,000 --> 00:10:42,000
+in the middle of the job
+
+302
+00:10:42,000 --> 00:10:44,000
+because till now
+
+303
+00:10:44,000 --> 00:10:46,000
+I have not shown you
+
+304
+00:10:46,000 --> 00:10:48,000
+the dashboard of scalar
+
+305
+00:10:48,000 --> 00:10:50,000
+if I show you the dashboard of scalar
+
+306
+00:10:50,000 --> 00:10:52,000
+I can show you 3 years of
+
+307
+00:10:52,000 --> 00:10:54,000
+experience people sitting in a
+
+308
+00:10:54,000 --> 00:10:56,000
+bracket of 25, 20, 26,
+
+309
+00:10:56,000 --> 00:10:58,000
+27 LPA that I have got placed
+
+310
+00:10:58,000 --> 00:11:00,000
+yesterday, day before yesterday
+
+311
+00:11:00,000 --> 00:11:02,000
+one week, one week before
+
+312
+00:11:02,000 --> 00:11:04,000
+I can show you that data as well
+
+313
+00:11:06,000 --> 00:11:08,000
+but I don't want to show you that right now
+
+314
+00:11:08,000 --> 00:11:10,000
+because you have not done your research
+
+315
+00:11:10,000 --> 00:11:12,000
+I am happy the first question you asked today
+
+316
+00:11:12,000 --> 00:11:14,000
+that is what I wanted to see in you
+
+317
+00:11:14,000 --> 00:11:16,000
+that are you asking me questions
+
+318
+00:11:16,000 --> 00:11:18,000
+are you asking me doubts
+
+319
+00:11:18,000 --> 00:11:20,000
+because if you ask me questions
+
+320
+00:11:20,000 --> 00:11:22,000
+if you ask me doubts that mean you are doing your research
+
+321
+00:11:22,000 --> 00:11:24,000
+and you are coming up with questions
+
+322
+00:11:24,000 --> 00:11:26,000
+that is what I love about people
+
+323
+00:11:26,000 --> 00:11:28,000
+when they question
+
+324
+00:11:30,000 --> 00:11:32,000
+did you
+
+325
+00:11:32,000 --> 00:11:34,000
+had your lunch by the way
+
+326
+00:11:36,000 --> 00:11:38,000
+please go have your lunch
+
+327
+00:11:38,000 --> 00:11:40,000
+and do watch the videos that I have shared with you
+
+328
+00:11:40,000 --> 00:11:42,000
+trust me
+
+329
+00:11:42,000 --> 00:11:44,000
+maybe you might ignore those videos
+
+330
+00:11:44,000 --> 00:11:46,000
+you will say no I don't want to watch it
+
+331
+00:11:46,000 --> 00:11:48,000
+but trust me watch them because I have shared you in that order
+
+332
+00:11:48,000 --> 00:11:50,000
+where that will help you to give you clarity
+
+333
+00:11:50,000 --> 00:11:52,000
+that why learning, what stage of learning is important
+
+334
+00:11:52,000 --> 00:11:54,000
+when you be at this year of experience
+
+335
+00:11:54,000 --> 00:11:56,000
+what you should do, what you should not do
+
+336
+00:11:56,000 --> 00:11:58,000
+so I have shared you those videos
+
+337
+00:11:58,000 --> 00:12:00,000
+trust me if you watch them out you will
+
+338
+00:12:00,000 --> 00:12:02,000
+learn a lot
+
+339
+00:12:02,000 --> 00:12:04,000
+yes sure
+
+340
+00:12:04,000 --> 00:12:06,000
+watch them
+
+341
+00:12:06,000 --> 00:12:08,000
+so we are connected 4pm is that ok
+
+342
+00:12:08,000 --> 00:12:10,000
+yes
+
+343
+00:12:10,000 --> 00:12:12,000
+sure man
+
+344
+00:12:12,000 --> 00:12:14,000
+we are connected 4pm I am sure before 4pm you will be able to
+
+345
+00:12:14,000 --> 00:12:16,000
+do your research more
+
+346
+00:12:16,000 --> 00:12:18,000
+I am sure before 4pm you will
+
+347
+00:12:18,000 --> 00:12:20,000
+be even able to watch those videos right
+
+348
+00:12:20,000 --> 00:12:22,000
+right
+
+349
+00:12:22,000 --> 00:12:24,000
+but how do you feel till now what do you feel
+
+350
+00:12:24,000 --> 00:12:26,000
+do you feel that Scader can help you out
+
+351
+00:12:26,000 --> 00:12:28,000
+yes actually
+
+352
+00:12:28,000 --> 00:12:30,000
+it helps a lot
+
+353
+00:12:30,000 --> 00:12:32,000
+but I am little scared about
+
+354
+00:12:32,000 --> 00:12:34,000
+the course curriculum
+
+355
+00:12:34,000 --> 00:12:36,000
+fees and all
+
+356
+00:12:36,000 --> 00:12:38,000
+ok what is scaring you in the
+
+357
+00:12:38,000 --> 00:12:40,000
+course fees tell me
+
+358
+00:12:40,000 --> 00:12:42,000
+because I am currently now
+
+359
+00:12:42,000 --> 00:12:44,000
+with some EMI's
+
+360
+00:12:44,000 --> 00:12:46,000
+and all that's why I am
+
+361
+00:12:46,000 --> 00:12:48,000
+little scared about the
+
+362
+00:12:48,000 --> 00:12:50,000
+curriculum fees and all
+
+363
+00:12:50,000 --> 00:12:52,000
+ok
+
+364
+00:12:52,000 --> 00:12:54,000
+ask yourself is managing
+
+365
+00:12:54,000 --> 00:12:56,000
+7000 EMI for your learning
+
+366
+00:12:56,000 --> 00:12:58,000
+is very difficult when you are
+
+367
+00:12:58,000 --> 00:13:00,000
+earning 70k at least a month
+
+368
+00:13:00,000 --> 00:13:02,000
+I am sure enhanced salary is 70k or is it
+
+369
+00:13:02,000 --> 00:13:04,000
+less than that
+
+370
+00:13:04,000 --> 00:13:06,000
+somewhere 60k
+
+371
+00:13:06,000 --> 00:13:08,000
+yes
+
+372
+00:13:08,000 --> 00:13:10,000
+ask yourself is investing
+
+373
+00:13:10,000 --> 00:13:12,000
+12% of your monthly
+
+374
+00:13:12,000 --> 00:13:14,000
+income if it would be 70k
+
+375
+00:13:14,000 --> 00:13:16,000
+then it means 10% if it is 60k
+
+376
+00:13:16,000 --> 00:13:18,000
+that's around 12%
+
+377
+00:13:18,000 --> 00:13:20,000
+if 12%
+
+378
+00:13:20,000 --> 00:13:22,000
+of your monthly income
+
+379
+00:13:22,000 --> 00:13:24,000
+is it that difficult to invest
+
+380
+00:13:24,000 --> 00:13:26,000
+if I break it down that means
+
+381
+00:13:26,000 --> 00:13:28,000
+everyday you are earning 2000 rupees per day
+
+382
+00:13:28,000 --> 00:13:30,000
+correct
+
+383
+00:13:30,000 --> 00:13:32,000
+correct
+
+384
+00:13:32,000 --> 00:13:34,000
+if you are earning 2000 rupees every day
+
+385
+00:13:34,000 --> 00:13:36,000
+maybe 3 days or 4 days
+
+386
+00:13:36,000 --> 00:13:38,000
+of your salary
+
+387
+00:13:38,000 --> 00:13:40,000
+to invest in your career it is very difficult
+
+388
+00:13:42,000 --> 00:13:44,000
+ask yourself is managing
+
+389
+00:13:44,000 --> 00:13:46,000
+7000 EMI for your career
+
+390
+00:13:46,000 --> 00:13:48,000
+at least let's say for 10 months is it very
+
+391
+00:13:48,000 --> 00:13:50,000
+difficult
+
+392
+00:13:50,000 --> 00:13:52,000
+no right
+
+393
+00:13:52,000 --> 00:13:54,000
+that's how the fees works
+
+394
+00:13:54,000 --> 00:13:56,000
+yes
+
+395
+00:13:56,000 --> 00:13:58,000
+that is how the fees works
+
+396
+00:13:58,000 --> 00:14:00,000
+there is nothing
+
+397
+00:14:00,000 --> 00:14:02,000
+if I show you people which are there from Pune
+
+398
+00:14:02,000 --> 00:14:04,000
+have you ever been to Banewadi high street
+
+399
+00:14:06,000 --> 00:14:08,000
+I know but I am not
+
+400
+00:14:08,000 --> 00:14:10,000
+visited
+
+401
+00:14:10,000 --> 00:14:12,000
+there is a guy who stays there
+
+402
+00:14:12,000 --> 00:14:14,000
+in Balewadi high street
+
+403
+00:14:14,000 --> 00:14:16,000
+his name is Ajay Gaikwad
+
+404
+00:14:16,000 --> 00:14:18,000
+he is a 23 years of experience guy
+
+405
+00:14:18,000 --> 00:14:20,000
+senior solution architect of
+
+406
+00:14:20,000 --> 00:14:22,000
+HCL
+
+407
+00:14:22,000 --> 00:14:24,000
+he is learning at scale
+
+408
+00:14:24,000 --> 00:14:26,000
+if you go to again Banewadi
+
+409
+00:14:26,000 --> 00:14:28,000
+there is a company named VMware
+
+410
+00:14:28,000 --> 00:14:30,000
+what about VMware
+
+411
+00:14:30,000 --> 00:14:32,000
+there is a guy sitting at 12 years
+
+412
+00:14:32,000 --> 00:14:34,000
+of experience his name is
+
+413
+00:14:34,000 --> 00:14:36,000
+Avijit Kale
+
+414
+00:14:36,000 --> 00:14:38,000
+he is an architect at VMware
+
+415
+00:14:38,000 --> 00:14:40,000
+he is learning at scale
+
+416
+00:14:40,000 --> 00:14:42,000
+I can give you another guy
+
+417
+00:14:42,000 --> 00:14:44,000
+whose salary if you hear
+
+418
+00:14:44,000 --> 00:14:46,000
+about his salary is just half less
+
+419
+00:14:46,000 --> 00:14:48,000
+than half than yours
+
+420
+00:14:48,000 --> 00:14:50,000
+he is earning 3.8 working in L&T
+
+421
+00:14:50,000 --> 00:14:52,000
+salary 2.8 years of experience guy
+
+422
+00:14:52,000 --> 00:14:54,000
+his name is Nayan Tiwari
+
+423
+00:14:54,000 --> 00:14:56,000
+he is working in Bhoomkar Chowk
+
+424
+00:14:56,000 --> 00:14:58,000
+he stays there in a PG
+
+425
+00:15:00,000 --> 00:15:02,000
+and his salary is 3.8 LPA
+
+426
+00:15:02,000 --> 00:15:04,000
+in hand somewhere
+
+427
+00:15:04,000 --> 00:15:06,000
+he receives around 25 or 30
+
+428
+00:15:06,000 --> 00:15:08,000
+maximum he is learning
+
+429
+00:15:08,000 --> 00:15:10,000
+at scale there are so many people
+
+430
+00:15:10,000 --> 00:15:12,000
+from Pune so and so many
+
+431
+00:15:12,000 --> 00:15:14,000
+people that I know from Pune that are
+
+432
+00:15:14,000 --> 00:15:16,000
+learning at scale
+
+433
+00:15:16,000 --> 00:15:18,000
+because you never
+
+434
+00:15:18,000 --> 00:15:20,000
+had to pay this fees ever in one go
+
+435
+00:15:20,000 --> 00:15:22,000
+never
+
+436
+00:15:22,000 --> 00:15:24,000
+because when you heard the fees 3 lakh
+
+437
+00:15:24,000 --> 00:15:26,000
+I am sure you got scared
+
+438
+00:15:26,000 --> 00:15:28,000
+Avishka that oh my salary
+
+439
+00:15:28,000 --> 00:15:30,000
+is 10 lakh how would I manage that
+
+440
+00:15:30,000 --> 00:15:32,000
+right you have home loan
+
+441
+00:15:32,000 --> 00:15:34,000
+this and that do you think if your
+
+442
+00:15:34,000 --> 00:15:36,000
+home loan is for 20 years
+
+443
+00:15:36,000 --> 00:15:38,000
+do you think that you will pay for 20 years
+
+444
+00:15:42,000 --> 00:15:44,000
+you will try to wrap it in 15
+
+445
+00:15:44,000 --> 00:15:46,000
+years right your home loan
+
+446
+00:15:48,000 --> 00:15:50,000
+would you be paying 7
+
+447
+00:15:50,000 --> 00:15:52,000
+for 20 years or would you try to
+
+448
+00:15:52,000 --> 00:15:54,000
+close it up as soon as possible
+
+449
+00:15:54,000 --> 00:15:56,000
+because then you don't have to pay extra
+
+450
+00:15:56,000 --> 00:15:58,000
+right
+
+451
+00:15:58,000 --> 00:16:00,000
+the same with the fees of scaler works
+
+452
+00:16:00,000 --> 00:16:02,000
+nobody pays fees ever in one go
+
+453
+00:16:02,000 --> 00:16:04,000
+when they get the right job then they clear the EMI off
+
+454
+00:16:04,000 --> 00:16:06,000
+even in the worst case
+
+455
+00:16:06,000 --> 00:16:08,000
+let's assume the worst case
+
+456
+00:16:08,000 --> 00:16:10,000
+what will happen that even at
+
+457
+00:16:10,000 --> 00:16:12,000
+3 year of experience you will make nothing short of
+
+458
+00:16:12,000 --> 00:16:14,000
+at least at least worst case
+
+459
+00:16:14,000 --> 00:16:16,000
+18 LPA or 19 LPA
+
+460
+00:16:16,000 --> 00:16:18,000
+when you would be sitting in a bracket
+
+461
+00:16:18,000 --> 00:16:20,000
+of 18 or 19 LPA
+
+462
+00:16:20,000 --> 00:16:22,000
+you can easily clear off your EMI
+
+463
+00:16:22,000 --> 00:16:24,000
+and maybe if you don't want to give you a
+
+464
+00:16:24,000 --> 00:16:26,000
+joining bonus maybe you can easily clear it off
+
+465
+00:16:26,000 --> 00:16:28,000
+1, 2 or 3 months
+
+466
+00:16:28,000 --> 00:16:30,000
+right
+
+467
+00:16:30,000 --> 00:16:32,000
+that's how the fees are
+
+468
+00:16:32,000 --> 00:16:34,000
+just ok
+
+469
+00:16:34,000 --> 00:16:36,000
+just when it means
+
+470
+00:16:36,000 --> 00:16:38,000
+I need to
+
+471
+00:16:38,000 --> 00:16:40,000
+some research on
+
+472
+00:16:40,000 --> 00:16:42,000
+the
+
+473
+00:16:42,000 --> 00:16:44,000
+you give the videos and all
+
+474
+00:16:44,000 --> 00:16:46,000
+yes that's the reason because you have not done your research
+
+475
+00:16:46,000 --> 00:16:48,000
+the minute you will
+
+476
+00:16:48,000 --> 00:16:50,000
+do your research you will be like that
+
+477
+00:16:50,000 --> 00:16:52,000
+this is the fees that if they are charging to make my career
+
+478
+00:16:52,000 --> 00:16:54,000
+better you would be the
+
+479
+00:16:54,000 --> 00:16:56,000
+first person who will be like that I want to make my career
+
+480
+00:16:56,000 --> 00:16:58,000
+better man forget left right
+
+481
+00:17:00,000 --> 00:17:02,000
+to make 18 LPA
+
+482
+00:17:02,000 --> 00:17:04,000
+even in your own company
+
+483
+00:17:04,000 --> 00:17:06,000
+you need to work at least 3 years
+
+484
+00:17:06,000 --> 00:17:08,000
+you have to work 3 years
+
+485
+00:17:08,000 --> 00:17:10,000
+this 18 LPA
+
+486
+00:17:10,000 --> 00:17:12,000
+worst case I am not even saying
+
+487
+00:17:12,000 --> 00:17:14,000
+that you will work very hard
+
+488
+00:17:14,000 --> 00:17:16,000
+I am saying worst case 12 months
+
+489
+00:17:16,000 --> 00:17:18,000
+I know that you will work hard because you will get a job in
+
+490
+00:17:18,000 --> 00:17:20,000
+9 or 10 months itself
+
+491
+00:17:20,000 --> 00:17:22,000
+but I am still saying worst case 12 months
+
+492
+00:17:22,000 --> 00:17:24,000
+you will be making that 18 or 19 LPA
+
+493
+00:17:24,000 --> 00:17:26,000
+and why you would take only one
+
+494
+00:17:26,000 --> 00:17:28,000
+off a letter
+
+495
+00:17:28,000 --> 00:17:30,000
+there is a guy I know him so well his name is Ganesh
+
+496
+00:17:30,000 --> 00:17:32,000
+Gudda 3 years of experience
+
+497
+00:17:32,000 --> 00:17:34,000
+he was working in Infosys and his salary
+
+498
+00:17:34,000 --> 00:17:36,000
+was only 5 LPA
+
+499
+00:17:36,000 --> 00:17:38,000
+5
+
+500
+00:17:38,000 --> 00:17:40,000
+he joined Scalop and the learning that he got
+
+501
+00:17:40,000 --> 00:17:42,000
+that in 9 months he got into Amazon
+
+502
+00:17:42,000 --> 00:17:44,000
+and he is still getting a 29 LPA
+
+503
+00:18:04,000 --> 00:18:06,000
+your voice is cracking up
+
+504
+00:18:06,000 --> 00:18:08,000
+can you please repeat it again
+
+505
+00:18:08,000 --> 00:18:10,000
+sorry
+
+506
+00:18:10,000 --> 00:18:12,000
+just a minute
+
+507
+00:18:12,000 --> 00:18:14,000
+it is possible
+
+508
+00:18:14,000 --> 00:18:16,000
+that if
+
+509
+00:18:16,000 --> 00:18:18,000
+the
+
+510
+00:18:18,000 --> 00:18:20,000
+appear the curriculum
+
+511
+00:18:20,000 --> 00:18:22,000
+and complete it my own
+
+512
+00:18:22,000 --> 00:18:24,000
+speed consider it
+
+513
+00:18:24,000 --> 00:18:26,000
+means need to
+
+514
+00:18:26,000 --> 00:18:28,000
+speed up myself
+
+515
+00:18:28,000 --> 00:18:30,000
+it can be
+
+516
+00:18:30,000 --> 00:18:32,000
+possible to join
+
+517
+00:18:32,000 --> 00:18:34,000
+the company like
+
+518
+00:18:34,000 --> 00:18:36,000
+the prominent invest company in the next
+
+519
+00:18:36,000 --> 00:18:38,000
+8 to 9 months
+
+520
+00:18:38,000 --> 00:18:40,000
+see our learning
+
+521
+00:18:40,000 --> 00:18:42,000
+you are talking about let's say you join Scalop
+
+522
+00:18:42,000 --> 00:18:44,000
+and you try to speed up the learning and you try to finish
+
+523
+00:18:44,000 --> 00:18:46,000
+it up in 8 or 9 months and get a job
+
+524
+00:18:46,000 --> 00:18:48,000
+you are saying that
+
+525
+00:18:48,000 --> 00:18:50,000
+yes that is
+
+526
+00:18:50,000 --> 00:18:52,000
+the scenario
+
+527
+00:18:52,000 --> 00:18:54,000
+see the way of learning of Scalop
+
+528
+00:18:54,000 --> 00:18:56,000
+will go in that way but your job
+
+529
+00:18:56,000 --> 00:18:58,000
+opportunities will start after 7 months itself
+
+530
+00:18:58,000 --> 00:19:00,000
+I will tell you how
+
+531
+00:19:00,000 --> 00:19:02,000
+because when you
+
+532
+00:19:02,000 --> 00:19:04,000
+do you know how a product based company interviews work
+
+533
+00:19:04,000 --> 00:19:06,000
+in service based company
+
+534
+00:19:06,000 --> 00:19:08,000
+they will take 1 or 2 rounds of interview
+
+535
+00:19:08,000 --> 00:19:10,000
+maybe the same day or maybe 1 or 2
+
+536
+00:19:10,000 --> 00:19:12,000
+or 2 days after
+
+537
+00:19:12,000 --> 00:19:14,000
+in product based company they don't take interview like this
+
+538
+00:19:14,000 --> 00:19:16,000
+they will take your first round of interview today
+
+539
+00:19:16,000 --> 00:19:18,000
+then they will ask you
+
+540
+00:19:18,000 --> 00:19:20,000
+that when is the
+
+541
+00:19:20,000 --> 00:19:22,000
+comfortable time that you have to schedule the
+
+542
+00:19:22,000 --> 00:19:24,000
+next round of interview next week
+
+543
+00:19:24,000 --> 00:19:26,000
+they will ask you like this
+
+544
+00:19:26,000 --> 00:19:28,000
+so generally
+
+545
+00:19:28,000 --> 00:19:30,000
+when they take the first round of DSA
+
+546
+00:19:30,000 --> 00:19:32,000
+sometimes people say that ok can we schedule this week
+
+547
+00:19:32,000 --> 00:19:34,000
+it's up to you
+
+548
+00:19:34,000 --> 00:19:36,000
+when you want to schedule it up
+
+549
+00:19:36,000 --> 00:19:38,000
+because product based company never takes
+
+550
+00:19:38,000 --> 00:19:40,000
+interviews in one go because they know
+
+551
+00:19:40,000 --> 00:19:42,000
+they tell you that ok the next topic
+
+552
+00:19:42,000 --> 00:19:44,000
+the next interview we would be evaluating you
+
+553
+00:19:44,000 --> 00:19:46,000
+and this factors you take your time to prepare
+
+554
+00:19:46,000 --> 00:19:48,000
+that is how
+
+555
+00:19:48,000 --> 00:19:50,000
+interview goes
+
+556
+00:19:50,000 --> 00:19:52,000
+and why and it's not at Scalar that
+
+557
+00:19:52,000 --> 00:19:54,000
+oh after the Scalar curriculum is over
+
+558
+00:19:54,000 --> 00:19:56,000
+then only you will get jobs no
+
+559
+00:19:56,000 --> 00:19:58,000
+while your DSA is over
+
+560
+00:19:58,000 --> 00:20:00,000
+as soon as your DSA is over you will start applying for jobs
+
+561
+00:20:02,000 --> 00:20:04,000
+the 12 months that we are taking
+
+562
+00:20:04,000 --> 00:20:06,000
+the 12 months is
+
+563
+00:20:06,000 --> 00:20:08,000
+within this 12 months you would be upskilling yourself
+
+564
+00:20:08,000 --> 00:20:10,000
+and within this 12 months you would be moving to
+
+565
+00:20:10,000 --> 00:20:12,000
+a product based company
+
+566
+00:20:12,000 --> 00:20:14,000
+ok but it is
+
+567
+00:20:14,000 --> 00:20:16,000
+it can be possible to switch from
+
+568
+00:20:16,000 --> 00:20:18,000
+means I am currently
+
+569
+00:20:18,000 --> 00:20:20,000
+as a work as a
+
+570
+00:20:20,000 --> 00:20:22,000
+python developer and some other
+
+571
+00:20:22,000 --> 00:20:24,000
+frameworks yes
+
+572
+00:20:24,000 --> 00:20:26,000
+can be possible to switch any other
+
+573
+00:20:26,000 --> 00:20:28,000
+absolutely what is python
+
+574
+00:20:28,000 --> 00:20:30,000
+what is python according to you
+
+575
+00:20:30,000 --> 00:20:32,000
+python is a programming language
+
+576
+00:20:32,000 --> 00:20:34,000
+it's a programming language
+
+577
+00:20:34,000 --> 00:20:36,000
+company does not hire you for programming
+
+578
+00:20:36,000 --> 00:20:38,000
+language even if you today know our language
+
+579
+00:20:38,000 --> 00:20:40,000
+but if your problem solving
+
+580
+00:20:40,000 --> 00:20:42,000
+ability is strong that is what they care
+
+581
+00:20:44,000 --> 00:20:46,000
+company does not see whether
+
+582
+00:20:46,000 --> 00:20:48,000
+you know python or you are java
+
+583
+00:20:48,000 --> 00:20:50,000
+they will give you a question statement
+
+584
+00:20:50,000 --> 00:20:52,000
+you solve whatever language you are comfortable
+
+585
+00:20:52,000 --> 00:20:54,000
+for example
+
+586
+00:20:54,000 --> 00:20:56,000
+when you will go for an interview round in amazon
+
+587
+00:20:56,000 --> 00:20:58,000
+they don't see what language you see
+
+588
+00:20:58,000 --> 00:21:00,000
+use whatever you are comfortable
+
+589
+00:21:00,000 --> 00:21:02,000
+scala, swif, kotlin
+
+590
+00:21:02,000 --> 00:21:04,000
+you use they don't care even that
+
+591
+00:21:04,000 --> 00:21:06,000
+this is a problem statement solve it however you are able to solve it
+
+592
+00:21:06,000 --> 00:21:08,000
+but the solution should be
+
+593
+00:21:08,000 --> 00:21:10,000
+optimized that is what they see
+
+594
+00:21:10,000 --> 00:21:12,000
+that is the reason
+
+595
+00:21:12,000 --> 00:21:14,000
+when we teach you we teach you in such a way
+
+596
+00:21:14,000 --> 00:21:16,000
+that today you know python
+
+597
+00:21:16,000 --> 00:21:18,000
+but someday if you want to even shift to java
+
+598
+00:21:18,000 --> 00:21:20,000
+you want to learn java from skilla we will teach you that
+
+599
+00:21:20,000 --> 00:21:22,000
+but someday if you want to change into java
+
+600
+00:21:22,000 --> 00:21:24,000
+you will be able to solve problems using javas
+
+601
+00:21:24,000 --> 00:21:26,000
+because we clear your concept so well
+
+602
+00:21:26,000 --> 00:21:28,000
+that after 10 months
+
+603
+00:21:28,000 --> 00:21:30,000
+or even after 5 years
+
+604
+00:21:30,000 --> 00:21:32,000
+you want to switch to c
+
+605
+00:21:32,000 --> 00:21:34,000
+you will be able to shift to c
+
+606
+00:21:34,000 --> 00:21:36,000
+and you will be able to solve problems
+
+607
+00:21:38,000 --> 00:21:40,000
+my goal is not here
+
+608
+00:21:40,000 --> 00:21:42,000
+to make sure that okay
+
+609
+00:21:42,000 --> 00:21:44,000
+avishkar is here sitting at 10 lp
+
+610
+00:21:44,000 --> 00:21:46,000
+next year he should sit at around 20 lp
+
+611
+00:21:46,000 --> 00:21:48,000
+i know he will make 20 lp
+
+612
+00:21:48,000 --> 00:21:50,000
+but how would he make 20 lp
+
+613
+00:21:50,000 --> 00:21:52,000
+when he becomes skillful
+
+614
+00:21:52,000 --> 00:21:54,000
+and see cracking an interview
+
+615
+00:21:54,000 --> 00:21:56,000
+is not the important thing remember this
+
+616
+00:21:56,000 --> 00:21:58,000
+avishkar you have cracked
+
+617
+00:21:58,000 --> 00:22:00,000
+interview this company that's why you are performing
+
+618
+00:22:00,000 --> 00:22:02,000
+maybe you will crack another company interview and you will maybe
+
+619
+00:22:02,000 --> 00:22:04,000
+you will switch but the problem is
+
+620
+00:22:04,000 --> 00:22:06,000
+that whichever company you go you should be able
+
+621
+00:22:06,000 --> 00:22:08,000
+to perform there you should
+
+622
+00:22:08,000 --> 00:22:10,000
+not struggle again i tell
+
+623
+00:22:10,000 --> 00:22:12,000
+people that maybe you will crack google interview
+
+624
+00:22:12,000 --> 00:22:14,000
+i am telling you google interview is not that very
+
+625
+00:22:14,000 --> 00:22:16,000
+difficult when they will interview you out with the
+
+626
+00:22:16,000 --> 00:22:18,000
+learning that you will get at skilla you may even
+
+627
+00:22:18,000 --> 00:22:20,000
+crack google interview but the
+
+628
+00:22:20,000 --> 00:22:22,000
+problem is not cracking google interview the problem
+
+629
+00:22:22,000 --> 00:22:24,000
+is that that you should be able to perform
+
+630
+00:22:24,000 --> 00:22:26,000
+in google
+
+631
+00:22:26,000 --> 00:22:28,000
+i told you again that today i will
+
+632
+00:22:28,000 --> 00:22:30,000
+get you referred in google or maybe
+
+633
+00:22:30,000 --> 00:22:32,000
+in oracle as well
+
+634
+00:22:32,000 --> 00:22:34,000
+maybe my friend that i was
+
+635
+00:22:34,000 --> 00:22:36,000
+there learning at skilla
+
+636
+00:22:36,000 --> 00:22:38,000
+that will sit with you and help you even to crack oracle
+
+637
+00:22:38,000 --> 00:22:40,000
+interview maybe you will
+
+638
+00:22:40,000 --> 00:22:42,000
+crack it up but when you will go
+
+639
+00:22:42,000 --> 00:22:44,000
+into the company i mean you will get your first day of your
+
+640
+00:22:44,000 --> 00:22:46,000
+task or maybe one month or four or five months
+
+641
+00:22:46,000 --> 00:22:48,000
+of task at that time neither i will come
+
+642
+00:22:48,000 --> 00:22:50,000
+and work for you neither my friends will come and do
+
+643
+00:22:50,000 --> 00:22:52,000
+your work it has to be you you have
+
+644
+00:22:52,000 --> 00:22:54,000
+to do the work and that is
+
+645
+00:22:54,000 --> 00:22:56,000
+why i want to make you do it
+
+646
+00:22:56,000 --> 00:22:58,000
+because i know in the next two years
+
+647
+00:22:58,000 --> 00:23:00,000
+you will become a senior software developer because you
+
+648
+00:23:00,000 --> 00:23:02,000
+cannot control that
+
+649
+00:23:02,000 --> 00:23:04,000
+i need to make you ready for that
+
+650
+00:23:04,000 --> 00:23:06,000
+after becoming a senior software
+
+651
+00:23:06,000 --> 00:23:08,000
+developer it does not mean that your career is over
+
+652
+00:23:08,000 --> 00:23:10,000
+then you will also
+
+653
+00:23:10,000 --> 00:23:12,000
+become a tech lead after some years
+
+654
+00:23:12,000 --> 00:23:14,000
+right
+
+655
+00:23:14,000 --> 00:23:16,000
+that is what we want to see you as a career because
+
+656
+00:23:16,000 --> 00:23:18,000
+that is what we want to make you prepare
+
+657
+00:23:18,000 --> 00:23:20,000
+we want to sort your next five years of your career
+
+658
+00:23:20,000 --> 00:23:22,000
+phone pay do you have you heard
+
+659
+00:23:22,000 --> 00:23:24,000
+about a company called phone pay
+
+660
+00:23:24,000 --> 00:23:26,000
+you make payments to phone pay do you know how phone pay for
+
+661
+00:23:26,000 --> 00:23:28,000
+an sd2 sd2 for example
+
+662
+00:23:28,000 --> 00:23:30,000
+2 to 4 year experience people how much they get
+
+663
+00:23:30,000 --> 00:23:32,000
+paid
+
+664
+00:23:32,000 --> 00:23:34,000
+45 MP
+
+665
+00:23:36,000 --> 00:23:38,000
+that is what they pay
+
+666
+00:23:38,000 --> 00:23:40,000
+but they pay not you for
+
+667
+00:23:40,000 --> 00:23:42,000
+you knowing technologies but they pay you for
+
+668
+00:23:42,000 --> 00:23:44,000
+knowing these and system design really
+
+669
+00:23:46,000 --> 00:23:48,000
+that is the reason when i saw your profile
+
+670
+00:23:48,000 --> 00:23:50,000
+when you told me that 3 year of experience 10 lpa
+
+671
+00:23:50,000 --> 00:23:52,000
+i was like why this guy is doing
+
+672
+00:23:52,000 --> 00:23:54,000
+wrong there is a guy who stays in
+
+673
+00:23:54,000 --> 00:23:56,000
+pimpadi chinchwar weibhav weahs is his
+
+674
+00:23:56,000 --> 00:23:58,000
+name pimpadi chinchwar
+
+675
+00:23:58,000 --> 00:24:00,000
+3 year of experience sitting at 9 lpa
+
+676
+00:24:00,000 --> 00:24:02,000
+i was like you are making a fool of your career
+
+677
+00:24:02,000 --> 00:24:04,000
+don't do that because you can
+
+678
+00:24:04,000 --> 00:24:06,000
+deserve more you can earn more you can take care of
+
+679
+00:24:06,000 --> 00:24:08,000
+things even more today
+
+680
+00:24:08,000 --> 00:24:10,000
+anyways you are working 9 hours over here
+
+681
+00:24:10,000 --> 00:24:12,000
+instead of some other company you will
+
+682
+00:24:12,000 --> 00:24:14,000
+also work 9 hours maybe the culture will be
+
+683
+00:24:14,000 --> 00:24:16,000
+better you will get paid more for it
+
+684
+00:24:16,000 --> 00:24:18,000
+don't you see that
+
+685
+00:24:18,000 --> 00:24:20,000
+anyways you have to work
+
+686
+00:24:20,000 --> 00:24:22,000
+9 hours every day in this company you are working
+
+687
+00:24:22,000 --> 00:24:24,000
+on your weekends you are working 9 hours every day
+
+688
+00:24:24,000 --> 00:24:26,000
+if you work the same amount of work
+
+689
+00:24:26,000 --> 00:24:28,000
+in some other company if you be skillful
+
+690
+00:24:28,000 --> 00:24:30,000
+that company will pay you even more
+
+691
+00:24:30,000 --> 00:24:32,000
+why you are not targeting for it
+
+692
+00:24:32,000 --> 00:24:34,000
+why you are not making sure that i should earn more
+
+693
+00:24:34,000 --> 00:24:36,000
+then don't you think that loan that you have taken
+
+694
+00:24:36,000 --> 00:24:38,000
+a 60 lakh you will be able to
+
+695
+00:24:38,000 --> 00:24:40,000
+finish it up in 10 years if your
+
+696
+00:24:40,000 --> 00:24:42,000
+salary will become 20 lpa
+
+697
+00:24:42,000 --> 00:24:44,000
+why would you keep it for 20 years you will try
+
+698
+00:24:44,000 --> 00:24:46,000
+to finish it up in 10 years
+
+699
+00:24:46,000 --> 00:24:48,000
+if 20 lakh you are making it
+
+700
+00:24:48,000 --> 00:24:50,000
+per year
+
+701
+00:24:50,000 --> 00:24:52,000
+that means 3 years of salary even if you do not
+
+702
+00:24:52,000 --> 00:24:54,000
+spend your 3 years of your salary that means that your
+
+703
+00:24:54,000 --> 00:24:56,000
+home is done you are sorted
+
+704
+00:24:58,000 --> 00:25:00,000
+that's how because we feel
+
+705
+00:25:00,000 --> 00:25:02,000
+that you deserve and you deserve it
+
+706
+00:25:02,000 --> 00:25:04,000
+we both know a guy working
+
+707
+00:25:04,000 --> 00:25:06,000
+on weekend working more than 9 hours
+
+708
+00:25:06,000 --> 00:25:08,000
+and if he is getting paid somewhere at 10
+
+709
+00:25:08,000 --> 00:25:10,000
+lpa in a place which is Pune he
+
+710
+00:25:10,000 --> 00:25:12,000
+deserves more
+
+711
+00:25:14,000 --> 00:25:16,000
+he needs right people that always should help him
+
+712
+00:25:16,000 --> 00:25:18,000
+and if that thing
+
+713
+00:25:18,000 --> 00:25:20,000
+comes into his life he will make it
+
+714
+00:25:22,000 --> 00:25:24,000
+today he does not know which companies are hiring
+
+715
+00:25:24,000 --> 00:25:26,000
+right now because he is only going to apply in
+
+716
+00:25:26,000 --> 00:25:28,000
+paces on naukri.com or linkedin
+
+717
+00:25:28,000 --> 00:25:30,000
+right
+
+718
+00:25:30,000 --> 00:25:32,000
+when you will go for an interview
+
+719
+00:25:32,000 --> 00:25:34,000
+even when you will apply for jobs where would you go and apply for jobs
+
+720
+00:25:34,000 --> 00:25:36,000
+naukri or linkedin right
+
+721
+00:25:36,000 --> 00:25:38,000
+anywhere else
+
+722
+00:25:38,000 --> 00:25:40,000
+some of your friends will refer you all
+
+723
+00:25:40,000 --> 00:25:42,000
+but have you seen google or walmart
+
+724
+00:25:42,000 --> 00:25:44,000
+or paypal or zomato posting job opportunities
+
+725
+00:25:44,000 --> 00:25:46,000
+on naukri or linkedin
+
+726
+00:25:46,000 --> 00:25:48,000
+no
+
+727
+00:25:48,000 --> 00:25:50,000
+because everyone wants to join this company
+
+728
+00:25:50,000 --> 00:25:52,000
+they do not want to post their job opportunity there
+
+729
+00:25:56,000 --> 00:25:58,000
+and these companies still need lot of people
+
+730
+00:25:58,000 --> 00:26:00,000
+but they need special people
+
+731
+00:26:02,000 --> 00:26:04,000
+and its ok i want you to first of all do your
+
+732
+00:26:04,000 --> 00:26:06,000
+research watch those videos that i share
+
+733
+00:26:06,000 --> 00:26:08,000
+with you
+
+734
+00:26:08,000 --> 00:26:10,000
+trust me if you watch those videos you will have lot of clarity
+
+735
+00:26:10,000 --> 00:26:12,000
+ok
+
+736
+00:26:14,000 --> 00:26:16,000
+avishkar is that ok
+
+737
+00:26:16,000 --> 00:26:18,000
+yes yes right
+
+738
+00:26:18,000 --> 00:26:20,000
+ok then we will get at 4pm and we will discuss from there
+
+739
+00:26:20,000 --> 00:26:22,000
+ok sure bye bye
+
+740
+00:26:22,000 --> 00:26:24,000
+thank you
+

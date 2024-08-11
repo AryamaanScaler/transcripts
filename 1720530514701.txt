@@ -1,0 +1,276 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Yes
+
+4
+00:00:06,000 --> 00:00:08,000
+Vishnu sir
+
+5
+00:00:08,000 --> 00:00:10,000
+Tell me
+
+6
+00:00:10,000 --> 00:00:12,000
+Sir I want
+
+7
+00:00:12,000 --> 00:00:14,000
+required guidance from you
+
+8
+00:00:14,000 --> 00:00:16,000
+some point of view
+
+9
+00:00:16,000 --> 00:00:18,000
+Yes yes tell me
+
+10
+00:00:18,000 --> 00:00:20,000
+Yes yes I have time
+
+11
+00:00:20,000 --> 00:00:22,000
+Sir
+
+12
+00:00:22,000 --> 00:00:24,000
+I have seen Microsoft internship
+
+13
+00:00:24,000 --> 00:00:26,000
+Okay
+
+14
+00:00:26,000 --> 00:00:28,000
+And
+
+15
+00:00:28,000 --> 00:00:30,000
+Microsoft internship
+
+16
+00:00:30,000 --> 00:00:32,000
+batch is 2021
+
+17
+00:00:32,000 --> 00:00:34,000
+2022 2023 2024
+
+18
+00:00:34,000 --> 00:00:36,000
+Okay
+
+19
+00:00:36,000 --> 00:00:38,000
+I am
+
+20
+00:00:38,000 --> 00:00:40,000
+My batch is
+
+21
+00:00:40,000 --> 00:00:42,000
+from exactly
+
+22
+00:00:42,000 --> 00:00:44,000
+2020 but
+
+23
+00:00:44,000 --> 00:00:46,000
+due to some backlog
+
+24
+00:00:46,000 --> 00:00:48,000
+it should be converted
+
+25
+00:00:48,000 --> 00:00:50,000
+into 2021
+
+26
+00:00:50,000 --> 00:00:52,000
+Okay
+
+27
+00:00:52,000 --> 00:00:54,000
+And my question
+
+28
+00:00:54,000 --> 00:00:56,000
+is should I be eligible for that
+
+29
+00:00:56,000 --> 00:00:58,000
+or not
+
+30
+00:00:58,000 --> 00:01:00,000
+If I am eligible
+
+31
+00:01:00,000 --> 00:01:02,000
+Okay
+
+32
+00:01:02,000 --> 00:01:04,000
+So in some
+
+33
+00:01:04,000 --> 00:01:06,000
+eligibility criteria and key
+
+34
+00:01:06,000 --> 00:01:08,000
+responsibilities I am not
+
+35
+00:01:08,000 --> 00:01:10,000
+able to understand
+
+36
+00:01:10,000 --> 00:01:12,000
+From Microsoft
+
+37
+00:01:12,000 --> 00:01:14,000
+From Microsoft KAA
+
+38
+00:01:14,000 --> 00:01:16,000
+feed Instagram I have
+
+39
+00:01:16,000 --> 00:01:18,000
+login in Instagram the KAA feed option
+
+40
+00:01:18,000 --> 00:01:20,000
+I will send the message
+
+41
+00:01:20,000 --> 00:01:22,000
+Okay
+
+42
+00:01:22,000 --> 00:01:24,000
+to the WhatsApp just see and
+
+43
+00:01:24,000 --> 00:01:26,000
+please tell me right now
+
+44
+00:01:26,000 --> 00:01:28,000
+should I eligible or not
+
+45
+00:01:28,000 --> 00:01:30,000
+Send me once
+
+46
+00:01:30,000 --> 00:01:32,000
+Right now
+
+47
+00:01:32,000 --> 00:01:34,000
+Right now I will be in the call
+
+48
+00:01:34,000 --> 00:01:36,000
+Let me check
+
+49
+00:01:40,000 --> 00:01:42,000
+I have friend
+
+50
+00:01:42,000 --> 00:01:44,000
+I am going through it
+
+51
+00:01:54,000 --> 00:01:56,000
+Okay
+
+52
+00:02:12,000 --> 00:02:14,000
+I think you are not eligible
+
+53
+00:02:16,000 --> 00:02:18,000
+I think I am not
+
+54
+00:02:18,000 --> 00:02:20,000
+Yes I think you are not eligible
+
+55
+00:02:20,000 --> 00:02:22,000
+because if you see the eligibility criteria
+
+56
+00:02:22,000 --> 00:02:31,000
+It's written there. Must have at least one additional semester of school remaining after completing the internship.
+
+57
+00:02:37,000 --> 00:02:41,000
+But you know do one thing, you apply it, HR will connect with you.
+
+58
+00:02:42,000 --> 00:02:49,000
+And you will be able to interact with them. Apply, apply anyways.
+
+59
+00:02:49,000 --> 00:02:55,000
+Sir one thing I want to discuss. One point of view.
+
+60
+00:02:56,000 --> 00:03:05,000
+Sir could you please help me for the resume. The thing is that in my resume I have written the full stack developer.
+
+61
+00:03:06,000 --> 00:03:12,000
+The qualities of the full stack developer. It means Node.js, MoaDB and MySQL.
+
+62
+00:03:12,000 --> 00:03:17,000
+I will do one thing. Let me check my learner's profile.
+
+63
+00:03:18,000 --> 00:03:23,000
+I will be sending you one of the resumes so that you can check and you can edit it.
+
+64
+00:03:24,000 --> 00:03:27,000
+Okay you are just sending the demo no?
+
+65
+00:03:28,000 --> 00:03:33,000
+Let me check. I don't have the access now because today was off so I don't have the laptop or anything with me.
+
+66
+00:03:33,000 --> 00:03:47,000
+So I will send you once I reach home. Let me check. I will be having couple of learners resume in the portal and I will send you one so that you can just check and you can use as a dummy and you can edit it.
+
+67
+00:03:48,000 --> 00:03:52,000
+Okay sir. I will do it all.
+
+68
+00:03:53,000 --> 00:03:55,000
+Okay bye.
+
+69
+00:03:56,000 --> 00:03:57,000
+Okay thank you sir.
+

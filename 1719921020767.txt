@@ -1,0 +1,832 @@
+1
+00:00:00,000 --> 00:00:00,500
+Hello
+
+2
+00:00:01,780 --> 00:00:03,380
+Yeah, Hi Mr Swagat here
+
+3
+00:00:03,380 --> 00:00:06,180
+Yeah, Mr Swagat, how are you doing? How is it going?
+
+4
+00:00:07,140 --> 00:00:09,140
+Yeah, quite busy actually
+
+5
+00:00:09,140 --> 00:00:12,100
+So right now I have finished that call
+
+6
+00:00:12,100 --> 00:00:14,100
+So can we have the call now?
+
+7
+00:00:14,100 --> 00:00:19,700
+Yeah, it would take around 5 to 10 minutes
+
+8
+00:00:19,700 --> 00:00:22,660
+We will be discussing on the call itself only
+
+9
+00:00:22,660 --> 00:00:23,700
+Not on the video call
+
+10
+00:00:23,700 --> 00:00:24,980
+On the call only
+
+11
+00:00:24,980 --> 00:00:25,480
+Okay
+
+12
+00:00:25,480 --> 00:00:25,980
+So
+
+13
+00:00:25,980 --> 00:00:27,020
+Yeah, yeah, yeah
+
+14
+00:00:27,520 --> 00:00:30,960
+So, just let me give you a brief introduction about myself
+
+15
+00:00:30,960 --> 00:00:33,760
+I am the learner success manager here at Scalar
+
+16
+00:00:33,760 --> 00:00:36,720
+And this call is regarding discussing few details
+
+17
+00:00:36,720 --> 00:00:38,240
+So with regards to your profile
+
+18
+00:00:38,240 --> 00:00:41,880
+So first of all we will be creating a personalized onboarding path for you
+
+19
+00:00:41,880 --> 00:00:45,120
+And sharing you the relevant details in terms of the program
+
+20
+00:00:45,120 --> 00:00:52,720
+So your mail id is swagatmohanty at the AEI.10 and the re gmail.com
+
+21
+00:00:52,720 --> 00:00:53,920
+Correct, correct
+
+22
+00:00:53,920 --> 00:00:56,920
+And this is your same mobile number for whatsapp for calls both
+
+23
+00:00:57,300 --> 00:00:58,420
+Correct, correct
+
+24
+00:00:58,420 --> 00:01:01,900
+Okay, so in terms of
+
+25
+00:01:01,900 --> 00:01:05,500
+Okay, so your profile currently you are working as a full stack developer
+
+26
+00:01:05,500 --> 00:01:06,940
+Correct
+
+27
+00:01:06,940 --> 00:01:12,060
+Okay, and the name of what is the name of your current organization?
+
+28
+00:01:12,060 --> 00:01:13,580
+Standard Chartered
+
+29
+00:01:13,580 --> 00:01:19,180
+Standard Chartered and the overall experience that you have in the deck domain is around 12 years
+
+30
+00:01:19,180 --> 00:01:20,140
+Correct
+
+31
+00:01:20,140 --> 00:01:21,500
+Alright, alright
+
+32
+00:01:21,720 --> 00:01:28,040
+So what is your current area of PIN code like where you are residing right now like residential PIN code?
+
+33
+00:01:28,040 --> 00:01:30,120
+560067
+
+34
+00:01:30,120 --> 00:01:31,400
+67
+
+35
+00:01:31,400 --> 00:01:34,040
+Okay, alright, alright
+
+36
+00:01:34,040 --> 00:01:34,760
+Perfect
+
+37
+00:01:34,760 --> 00:01:42,720
+So Mr. Swagat like in terms of your profile and all like what in terms of the course first of all that you have taken here at Scalar
+
+38
+00:01:42,720 --> 00:01:47,200
+Is mostly the academy course which is mainly focused on software development
+
+39
+00:01:47,200 --> 00:01:48,280
+Okay
+
+40
+00:01:48,280 --> 00:01:49,200
+This is the one
+
+41
+00:01:49,220 --> 00:01:56,060
+And then wanted to understand like what are the programming languages? What are the frameworks like you're mostly familiar with?
+
+42
+00:01:56,060 --> 00:02:01,540
+In UI I have worked in HTML, CSS, JavaScript, Angular
+
+43
+00:02:01,540 --> 00:02:08,540
+Node to some extent but not very detailed but then Angular covers that
+
+44
+00:02:08,540 --> 00:02:17,180
+And in the Java side there is Java, Spring Boot, Microservices
+
+45
+00:02:17,440 --> 00:02:26,480
+And yeah so and in the database I have worked in couple of databases like Oracle and MySQL
+
+46
+00:02:26,480 --> 00:02:30,520
+Okay, okay, okay
+
+47
+00:02:30,520 --> 00:02:34,160
+And okay that works fine
+
+48
+00:02:34,160 --> 00:02:43,240
+So in terms of BSA, in terms of system design like where would you rank yourself like a beginner level, intermediate level, advanced level person?
+
+49
+00:02:43,980 --> 00:02:47,500
+No, no, between beginner and intermediate
+
+50
+00:02:47,500 --> 00:02:52,540
+Not definitely a beginner but then intermediate kind of
+
+51
+00:02:52,540 --> 00:02:54,620
+Yeah, yeah intermediate
+
+52
+00:02:54,620 --> 00:02:59,620
+And any problem solving, any projects apart from your regular day to day work?
+
+53
+00:03:00,900 --> 00:03:07,500
+Nothing as of now but earlier I used to work on couple of areas in previous companies
+
+54
+00:03:07,500 --> 00:03:12,180
+But not recently that's the reason I have taken up Scalar right
+
+55
+00:03:12,240 --> 00:03:18,160
+So for last four and a half years I have been stagnant in the work I am doing
+
+56
+00:03:18,160 --> 00:03:24,840
+And I also was lazy so I didn't want to get out of my comfort zone
+
+57
+00:03:24,840 --> 00:03:31,000
+So now is the time when I am thinking okay I will re-strategize the career and move in the right path
+
+58
+00:03:31,000 --> 00:03:34,200
+Okay, okay, okay
+
+59
+00:03:34,220 --> 00:03:41,660
+Alright so in terms of like when you go ahead in terms of seeing the details with regards to the program
+
+60
+00:03:41,660 --> 00:03:48,220
+With regards to the course so first of all what comes up like you have like
+
+61
+00:03:48,220 --> 00:03:57,100
+Sessions, you have like live sessions, you have like mentor sessions, market reviews, teaching assistant sessions everything
+
+62
+00:03:57,100 --> 00:04:03,580
+So what do you mainly focus on the course for like what are your main expectations from this program like on a
+
+63
+00:04:03,920 --> 00:04:12,000
+Let's say on small scale in the next couple of years and on a long term basis
+
+64
+00:04:12,000 --> 00:04:15,040
+So what are you exactly looking to achieve through the course?
+
+65
+00:04:15,040 --> 00:04:27,040
+Right now what I am looking from this course is to build up my fundamentals of data structure and system design and distributed systems
+
+66
+00:04:27,100 --> 00:04:39,100
+Basically how you build a whole application with a lot of scalability and obviously with a more optimized solution
+
+67
+00:04:39,100 --> 00:04:48,060
+So looking into that obviously focusing on fundamentals a lot to start with
+
+68
+00:04:48,060 --> 00:04:54,460
+Because in day to day right now we have lost touch with the fundamental things
+
+69
+00:04:54,680 --> 00:05:04,680
+And then post that obviously to wanting to build applications from scratch and design applications
+
+70
+00:05:04,680 --> 00:05:10,680
+And going to more like an architect role going ahead
+
+71
+00:05:10,680 --> 00:05:15,680
+Okay, okay, alright, alright understood your point that's actually wonderful
+
+72
+00:05:15,680 --> 00:05:21,680
+In terms of you know like that's one thing in terms of your expectations and all
+
+73
+00:05:21,900 --> 00:05:27,900
+Sorry could not cover another thing now since why are why scalar these things are also available in other platforms
+
+74
+00:05:27,900 --> 00:05:33,900
+But then what I've heard about the alumni here and the mentorship here
+
+75
+00:05:33,900 --> 00:05:39,900
+So the guidance that you get and along with that the alumni support that you have
+
+76
+00:05:39,900 --> 00:05:49,900
+To be to build your resume or the profile, LinkedIn profile or be to share your journey insights during the journey
+
+77
+00:05:50,120 --> 00:05:56,120
+And then once you are going off for interviews to get to know what is the latest
+
+78
+00:05:56,120 --> 00:06:04,120
+What is the parameters in which the company is filtering on the profiles companies looking at the candidates
+
+79
+00:06:04,120 --> 00:06:12,120
+What are they expecting so all these outside help I think I will get a better help with scalar alumni
+
+80
+00:06:12,120 --> 00:06:14,120
+Again that is also another point
+
+81
+00:06:14,120 --> 00:06:18,120
+Totally agree with your point like it's something really important
+
+82
+00:06:18,340 --> 00:06:24,340
+We try to focus on in terms of helping you in terms of improving your technical skills
+
+83
+00:06:24,340 --> 00:06:30,340
+Programming skills and also your experience here at scalar
+
+84
+00:06:30,340 --> 00:06:34,340
+Perfect, so in terms of your schedule how does your schedule look like
+
+85
+00:06:34,340 --> 00:06:40,340
+Are you working from office are you working from home or what do you work time is exactly like
+
+86
+00:06:40,560 --> 00:06:46,560
+No, I work two to three days in office and then rest days in home
+
+87
+00:06:46,560 --> 00:06:54,560
+So that's what I then I'll be preferring the morning batch 7 to 9 is what we discussed earlier
+
+88
+00:06:54,560 --> 00:06:58,560
+So that what that clears up my day
+
+89
+00:06:58,560 --> 00:07:08,560
+So I basically I will not be missing out on any classes or the basically I don't want to miss out on anything
+
+90
+00:07:08,780 --> 00:07:14,780
+So things come up during the day right if you schedule the class during the evening time things come up
+
+91
+00:07:14,780 --> 00:07:18,780
+And you might not know more you are stuck somewhere and all
+
+92
+00:07:18,780 --> 00:07:21,780
+So I don't want that to hamper my progress
+
+93
+00:07:21,780 --> 00:07:30,780
+So that's why I want to start it very early like 7 to 9 and then obviously like Monday Wednesday Friday is when the
+
+94
+00:07:31,000 --> 00:07:33,000
+Very close will be there so right
+
+95
+00:07:33,000 --> 00:07:36,000
+So I will schedule my office accordingly for Tuesday and Thursday
+
+96
+00:07:36,000 --> 00:07:40,000
+And if any other day then I will be going little late after the classes
+
+97
+00:07:40,000 --> 00:07:42,000
+That's what I thought
+
+98
+00:07:42,000 --> 00:07:44,000
+Okay, okay, okay, okay
+
+99
+00:07:44,000 --> 00:07:46,000
+Alright fine understandable
+
+100
+00:07:46,000 --> 00:07:50,000
+So in terms of you know how the schedule works
+
+101
+00:07:50,000 --> 00:07:53,000
+Let me tell you that you will be having three classes in a week
+
+102
+00:07:53,000 --> 00:07:57,000
+And there are two timings so one timing is the morning
+
+103
+00:07:57,220 --> 00:08:06,220
+Which is morning 7 a.m. To 930 a.m. Another is the evening which is 9 p.m. To 1130 p.m.
+
+104
+00:08:08,220 --> 00:08:13,220
+That is us we have you have two timings available over here now what you can see
+
+105
+00:08:13,220 --> 00:08:20,220
+Over here itself in terms of the course and in terms of the program as well
+
+106
+00:08:20,440 --> 00:08:26,440
+That you have to give 2.5 hours each to the live classes so that will be three live classes
+
+107
+00:08:26,440 --> 00:08:29,440
+Which is 7.5 hours per week for the live classes
+
+108
+00:08:29,440 --> 00:08:34,440
+Then there are assignments teaching assistance sessions mentor sessions mock interviews
+
+109
+00:08:34,440 --> 00:08:37,440
+So that is somewhere around 7.5 hours per week
+
+110
+00:08:37,440 --> 00:08:41,440
+Now total commitment is 15 hours per week that's what is required
+
+111
+00:08:41,440 --> 00:08:45,440
+You can structure it on your own basis like live classes
+
+112
+00:08:45,660 --> 00:08:51,660
+Attending doing the assignments during the Monday to Friday and in case
+
+113
+00:08:51,660 --> 00:08:59,660
+In case you are able to attend the live sessions great if you miss any sessions
+
+114
+00:08:59,660 --> 00:09:07,660
+You can watch the recordings on weekends and let's say the assignment part if in case you are not able to complete the assignments from Monday to Friday
+
+115
+00:09:07,660 --> 00:09:11,660
+You can take your weekends and then solve the problems there itself
+
+116
+00:09:11,880 --> 00:09:16,880
+So commitment is 15 hours per week that's nothing more than that is required
+
+117
+00:09:16,880 --> 00:09:19,880
+Yeah okay
+
+118
+00:09:19,880 --> 00:09:24,880
+And in terms of your dashboard what I'll be doing is I'll be sharing your link
+
+119
+00:09:24,880 --> 00:09:29,880
+You have to log in with the help of that link you can go through your dashboard
+
+120
+00:09:29,880 --> 00:09:33,880
+I have already logged in right now I have the dashboard in front of me
+
+121
+00:09:33,880 --> 00:09:34,880
+Okay okay
+
+122
+00:09:34,880 --> 00:09:37,880
+It's a killer.com and then login right
+
+123
+00:09:38,100 --> 00:09:39,100
+That is there
+
+124
+00:09:39,100 --> 00:09:45,100
+So once you have logged in into your dashboard the first thing that would come up there what you would have to do
+
+125
+00:09:45,100 --> 00:09:50,100
+In terms of your dashboard is fill in onboarding form and then go ahead in your dashboard
+
+126
+00:09:50,100 --> 00:09:55,100
+Fill in expectation form and then give the scalar assessment test
+
+127
+00:09:55,100 --> 00:09:56,100
+SAT test
+
+128
+00:09:56,100 --> 00:09:57,100
+Okay
+
+129
+00:09:57,100 --> 00:10:02,100
+So based on the SAT test you will be assigned to the right batch like beginner intermediate advanced
+
+130
+00:10:02,100 --> 00:10:06,100
+And then you have to update your profile select your mentor
+
+131
+00:10:06,320 --> 00:10:13,320
+And also there will be like a one is to one dashboard walkthrough session that we will be having
+
+132
+00:10:13,320 --> 00:10:18,320
+I'll help you with guiding you with regards to the same
+
+133
+00:10:18,320 --> 00:10:21,320
+Apart from that onboarding guide I'll share with you as well
+
+134
+00:10:21,320 --> 00:10:26,320
+So just go through it it's important for details with regards to your curriculum placement
+
+135
+00:10:26,320 --> 00:10:30,320
+Entire structure of your course and classes
+
+136
+00:10:30,320 --> 00:10:32,320
+So you won't be sending it over the email
+
+137
+00:10:32,320 --> 00:10:34,320
+No no whatsapp I'll share it with you
+
+138
+00:10:34,540 --> 00:10:36,540
+Also there is one more thing
+
+139
+00:10:36,540 --> 00:10:39,540
+In terms of lets say you know you go ahead
+
+140
+00:10:39,540 --> 00:10:42,540
+In terms of your dashboard in terms of the different resources
+
+141
+00:10:42,540 --> 00:10:45,540
+In terms of the different tools
+
+142
+00:10:45,540 --> 00:10:51,540
+You will be able to see that all the relevant details are available over there
+
+143
+00:10:51,540 --> 00:10:58,540
+Yeah and definitely once the dashboard walkthrough session is completed
+
+144
+00:10:58,540 --> 00:11:02,540
+You will get a much more clarity and in depth understanding with regards to your dashboard
+
+145
+00:11:02,760 --> 00:11:07,760
+And in terms of reaching out to me connect with me anytime like call whatsapp
+
+146
+00:11:07,760 --> 00:11:09,760
+Whatever is feasible from your end
+
+147
+00:11:09,760 --> 00:11:14,760
+Like you can reach out to me call I'm not available on call drop me a text on whatsapp
+
+148
+00:11:14,760 --> 00:11:19,760
+And in terms of dashboard there is a help centered app
+
+149
+00:11:19,760 --> 00:11:21,760
+With which you can reach out to our support team
+
+150
+00:11:21,760 --> 00:11:26,760
+Which is available from 11 to 8 Monday to Friday
+
+151
+00:11:26,980 --> 00:11:29,980
+So any questions Mr Swagat over here
+
+152
+00:11:29,980 --> 00:11:32,980
+Anything you would like to ask or any doubts
+
+153
+00:11:32,980 --> 00:11:37,980
+I was told as soon as I get the dashboard access I should select the mentor
+
+154
+00:11:37,980 --> 00:11:42,980
+Now I'll select the mentor after the SAT test or before the SAT test
+
+155
+00:11:42,980 --> 00:11:45,980
+SAT test you can select after once the SAT test
+
+156
+00:11:45,980 --> 00:11:48,980
+Scalar assessment test has been completed
+
+157
+00:11:48,980 --> 00:11:51,980
+You can go ahead accordingly select your mentor
+
+158
+00:11:52,200 --> 00:11:54,200
+Ok ok
+
+159
+00:11:54,200 --> 00:11:57,200
+And the SAT test I can give it anytime before 15th
+
+160
+00:11:57,200 --> 00:12:00,200
+Is what I write
+
+161
+00:12:00,200 --> 00:12:03,200
+Yeah absolutely
+
+162
+00:12:03,200 --> 00:12:07,200
+But I would recommend try to give it in the span of 2 to 3 days
+
+163
+00:12:07,200 --> 00:12:10,200
+Mostly maximum within this week
+
+164
+00:12:10,200 --> 00:12:11,200
+Ok ok
+
+165
+00:12:11,200 --> 00:12:14,200
+Yeah that is something that is going to help you in huge way
+
+166
+00:12:14,200 --> 00:12:17,200
+Because then you can focus on the other remaining tasks as hand
+
+167
+00:12:17,200 --> 00:12:18,200
+Ok ok
+
+168
+00:12:18,200 --> 00:12:20,200
+Yeah perfect
+
+169
+00:12:20,420 --> 00:12:23,420
+Just feel free to reach out to me in case there is anything
+
+170
+00:12:23,420 --> 00:12:25,420
+Do let me know once
+
+171
+00:12:25,420 --> 00:12:28,420
+And sorry to ask this question
+
+172
+00:12:28,420 --> 00:12:31,420
+But I had other contacts from Scalar
+
+173
+00:12:31,420 --> 00:12:34,420
+How are you going to help me in what aspect
+
+174
+00:12:34,420 --> 00:12:36,420
+I didn't
+
+175
+00:12:36,420 --> 00:12:39,420
+Ok so you are asking about me specifically
+
+176
+00:12:39,420 --> 00:12:40,420
+Yeah yeah yeah
+
+177
+00:12:40,420 --> 00:12:41,420
+So anything comes up
+
+178
+00:12:41,420 --> 00:12:44,420
+Any problem in terms of mentor, dashboard
+
+179
+00:12:44,420 --> 00:12:47,420
+Any issues you are facing you can just bring me on whatsapp directly
+
+180
+00:12:47,640 --> 00:12:50,640
+Because I have the contact of Scalar from you
+
+181
+00:12:50,640 --> 00:12:53,640
+That is great that is great
+
+182
+00:12:53,640 --> 00:12:56,640
+But you can directly refer to me for any queries
+
+183
+00:12:56,640 --> 00:12:59,640
+Anything any issues you face with regards to
+
+184
+00:12:59,640 --> 00:13:02,640
+Dashboard, course mentor
+
+185
+00:13:02,640 --> 00:13:05,640
+Curriculum anything
+
+186
+00:13:05,640 --> 00:13:07,640
+Ok ok
+
+187
+00:13:07,640 --> 00:13:08,640
+Alright alright alright
+
+188
+00:13:08,640 --> 00:13:09,640
+Perfect
+
+189
+00:13:09,640 --> 00:13:11,640
+So what you can do
+
+190
+00:13:11,640 --> 00:13:14,640
+So when you will have this dashboard 1 to 1
+
+191
+00:13:14,640 --> 00:13:15,640
+Which dashboard 1 to 1
+
+192
+00:13:15,860 --> 00:13:16,860
+Ok yeah
+
+193
+00:13:16,860 --> 00:13:19,860
+This dashboard 1 to 1 I will just check myself
+
+194
+00:13:19,860 --> 00:13:22,860
+As soon as I have the availability accordingly I will reach out to you
+
+195
+00:13:22,860 --> 00:13:25,860
+Please explain that
+
+196
+00:13:25,860 --> 00:13:28,860
+I was waiting for today for that
+
+197
+00:13:28,860 --> 00:13:31,860
+Anyways let's do it as fast as possible
+
+198
+00:13:31,860 --> 00:13:34,860
+Fine fine as soon as in case I have the availability
+
+199
+00:13:34,860 --> 00:13:37,860
+Today we will complete it today itself
+
+200
+00:13:37,860 --> 00:13:38,860
+Yes
+
+201
+00:13:38,860 --> 00:13:41,860
+Yeah even if it comes up I will just ping you once
+
+202
+00:13:41,860 --> 00:13:43,860
+And then we can complete it today
+
+203
+00:13:44,080 --> 00:13:45,080
+Ok fine
+
+204
+00:13:45,080 --> 00:13:46,080
+No problem with that
+
+205
+00:13:46,080 --> 00:13:47,080
+Sure sure
+
+206
+00:13:47,080 --> 00:13:48,080
+Alright alright alright
+
+207
+00:13:48,080 --> 00:13:51,080
+Thank you thank you Mr Swagar thank you so much for the call
+
+208
+00:13:51,080 --> 00:13:52,080
+Have a nice day take care
+

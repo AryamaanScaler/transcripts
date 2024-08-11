@@ -1,0 +1,612 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Yes please
+
+4
+00:00:06,000 --> 00:00:08,000
+Yeah I got a call from this number
+
+5
+00:00:08,000 --> 00:00:10,000
+Okay, when did you receive call?
+
+6
+00:00:10,000 --> 00:00:12,000
+Just now
+
+7
+00:00:12,000 --> 00:00:14,000
+Raju right?
+
+8
+00:00:14,000 --> 00:00:16,000
+No, this is Pawan from Scalar
+
+9
+00:00:16,000 --> 00:00:18,000
+Hi Pawan, this is Pradeep from Scalar
+
+10
+00:00:18,000 --> 00:00:20,000
+If you remember yesterday we had a word right and you asked me to give a call back today
+
+11
+00:00:20,000 --> 00:00:22,000
+Yeah yeah yeah
+
+12
+00:00:22,000 --> 00:00:24,000
+See I believe it's a good time to connect right?
+
+13
+00:00:24,000 --> 00:00:26,000
+Yes yes absolutely
+
+14
+00:00:26,000 --> 00:00:28,000
+See actually the reason why I've been trying to reach you is
+
+15
+00:00:28,000 --> 00:00:30,000
+because you were on the website and you were exploring about software development
+
+16
+00:00:30,000 --> 00:00:32,000
+Right?
+
+17
+00:00:32,000 --> 00:00:34,000
+And whereas you registered for the master class
+
+18
+00:00:34,000 --> 00:00:36,000
+related to monolithic and microservice architecture
+
+19
+00:00:36,000 --> 00:00:38,000
+Correct
+
+20
+00:00:38,000 --> 00:00:40,000
+So can you please help me understand the reason behind this research
+
+21
+00:00:40,000 --> 00:00:42,000
+I mean what made you register for the master class like this?
+
+22
+00:00:42,000 --> 00:00:44,000
+See actually
+
+23
+00:00:44,000 --> 00:00:46,000
+I am into a sales profession
+
+24
+00:00:46,000 --> 00:00:48,000
+We are into the IT
+
+25
+00:00:48,000 --> 00:00:50,000
+system integration
+
+26
+00:00:50,000 --> 00:00:52,000
+So we sell
+
+27
+00:00:52,000 --> 00:00:54,000
+this
+
+28
+00:00:54,000 --> 00:00:56,000
+Amazon and cloud services
+
+29
+00:00:56,000 --> 00:00:58,000
+to our customers
+
+30
+00:00:58,000 --> 00:01:00,000
+And we do the private cloud
+
+31
+00:01:00,000 --> 00:01:02,000
+infrastructure also
+
+32
+00:01:02,000 --> 00:01:04,000
+Okay
+
+33
+00:01:04,000 --> 00:01:06,000
+So that is the reason I just want to
+
+34
+00:01:06,000 --> 00:01:08,000
+scale my knowledge
+
+35
+00:01:08,000 --> 00:01:10,000
+So that is the reason I registered
+
+36
+00:01:10,000 --> 00:01:12,000
+But unfortunately I was traveling
+
+37
+00:01:12,000 --> 00:01:14,000
+at that time so I could not attend that
+
+38
+00:01:14,000 --> 00:01:16,000
+session
+
+39
+00:01:16,000 --> 00:01:18,000
+See that's completely fine, the master class which you tried to register for right?
+
+40
+00:01:18,000 --> 00:01:20,000
+Yes obviously it is beneficial
+
+41
+00:01:20,000 --> 00:01:22,000
+but that will help you with the generic idea
+
+42
+00:01:22,000 --> 00:01:24,000
+Because see I understand a pool of different
+
+43
+00:01:24,000 --> 00:01:26,000
+people would be joining that session
+
+44
+00:01:26,000 --> 00:01:28,000
+And whereas
+
+45
+00:01:28,000 --> 00:01:30,000
+I am the right person for this team if you want to understand
+
+46
+00:01:30,000 --> 00:01:32,000
+at individual level how
+
+47
+00:01:32,000 --> 00:01:34,000
+scalar as a platform can help you out
+
+48
+00:01:34,000 --> 00:01:36,000
+Okay
+
+49
+00:01:36,000 --> 00:01:38,000
+Because you understand in two hours of time
+
+50
+00:01:38,000 --> 00:01:40,000
+you for sure won't be able to understand every concept
+
+51
+00:01:40,000 --> 00:01:42,000
+that has been covered in the session
+
+52
+00:01:42,000 --> 00:01:44,000
+Am I right? Because before focusing on monolithic
+
+53
+00:01:44,000 --> 00:01:46,000
+and microservice architecture you need to understand the basics
+
+54
+00:01:46,000 --> 00:01:48,000
+as well, simultaneously
+
+55
+00:01:48,000 --> 00:01:50,000
+Or else you won't be able to grasp the content
+
+56
+00:01:50,000 --> 00:01:52,000
+and then you might feel difficulty in the session as well
+
+57
+00:01:52,000 --> 00:01:54,000
+See you mentioned your profile that
+
+58
+00:01:54,000 --> 00:01:56,000
+you are currently working as a manager
+
+59
+00:01:56,000 --> 00:01:58,000
+of silicon and you got
+
+60
+00:01:58,000 --> 00:02:00,000
+graduated in 2013 from G.Pullarity
+
+61
+00:02:00,000 --> 00:02:02,000
+College of Engineering
+
+62
+00:02:02,000 --> 00:02:04,000
+So can you please throw some light on your
+
+63
+00:02:04,000 --> 00:02:06,000
+profile as well simultaneously, how many years
+
+64
+00:02:06,000 --> 00:02:08,000
+of oral experience do you have?
+
+65
+00:02:08,000 --> 00:02:10,000
+So I have been working
+
+66
+00:02:10,000 --> 00:02:12,000
+into this
+
+67
+00:02:12,000 --> 00:02:14,000
+IIT sales for almost
+
+68
+00:02:14,000 --> 00:02:16,000
+8 place years now
+
+69
+00:02:16,000 --> 00:02:18,000
+So previously I was working with some other
+
+70
+00:02:18,000 --> 00:02:20,000
+company called Nandu
+
+71
+00:02:20,000 --> 00:02:22,000
+which was into a medical distribution
+
+72
+00:02:22,000 --> 00:02:24,000
+So post that I joined this company called
+
+73
+00:02:24,000 --> 00:02:26,000
+Silicon Business Solutions
+
+74
+00:02:26,000 --> 00:02:28,000
+So Silicon Business Solutions
+
+75
+00:02:28,000 --> 00:02:30,000
+is based out of Hyderabad
+
+76
+00:02:30,000 --> 00:02:32,000
+We serve to
+
+77
+00:02:32,000 --> 00:02:34,000
+the verticals like
+
+78
+00:02:34,000 --> 00:02:36,000
+Pharma, IT, ITS
+
+79
+00:02:36,000 --> 00:02:38,000
+Government Defense
+
+80
+00:02:38,000 --> 00:02:40,000
+So these will be our client
+
+81
+00:02:40,000 --> 00:02:42,000
+and we go and position
+
+82
+00:02:42,000 --> 00:02:44,000
+our products to our
+
+83
+00:02:44,000 --> 00:02:46,000
+office
+
+84
+00:02:46,000 --> 00:02:48,000
+Got it, I understand you are going to discuss
+
+85
+00:02:48,000 --> 00:02:50,000
+the client and business requirement to be closing the deal
+
+86
+00:02:50,000 --> 00:02:52,000
+So basically we are also tied up
+
+87
+00:02:52,000 --> 00:02:54,000
+with, we are the
+
+88
+00:02:54,000 --> 00:02:56,000
+gold partners for Oracle, IBM and
+
+89
+00:02:56,000 --> 00:02:58,000
+Nutanix and apart from that we also
+
+90
+00:02:58,000 --> 00:03:00,000
+do AWS and Azure
+
+91
+00:03:00,000 --> 00:03:02,000
+Okay
+
+92
+00:03:02,000 --> 00:03:04,000
+So and post that we have also
+
+93
+00:03:04,000 --> 00:03:06,000
+been doing some backup services
+
+94
+00:03:06,000 --> 00:03:08,000
+and infrastructure management
+
+95
+00:03:08,000 --> 00:03:10,000
+and FMS services also
+
+96
+00:03:10,000 --> 00:03:12,000
+Okay
+
+97
+00:03:12,000 --> 00:03:14,000
+And we also have a dedicated team
+
+98
+00:03:14,000 --> 00:03:16,000
+where we can also support them on the
+
+99
+00:03:16,000 --> 00:03:18,000
+implementations and post sales
+
+100
+00:03:18,000 --> 00:03:20,000
+services also
+
+101
+00:03:20,000 --> 00:03:22,000
+See I am just trying to connect the dots over here
+
+102
+00:03:22,000 --> 00:03:24,000
+Right, because see when
+
+103
+00:03:24,000 --> 00:03:26,000
+I look into the deep inside your profile
+
+104
+00:03:26,000 --> 00:03:28,000
+It is not much of a technical
+
+105
+00:03:28,000 --> 00:03:30,000
+Right, I am
+
+106
+00:03:30,000 --> 00:03:32,000
+a sales guy
+
+107
+00:03:32,000 --> 00:03:34,000
+Exactly, it's not much of a tech background
+
+108
+00:03:34,000 --> 00:03:36,000
+But the interest you are showing towards
+
+109
+00:03:36,000 --> 00:03:38,000
+the tech side
+
+110
+00:03:38,000 --> 00:03:40,000
+Because more than a microservice
+
+111
+00:03:40,000 --> 00:03:42,000
+that is something that is related to the system design
+
+112
+00:03:42,000 --> 00:03:44,000
+Right, and
+
+113
+00:03:44,000 --> 00:03:46,000
+I am seeing how exposed you are to the coding
+
+114
+00:03:46,000 --> 00:03:48,000
+I mean did you ever work on coding before
+
+115
+00:03:48,000 --> 00:03:50,000
+No, I am nowhere related to coding
+
+116
+00:03:50,000 --> 00:03:52,000
+Okay
+
+117
+00:03:52,000 --> 00:03:54,000
+Because over here at Scalar
+
+118
+00:03:54,000 --> 00:03:56,000
+This course is meant for tech professionals
+
+119
+00:03:56,000 --> 00:03:58,000
+Because see the duration of this
+
+120
+00:03:58,000 --> 00:04:00,000
+particular program is 9.5 to 11.5
+
+121
+00:04:00,000 --> 00:04:02,000
+months
+
+122
+00:04:02,000 --> 00:04:04,000
+And without having a prior coding knowledge it is going to be
+
+123
+00:04:04,000 --> 00:04:06,000
+tough, I am not saying that you can't do it
+
+124
+00:04:06,000 --> 00:04:08,000
+You can do it but it would require lot of additional
+
+125
+00:04:08,000 --> 00:04:10,000
+efforts
+
+126
+00:04:10,000 --> 00:04:12,000
+No, I just wanted to understand the core basics of
+
+127
+00:04:12,000 --> 00:04:14,000
+how the infrastructure
+
+128
+00:04:14,000 --> 00:04:16,000
+has been changing from monolithic to
+
+129
+00:04:16,000 --> 00:04:18,000
+hyperscalers
+
+130
+00:04:18,000 --> 00:04:20,000
+That is only the main intention
+
+131
+00:04:20,000 --> 00:04:22,000
+for the registering to that
+
+132
+00:04:22,000 --> 00:04:24,000
+master course
+
+133
+00:04:24,000 --> 00:04:26,000
+Got it, so no serious plans of getting into the IT right?
+
+134
+00:04:26,000 --> 00:04:28,000
+No, no, no
+
+135
+00:04:28,000 --> 00:04:30,000
+I am already into the IT but not
+
+136
+00:04:30,000 --> 00:04:32,000
+on the development side but on the
+
+137
+00:04:32,000 --> 00:04:34,000
+Enterprise side I understand
+
+138
+00:04:34,000 --> 00:04:36,000
+Business side I understand
+
+139
+00:04:36,000 --> 00:04:38,000
+Okay, so maybe I thought you have plans of moving
+
+140
+00:04:38,000 --> 00:04:40,000
+as a product manager as well
+
+141
+00:04:40,000 --> 00:04:42,000
+Because even it is going to be management served as an IT
+
+142
+00:04:42,000 --> 00:04:44,000
+Right
+
+143
+00:04:44,000 --> 00:04:46,000
+So you don't have any plans as such right?
+
+144
+00:04:46,000 --> 00:04:48,000
+No, no, no, no
+
+145
+00:04:48,000 --> 00:04:50,000
+Because you understand this course duration is very huge, you know 9.5 to 11.5
+
+146
+00:04:50,000 --> 00:04:52,000
+And if you won't find any benefit
+
+147
+00:04:52,000 --> 00:04:54,000
+out of this I don't think so
+
+148
+00:04:54,000 --> 00:04:56,000
+You will be able to spare this amount of time in this
+
+149
+00:04:56,000 --> 00:04:58,000
+So it is completely fine, you can just visit
+
+150
+00:04:58,000 --> 00:05:00,000
+our website here and there, there will be couple of
+
+151
+00:05:00,000 --> 00:05:02,000
+master classes that will be shared, you can go through the same
+
+152
+00:05:02,000 --> 00:05:04,000
+No worries, it was great speaking to you
+
+153
+00:05:04,000 --> 00:05:06,000
+Thank you for your time, have a nice day
+

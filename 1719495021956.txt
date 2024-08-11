@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:00,500
+Hello
+
+2
+00:00:01,840 --> 00:00:02,560
+Hello yeah
+
+3
+00:00:04,800 --> 00:00:06,160
+Yeah am I audible now?
+
+4
+00:00:06,160 --> 00:00:06,660
+Hello
+
+5
+00:00:07,360 --> 00:00:08,320
+Yeah you are audible
+
+6
+00:00:08,880 --> 00:00:09,380
+Yeah
+
+7
+00:00:09,380 --> 00:00:16,400
+Yeah I said that will be really helpful to talk to someone who has made it through with Sculler and
+
+8
+00:00:18,400 --> 00:00:23,600
+That's what I feel actually I mean if you can talk to someone I mean I can go on and on and
+
+9
+00:00:23,600 --> 00:00:28,560
+consult you on this but I don't want to sound like a sales guy to be honest so I think it would be
+
+10
+00:00:28,560 --> 00:00:33,440
+much better for your own clarity since you are very new to the whole platform right this is the
+
+11
+00:00:33,440 --> 00:00:39,440
+first time you are having an in-depth discussion regarding Sculler so to help you with it let me
+
+12
+00:00:40,240 --> 00:00:44,640
+check in their availability okay I have a few learners who have done the Sculler program similar
+
+13
+00:00:44,640 --> 00:00:51,200
+to similar to your profile okay they can have a word with you or clarify all the career doubts
+
+14
+00:00:51,200 --> 00:00:57,520
+you might have as well as how Sculler maybe Sculler is worth it maybe you are you maybe you
+
+15
+00:00:57,520 --> 00:01:02,000
+will be inquiring other platforms as well so even they have gone through a similar kind of
+
+16
+00:01:02,000 --> 00:01:07,920
+journey so they can help you out with that and align you in a much better way okay okay okay
+
+17
+00:01:07,920 --> 00:01:12,960
+and you said there were three types of courses right some basic intermediate and advanced right
+
+18
+00:01:12,960 --> 00:01:21,920
+yes and what's the duration of the these courses see the big if you are in a beginner batch then
+
+19
+00:01:22,720 --> 00:01:28,400
+that is for someone who is entirely new to the whole development side of things so for them we
+
+20
+00:01:28,400 --> 00:01:34,000
+generally take close to like 13-14 months to teach them everything right from the hello world code
+
+21
+00:01:34,640 --> 00:01:40,400
+all the way up to how to work on scalability in the intermediate batch it takes close to 10 to 11
+
+22
+00:01:40,400 --> 00:01:46,720
+months for you to work on your specialization like tech stack then dsa then system design and work on
+
+23
+00:01:46,720 --> 00:01:52,560
+live projects apart from conducting regular mock interviews with your mentor and finally the
+
+24
+00:01:52,560 --> 00:01:57,920
+advanced batch is there which goes on for close to like eight to nine months where you are directly
+
+25
+00:01:57,920 --> 00:02:04,240
+focusing on advanced gsa and system design so everything is a little bit different okay but
+
+26
+00:02:04,240 --> 00:02:09,120
+yes and in the intermediate batches what are the programming languages that will be focused on
+
+27
+00:02:09,920 --> 00:02:16,960
+oh or it will be purely based on data structures and no no system design only
+
+28
+00:02:16,960 --> 00:02:21,760
+no i think so like data structures is something which is built on a programming language so we
+
+29
+00:02:21,760 --> 00:02:27,120
+start off with java in that but don't worry i'll share like a curriculum with you on on your
+
+30
+00:02:27,120 --> 00:02:32,480
+whatsapp as well so you can have a chance to go through all the details for a better understanding
+
+31
+00:03:02,640 --> 00:03:10,160
+okay we can offer you a scholarship based on your score and we will like according to that
+
+32
+00:03:10,160 --> 00:03:13,920
+the scholarship gets deducted from the net fees and then we see accordingly okay
+
+33
+00:03:15,760 --> 00:03:22,240
+okay okay now just to get a rough idea before you know i step in it's not like that i obviously
+
+34
+00:03:22,240 --> 00:03:28,240
+want to do it but then i have to look up to my budget also right so to have a figure
+
+35
+00:03:28,320 --> 00:03:34,160
+of course i understand see in this case considering all the hiring partners or the kind
+
+36
+00:03:34,160 --> 00:03:38,960
+of projects that you will be working on all these things as well as the mentors and instructors the
+
+37
+00:03:38,960 --> 00:03:47,040
+net fees of the whole program is 3.69 lakhs okay if you if you clear the test if you clear the
+
+38
+00:03:47,040 --> 00:03:54,400
+technical round then we can offer your scholarship of 55 000 rupees so that 3.69 becomes 3.14 lakhs
+
+39
+00:03:55,120 --> 00:04:01,440
+on that 3.14 lakhs there are emis where you can choose to pay 12 000 rupees for the next two years
+
+40
+00:04:01,440 --> 00:04:08,320
+and that's a no cost emi okay if you might not be comfortable with that then there is also
+
+41
+00:04:08,320 --> 00:04:13,040
+an emi option where you can roughly pay 8 000 rupees for the next five years as well
+
+42
+00:04:13,680 --> 00:04:20,000
+generally that is something that my learners who are earning close to like 25 30 000 in a month
+
+43
+00:04:20,080 --> 00:04:25,520
+they go for that generally so like the emi options are there i can share the fee details
+
+44
+00:04:25,520 --> 00:04:31,280
+with you as well you can go through all the things and discuss accordingly with the alumni as well
+
+45
+00:04:31,280 --> 00:04:36,000
+for a better understanding then we you and i can connect again and you can let me know like what
+
+46
+00:04:36,000 --> 00:04:43,600
+exactly clarity you need and i can help you with that okay okay okay and the 12 12 000 you said
+
+47
+00:04:43,600 --> 00:04:48,640
+for two years right yeah that's correct 24 months 12 000 rupees no cost emi that's the max you'll
+
+48
+00:04:48,640 --> 00:04:56,160
+have to pay okay okay okay including gst and all other very better components also no no that's
+
+49
+00:04:56,160 --> 00:05:01,600
+the max you'll have to pay i'll share the fee details with you so you can go through all the
+
+50
+00:05:01,600 --> 00:05:09,120
+all the details and get a better understanding okay sure sure yeah but first like i said let's
+
+51
+00:05:09,120 --> 00:05:15,520
+focus on getting your better insight and a deeper understanding on how the scalar is functioning as
+
+52
+00:05:15,520 --> 00:05:20,240
+of now so you even you understand what kind of return you can get you on your investment because
+
+53
+00:05:20,800 --> 00:05:27,280
+until unless you yourself are unsure in your own decision of upskillment i don't expect you to get
+
+54
+00:05:27,280 --> 00:05:33,520
+enrolled into scaler and i'm not going to push you for that okay so let's work on that first have a
+
+55
+00:05:33,520 --> 00:05:38,640
+word with the alumna itself and like if that works out for you if it helps you then great and if there
+
+56
+00:05:38,640 --> 00:05:45,040
+might be any other doubts then for that i will help you out in that okay okay okay sure so the
+
+57
+00:05:45,040 --> 00:05:49,680
+session with the alumni like it's a video call session okay it's going to be like close to 30
+
+58
+00:05:49,680 --> 00:05:54,560
+to 40 minutes of a session it can go longer if you have any other if you have any other doubts
+
+59
+00:05:54,560 --> 00:06:00,080
+or you want more understanding okay they can connect with you and you can ask all your doubts
+
+60
+00:06:00,080 --> 00:06:07,280
+okay okay okay so please you call me before you schedule something because this week i'll be
+
+61
+00:06:07,920 --> 00:06:13,840
+i mean and i would maybe uh starting monday monday we can schedule a call or maybe sunday evening
+
+62
+00:06:13,840 --> 00:06:21,440
+we can schedule a call whatever uh be be the well actually i mean actually uh one thing is that
+
+63
+00:06:22,080 --> 00:06:25,920
+that i was thinking first of all that you can have a session with them
+
+64
+00:06:26,720 --> 00:06:32,320
+today only at eight to eight thirty something that that's what i know i know i actually i
+
+65
+00:06:32,320 --> 00:06:38,720
+register for that session also at seven thirty or eight that i'm not sure uh so but i could i'm not
+
+66
+00:06:38,880 --> 00:06:46,880
+able to attend that so because this week i am in my hometown i'll be back to my base on sunday
+
+67
+00:06:47,600 --> 00:06:55,440
+morning from sunday evening i'll be in my peace of mind to start working on the upscaling and
+
+68
+00:06:55,440 --> 00:07:03,840
+things so i just uh required uh today afternoon uh just to get a hold of things all the things are
+
+69
+00:07:04,000 --> 00:07:10,320
+with the price and the work will be covered what is the future roadmap if i go ahead with this
+
+70
+00:07:10,320 --> 00:07:16,160
+program and all just to get a clear understanding of that thanks a lot for giving a lot of insight
+
+71
+00:07:16,160 --> 00:07:23,520
+into all of my queries uh i surely want to have a word uh with uh some which somebody who has
+
+72
+00:07:23,520 --> 00:07:33,280
+traveled this uh journey so but yeah do you have awesome sunday evening or monday or i mean
+
+73
+00:07:35,360 --> 00:07:39,920
+i understand but like don't you have like 30 to 40 minutes because even you must have a lot of
+
+74
+00:07:39,920 --> 00:07:46,080
+doubts only right and the thing is one more thing is there that right now like uh scalar opens on a
+
+75
+00:07:46,080 --> 00:07:51,040
+very bad strength basis it's not like if someone wants to get enrolled we can directly enroll them
+
+76
+00:07:51,040 --> 00:07:55,200
+into the program right like there are different things first of all the technical round is there
+
+77
+00:07:55,200 --> 00:08:01,680
+the interview process is there even if by monday you do decide after the session that okay i want
+
+78
+00:08:01,680 --> 00:08:06,880
+to uh go through the onboarding formalities with scalar by that time it will be a bit difficult
+
+79
+00:08:06,880 --> 00:08:13,040
+for us to hold a spot so i just want to get you clarity as soon as possible so if it's possible
+
+80
+00:08:13,040 --> 00:08:18,400
+for you to have a quick word with someone who can give you a better understanding regarding the
+
+81
+00:08:18,400 --> 00:08:24,240
+program then i would advise you to have the session today only and then use the upcoming days
+
+82
+00:08:24,240 --> 00:08:29,200
+for your own research and like research and inquiries that is something i will suggest you
+
+83
+00:08:29,200 --> 00:08:35,520
+to do sure i would have but actually i was about to leave somewhere around seven
+
+84
+00:08:36,080 --> 00:08:40,800
+opportunity are discussing on this so i am there but i'm not able to attend today
+
+85
+00:08:41,440 --> 00:08:44,160
+um sure sure no issues sure
+
+86
+00:08:49,520 --> 00:08:59,520
+so yeah any time scheduled after sunday right i will be able to attend it sure let's do one thing
+
+87
+00:08:59,520 --> 00:09:04,560
+um let me share a few resources for you to go through like the curriculum and everything
+
+88
+00:09:04,560 --> 00:09:11,600
+okay i'll connect with you again on sunday to check your availability and see uh what's your
+
+89
+00:09:11,600 --> 00:09:18,800
+mindset uh where your mindset is at and based on that i can like let you speak to the learner if
+
+90
+00:09:18,800 --> 00:09:25,280
+you require so and then we can see accordingly okay on sunday you can let me know like where you
+
+91
+00:09:25,280 --> 00:09:30,160
+might want to go with okay sure sure sure thank you anything else that you require
+
+92
+00:09:30,160 --> 00:09:35,280
+uh no no sure thanks a lot have a good day okay you too thank you
+

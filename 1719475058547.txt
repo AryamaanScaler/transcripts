@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hello, hi Anirban, good afternoon. Hello sir, good afternoon. How are you? Everything
+
+2
+00:00:09,520 --> 00:00:16,520
+good? Fine sir, I'm fine sir. I'm good, I'm good. Thank you. Good time to talk now, right?
+
+3
+00:00:17,520 --> 00:00:24,520
+Yeah. Okay. So first of all, a very warm welcome Anirban to Scalar. Thank you sir. Yeah. So
+
+4
+00:00:24,680 --> 00:00:28,560
+I'm your learner success manager as you know. My name is Chinmoy and I'll help you with
+
+5
+00:00:28,560 --> 00:00:34,280
+the on-boarding process here. Okay. Okay. So Anirban few details firstly I wanted to
+
+6
+00:00:34,280 --> 00:00:40,280
+confirm with you before I reach out to my team to build your profile. So you have enrolled
+
+7
+00:00:40,280 --> 00:00:46,480
+here for the data science and machine learning program, correct? Correct. Your registered
+
+8
+00:00:46,480 --> 00:00:53,480
+Google account is ad.buby00500gmail.com. Yes. This is your registered mobile number where
+
+9
+00:00:53,960 --> 00:01:00,960
+we're talking? Yeah. Okay. Okay. Same on WhatsApp? I'm sorry. The same number is on WhatsApp?
+
+10
+00:01:03,080 --> 00:01:10,080
+No sir, my WhatsApp number is different. Okay. Please tell me WhatsApp number. 875. 875.
+
+11
+00:01:12,680 --> 00:01:19,680
+983. 983. Yes sir. Okay. Then? 1214. 1214. Okay. 875. Okay. So you have registered your
+
+12
+00:01:23,480 --> 00:01:30,480
+number? 71598. 31214. Okay. Now currently like your residential PIN code what is it
+
+13
+00:01:32,520 --> 00:01:39,520
+exactly? 74337. 74337. Okay. Yeah. And which company are you employed in? Are you employed
+
+14
+00:01:42,960 --> 00:01:49,960
+right now? Yeah sir, I am employed. Okay. Which company? Prod technology private limited.
+
+15
+00:01:49,960 --> 00:01:56,960
+Prod Evans? Prod Evans. P-R-O-D-E-P-A-N-S. Okay. Good God. What's your package here currently
+
+16
+00:02:01,600 --> 00:02:08,600
+in this company? 2.5 lakhs sir. 2.5 per annum. Per annum. Okay. What's your designation here
+
+17
+00:02:11,000 --> 00:02:18,000
+in this company? Sir, I have been service desk role sir. Sorry? I'm service desk role.
+
+18
+00:02:19,960 --> 00:02:26,960
+Sir. Okay. Like you must be having a designation right? Technical delivery. Technical delivery.
+
+19
+00:02:29,440 --> 00:02:34,760
+It's not in technical role exactly right? I think non-technical. Technical role, non-technical
+
+20
+00:02:34,760 --> 00:02:41,760
+role but sir in company we have you know they are designation to technical delivery. So
+
+21
+00:02:42,760 --> 00:02:49,760
+total experience that you have in this tech domain how much is it exactly total? Three
+
+22
+00:02:50,880 --> 00:02:57,880
+years. Three years. Three years total experience and coding experience is zero is it? Zero
+
+23
+00:02:57,880 --> 00:03:03,400
+sir. No coding background sir. Got it. Got it. So anyone got your understanding of your
+
+24
+00:03:03,400 --> 00:03:06,800
+profile? So wanted to know like since you are enrolled in this data science program
+
+25
+00:03:06,800 --> 00:03:11,720
+now in Scalar right? What are the main expectations that you have from this program and what are
+
+26
+00:03:11,720 --> 00:03:17,680
+the things you are looking to achieve out of it? What are your goals here? What are
+
+27
+00:03:17,680 --> 00:03:24,680
+my goals? Yes. Sir, I will try my, switch to my designation sir. Okay means you want
+
+28
+00:03:31,680 --> 00:03:38,680
+to grow your career in data science domain is it? After learning it. Yeah. Okay. Okay.
+
+29
+00:03:39,600 --> 00:03:44,600
+And before Scalar any other online programs you have used in the past in your career?
+
+30
+00:03:44,600 --> 00:03:51,600
+No sir. No sir. Okay. And currently at Scalar your loan process is complete right? Yes sir.
+
+31
+00:03:54,920 --> 00:03:59,520
+So what is the tenure you have chosen here for loan? Like two years, five years? No sir.
+
+32
+00:03:59,520 --> 00:04:06,520
+Two years is very difficult for me because I already told you my package. Yes sir. So
+
+33
+00:04:07,520 --> 00:04:14,520
+I choose five years. Five years. Okay. Okay. So you are clear about the monthly EMI's,
+
+34
+00:04:15,480 --> 00:04:22,480
+the EMI dates all the details right? Yeah. Okay. So Anirban like the EMI dates everything
+
+35
+00:04:24,360 --> 00:04:29,560
+and the monthly EMI's everything is clear as you mentioned. Now the curriculum of the
+
+36
+00:04:29,560 --> 00:04:36,400
+program have you gone through it properly? The program curriculum have you explored properly?
+
+37
+00:04:36,400 --> 00:04:43,400
+Yes sir. Great. Great. What I will do I will be sharing one PDF with you after this Scalar
+
+38
+00:04:43,400 --> 00:04:48,040
+Anirban so you will get an idea like which batch you are supposed to start with let's
+
+39
+00:04:48,040 --> 00:04:52,560
+say or different batches available and also the curriculum in depth. What is the curriculum
+
+40
+00:04:52,560 --> 00:04:57,400
+all about? Okay go through that. Okay. And also currently wanted to know little bit about
+
+41
+00:04:57,400 --> 00:05:01,800
+your work also like work schedule wise so I am able to understand how this program will
+
+42
+00:05:02,800 --> 00:05:09,800
+fit into a schedule perfectly. Okay. So currently you are working from office right? I guess.
+
+43
+00:05:10,800 --> 00:05:17,800
+No sir. For whom? Yes sir. Today is my holiday sir. Week off. Okay. This is sir 24 into
+
+44
+00:05:20,120 --> 00:05:27,120
+7 best. So Thursday and Friday is my week off. Okay. Okay. Got it. And what are you working
+
+45
+00:05:28,120 --> 00:05:35,120
+hours when you are working? Working hours sir we have three sheets. First is morning
+
+46
+00:05:37,640 --> 00:05:44,640
+sheet it is 9 am to 6 pm. Okay. Then 6 pm to 3 am and last one is 12 am to 9 am. So
+
+47
+00:05:49,720 --> 00:05:56,360
+you are working rotational shift is it currently? Yes sir. So you might be knowing that we have
+
+48
+00:05:56,360 --> 00:06:02,800
+three classes in a week right? Monday, Wednesday, Friday. Each class is around two and half
+
+49
+00:06:02,800 --> 00:06:06,440
+hours duration and after each class you get assignments also. That might take another
+
+50
+00:06:06,440 --> 00:06:11,200
+hour or so that you do in your own time. So overall in a week we recommend that at least
+
+51
+00:06:11,200 --> 00:06:17,200
+15 hours per week you are able to commit to the program. Yes. Okay including everything
+
+52
+00:06:17,200 --> 00:06:23,200
+of course like your classes, life classes, practice, self study everything I am talking
+
+53
+00:06:23,200 --> 00:06:29,400
+about. Okay. Also we have given you an option you can choose either morning batch or evening
+
+54
+00:06:29,400 --> 00:06:36,400
+batch. So what would be your preference? Sir I have chosen evening batch sir. 9 pm to 11
+
+55
+00:06:37,400 --> 00:06:44,400
+pm. Okay. Okay. 9 pm to 11 pm. Is it right sir? Yes. Evening batch starts from? 9 pm to
+
+56
+00:06:44,400 --> 00:06:50,200
+11.30 pm. Okay. Great. So I think regarding the timing we are clear right? The time commitments
+
+57
+00:06:50,200 --> 00:06:56,200
+required and you will be able to make it right easily regarding the time? Yes. Great.
+
+58
+00:06:56,200 --> 00:07:03,200
+Also on the weekends like your week off are not fixed right? No. Thursday and Friday.
+
+59
+00:07:04,600 --> 00:07:11,600
+In these months are Thursday and Friday. Next month it will be changed sir. Okay. So what
+
+60
+00:07:12,920 --> 00:07:17,040
+you can do let's say whenever you have any life classes you have missed by chance. Okay
+
+61
+00:07:17,040 --> 00:07:21,480
+or let's say assignment spending you can catch up with that as soon as possible or maybe
+
+62
+00:07:21,480 --> 00:07:26,480
+to the closest week off or weekend whenever it is for you. Right? Try to complete majority
+
+63
+00:07:26,480 --> 00:07:33,480
+of the things by then. Okay. So on the timing front we are clear and first of all what you
+
+64
+00:07:34,560 --> 00:07:39,960
+need to focus right now you need to update your profile in the dashboard. I think Tuesday
+
+65
+00:07:39,960 --> 00:07:45,800
+you logged in already right to your dashboard. Yes. So go ahead and update your profile there
+
+66
+00:07:45,800 --> 00:07:50,480
+in the dashboard top right side. After that go ahead and select your mentor also. Now
+
+67
+00:07:50,480 --> 00:07:57,480
+mentors are the people who help you with your career related queries. Okay. Sir one of your
+
+68
+00:07:59,560 --> 00:08:06,560
+colleagues are Shivani. She told me sir in dashboard many videos are like math for programmers,
+
+69
+00:08:06,560 --> 00:08:13,560
+coding and logic, python for bare. Python. Okay. I already seen this sir and she told
+
+70
+00:08:24,240 --> 00:08:31,240
+me the examination will be done sir. Yeah there will be a small test that is type and
+
+71
+00:08:36,560 --> 00:08:40,480
+decide which batch you will start with like beginner intermediate or advanced. Yeah beginner
+
+72
+00:08:40,480 --> 00:08:45,480
+intermediate or expert. Yeah advanced. So that will depend on your score in the test.
+
+73
+00:08:45,480 --> 00:08:50,480
+If you are unable to do anything by default you will get beginner. Don't worry. Yeah sir
+
+74
+00:08:50,480 --> 00:08:56,600
+I told you I will start from beginner. Yes this is the mandatory step you have to complete.
+
+75
+00:08:56,600 --> 00:09:02,120
+If you are not able to do anything simply submit it. Okay. Complete the test and then select
+
+76
+00:09:02,120 --> 00:09:09,120
+your mentor also or while you are exploring a new one this dashboard go through the dashboard
+
+77
+00:09:09,120 --> 00:09:13,840
+properly in case any doubts confusions feel free to just reach out to me. Okay. Okay.
+
+78
+00:09:13,840 --> 00:09:20,160
+I will be available Wednesday to Sunday 11 a.m. to 8 p.m. Okay. Okay. Alternatively there
+
+79
+00:09:20,160 --> 00:09:24,120
+is a dedicated support team who is your point of contact for the program for any general
+
+80
+00:09:24,120 --> 00:09:29,120
+queries or anything. You can reach out to support Monday to Friday 11 a.m. to 8 p.m.
+
+81
+00:09:29,120 --> 00:09:36,120
+to call or chat. 11 a.m. to 8 p.m. Yes Monday to Friday. Monday to Friday. Okay. Yeah. If
+
+82
+00:09:38,120 --> 00:09:42,000
+I want to connect with anyone like on this number are you available during the weekdays
+
+83
+00:09:42,000 --> 00:09:48,360
+weekends. Sorry sir. If I want to connect with you in the future to inform you something
+
+84
+00:09:48,360 --> 00:09:53,360
+on this number are you available during the weekdays weekends. Sir anytime you can call
+
+85
+00:09:53,360 --> 00:09:58,480
+me sir. Anytime. Great. Just do one thing you save my number this is my number in case
+
+86
+00:09:58,640 --> 00:10:02,640
+any queries are there about regarding dashboard program feel free to reach out to me. Just
+
+87
+00:10:02,640 --> 00:10:07,640
+drop me a text or just call me. Okay. Okay. All right. I will connect with you in the
+
+88
+00:10:07,640 --> 00:10:12,640
+upcoming few days meanwhile complete the test and select your main term. Okay. Okay. Okay.
+
+89
+00:10:12,640 --> 00:10:16,640
+All right. Take care everyone. Bye bye. Thank you sir. Yeah.
+

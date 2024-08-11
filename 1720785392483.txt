@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, is this Manjula?
+
+2
+00:00:04,000 --> 00:00:08,000
+Yes. Hello Manjula, this is Rajat from the admissions team of Scalar Academy.
+
+3
+00:00:08,000 --> 00:00:14,000
+Yes. Manjula, I believe you were in touch with my ex-lifters few months ago, right?
+
+4
+00:00:14,000 --> 00:00:17,000
+At present I am not interested.
+
+5
+00:00:17,000 --> 00:00:25,000
+I understand that. Could you help me understand what was the conversation like? What happened that you chose to not be interested?
+
+6
+00:00:25,000 --> 00:00:30,000
+I am little bit busy. Can we have this conversation next time?
+
+7
+00:00:30,000 --> 00:00:33,000
+Okay. When can I give you a call back Manjula?
+
+8
+00:00:33,000 --> 00:00:36,000
+Tomorrow.
+
+9
+00:00:36,000 --> 00:00:40,000
+Okay. Tomorrow what time do you think you will be free?
+
+10
+00:00:40,000 --> 00:00:42,000
+After 12.
+
+11
+00:00:42,000 --> 00:00:45,000
+After 12. Okay. I will give you a call after 12. Thank you.
+
+12
+00:00:45,000 --> 00:00:46,000
+Okay.
+

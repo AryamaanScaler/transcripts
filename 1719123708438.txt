@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hello. Good morning Anirban. How are you?
+
+2
+00:00:03,000 --> 00:00:05,000
+Good morning ma'am. I am fine.
+
+3
+00:00:05,000 --> 00:00:10,000
+Actually I had a meeting at 12 o'clock yesterday. I will show you everything.
+
+4
+00:00:10,000 --> 00:00:15,000
+I told you that I will show you everything properly so that you understand it properly.
+
+5
+00:00:15,000 --> 00:00:16,000
+Yes.
+
+6
+00:00:16,000 --> 00:00:18,000
+So you got the link?
+
+7
+00:00:18,000 --> 00:00:19,000
+Yes.
+
+8
+00:00:19,000 --> 00:00:20,000
+I had mailed it yesterday.
+
+9
+00:00:20,000 --> 00:00:23,000
+Did you talk to your father at home? What did he say?
+
+10
+00:00:23,000 --> 00:00:26,000
+Yes, I talked to him at home.
+
+11
+00:00:26,000 --> 00:00:27,000
+I did.
+
+12
+00:00:27,000 --> 00:00:31,000
+They told me to do whatever I felt was right.
+
+13
+00:00:31,000 --> 00:00:35,000
+That's good. At least the family is supporting you.
+
+14
+00:00:35,000 --> 00:00:38,000
+At least if you study, you will have a good career.
+
+15
+00:00:38,000 --> 00:00:43,000
+What does your father do? Is he in IT or what? I forgot.
+
+16
+00:00:43,000 --> 00:00:44,000
+Yes.
+
+17
+00:00:44,000 --> 00:00:47,000
+What does your father do?
+
+18
+00:00:47,000 --> 00:00:52,000
+My father is a retired school teacher.
+
+19
+00:00:52,000 --> 00:00:55,000
+He must be getting pensions.
+
+20
+00:00:55,000 --> 00:00:57,000
+Yes, he gets pensions.
+
+21
+00:00:57,000 --> 00:01:01,000
+Do you have any brother or sister who helps you at home?
+
+22
+00:01:01,000 --> 00:01:03,000
+No, I am alone.
+
+23
+00:01:03,000 --> 00:01:04,000
+Any sister?
+
+24
+00:01:04,000 --> 00:01:05,000
+No.
+
+25
+00:01:05,000 --> 00:01:10,000
+How did you suddenly learn about data science?
+
+26
+00:01:10,000 --> 00:01:15,000
+You are from an electrical company and suddenly you thought you should go into data science.
+
+27
+00:01:15,000 --> 00:01:22,000
+No, I am from electrical but I joined IT after corona.
+
+28
+00:01:22,000 --> 00:01:25,000
+I was in the service industry.
+
+29
+00:01:25,000 --> 00:01:29,000
+You must have met a lot of IT people who work there.
+
+30
+00:01:29,000 --> 00:01:31,000
+Yes.
+
+31
+00:01:31,000 --> 00:01:35,000
+You did a lot of research. I sent you some details.
+
+32
+00:01:35,000 --> 00:01:38,000
+Let me tell you.
+
+33
+00:01:38,000 --> 00:01:46,000
+I saw the test results yesterday. You must have checked. I sent you yesterday.
+
+34
+00:01:47,000 --> 00:01:51,000
+I sent you 3-4 videos. One was about the scope of data science.
+
+35
+00:01:51,000 --> 00:01:56,000
+One was about the importance of building skills for data science.
+
+36
+00:01:56,000 --> 00:01:59,000
+What is the importance of data science and why to build skills.
+
+37
+00:01:59,000 --> 00:02:02,000
+The third was how can data science help my career trajectory.
+
+38
+00:02:02,000 --> 00:02:04,000
+How will it help in my career trajectory.
+
+39
+00:02:04,000 --> 00:02:08,000
+I sent you all these details. Did you go through all these videos?
+
+40
+00:02:08,000 --> 00:02:09,000
+Yes.
+
+41
+00:02:09,000 --> 00:02:16,000
+What do you think about this? What can you plan for the next 5-7 years?
+
+42
+00:02:20,000 --> 00:02:22,000
+What can I plan?
+
+43
+00:02:22,000 --> 00:02:31,000
+I am saying that after watching all these videos, you will not only get placements.
+
+44
+00:02:31,000 --> 00:02:36,000
+Our job is not to train the other person and get the first placement.
+
+45
+00:02:36,000 --> 00:02:43,000
+Our job is to keep your next 10-15 years sustainable in the industry.
+
+46
+00:02:43,000 --> 00:02:50,000
+For example, you cannot change your career every time.
+
+47
+00:02:50,000 --> 00:02:54,000
+You are changing your career once. You are in IT.
+
+48
+00:02:54,000 --> 00:02:59,000
+You are in IT. Data science comes in IT. You go into data science.
+
+49
+00:02:59,000 --> 00:03:01,000
+This career should be long term.
+
+50
+00:03:01,000 --> 00:03:08,000
+I will be a data analyst. After working for 3-4 years, I will be a senior data analyst.
+
+51
+00:03:08,000 --> 00:03:14,000
+After that, I will be a business analyst, business consultant or data scientist.
+
+52
+00:03:14,000 --> 00:03:18,000
+This career is for the next 15-20 years.
+
+53
+00:03:18,000 --> 00:03:23,000
+A software developer will be a software developer.
+
+54
+00:03:23,000 --> 00:03:26,000
+Then I will take a promotion on SD2, SD3.
+
+55
+00:03:26,000 --> 00:03:29,000
+Then I will be a tech lead and head the technical team.
+
+56
+00:03:29,000 --> 00:03:31,000
+Then I will be a solution architect.
+
+57
+00:03:31,000 --> 00:03:39,000
+From being a software developer to being a solution architect, it takes 15-17 years.
+
+58
+00:03:39,000 --> 00:03:47,000
+If someone goes to this domain, they know that they have to achieve these things for the next 15-17 years.
+
+59
+00:03:47,000 --> 00:03:53,000
+You have seen the details. You have understood how much you can grow in data science.
+
+60
+00:03:53,000 --> 00:03:55,000
+You can think about your career for a long time.
+
+61
+00:03:56,000 --> 00:04:00,000
+Scalar will help. I want to know what you are understanding.
+
+62
+00:04:00,000 --> 00:04:05,000
+What do you think you will survive in this career? What will you have to study?
+
+63
+00:04:05,000 --> 00:04:09,000
+I have studied. I have seen it.
+
+64
+00:04:09,000 --> 00:04:13,000
+Have you ever done programming?
+
+65
+00:04:13,000 --> 00:04:16,000
+No, I have told you already.
+
+66
+00:04:16,000 --> 00:04:18,000
+You will start from scratch.
+
+67
+00:04:18,000 --> 00:04:19,000
+Yes.
+
+68
+00:04:19,000 --> 00:04:25,000
+I will send you the link of my 12 o'clock program on WhatsApp.
+
+69
+00:04:25,000 --> 00:04:27,000
+Do you have a laptop now?
+
+70
+00:04:27,000 --> 00:04:29,000
+Yes, I have a laptop.
+
+71
+00:04:29,000 --> 00:04:33,000
+Join the program. I will share my screen and show you everything.
+
+72
+00:04:33,000 --> 00:04:39,000
+I will show you how classes are run, placements, live events, etc.
+
+73
+00:04:39,000 --> 00:04:42,000
+So that you get a proper idea.
+
+74
+00:04:42,000 --> 00:04:45,000
+What are your thoughts on registration?
+
+75
+00:04:45,000 --> 00:04:50,000
+I am arranging the registration. I will do it tomorrow.
+
+76
+00:04:50,000 --> 00:04:54,000
+Are you arranging it? Do you want to take it from someone or what?
+
+77
+00:04:54,000 --> 00:04:59,000
+Yes, I want to take it now. I will tell you later.
+
+78
+00:04:59,000 --> 00:05:02,000
+Are you taking it from a friend or from someone?
+
+79
+00:05:02,000 --> 00:05:04,000
+Yes, I am taking it from a friend.
+
+80
+00:05:04,000 --> 00:05:08,000
+Will you do the EMI on yourself? Your father told you.
+
+81
+00:05:08,000 --> 00:05:14,000
+Yes, I don't talk about EMI. I am doing it now.
+
+82
+00:05:14,000 --> 00:05:16,000
+Okay, no issues. We will do one thing.
+
+83
+00:05:16,000 --> 00:05:20,000
+You can pay the fees tomorrow.
+
+84
+00:05:20,000 --> 00:05:24,000
+I will document it today so that your onboarding is complete.
+
+85
+00:05:24,000 --> 00:05:28,000
+After the onboarding is complete, I will put a request for access.
+
+86
+00:05:28,000 --> 00:05:31,000
+When your registration is complete, I will give you the dashboard access.
+
+87
+00:05:31,000 --> 00:05:34,000
+Come to the meeting first. It is 11.57.
+
+88
+00:05:34,000 --> 00:05:36,000
+I have washed up the meeting link.
+
+89
+00:05:36,000 --> 00:05:39,000
+Come to the meeting. I will show you the dashboard.
+
+90
+00:05:39,000 --> 00:05:41,000
+Okay.
+

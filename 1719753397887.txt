@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:07,820
+Hello, Hello, Hi, Hello, Yes, yes, yes, tell me.
+
+2
+00:00:07,820 --> 00:00:10,320
+Yeah, you available right now?
+
+3
+00:00:10,320 --> 00:00:20,560
+No, no, no, I am not available and I have not come.
+
+4
+00:00:20,560 --> 00:00:21,560
+Okay, are you outside right now or what?
+
+5
+00:00:21,560 --> 00:00:23,560
+No, no, I am currently I am of some work schedule today.
+
+6
+00:00:23,560 --> 00:00:24,560
+Oh.
+
+7
+00:00:24,560 --> 00:00:32,560
+So I am not able to, I can say you already, you can call me within the one hour.
+
+8
+00:00:32,560 --> 00:00:33,560
+So I will.
+
+9
+00:00:33,560 --> 00:00:36,560
+I was saying before 5 because the program was not available.
+
+10
+00:00:36,560 --> 00:00:39,560
+No, that is why I didn't give you a call.
+
+11
+00:00:39,560 --> 00:00:41,560
+Okay, okay.
+
+12
+00:00:41,560 --> 00:00:42,560
+Yeah.
+
+13
+00:00:42,560 --> 00:00:45,560
+So if you can take out your 30 minutes, just to understand the content.
+
+14
+00:00:45,560 --> 00:00:49,560
+No, no, no, I am not able to.
+
+15
+00:00:49,560 --> 00:00:50,560
+So by when?
+
+16
+00:00:50,560 --> 00:00:53,560
+I will arrange a call tomorrow.
+
+17
+00:00:53,560 --> 00:00:55,560
+Tomorrow at what time?
+
+18
+00:00:55,560 --> 00:00:58,560
+Morning.
+
+19
+00:00:58,560 --> 00:01:01,560
+11 am.
+
+20
+00:01:01,560 --> 00:01:04,560
+12 will be fine.
+
+21
+00:01:04,560 --> 00:01:05,560
+Okay.
+
+22
+00:01:05,560 --> 00:01:06,560
+Okay.
+
+23
+00:01:06,560 --> 00:01:07,560
+That is okay.
+
+24
+00:01:07,560 --> 00:01:08,560
+Done.
+

@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+This is my friend
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi Fayaz, how are you?
+
+4
+00:00:06,000 --> 00:00:08,000
+I believe you have had a long conversation with Karan
+
+5
+00:00:10,000 --> 00:00:12,000
+Yeah, yeah, yesterday
+
+6
+00:00:12,000 --> 00:00:14,000
+And if Karan has not been able to convince you and if I end up convincing you
+
+7
+00:00:14,000 --> 00:00:16,000
+You know how it's gonna look
+
+8
+00:00:18,000 --> 00:00:20,000
+I mean, I was convinced
+
+9
+00:00:20,000 --> 00:00:22,000
+But the only thing is the financial
+
+10
+00:00:22,000 --> 00:00:24,000
+Absolutely it will be
+
+11
+00:00:24,000 --> 00:00:26,000
+No Fayaz, it's an expensive program
+
+12
+00:00:26,000 --> 00:00:28,000
+It's not a 30-40 thousand rupees investment
+
+13
+00:00:28,000 --> 00:00:30,000
+You're talking about a 3 lakh rupees of investment
+
+14
+00:00:30,000 --> 00:00:32,000
+So it's not just you who's having the finance issues
+
+15
+00:00:32,000 --> 00:00:34,000
+Even the people with 50-60 LPA that we enroll, right?
+
+16
+00:00:34,000 --> 00:00:36,000
+Even they start crying for the money
+
+17
+00:00:36,000 --> 00:00:38,000
+Because it is an expensive program
+
+18
+00:00:38,000 --> 00:00:40,000
+Now there are two things Fayaz, okay?
+
+19
+00:00:40,000 --> 00:00:42,000
+That at the same time there are people with
+
+20
+00:00:42,000 --> 00:00:44,000
+Like you know 1.8-1.5 LPA
+
+21
+00:00:44,000 --> 00:00:46,000
+Who also enroll in the program
+
+22
+00:00:46,000 --> 00:00:48,000
+Because they see the value in it
+
+23
+00:00:48,000 --> 00:00:50,000
+So my first question to you Fayaz is
+
+24
+00:00:50,000 --> 00:00:52,000
+Do you see the value in this program?
+
+25
+00:00:52,000 --> 00:00:54,000
+I see the value but I don't know
+
+26
+00:00:54,000 --> 00:00:56,000
+I don't know if you have seen it
+
+27
+00:00:56,000 --> 00:00:58,000
+I see the value but
+
+28
+00:00:58,000 --> 00:01:00,000
+I have financial constraints
+
+29
+00:01:00,000 --> 00:01:02,000
+No, that's not part of the question
+
+30
+00:01:02,000 --> 00:01:04,000
+The question simply is do you see the value in the program?
+
+31
+00:01:04,000 --> 00:01:06,000
+Do you think this program is going to help you
+
+32
+00:01:06,000 --> 00:01:08,000
+To get where you want to go?
+
+33
+00:01:10,000 --> 00:01:12,000
+It might
+
+34
+00:01:12,000 --> 00:01:14,000
+It might
+
+35
+00:01:14,000 --> 00:01:16,000
+No, no, I'm not talking about the outcomes
+
+36
+00:01:16,000 --> 00:01:18,000
+I'm talking about let's say that you
+
+37
+00:01:18,000 --> 00:01:20,000
+Have to, like you know you already gym, right?
+
+38
+00:01:20,000 --> 00:01:22,000
+So I'm asking you that
+
+39
+00:01:22,000 --> 00:01:24,000
+Let's say that you have to join a gym
+
+40
+00:01:24,000 --> 00:01:26,000
+You have to join a gym, right?
+
+41
+00:01:26,000 --> 00:01:28,000
+And you have to take a personal trainer
+
+42
+00:01:28,000 --> 00:01:30,000
+So I'm asking you that are you convinced with the gym and the personal trainer?
+
+43
+00:01:30,000 --> 00:01:32,000
+Will you build a body or not?
+
+44
+00:01:32,000 --> 00:01:34,000
+Will it be a dependent outcome of your
+
+45
+00:01:34,000 --> 00:01:36,000
+Efforts and you know
+
+46
+00:01:36,000 --> 00:01:38,000
+How much the gym and the personal trainer
+
+47
+00:01:38,000 --> 00:01:40,000
+Are able to offer you, right?
+
+48
+00:01:40,000 --> 00:01:42,000
+But as of now I'm asking you that
+
+49
+00:01:42,000 --> 00:01:44,000
+Are you convinced with the gym and the personal trainer?
+
+50
+00:01:44,000 --> 00:01:46,000
+Yes, yes
+
+51
+00:01:46,000 --> 00:01:48,000
+You are, okay
+
+52
+00:01:48,000 --> 00:01:50,000
+You are also telling me that you have seen other platforms as well, right?
+
+53
+00:01:50,000 --> 00:01:52,000
+Yeah
+
+54
+00:01:52,000 --> 00:01:54,000
+So have you checked the fees of that
+
+55
+00:01:54,000 --> 00:01:56,000
+The Upgrad program or I think
+
+56
+00:01:56,000 --> 00:01:58,000
+You told me about Coding Ninja
+
+57
+00:01:58,000 --> 00:02:00,000
+Yeah, it was around
+
+58
+00:02:00,000 --> 00:02:02,000
+40-50k or somewhere like that
+
+59
+00:02:02,000 --> 00:02:04,000
+Yeah, yeah, yeah, I'm aware of that
+
+60
+00:02:04,000 --> 00:02:06,000
+So first of all you know that right, the Coding Ninja
+
+61
+00:02:06,000 --> 00:02:08,000
+All the classes are recorded, there are no live sessions
+
+62
+00:02:10,000 --> 00:02:12,000
+So I mean that's, there are a lot many
+
+63
+00:02:12,000 --> 00:02:14,000
+Things I think in the first conversation itself
+
+64
+00:02:14,000 --> 00:02:16,000
+I told you a lot of differences probably, that's why you are
+
+65
+00:02:16,000 --> 00:02:18,000
+You are still, like you know
+
+66
+00:02:18,000 --> 00:02:20,000
+That's why you are still having this conversation
+
+67
+00:02:20,000 --> 00:02:22,000
+Yeah, so we don't need to have this conversation again
+
+68
+00:02:24,000 --> 00:02:26,000
+The only point is there are financial constraints
+
+69
+00:02:26,000 --> 00:02:28,000
+So on the finances front
+
+70
+00:02:28,000 --> 00:02:30,000
+The EMI is something
+
+71
+00:02:30,000 --> 00:02:32,000
+I guess Karan must have told you that
+
+72
+00:02:32,000 --> 00:02:34,000
+In exception cases we can get that started from September, right?
+
+73
+00:02:40,000 --> 00:02:42,000
+Hello
+
+74
+00:02:42,000 --> 00:02:44,000
+Hello
+
+75
+00:02:44,000 --> 00:02:46,000
+Hello
+
+76
+00:02:46,000 --> 00:02:48,000
+Hello, can you hear me?
+
+77
+00:02:50,000 --> 00:02:52,000
+Yes
+

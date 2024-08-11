@@ -1,0 +1,3672 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi, is this Fayaz?
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes, yes
+
+5
+00:00:08,000 --> 00:00:10,000
+Fayaz, Mayank here this side
+
+6
+00:00:10,000 --> 00:00:12,000
+I am an associate manager with Scalar Academy
+
+7
+00:00:12,000 --> 00:00:14,000
+How are you?
+
+8
+00:00:14,000 --> 00:00:16,000
+Yes, I am good
+
+9
+00:00:16,000 --> 00:00:18,000
+Fayaz, I believe some time back you requested for a call back
+
+10
+00:00:18,000 --> 00:00:20,000
+Is it?
+
+11
+00:00:20,000 --> 00:00:22,000
+Yes, yes, yes
+
+12
+00:00:22,000 --> 00:00:24,000
+Okay, do you want to know anything about the Scalar program?
+
+13
+00:00:24,000 --> 00:00:26,000
+Yes, I would like to, you know, can you just briefly
+
+14
+00:00:26,000 --> 00:00:28,000
+tell me what the program is about?
+
+15
+00:00:28,000 --> 00:00:30,000
+Yeah, I can do that but
+
+16
+00:00:30,000 --> 00:00:32,000
+counsellors were trying to reach you, I mean
+
+17
+00:00:32,000 --> 00:00:34,000
+they were not able to get to you, any specific reason for that?
+
+18
+00:00:34,000 --> 00:00:36,000
+Actually, I have been busy
+
+19
+00:00:36,000 --> 00:00:38,000
+quite, I was busy yesterday
+
+20
+00:00:38,000 --> 00:00:40,000
+so I actually
+
+21
+00:00:40,000 --> 00:00:42,000
+informed them the same
+
+22
+00:00:42,000 --> 00:00:44,000
+Not an issue, so Fayaz, I believe you are into QA, right?
+
+23
+00:00:44,000 --> 00:00:46,000
+Yes
+
+24
+00:00:46,000 --> 00:00:48,000
+Okay, great, and
+
+25
+00:00:48,000 --> 00:00:50,000
+what is the career path you have ahead of you?
+
+26
+00:00:50,000 --> 00:00:52,000
+What are the aspirations that you have?
+
+27
+00:00:52,000 --> 00:00:54,000
+I wanna, you know
+
+28
+00:00:54,000 --> 00:00:56,000
+I was exploring the field of
+
+29
+00:00:56,000 --> 00:00:58,000
+data science actually
+
+30
+00:00:58,000 --> 00:01:00,000
+So if you can, yeah
+
+31
+00:01:00,000 --> 00:01:02,000
+I'll put some light on it
+
+32
+00:01:02,000 --> 00:01:04,000
+Alright, so have you done any research about Scalar
+
+33
+00:01:04,000 --> 00:01:06,000
+Fayaz? Have you gone to the websites, seen the curriculum
+
+34
+00:01:06,000 --> 00:01:08,000
+duration, fees?
+
+35
+00:01:08,000 --> 00:01:10,000
+Yeah, from
+
+36
+00:01:10,000 --> 00:01:12,000
+you know, on a high level, I didn't
+
+37
+00:01:12,000 --> 00:01:14,000
+delve deeply
+
+38
+00:01:14,000 --> 00:01:16,000
+into it but
+
+39
+00:01:16,000 --> 00:01:18,000
+I was just going through it
+
+40
+00:01:18,000 --> 00:01:20,000
+Okay, so Fayaz, any
+
+41
+00:01:20,000 --> 00:01:22,000
+specific reason why you want to switch to
+
+42
+00:01:22,000 --> 00:01:24,000
+data science?
+
+43
+00:01:26,000 --> 00:01:28,000
+Well
+
+44
+00:01:28,000 --> 00:01:30,000
+I think that field
+
+45
+00:01:30,000 --> 00:01:32,000
+interests me more
+
+46
+00:01:32,000 --> 00:01:34,000
+Okay
+
+47
+00:01:34,000 --> 00:01:36,000
+What is your educational background?
+
+48
+00:01:36,000 --> 00:01:38,000
+Are you a B.Tech, B.Sc?
+
+49
+00:01:38,000 --> 00:01:40,000
+Yeah, I've done my B.Tech
+
+50
+00:01:40,000 --> 00:01:42,000
+Alright, in which subject?
+
+51
+00:01:42,000 --> 00:01:44,000
+In Mechanical Engineering
+
+52
+00:01:44,000 --> 00:01:46,000
+Mechanical Engineering, okay
+
+53
+00:01:46,000 --> 00:01:48,000
+So how did you end up in QA?
+
+54
+00:01:50,000 --> 00:01:52,000
+Well
+
+55
+00:01:52,000 --> 00:01:54,000
+I just wanted to
+
+56
+00:01:54,000 --> 00:01:56,000
+switch to computer science
+
+57
+00:01:56,000 --> 00:01:58,000
+and this was
+
+58
+00:01:58,000 --> 00:02:00,000
+the opportunity I got so I just
+
+59
+00:02:00,000 --> 00:02:02,000
+took it
+
+60
+00:02:02,000 --> 00:02:04,000
+Not an issue, so I'm guessing you're currently working right now, right?
+
+61
+00:02:04,000 --> 00:02:06,000
+Yes
+
+62
+00:02:06,000 --> 00:02:08,000
+Okay, how long have you been working?
+
+63
+00:02:10,000 --> 00:02:12,000
+It'll be like
+
+64
+00:02:12,000 --> 00:02:14,000
+2 years in September
+
+65
+00:02:14,000 --> 00:02:16,000
+Okay, great, which organization?
+
+66
+00:02:16,000 --> 00:02:18,000
+Cognizant
+
+67
+00:02:18,000 --> 00:02:20,000
+Cognizant, okay
+
+68
+00:02:20,000 --> 00:02:22,000
+And Fayaz, what is your current salary range?
+
+69
+00:02:22,000 --> 00:02:24,000
+Is it around 4-5 LPM?
+
+70
+00:02:24,000 --> 00:02:26,000
+Yes
+
+71
+00:02:26,000 --> 00:02:28,000
+Okay, good, good, good
+
+72
+00:02:28,000 --> 00:02:30,000
+So when it comes to data science, I mean
+
+73
+00:02:30,000 --> 00:02:32,000
+have you done any sort of research
+
+74
+00:02:32,000 --> 00:02:34,000
+in terms of what is the sort of work they do?
+
+75
+00:02:34,000 --> 00:02:36,000
+What is the job profile they have? What is the skill set you need?
+
+76
+00:02:38,000 --> 00:02:40,000
+Yes
+
+77
+00:02:40,000 --> 00:02:42,000
+I did some basic research, yeah
+
+78
+00:02:42,000 --> 00:02:44,000
+Alright, so
+
+79
+00:02:44,000 --> 00:02:46,000
+like you are gunning to go for a data
+
+80
+00:02:46,000 --> 00:02:48,000
+analyst kind of a role or a data scientist kind of a role?
+
+81
+00:02:48,000 --> 00:02:50,000
+Well, initially
+
+82
+00:02:50,000 --> 00:02:52,000
+I was thinking for
+
+83
+00:02:52,000 --> 00:02:54,000
+data analyst
+
+84
+00:02:54,000 --> 00:02:56,000
+because it is more easy to
+
+85
+00:02:56,000 --> 00:02:58,000
+switch to
+
+86
+00:02:58,000 --> 00:03:00,000
+data analyst, right? And then I can
+
+87
+00:03:00,000 --> 00:03:02,000
+work on
+
+88
+00:03:02,000 --> 00:03:04,000
+my skills to
+
+89
+00:03:04,000 --> 00:03:06,000
+become a data
+
+90
+00:03:06,000 --> 00:03:08,000
+scientist later
+
+91
+00:03:08,000 --> 00:03:10,000
+Definitely, definitely, so I'll just give you a road
+
+92
+00:03:10,000 --> 00:03:12,000
+map of like you know how
+
+93
+00:03:12,000 --> 00:03:14,000
+ideal or a
+
+94
+00:03:14,000 --> 00:03:16,000
+good data science career would look like
+
+95
+00:03:16,000 --> 00:03:18,000
+Okay, so you start as a data
+
+96
+00:03:18,000 --> 00:03:20,000
+analyst, then you move to
+
+97
+00:03:20,000 --> 00:03:22,000
+higher roles as a data scientist
+
+98
+00:03:22,000 --> 00:03:24,000
+and work in that kind of field for 2-3 years
+
+99
+00:03:24,000 --> 00:03:26,000
+and then what you do is
+
+100
+00:03:26,000 --> 00:03:28,000
+you move into AI or ML?
+
+101
+00:03:28,000 --> 00:03:30,000
+Okay, I must know
+
+102
+00:03:30,000 --> 00:03:32,000
+You move into as an ML
+
+103
+00:03:32,000 --> 00:03:34,000
+engineer or AI engineer because ML
+
+104
+00:03:34,000 --> 00:03:36,000
+and AI engineer are
+
+105
+00:03:36,000 --> 00:03:38,000
+and will be the most highly paid jobs
+
+106
+00:03:38,000 --> 00:03:40,000
+in the market in the coming years
+
+107
+00:03:40,000 --> 00:03:42,000
+Okay, okay
+
+108
+00:03:42,000 --> 00:03:44,000
+Right, so how did you know about
+
+109
+00:03:44,000 --> 00:03:46,000
+get to know about scalars, Fayaz? Did someone
+
+110
+00:03:46,000 --> 00:03:48,000
+suggest it to you or did you see some
+
+111
+00:03:48,000 --> 00:03:50,000
+advertisement?
+
+112
+00:03:50,000 --> 00:03:52,000
+I've been known about it
+
+113
+00:03:52,000 --> 00:03:54,000
+since long time, I think someone
+
+114
+00:03:54,000 --> 00:03:56,000
+suggested it to me
+
+115
+00:03:56,000 --> 00:03:58,000
+Okay, has any of your acquaintances or
+
+116
+00:03:58,000 --> 00:04:00,000
+friends done the scalar program?
+
+117
+00:04:02,000 --> 00:04:04,000
+I don't think so
+
+118
+00:04:04,000 --> 00:04:06,000
+You don't think so, okay, have you attended
+
+119
+00:04:06,000 --> 00:04:08,000
+any of our master classes?
+
+120
+00:04:10,000 --> 00:04:12,000
+Sorry? Have you attended
+
+121
+00:04:12,000 --> 00:04:14,000
+any of our master classes, the webinars that
+
+122
+00:04:14,000 --> 00:04:16,000
+you organize?
+
+123
+00:04:16,000 --> 00:04:18,000
+Not an issue, not an issue
+
+124
+00:04:18,000 --> 00:04:20,000
+So Fayaz, like you know, just last
+
+125
+00:04:20,000 --> 00:04:22,000
+question that I wanted to ask, after that I'll give you
+
+126
+00:04:22,000 --> 00:04:24,000
+a brief, is that what stage are you in?
+
+127
+00:04:24,000 --> 00:04:26,000
+Are you in a stage that you are exploring that
+
+128
+00:04:26,000 --> 00:04:28,000
+I could go into data science or is it a phase
+
+129
+00:04:28,000 --> 00:04:30,000
+that you have made up your mind that I have to go into
+
+130
+00:04:30,000 --> 00:04:32,000
+data science and you are thinking
+
+131
+00:04:32,000 --> 00:04:34,000
+where to start from?
+
+132
+00:04:34,000 --> 00:04:36,000
+Looking for the direction?
+
+133
+00:04:36,000 --> 00:04:38,000
+Yes, alright, alright, alright
+
+134
+00:04:38,000 --> 00:04:40,000
+So basically just a very small
+
+135
+00:04:40,000 --> 00:04:42,000
+brief about scalars, scalars is an upscaling
+
+136
+00:04:42,000 --> 00:04:44,000
+platform, okay
+
+137
+00:04:44,000 --> 00:04:46,000
+So here, when it comes to
+
+138
+00:04:46,000 --> 00:04:48,000
+data science, data science and machine
+
+139
+00:04:48,000 --> 00:04:50,000
+learning, we have a different program
+
+140
+00:04:50,000 --> 00:04:52,000
+for that, and it is divided
+
+141
+00:04:52,000 --> 00:04:54,000
+into three different batches, beginner, intermediate
+
+142
+00:04:54,000 --> 00:04:56,000
+and advanced
+
+143
+00:04:56,000 --> 00:04:58,000
+So for someone like you who is coming
+
+144
+00:04:58,000 --> 00:05:00,000
+from a QA background,
+
+145
+00:05:00,000 --> 00:05:02,000
+we have the beginner batch for you where you can start
+
+146
+00:05:02,000 --> 00:05:04,000
+from a very basic level
+
+147
+00:05:04,000 --> 00:05:06,000
+Now data science
+
+148
+00:05:06,000 --> 00:05:08,000
+basically is all about four to five
+
+149
+00:05:08,000 --> 00:05:10,000
+tools which you need to operate on
+
+150
+00:05:10,000 --> 00:05:12,000
+and you can get the best insights by using them
+
+151
+00:05:12,000 --> 00:05:14,000
+Those four to five tools are
+
+152
+00:05:14,000 --> 00:05:16,000
+Power BI, W,
+
+153
+00:05:16,000 --> 00:05:18,000
+Python and MySQL
+
+154
+00:05:18,000 --> 00:05:20,000
+Right, so
+
+155
+00:05:20,000 --> 00:05:22,000
+the first part of you becoming a good data
+
+156
+00:05:22,000 --> 00:05:24,000
+analyst is getting the right skill sets for these
+
+157
+00:05:24,000 --> 00:05:26,000
+Okay
+
+158
+00:05:26,000 --> 00:05:28,000
+The second part of being a good data analyst is
+
+159
+00:05:28,000 --> 00:05:30,000
+that you need to have a good project portfolio
+
+160
+00:05:32,000 --> 00:05:34,000
+Project portfolio, right?
+
+161
+00:05:34,000 --> 00:05:36,000
+Right
+
+162
+00:05:36,000 --> 00:05:38,000
+Like you have to build a right project portfolio for yourself
+
+163
+00:05:38,000 --> 00:05:40,000
+where when you sit in the interviews,
+
+164
+00:05:40,000 --> 00:05:42,000
+you can showcase them why you are the right
+
+165
+00:05:42,000 --> 00:05:44,000
+fit for the job since you have worked on
+
+166
+00:05:44,000 --> 00:05:46,000
+similar kind of projects from before
+
+167
+00:05:46,000 --> 00:05:48,000
+Okay, thank you
+
+168
+00:05:48,000 --> 00:05:50,000
+Right, and to help your cause
+
+169
+00:05:50,000 --> 00:05:52,000
+I mean, you know, if you have a mentor with you
+
+170
+00:05:52,000 --> 00:05:54,000
+who is working in a top company
+
+171
+00:05:54,000 --> 00:05:56,000
+in these kind of roles
+
+172
+00:05:56,000 --> 00:05:58,000
+that is something which will also be helpful
+
+173
+00:05:58,000 --> 00:06:00,000
+Plus, at the end of it all,
+
+174
+00:06:00,000 --> 00:06:02,000
+what you need is a solid placement
+
+175
+00:06:02,000 --> 00:06:04,000
+support
+
+176
+00:06:04,000 --> 00:06:06,000
+because to
+
+177
+00:06:06,000 --> 00:06:08,000
+transition into any other field,
+
+178
+00:06:08,000 --> 00:06:10,000
+the most difficult part is the entry level position
+
+179
+00:06:14,000 --> 00:06:16,000
+Hello
+
+180
+00:06:16,000 --> 00:06:18,000
+Hello
+
+181
+00:06:18,000 --> 00:06:20,000
+Can you hear me?
+
+182
+00:06:20,000 --> 00:06:22,000
+Yeah, now I can
+
+183
+00:06:22,000 --> 00:06:24,000
+Okay, so I was telling you that if you transition into a new field
+
+184
+00:06:24,000 --> 00:06:26,000
+the most difficult part about that is the entry level
+
+185
+00:06:26,000 --> 00:06:28,000
+first step, to get the first job
+
+186
+00:06:28,000 --> 00:06:30,000
+in that field, right?
+
+187
+00:06:30,000 --> 00:06:32,000
+And for that, if you can have a solid
+
+188
+00:06:32,000 --> 00:06:34,000
+kind of a
+
+189
+00:06:34,000 --> 00:06:36,000
+system where you can apply to multiple companies
+
+190
+00:06:36,000 --> 00:06:38,000
+get interview calls, that always helps
+
+191
+00:06:38,000 --> 00:06:40,000
+the cause
+
+192
+00:06:40,000 --> 00:06:42,000
+Right, so if I talk about the
+
+193
+00:06:42,000 --> 00:06:44,000
+market standard of a data analyst
+
+194
+00:06:44,000 --> 00:06:46,000
+pay right now, it starts
+
+195
+00:06:46,000 --> 00:06:48,000
+somewhere around 5-6 LPA
+
+196
+00:06:48,000 --> 00:06:50,000
+goes up to 20 LPA for a starting
+
+197
+00:06:50,000 --> 00:06:52,000
+position
+
+198
+00:06:52,000 --> 00:06:54,000
+However, after scalar, if you
+
+199
+00:06:54,000 --> 00:06:56,000
+upscale yourself through scalar
+
+200
+00:06:56,000 --> 00:06:58,000
+the starting package for a data analyst
+
+201
+00:06:58,000 --> 00:07:00,000
+ranges somewhere around 8-9 LPA
+
+202
+00:07:00,000 --> 00:07:02,000
+and goes again up to 18-20 LPA
+
+203
+00:07:02,000 --> 00:07:04,000
+depending on what skill set you have gained
+
+204
+00:07:04,000 --> 00:07:06,000
+and what companies you are able to crack
+
+205
+00:07:08,000 --> 00:07:10,000
+Right, so the
+
+206
+00:07:10,000 --> 00:07:12,000
+beginner program here at scalar
+
+207
+00:07:12,000 --> 00:07:14,000
+Fayaz is around
+
+208
+00:07:14,000 --> 00:07:16,000
+12 months
+
+209
+00:07:16,000 --> 00:07:18,000
+Okay, it's a one year program
+
+210
+00:07:18,000 --> 00:07:20,000
+Yeah, and the reason for that is
+
+211
+00:07:20,000 --> 00:07:22,000
+very specific, our goal at the end
+
+212
+00:07:22,000 --> 00:07:24,000
+of the day, Fayaz is not just to get you
+
+213
+00:07:24,000 --> 00:07:26,000
+an entry level job in any company as a data
+
+214
+00:07:26,000 --> 00:07:28,000
+analyst, our goal is to
+
+215
+00:07:28,000 --> 00:07:30,000
+help you transition into this field
+
+216
+00:07:30,000 --> 00:07:32,000
+and when we talk about a transition
+
+217
+00:07:32,000 --> 00:07:34,000
+it means that you know, you getting a job
+
+218
+00:07:34,000 --> 00:07:36,000
+is a part of it and then growing in that sector
+
+219
+00:07:36,000 --> 00:07:38,000
+for next 10-15-20 years
+
+220
+00:07:38,000 --> 00:07:40,000
+So we prepare you
+
+221
+00:07:40,000 --> 00:07:42,000
+and focus on foundations
+
+222
+00:07:42,000 --> 00:07:44,000
+Absolutely, so we
+
+223
+00:07:44,000 --> 00:07:46,000
+cover end to end
+
+224
+00:07:46,000 --> 00:07:48,000
+It's not just the data analytics
+
+225
+00:07:48,000 --> 00:07:50,000
+or data scientist kind of a skill set
+
+226
+00:07:50,000 --> 00:07:52,000
+that you will learn here at scalar
+
+227
+00:07:52,000 --> 00:07:54,000
+There is a specialization as well
+
+228
+00:07:54,000 --> 00:07:56,000
+as a part of the program which is AI or
+
+229
+00:07:56,000 --> 00:07:58,000
+ML, which you have to choose
+
+230
+00:07:58,000 --> 00:08:00,000
+and you know, moving forward as I told you
+
+231
+00:08:00,000 --> 00:08:02,000
+3-4 years later, move into that kind of a domain
+
+232
+00:08:02,000 --> 00:08:04,000
+Okay
+
+233
+00:08:04,000 --> 00:08:06,000
+So Fayaz, I mean
+
+234
+00:08:06,000 --> 00:08:08,000
+what are your work timings and all
+
+235
+00:08:08,000 --> 00:08:10,000
+Do you think you can dedicate 10-12 hours of time
+
+236
+00:08:10,000 --> 00:08:12,000
+on a weekly basis?
+
+237
+00:08:12,000 --> 00:08:14,000
+On a weekly basis
+
+238
+00:08:14,000 --> 00:08:16,000
+I mean, can that
+
+239
+00:08:16,000 --> 00:08:18,000
+be flexible or do I need to
+
+240
+00:08:18,000 --> 00:08:20,000
+shed out X number of
+
+241
+00:08:20,000 --> 00:08:22,000
+hours daily?
+
+242
+00:08:22,000 --> 00:08:24,000
+No, it's not like that Fayaz, I'll break down the 10-12
+
+243
+00:08:24,000 --> 00:08:26,000
+hours for you, okay
+
+244
+00:08:26,000 --> 00:08:28,000
+So it will be broken down into
+
+245
+00:08:28,000 --> 00:08:30,000
+here at scalar, we do not have any recorded
+
+246
+00:08:30,000 --> 00:08:32,000
+sessions, it's only live classes
+
+247
+00:08:32,000 --> 00:08:34,000
+Okay, okay, okay
+
+248
+00:08:34,000 --> 00:08:36,000
+So you have 3 live classes to attend every week
+
+249
+00:08:36,000 --> 00:08:38,000
+It can either be on Monday, Wednesday, Friday
+
+250
+00:08:38,000 --> 00:08:40,000
+or it can be on Tuesday, Thursday, Saturday
+
+251
+00:08:40,000 --> 00:08:42,000
+And what's the duration
+
+252
+00:08:42,000 --> 00:08:44,000
+of those classes? 1.5 to 2 hours
+
+253
+00:08:44,000 --> 00:08:46,000
+Okay, and
+
+254
+00:08:46,000 --> 00:08:48,000
+the timings?
+
+255
+00:08:48,000 --> 00:08:50,000
+Yeah, we have 2 batches, the morning batch is
+
+256
+00:08:50,000 --> 00:08:52,000
+there from 7 to 9 and the evening batch is
+
+257
+00:08:52,000 --> 00:08:54,000
+there from 9 to 11
+
+258
+00:08:54,000 --> 00:08:56,000
+Yeah, then I think it's
+
+259
+00:08:56,000 --> 00:08:58,000
+easily managed
+
+260
+00:08:58,000 --> 00:09:00,000
+You'll be able to manage that, okay
+
+261
+00:09:00,000 --> 00:09:02,000
+So how it, like you know, how we do it
+
+262
+00:09:02,000 --> 00:09:04,000
+here is that first you attend the live
+
+263
+00:09:04,000 --> 00:09:06,000
+classes, right?
+
+264
+00:09:06,000 --> 00:09:08,000
+Then you have assignments to solve based
+
+265
+00:09:08,000 --> 00:09:10,000
+on these live classes, where you solve
+
+266
+00:09:10,000 --> 00:09:12,000
+problems, where you solve
+
+267
+00:09:12,000 --> 00:09:14,000
+you know, inputs, outputs, all those
+
+268
+00:09:14,000 --> 00:09:16,000
+kind of things
+
+269
+00:09:16,000 --> 00:09:18,000
+Now when you choose to solve these assignments, it's completely
+
+270
+00:09:18,000 --> 00:09:20,000
+up to you, you want to do that on the weekends
+
+271
+00:09:20,000 --> 00:09:22,000
+you can do that, you want to do it on the weekdays, when you don't
+
+272
+00:09:22,000 --> 00:09:24,000
+have the class, you can do that
+
+273
+00:09:24,000 --> 00:09:26,000
+Right, the classes will be taken
+
+274
+00:09:26,000 --> 00:09:28,000
+by instructors who are, you know
+
+275
+00:09:28,000 --> 00:09:30,000
+veterans in the industry
+
+276
+00:09:30,000 --> 00:09:32,000
+they are not any college professors, they are
+
+277
+00:09:32,000 --> 00:09:34,000
+working professionals
+
+278
+00:09:34,000 --> 00:09:36,000
+who are in the industry right now, okay
+
+279
+00:09:36,000 --> 00:09:38,000
+And then when you solve
+
+280
+00:09:38,000 --> 00:09:40,000
+the assignments, very high likelihood
+
+281
+00:09:40,000 --> 00:09:42,000
+is there that there will be a lot of doubts that you will
+
+282
+00:09:42,000 --> 00:09:44,000
+come across
+
+283
+00:09:44,000 --> 00:09:46,000
+Correct, and for that we have a teaching
+
+284
+00:09:46,000 --> 00:09:48,000
+associate assigned to you
+
+285
+00:09:48,000 --> 00:09:50,000
+who you can connect over a voice call or a video call
+
+286
+00:09:50,000 --> 00:09:52,000
+and they will connect with you, revert you with you
+
+287
+00:09:52,000 --> 00:09:54,000
+within one hour and solve your doubt
+
+288
+00:09:54,000 --> 00:09:56,000
+or query, whatever it is
+
+289
+00:09:56,000 --> 00:09:58,000
+Right, now
+
+290
+00:09:58,000 --> 00:10:00,000
+you, first you start
+
+291
+00:10:00,000 --> 00:10:02,000
+if I talk about the beginner, you first learn Python
+
+292
+00:10:02,000 --> 00:10:04,000
+because Python is the most used language for a data
+
+293
+00:10:04,000 --> 00:10:06,000
+science role
+
+294
+00:10:06,000 --> 00:10:08,000
+Then you learn about the functions of Python
+
+295
+00:10:08,000 --> 00:10:10,000
+then you learn about the functions of Python
+
+296
+00:10:10,000 --> 00:10:12,000
+in relation to data science
+
+297
+00:10:12,000 --> 00:10:14,000
+Then you learn about
+
+298
+00:10:14,000 --> 00:10:16,000
+the four tools that I told you about
+
+299
+00:10:16,000 --> 00:10:18,000
+Yeah, SQL
+
+300
+00:10:18,000 --> 00:10:20,000
+Yeah, the four tools and then comes the interesting part
+
+301
+00:10:20,000 --> 00:10:22,000
+where you work on
+
+302
+00:10:22,000 --> 00:10:24,000
+75 to 80 case studies
+
+303
+00:10:24,000 --> 00:10:26,000
+real world case studies
+
+304
+00:10:26,000 --> 00:10:28,000
+Okay, now these case studies
+
+305
+00:10:28,000 --> 00:10:30,000
+are a very peculiar part about
+
+306
+00:10:30,000 --> 00:10:32,000
+scalar pairs where
+
+307
+00:10:32,000 --> 00:10:34,000
+you know the companies that we have a tie up with in terms of
+
+308
+00:10:34,000 --> 00:10:36,000
+placement, they have been kind
+
+309
+00:10:36,000 --> 00:10:38,000
+enough to provide you with around 100-150
+
+310
+00:10:38,000 --> 00:10:40,000
+real world case studies, the real world
+
+311
+00:10:40,000 --> 00:10:42,000
+problems that they face while operating
+
+312
+00:10:42,000 --> 00:10:44,000
+and how they solved it
+
+313
+00:10:44,000 --> 00:10:46,000
+Okay, and you will be working
+
+314
+00:10:46,000 --> 00:10:48,000
+on 75 to 80 such case studies
+
+315
+00:10:48,000 --> 00:10:50,000
+for like you know which will lead
+
+316
+00:10:50,000 --> 00:10:52,000
+to two things, first thing is
+
+317
+00:10:52,000 --> 00:10:54,000
+it will build you a solid project portfolio
+
+318
+00:10:54,000 --> 00:10:56,000
+and second it will give you
+
+319
+00:10:56,000 --> 00:10:58,000
+the right hands on experience, practical experience
+
+320
+00:10:58,000 --> 00:11:00,000
+and it will also
+
+321
+00:11:00,000 --> 00:11:02,000
+give you a taste of
+
+322
+00:11:02,000 --> 00:11:04,000
+what is it that you can expect
+
+323
+00:11:04,000 --> 00:11:06,000
+when you move into
+
+324
+00:11:06,000 --> 00:11:08,000
+these kind of roles, what is the kind of
+
+325
+00:11:08,000 --> 00:11:10,000
+job role it will be, what is expected of you
+
+326
+00:11:10,000 --> 00:11:12,000
+Okay
+
+327
+00:11:12,000 --> 00:11:14,000
+Getting my point, and to
+
+328
+00:11:14,000 --> 00:11:16,000
+streamline the process to have
+
+329
+00:11:16,000 --> 00:11:18,000
+to ensure that you have the right direction
+
+330
+00:11:18,000 --> 00:11:20,000
+moving forward for us, we have
+
+331
+00:11:20,000 --> 00:11:22,000
+mentorship in the program
+
+332
+00:11:22,000 --> 00:11:24,000
+Okay, so what we will do is
+
+333
+00:11:24,000 --> 00:11:26,000
+we will assign you, like you know
+
+334
+00:11:26,000 --> 00:11:28,000
+we will give you a list of 5-10 mentors
+
+335
+00:11:28,000 --> 00:11:30,000
+who will have a similar profile
+
+336
+00:11:30,000 --> 00:11:32,000
+as yours, then you
+
+337
+00:11:32,000 --> 00:11:34,000
+can choose the mentor that you think suits
+
+338
+00:11:34,000 --> 00:11:36,000
+your profile the best and that
+
+339
+00:11:36,000 --> 00:11:38,000
+mentor will work as your elder
+
+340
+00:11:38,000 --> 00:11:40,000
+brother or the elder sister in the program
+
+341
+00:11:40,000 --> 00:11:42,000
+who will first give you a proper road map
+
+342
+00:11:42,000 --> 00:11:44,000
+in terms of how to do things
+
+343
+00:11:44,000 --> 00:11:46,000
+you know, how do we get to where
+
+344
+00:11:46,000 --> 00:11:48,000
+you want to be in the duration of next 9-10
+
+345
+00:11:48,000 --> 00:11:50,000
+months, 11 months
+
+346
+00:11:50,000 --> 00:11:52,000
+and they will break it down for you month by month
+
+347
+00:11:52,000 --> 00:11:54,000
+in terms of how we will do all these things
+
+348
+00:11:54,000 --> 00:11:56,000
+Okay
+
+349
+00:11:56,000 --> 00:11:58,000
+Right, and you get a total of
+
+350
+00:11:58,000 --> 00:12:00,000
+20 mentor sessions in which
+
+351
+00:12:00,000 --> 00:12:02,000
+8 will be career counseling sessions
+
+352
+00:12:02,000 --> 00:12:04,000
+and 12 will be mock interviews
+
+353
+00:12:04,000 --> 00:12:06,000
+Okay
+
+354
+00:12:06,000 --> 00:12:08,000
+8 will be career counseling, 12 will be
+
+355
+00:12:08,000 --> 00:12:10,000
+mock interviews
+
+356
+00:12:10,000 --> 00:12:12,000
+So career counseling sessions will completely be
+
+357
+00:12:12,000 --> 00:12:14,000
+focused on the discussion about your career
+
+358
+00:12:14,000 --> 00:12:16,000
+in terms of what is it that you need to work on
+
+359
+00:12:16,000 --> 00:12:18,000
+what topics you need to work on
+
+360
+00:12:18,000 --> 00:12:20,000
+are you going right, where is it that you are going wrong
+
+361
+00:12:20,000 --> 00:12:22,000
+what companies you should target
+
+362
+00:12:22,000 --> 00:12:24,000
+Yes
+
+363
+00:12:24,000 --> 00:12:26,000
+The mock interviews will be one on one mock interviews
+
+364
+00:12:26,000 --> 00:12:28,000
+even though career counseling sessions
+
+365
+00:12:28,000 --> 00:12:30,000
+will be one on one, where you know
+
+366
+00:12:30,000 --> 00:12:32,000
+after every module that is completed
+
+367
+00:12:32,000 --> 00:12:34,000
+in the Scalar program, you will have
+
+368
+00:12:34,000 --> 00:12:36,000
+to give a mock interview
+
+369
+00:12:36,000 --> 00:12:38,000
+Okay, about the skillsets that I have learned
+
+370
+00:12:38,000 --> 00:12:40,000
+Yeah, so that we also
+
+371
+00:12:40,000 --> 00:12:42,000
+get to know that you are on the
+
+372
+00:12:42,000 --> 00:12:44,000
+right path and you are upskilling yourself in
+
+373
+00:12:44,000 --> 00:12:46,000
+the right manner
+
+374
+00:12:46,000 --> 00:12:48,000
+Correct, and if you
+
+375
+00:12:48,000 --> 00:12:50,000
+clear all of these mock interviews
+
+376
+00:12:50,000 --> 00:12:52,000
+till the 7th month end
+
+377
+00:12:52,000 --> 00:12:54,000
+Right, Fayaz?
+
+378
+00:12:54,000 --> 00:12:56,000
+Then your placement, total placement
+
+379
+00:12:56,000 --> 00:12:58,000
+hub will be accessible to you
+
+380
+00:12:58,000 --> 00:13:00,000
+Okay
+
+381
+00:13:00,000 --> 00:13:02,000
+Now what happens here Fayaz, is that
+
+382
+00:13:02,000 --> 00:13:04,000
+Scalar, we have a tie up with around
+
+383
+00:13:04,000 --> 00:13:06,000
+758 top product based
+
+384
+00:13:06,000 --> 00:13:08,000
+companies
+
+385
+00:13:08,000 --> 00:13:10,000
+This includes companies like
+
+386
+00:13:10,000 --> 00:13:12,000
+Microsoft, Amazon, Google, Facebook
+
+387
+00:13:12,000 --> 00:13:14,000
+Paytm, Hotstar, OYO
+
+388
+00:13:14,000 --> 00:13:16,000
+all the kind of good companies that you know of
+
+389
+00:13:16,000 --> 00:13:18,000
+and
+
+390
+00:13:18,000 --> 00:13:20,000
+once the placement portal is active
+
+391
+00:13:20,000 --> 00:13:22,000
+to you, you will be able to see
+
+392
+00:13:22,000 --> 00:13:24,000
+by yourself, what are the companies
+
+393
+00:13:24,000 --> 00:13:26,000
+that have come for placement
+
+394
+00:13:26,000 --> 00:13:28,000
+what are the skillsets that they need, what is
+
+395
+00:13:28,000 --> 00:13:30,000
+the salary they are offering
+
+396
+00:13:32,000 --> 00:13:34,000
+Okay, then you can sit with your mentor
+
+397
+00:13:34,000 --> 00:13:36,000
+and
+
+398
+00:13:36,000 --> 00:13:38,000
+Yeah, first you can sit with your mentor and shortlist
+
+399
+00:13:38,000 --> 00:13:40,000
+the companies that you want to apply for
+
+400
+00:13:40,000 --> 00:13:42,000
+Sorry?
+
+401
+00:13:42,000 --> 00:13:44,000
+First you can sit with your mentor and shortlist
+
+402
+00:13:44,000 --> 00:13:46,000
+the number of companies that you want
+
+403
+00:13:46,000 --> 00:13:48,000
+to apply for
+
+404
+00:13:48,000 --> 00:13:50,000
+Okay, right, then once you have shortlisted
+
+405
+00:13:50,000 --> 00:13:52,000
+then we will help you make a solid
+
+406
+00:13:52,000 --> 00:13:54,000
+resume which is ATS certified
+
+407
+00:13:54,000 --> 00:13:56,000
+because shortlisting
+
+408
+00:13:56,000 --> 00:13:58,000
+of resume is an automated process now
+
+409
+00:13:58,000 --> 00:14:00,000
+it's not a manual process where someone
+
+410
+00:14:00,000 --> 00:14:02,000
+sits and properly looks
+
+411
+00:14:02,000 --> 00:14:04,000
+through your resume and decides if this is the right fit for me or not
+
+412
+00:14:04,000 --> 00:14:06,000
+they just use the
+
+413
+00:14:06,000 --> 00:14:08,000
+keywords, if it's there, they shortlist it
+
+414
+00:14:08,000 --> 00:14:10,000
+if it's not there, they reject it
+
+415
+00:14:10,000 --> 00:14:12,000
+Okay, so once you have sent the resume
+
+416
+00:14:12,000 --> 00:14:14,000
+through the scalar portal itself
+
+417
+00:14:14,000 --> 00:14:16,000
+you will be getting the interview calls
+
+418
+00:14:18,000 --> 00:14:20,000
+Directly via scalar or? Directly via scalar
+
+419
+00:14:20,000 --> 00:14:22,000
+itself, yes
+
+420
+00:14:22,000 --> 00:14:24,000
+and then once you get the interview calls, you can schedule
+
+421
+00:14:24,000 --> 00:14:26,000
+some mock interviews before that to get
+
+422
+00:14:26,000 --> 00:14:28,000
+in touch with things where you will get a taste of the
+
+423
+00:14:28,000 --> 00:14:30,000
+real interview
+
+424
+00:14:30,000 --> 00:14:32,000
+Right, and of course
+
+425
+00:14:32,000 --> 00:14:34,000
+you have to step in the door and
+
+426
+00:14:34,000 --> 00:14:36,000
+track the interviews because that we can't
+
+427
+00:14:36,000 --> 00:14:38,000
+do for you
+
+428
+00:14:38,000 --> 00:14:40,000
+but the opportunity that you will have here
+
+429
+00:14:40,000 --> 00:14:42,000
+there is no limitation as to how many companies
+
+430
+00:14:42,000 --> 00:14:44,000
+you can apply
+
+431
+00:14:44,000 --> 00:14:46,000
+Okay, okay, okay, right, you can keep applying
+
+432
+00:14:46,000 --> 00:14:48,000
+to as many companies as you want till you get
+
+433
+00:14:48,000 --> 00:14:50,000
+the right job that you are looking for
+
+434
+00:14:50,000 --> 00:14:52,000
+So till the moment
+
+435
+00:14:52,000 --> 00:14:54,000
+I get the right job, scalar
+
+436
+00:14:54,000 --> 00:14:56,000
+would be sort of guiding me
+
+437
+00:14:56,000 --> 00:14:58,000
+throughout the process, right?
+
+438
+00:14:58,000 --> 00:15:00,000
+So your placement support as I told you
+
+439
+00:15:00,000 --> 00:15:02,000
+will start by the seventh month
+
+440
+00:15:02,000 --> 00:15:04,000
+and we will be
+
+441
+00:15:04,000 --> 00:15:06,000
+providing you career support
+
+442
+00:15:06,000 --> 00:15:08,000
+till six months after the end
+
+443
+00:15:08,000 --> 00:15:10,000
+of the program
+
+444
+00:15:10,000 --> 00:15:12,000
+That is till the 18th month
+
+445
+00:15:12,000 --> 00:15:14,000
+Yes, yes, yes
+
+446
+00:15:14,000 --> 00:15:16,000
+That's a major big window
+
+447
+00:15:16,000 --> 00:15:18,000
+to be getting placed
+
+448
+00:15:18,000 --> 00:15:20,000
+Right
+
+449
+00:15:20,000 --> 00:15:22,000
+and it depends upon you
+
+450
+00:15:22,000 --> 00:15:24,000
+Fiaz, I mean, you know how well you are able to upskill yourself
+
+451
+00:15:24,000 --> 00:15:26,000
+because generally what we see is
+
+452
+00:15:26,000 --> 00:15:28,000
+by the seventh month if the placement starts
+
+453
+00:15:28,000 --> 00:15:30,000
+for someone coming from a different background
+
+454
+00:15:30,000 --> 00:15:32,000
+around the ninth or tenth month they are able to get
+
+455
+00:15:32,000 --> 00:15:34,000
+a decent placement or a good placement that they are looking for
+
+456
+00:15:34,000 --> 00:15:36,000
+Okay
+
+457
+00:15:36,000 --> 00:15:38,000
+Right, so till now any doubts
+
+458
+00:15:38,000 --> 00:15:40,000
+any queries that you have?
+
+459
+00:15:40,000 --> 00:15:42,000
+No, I don't have any doubts
+
+460
+00:15:42,000 --> 00:15:44,000
+I just want like what makes
+
+461
+00:15:44,000 --> 00:15:46,000
+scalar different from other organizations
+
+462
+00:15:46,000 --> 00:15:48,000
+like Upgrad and
+
+463
+00:15:48,000 --> 00:15:50,000
+Coding India and
+
+464
+00:15:50,000 --> 00:15:52,000
+So, see
+
+465
+00:15:52,000 --> 00:15:54,000
+I mean, let me put it across to you in this manner
+
+466
+00:15:54,000 --> 00:15:56,000
+Okay
+
+467
+00:15:56,000 --> 00:15:58,000
+Every other company out there
+
+468
+00:15:58,000 --> 00:16:00,000
+which is an established company, right?
+
+469
+00:16:00,000 --> 00:16:02,000
+They are offering
+
+470
+00:16:02,000 --> 00:16:04,000
+good services. That is why they are
+
+471
+00:16:04,000 --> 00:16:06,000
+an established company
+
+472
+00:16:06,000 --> 00:16:08,000
+But it depends on
+
+473
+00:16:08,000 --> 00:16:10,000
+the person what requirements
+
+474
+00:16:10,000 --> 00:16:12,000
+that person has and for that
+
+475
+00:16:12,000 --> 00:16:14,000
+a particular company becomes the right fit
+
+476
+00:16:14,000 --> 00:16:16,000
+a particular organization becomes the right fit
+
+477
+00:16:16,000 --> 00:16:18,000
+Right, I mean
+
+478
+00:16:18,000 --> 00:16:20,000
+I do not believe in demeaning any other
+
+479
+00:16:20,000 --> 00:16:22,000
+organization saying that nine years later is the best
+
+480
+00:16:22,000 --> 00:16:24,000
+They are also good, that is why they are selling
+
+481
+00:16:24,000 --> 00:16:26,000
+Right, like everybody has different sort of
+
+482
+00:16:26,000 --> 00:16:28,000
+Yeah, even they are
+
+483
+00:16:28,000 --> 00:16:30,000
+doing well that is why they are selling
+
+484
+00:16:30,000 --> 00:16:32,000
+But the thing is, what you have to assess FAYAS is
+
+485
+00:16:32,000 --> 00:16:34,000
+for your requirements, what is the right fit
+
+486
+00:16:34,000 --> 00:16:36,000
+Now why
+
+487
+00:16:36,000 --> 00:16:38,000
+scalar would be a better fit for you, I can tell you
+
+488
+00:16:38,000 --> 00:16:40,000
+that FAYAS
+
+489
+00:16:40,000 --> 00:16:42,000
+First thing what I can tell you is that
+
+490
+00:16:42,000 --> 00:16:44,000
+live classes are something that doesn't happen
+
+491
+00:16:44,000 --> 00:16:46,000
+anywhere, Coding Ninja is completely recorded
+
+492
+00:16:46,000 --> 00:16:48,000
+Upgrad, they provide
+
+493
+00:16:48,000 --> 00:16:50,000
+live classes but the classes are taken by professors
+
+494
+00:16:50,000 --> 00:16:52,000
+College professors
+
+495
+00:16:52,000 --> 00:16:54,000
+Yes, triple IT Bangalore
+
+496
+00:16:54,000 --> 00:16:56,000
+professors
+
+497
+00:16:56,000 --> 00:16:58,000
+It is triple IT Bangalore professors
+
+498
+00:16:58,000 --> 00:17:00,000
+who take the classes, here at scalar
+
+499
+00:17:00,000 --> 00:17:02,000
+the people who are working in the industry takes the classes
+
+500
+00:17:02,000 --> 00:17:04,000
+Job oriented
+
+501
+00:17:04,000 --> 00:17:06,000
+Yes, job oriented
+
+502
+00:17:06,000 --> 00:17:08,000
+transition also I would say
+
+503
+00:17:08,000 --> 00:17:10,000
+Second part I would say FAYAS is
+
+504
+00:17:10,000 --> 00:17:12,000
+the kind of hands on experience that you can get here
+
+505
+00:17:12,000 --> 00:17:14,000
+at scalar, because hands on experience
+
+506
+00:17:14,000 --> 00:17:16,000
+again is a part of every other program
+
+507
+00:17:16,000 --> 00:17:18,000
+But here at scalar the emphasis is
+
+508
+00:17:18,000 --> 00:17:20,000
+higher on that, because that is
+
+509
+00:17:20,000 --> 00:17:22,000
+one of the core pillars on the basis of which
+
+510
+00:17:22,000 --> 00:17:24,000
+scalar was founded
+
+511
+00:17:24,000 --> 00:17:26,000
+So here you study around
+
+512
+00:17:26,000 --> 00:17:28,000
+75 to 80 case studies as I told you
+
+513
+00:17:28,000 --> 00:17:30,000
+which give you the right hands on experience needed
+
+514
+00:17:30,000 --> 00:17:32,000
+Right
+
+515
+00:17:32,000 --> 00:17:34,000
+Third aspect which I would bring up to you
+
+516
+00:17:34,000 --> 00:17:36,000
+which is again a very important aspect in your case
+
+517
+00:17:36,000 --> 00:17:38,000
+FAYAS is in other
+
+518
+00:17:38,000 --> 00:17:40,000
+platforms there is
+
+519
+00:17:40,000 --> 00:17:42,000
+one single batch in which all sorts
+
+520
+00:17:42,000 --> 00:17:44,000
+of students are there who are
+
+521
+00:17:44,000 --> 00:17:46,000
+entry level like you coming from a different
+
+522
+00:17:46,000 --> 00:17:48,000
+background who are 2 years experienced
+
+523
+00:17:48,000 --> 00:17:50,000
+5 year experience and 12 year experienced
+
+524
+00:17:50,000 --> 00:17:52,000
+All part of the same batch
+
+525
+00:17:52,000 --> 00:17:54,000
+Now the skill set needed
+
+526
+00:17:54,000 --> 00:17:56,000
+for a 12 year experienced person is
+
+527
+00:17:56,000 --> 00:17:58,000
+completely different than yours
+
+528
+00:17:58,000 --> 00:18:00,000
+So what you need is you need
+
+529
+00:18:00,000 --> 00:18:02,000
+a particular batch in which the peers you have
+
+530
+00:18:02,000 --> 00:18:04,000
+are of your skill level
+
+531
+00:18:04,000 --> 00:18:06,000
+And that is something
+
+532
+00:18:06,000 --> 00:18:08,000
+that you can get here with a beginner batch
+
+533
+00:18:10,000 --> 00:18:12,000
+Right, the fourth part FAYAS that I would
+
+534
+00:18:12,000 --> 00:18:14,000
+like to bring up is the fact that
+
+535
+00:18:14,000 --> 00:18:16,000
+the scalar program is quite flexible
+
+536
+00:18:16,000 --> 00:18:18,000
+because it is only for
+
+537
+00:18:18,000 --> 00:18:20,000
+working professionals
+
+538
+00:18:20,000 --> 00:18:22,000
+Right, when it comes to
+
+539
+00:18:22,000 --> 00:18:24,000
+only working professionals the thing is
+
+540
+00:18:24,000 --> 00:18:26,000
+there are options like you can pause the
+
+541
+00:18:26,000 --> 00:18:28,000
+program, there are options like
+
+542
+00:18:28,000 --> 00:18:30,000
+you know if you miss a live class there will be a
+
+543
+00:18:30,000 --> 00:18:32,000
+recorded session and in that recorded session also
+
+544
+00:18:32,000 --> 00:18:34,000
+if you have a doubt or query
+
+545
+00:18:34,000 --> 00:18:36,000
+that can be cleared out to you in the
+
+546
+00:18:36,000 --> 00:18:38,000
+real time
+
+547
+00:18:38,000 --> 00:18:40,000
+So every live class will be recorded
+
+548
+00:18:40,000 --> 00:18:42,000
+Every live class will be recorded yes
+
+549
+00:18:42,000 --> 00:18:44,000
+Then another aspect here
+
+550
+00:18:44,000 --> 00:18:46,000
+Yeah
+
+551
+00:18:46,000 --> 00:18:48,000
+Let's say if I want to go back to a
+
+552
+00:18:48,000 --> 00:18:50,000
+particular lecture and if I want to
+
+553
+00:18:50,000 --> 00:18:52,000
+revise that particular lecture
+
+554
+00:18:52,000 --> 00:18:54,000
+will I be able to do that?
+
+555
+00:18:54,000 --> 00:18:56,000
+Yes you will be able to do that FAYAS
+
+556
+00:18:56,000 --> 00:18:58,000
+The recorded sessions for every class will be accessible to you
+
+557
+00:18:58,000 --> 00:19:00,000
+Right, then one more
+
+558
+00:19:00,000 --> 00:19:02,000
+aspect which I believe is going
+
+559
+00:19:02,000 --> 00:19:04,000
+to make a huge difference is in terms
+
+560
+00:19:04,000 --> 00:19:06,000
+of the personalized learning
+
+561
+00:19:06,000 --> 00:19:08,000
+Right, because
+
+562
+00:19:08,000 --> 00:19:10,000
+see you are
+
+563
+00:19:10,000 --> 00:19:12,000
+considering a transition
+
+564
+00:19:12,000 --> 00:19:14,000
+whenever you are considering a transition
+
+565
+00:19:14,000 --> 00:19:16,000
+the chances of you having
+
+566
+00:19:16,000 --> 00:19:18,000
+doubts and queries will be very high
+
+567
+00:19:18,000 --> 00:19:20,000
+So you need that kind of a hand
+
+568
+00:19:20,000 --> 00:19:22,000
+holding through the first couple of months
+
+569
+00:19:22,000 --> 00:19:24,000
+where like you know if you have a doubt now
+
+570
+00:19:24,000 --> 00:19:26,000
+someone can revert back to you within the next
+
+571
+00:19:26,000 --> 00:19:28,000
+30 minutes to 45 minutes to solve that doubt
+
+572
+00:19:28,000 --> 00:19:30,000
+or query
+
+573
+00:19:30,000 --> 00:19:32,000
+So that is something that we have worked very hard
+
+574
+00:19:32,000 --> 00:19:34,000
+to provide and for that you have a teaching
+
+575
+00:19:34,000 --> 00:19:36,000
+associate in the program
+
+576
+00:19:36,000 --> 00:19:38,000
+where if you are solving an assignment
+
+577
+00:19:38,000 --> 00:19:40,000
+let's see if you have a doubt in the class that you can ask from the
+
+578
+00:19:40,000 --> 00:19:42,000
+instructor itself
+
+579
+00:19:42,000 --> 00:19:44,000
+If you have a doubt while solving the assignment
+
+580
+00:19:44,000 --> 00:19:46,000
+then that is something that
+
+581
+00:19:46,000 --> 00:19:48,000
+you know you can raise a request
+
+582
+00:19:48,000 --> 00:19:50,000
+for an audio call or a video call
+
+583
+00:19:50,000 --> 00:19:52,000
+and the teaching associate
+
+584
+00:19:52,000 --> 00:19:54,000
+revert within the next 30 to 45 minutes
+
+585
+00:19:54,000 --> 00:19:56,000
+connect with you, ask you
+
+586
+00:19:56,000 --> 00:19:58,000
+what is the approach you have taken
+
+587
+00:19:58,000 --> 00:20:00,000
+what are the things and methods you have tried
+
+588
+00:20:00,000 --> 00:20:02,000
+and solve that issue for you end to end
+
+589
+00:20:02,000 --> 00:20:04,000
+Got it
+
+590
+00:20:04,000 --> 00:20:06,000
+So these are some small aspects
+
+591
+00:20:06,000 --> 00:20:08,000
+which will make a big difference
+
+592
+00:20:08,000 --> 00:20:10,000
+and if I talk about the major differences
+
+593
+00:20:10,000 --> 00:20:12,000
+then I would say the placement support of Scalar
+
+594
+00:20:12,000 --> 00:20:14,000
+is something which stands apart from
+
+595
+00:20:14,000 --> 00:20:16,000
+any other platform
+
+596
+00:20:16,000 --> 00:20:18,000
+because we do not have a tie up with any service based
+
+597
+00:20:18,000 --> 00:20:20,000
+company here, they are all product based
+
+598
+00:20:20,000 --> 00:20:22,000
+companies
+
+599
+00:20:22,000 --> 00:20:24,000
+The requirement that we have
+
+600
+00:20:24,000 --> 00:20:26,000
+is you put in the effort from your side Syas
+
+601
+00:20:26,000 --> 00:20:28,000
+you do that and then we will
+
+602
+00:20:28,000 --> 00:20:30,000
+ensure that you get the right job
+
+603
+00:20:30,000 --> 00:20:32,000
+role that you are looking for
+
+604
+00:20:32,000 --> 00:20:34,000
+Okay, correct
+
+605
+00:20:34,000 --> 00:20:36,000
+And then there are other aspects as well
+
+606
+00:20:36,000 --> 00:20:38,000
+like you know there is something called
+
+607
+00:20:38,000 --> 00:20:40,000
+a Scalar community
+
+608
+00:20:40,000 --> 00:20:42,000
+In the Scalar community we have like 14,000
+
+609
+00:20:42,000 --> 00:20:44,000
+alumni who have been part of Scalar
+
+610
+00:20:44,000 --> 00:20:46,000
+till now, the instructors and mentors
+
+611
+00:20:46,000 --> 00:20:48,000
+the co-founders
+
+612
+00:20:48,000 --> 00:20:50,000
+Now what happens is right now
+
+613
+00:20:50,000 --> 00:20:52,000
+you are getting placement support from Scalar
+
+614
+00:20:52,000 --> 00:20:54,000
+so you will get a job
+
+615
+00:20:54,000 --> 00:20:56,000
+but let's say 2 years later if you are looking to switch
+
+616
+00:20:56,000 --> 00:20:58,000
+then Scalar will not be there
+
+617
+00:20:58,000 --> 00:21:00,000
+to help you, right?
+
+618
+00:21:00,000 --> 00:21:02,000
+in terms of placement
+
+619
+00:21:02,000 --> 00:21:04,000
+So at that time the Scalar community
+
+620
+00:21:04,000 --> 00:21:06,000
+will be helpful to you because of 3 reasons
+
+621
+00:21:06,000 --> 00:21:08,000
+One reason is that alumni
+
+622
+00:21:08,000 --> 00:21:10,000
+keep putting referrals
+
+623
+00:21:10,000 --> 00:21:12,000
+in the community whenever there is an opening in their
+
+624
+00:21:12,000 --> 00:21:14,000
+organization
+
+625
+00:21:14,000 --> 00:21:16,000
+Second thing is if you target a particular
+
+626
+00:21:16,000 --> 00:21:18,000
+organization that this organization I want to go to
+
+627
+00:21:18,000 --> 00:21:20,000
+you can find alumni or an instructor
+
+628
+00:21:20,000 --> 00:21:22,000
+or mentor working in that company
+
+629
+00:21:22,000 --> 00:21:24,000
+and you can reach out to them directly
+
+630
+00:21:26,000 --> 00:21:28,000
+Right, and let's say that
+
+631
+00:21:28,000 --> 00:21:30,000
+after 2-3 years there is an
+
+632
+00:21:30,000 --> 00:21:32,000
+interview you are preparing for and there is a particular
+
+633
+00:21:32,000 --> 00:21:34,000
+topic which you need to brush up on
+
+634
+00:21:36,000 --> 00:21:38,000
+So in that case again you can reach out to the mentors
+
+635
+00:21:38,000 --> 00:21:40,000
+instructors, connect with them and get your
+
+636
+00:21:40,000 --> 00:21:42,000
+doubts cleared
+
+637
+00:21:42,000 --> 00:21:44,000
+Right, I hope this was convincing enough for you
+
+638
+00:21:46,000 --> 00:21:48,000
+Yes, and I would like to know
+
+639
+00:21:48,000 --> 00:21:50,000
+like on what basis
+
+640
+00:21:50,000 --> 00:21:52,000
+will I be evaluated on
+
+641
+00:21:52,000 --> 00:21:54,000
+will there be any sort of
+
+642
+00:21:54,000 --> 00:21:56,000
+examinations or just the assignments?
+
+643
+00:21:56,000 --> 00:21:58,000
+See, that's a good
+
+644
+00:21:58,000 --> 00:22:00,000
+question for us, so there are 3 aspects to it
+
+645
+00:22:00,000 --> 00:22:02,000
+First aspect is
+
+646
+00:22:02,000 --> 00:22:04,000
+this is an invite only program
+
+647
+00:22:04,000 --> 00:22:06,000
+so when we
+
+648
+00:22:06,000 --> 00:22:08,000
+take someone in we want to be sure
+
+649
+00:22:08,000 --> 00:22:10,000
+that that person is the right fit for our program
+
+650
+00:22:10,000 --> 00:22:12,000
+and when I say the right
+
+651
+00:22:12,000 --> 00:22:14,000
+fit for the program that's in terms of the
+
+652
+00:22:14,000 --> 00:22:16,000
+commitment, dedication and
+
+653
+00:22:16,000 --> 00:22:18,000
+a basic skill set of logical reasoning and aptitude
+
+654
+00:22:18,000 --> 00:22:20,000
+So for that we take an
+
+655
+00:22:20,000 --> 00:22:22,000
+entrance test first which you have to
+
+656
+00:22:22,000 --> 00:22:24,000
+clear and only when you clear you can enter the
+
+657
+00:22:24,000 --> 00:22:26,000
+program of Scalar and you also get a
+
+658
+00:22:26,000 --> 00:22:28,000
+scholarship on that, that's first aspect
+
+659
+00:22:28,000 --> 00:22:30,000
+Second aspect Faiyaz
+
+660
+00:22:30,000 --> 00:22:32,000
+is after you enroll before your
+
+661
+00:22:32,000 --> 00:22:34,000
+classes start you have to take a
+
+662
+00:22:34,000 --> 00:22:36,000
+subjective exam
+
+663
+00:22:36,000 --> 00:22:38,000
+on the basis of which we allot the beginner
+
+664
+00:22:38,000 --> 00:22:40,000
+intermediate advanced batches
+
+665
+00:22:40,000 --> 00:22:42,000
+Okay, so based upon my
+
+666
+00:22:42,000 --> 00:22:44,000
+score I'll be
+
+667
+00:22:44,000 --> 00:22:46,000
+put into one piece
+
+668
+00:22:46,000 --> 00:22:48,000
+But you don't have to take any
+
+669
+00:22:48,000 --> 00:22:50,000
+extra stress for that Faiyaz because
+
+670
+00:22:50,000 --> 00:22:52,000
+let's face it you are someone new to
+
+671
+00:22:52,000 --> 00:22:54,000
+this field so we can't expect you to
+
+672
+00:22:54,000 --> 00:22:56,000
+get into the advanced or intermediate batches
+
+673
+00:22:56,000 --> 00:22:58,000
+and even if you do that won't
+
+674
+00:22:58,000 --> 00:23:00,000
+be the right thing for you to do because
+
+675
+00:23:00,000 --> 00:23:02,000
+the learning starts from a higher level there
+
+676
+00:23:02,000 --> 00:23:04,000
+Third aspect is
+
+677
+00:23:04,000 --> 00:23:06,000
+Faiyaz that after every module
+
+678
+00:23:06,000 --> 00:23:08,000
+that is completed here at Scalar
+
+679
+00:23:08,000 --> 00:23:10,000
+you will have an online assessment test
+
+680
+00:23:10,000 --> 00:23:12,000
+with your peers and you will
+
+681
+00:23:12,000 --> 00:23:14,000
+have a mock interview which you will have to clear
+
+682
+00:23:16,000 --> 00:23:18,000
+Only when you clear all
+
+683
+00:23:18,000 --> 00:23:20,000
+online assessments and mock interviews by
+
+684
+00:23:20,000 --> 00:23:22,000
+the end of seventh month you become
+
+685
+00:23:22,000 --> 00:23:24,000
+eligible for placements
+
+686
+00:23:26,000 --> 00:23:28,000
+So you mean to say that all the educational
+
+687
+00:23:28,000 --> 00:23:30,000
+part will be
+
+688
+00:23:30,000 --> 00:23:32,000
+covered within seven
+
+689
+00:23:32,000 --> 00:23:34,000
+months? No I am not saying that
+
+690
+00:23:34,000 --> 00:23:36,000
+Faiyaz I am saying the major
+
+691
+00:23:36,000 --> 00:23:38,000
+aspects in terms of you
+
+692
+00:23:38,000 --> 00:23:40,000
+becoming a data analyst
+
+693
+00:23:40,000 --> 00:23:42,000
+will be covered by the end of seventh month
+
+694
+00:23:42,000 --> 00:23:44,000
+Yes
+
+695
+00:23:46,000 --> 00:23:48,000
+Because what happens Faiyaz is
+
+696
+00:23:48,000 --> 00:23:50,000
+after the seventh or eighth month
+
+697
+00:23:50,000 --> 00:23:52,000
+what we cover is the specialization
+
+698
+00:23:54,000 --> 00:23:56,000
+AI or ML
+
+699
+00:23:56,000 --> 00:23:58,000
+So that is something
+
+700
+00:23:58,000 --> 00:24:00,000
+that should be covered in the initial seven months
+
+701
+00:24:00,000 --> 00:24:02,000
+and then would be focusing on
+
+702
+00:24:02,000 --> 00:24:04,000
+the test sales
+
+703
+00:24:04,000 --> 00:24:06,000
+Let me put it across to you in this manner
+
+704
+00:24:06,000 --> 00:24:08,000
+Faiyaz since you told me that you are looking for a data analyst
+
+705
+00:24:08,000 --> 00:24:10,000
+role then the data analyst role starts
+
+706
+00:24:10,000 --> 00:24:12,000
+coming from the seventh month
+
+707
+00:24:12,000 --> 00:24:14,000
+If you are looking for a data scientist role
+
+708
+00:24:14,000 --> 00:24:16,000
+then those roles start coming after tenth month only
+
+709
+00:24:16,000 --> 00:24:18,000
+Yeah
+
+710
+00:24:18,000 --> 00:24:20,000
+Got it
+
+711
+00:24:20,000 --> 00:24:22,000
+Got it
+
+712
+00:24:22,000 --> 00:24:24,000
+Any other questions
+
+713
+00:24:24,000 --> 00:24:26,000
+Faiyaz that you have
+
+714
+00:24:26,000 --> 00:24:28,000
+Please
+
+715
+00:24:28,000 --> 00:24:30,000
+tell me a little about the fee structure
+
+716
+00:24:30,000 --> 00:24:32,000
+and financials
+
+717
+00:24:32,000 --> 00:24:34,000
+Of course Faiyaz so by now
+
+718
+00:24:34,000 --> 00:24:36,000
+till what I have told you I hope you do understand
+
+719
+00:24:36,000 --> 00:24:38,000
+that you know Scalar is a premium program
+
+720
+00:24:38,000 --> 00:24:40,000
+and you know we
+
+721
+00:24:40,000 --> 00:24:42,000
+get you the best of everything
+
+722
+00:24:42,000 --> 00:24:44,000
+in terms of instructors, mentors,
+
+723
+00:24:44,000 --> 00:24:46,000
+placement and everything
+
+724
+00:24:46,000 --> 00:24:48,000
+and obviously everything good in the world comes at a cost
+
+725
+00:24:48,000 --> 00:24:50,000
+right? Yes
+
+726
+00:24:50,000 --> 00:24:52,000
+So if I talk about the Scalar program right now
+
+727
+00:24:52,000 --> 00:24:54,000
+it is priced at 3.69 lakhs
+
+728
+00:24:56,000 --> 00:24:58,000
+But that is not the payable
+
+729
+00:24:58,000 --> 00:25:00,000
+amount because the test that
+
+730
+00:25:00,000 --> 00:25:02,000
+I told you about the eligibility test right
+
+731
+00:25:02,000 --> 00:25:04,000
+If you clear that
+
+732
+00:25:04,000 --> 00:25:06,000
+you get a scholarship of 45000
+
+733
+00:25:08,000 --> 00:25:10,000
+So the fees comes to
+
+734
+00:25:10,000 --> 00:25:12,000
+3.24
+
+735
+00:25:12,000 --> 00:25:14,000
+Okay
+
+736
+00:25:14,000 --> 00:25:16,000
+So is it a one time payment or?
+
+737
+00:25:16,000 --> 00:25:18,000
+No it is not a one time payment Faiyaz
+
+738
+00:25:18,000 --> 00:25:20,000
+So 3.24 is also not a payable amount
+
+739
+00:25:20,000 --> 00:25:22,000
+3.14 will be the payment amount
+
+740
+00:25:22,000 --> 00:25:24,000
+because me being an associate manager
+
+741
+00:25:24,000 --> 00:25:26,000
+we have certain coupons that we can use
+
+742
+00:25:26,000 --> 00:25:28,000
+on certain people
+
+743
+00:25:28,000 --> 00:25:30,000
+So we have been instructed to use it for people below 5 LPS
+
+744
+00:25:30,000 --> 00:25:32,000
+Okay
+
+745
+00:25:32,000 --> 00:25:34,000
+Right so I could give you that coupon
+
+746
+00:25:34,000 --> 00:25:36,000
+it will come to 3.14 lakhs
+
+747
+00:25:36,000 --> 00:25:38,000
+Out of this 3.14 lakhs Faiyaz
+
+748
+00:25:38,000 --> 00:25:40,000
+in the beginning you have to pay a down payment amount of 20,000
+
+749
+00:25:40,000 --> 00:25:42,000
+to book your seat
+
+750
+00:25:42,000 --> 00:25:44,000
+Once you book your seat
+
+751
+00:25:44,000 --> 00:25:46,000
+then we can give you the dashboard access
+
+752
+00:25:46,000 --> 00:25:48,000
+where you can get access to all the master classes
+
+753
+00:25:48,000 --> 00:25:50,000
+you can get some introductory material
+
+754
+00:25:50,000 --> 00:25:52,000
+and we can sort out your mentor as well
+
+755
+00:25:54,000 --> 00:25:56,000
+Once that is done
+
+756
+00:25:56,000 --> 00:25:58,000
+then the remaining amount of 2.94 Faiyaz
+
+757
+00:25:58,000 --> 00:26:00,000
+is something that you can take it on EMI
+
+758
+00:26:00,000 --> 00:26:02,000
+Okay
+
+759
+00:26:02,000 --> 00:26:04,000
+EMI of like what would be
+
+760
+00:26:04,000 --> 00:26:06,000
+the installment amount?
+
+761
+00:26:06,000 --> 00:26:08,000
+It depends on you what is comfortable for you
+
+762
+00:26:08,000 --> 00:26:10,000
+So for what I think is there are two plans
+
+763
+00:26:10,000 --> 00:26:12,000
+which could suit you
+
+764
+00:26:12,000 --> 00:26:14,000
+One plan is a 24 month no cost EMI
+
+765
+00:26:16,000 --> 00:26:18,000
+Okay
+
+766
+00:26:18,000 --> 00:26:20,000
+24 month no cost EMI, the EMI will come somewhere around 12,000 per month
+
+767
+00:26:22,000 --> 00:26:24,000
+Okay
+
+768
+00:26:24,000 --> 00:26:26,000
+And if you want to go for a lower EMI plan
+
+769
+00:26:26,000 --> 00:26:28,000
+then I believe 5 year EMI plan will be a better fit for you
+
+770
+00:26:28,000 --> 00:26:30,000
+Of course it is an interest based EMI plan
+
+771
+00:26:32,000 --> 00:26:34,000
+and the EMI comes somewhere around 6,900 per month
+
+772
+00:26:34,000 --> 00:26:36,000
+6,900 per month
+
+773
+00:26:38,000 --> 00:26:40,000
+Right
+
+774
+00:26:40,000 --> 00:26:42,000
+and this will be for 5 years
+
+775
+00:26:42,000 --> 00:26:44,000
+and the EMI will start getting deducted
+
+776
+00:26:44,000 --> 00:26:46,000
+from the next month
+
+777
+00:26:46,000 --> 00:26:48,000
+of when you enroll
+
+778
+00:26:50,000 --> 00:26:52,000
+Like the admissions that are happening right now
+
+779
+00:26:52,000 --> 00:26:54,000
+is for the July batch
+
+780
+00:26:54,000 --> 00:26:56,000
+If you go for the July batch
+
+781
+00:26:56,000 --> 00:26:58,000
+then your EMI will start getting deducted
+
+782
+00:26:58,000 --> 00:27:00,000
+from August
+
+783
+00:27:00,000 --> 00:27:02,000
+Okay
+
+784
+00:27:02,000 --> 00:27:04,000
+So one month after
+
+785
+00:27:04,000 --> 00:27:06,000
+Yeah
+
+786
+00:27:06,000 --> 00:27:08,000
+That's one part
+
+787
+00:27:08,000 --> 00:27:10,000
+The second part is that
+
+788
+00:27:10,000 --> 00:27:12,000
+you do have an option to foreclose
+
+789
+00:27:12,000 --> 00:27:14,000
+the EMI without any additional charges
+
+790
+00:27:16,000 --> 00:27:18,000
+No one ends up
+
+791
+00:27:18,000 --> 00:27:20,000
+paying the EMI for 5 years
+
+792
+00:27:20,000 --> 00:27:22,000
+once you get a good placement
+
+793
+00:27:22,000 --> 00:27:24,000
+right depending on what
+
+794
+00:27:24,000 --> 00:27:26,000
+placement you get starting from 8, 9
+
+795
+00:27:26,000 --> 00:27:28,000
+to 20 depending on which company you are
+
+796
+00:27:28,000 --> 00:27:30,000
+able to crack
+
+797
+00:27:30,000 --> 00:27:32,000
+What you can do is you can foreclose it earlier
+
+798
+00:27:32,000 --> 00:27:34,000
+You can foreclose it earlier
+
+799
+00:27:34,000 --> 00:27:36,000
+as per how
+
+800
+00:27:36,000 --> 00:27:38,000
+or what you want to do
+
+801
+00:27:38,000 --> 00:27:40,000
+Right
+
+802
+00:27:40,000 --> 00:27:42,000
+So have you explored any other platform
+
+803
+00:27:42,000 --> 00:27:44,000
+Sayaz
+
+804
+00:27:44,000 --> 00:27:46,000
+I just went through coding ninjas
+
+805
+00:27:46,000 --> 00:27:48,000
+I did not
+
+806
+00:27:48,000 --> 00:27:50,000
+do a deep research
+
+807
+00:27:50,000 --> 00:27:52,000
+about it as well
+
+808
+00:27:52,000 --> 00:27:54,000
+That's it
+
+809
+00:27:54,000 --> 00:27:56,000
+Coding ninjas to me seems like
+
+810
+00:27:56,000 --> 00:27:58,000
+they are much more focused
+
+811
+00:27:58,000 --> 00:28:00,000
+They are not job oriented
+
+812
+00:28:00,000 --> 00:28:02,000
+So coding ninjas are recorded sessions
+
+813
+00:28:02,000 --> 00:28:04,000
+There are no live classes in coding ninjas
+
+814
+00:28:06,000 --> 00:28:08,000
+Are you aware of that
+
+815
+00:28:08,000 --> 00:28:10,000
+Yeah
+
+816
+00:28:10,000 --> 00:28:12,000
+I know
+
+817
+00:28:12,000 --> 00:28:14,000
+If I pick that course I will be
+
+818
+00:28:14,000 --> 00:28:16,000
+I am sure till Ghosn and
+
+819
+00:28:16,000 --> 00:28:18,000
+skills but I don't think they will
+
+820
+00:28:18,000 --> 00:28:20,000
+focus that much on
+
+821
+00:28:20,000 --> 00:28:22,000
+providing a job
+
+822
+00:28:22,000 --> 00:28:24,000
+That's there but more than that
+
+823
+00:28:24,000 --> 00:28:26,000
+I believe the decision maker
+
+824
+00:28:26,000 --> 00:28:28,000
+Sayaz should be that there are no live sessions
+
+825
+00:28:28,000 --> 00:28:30,000
+How much will you be able to learn from the
+
+826
+00:28:30,000 --> 00:28:32,000
+recorded sessions
+
+827
+00:28:32,000 --> 00:28:34,000
+How will you clear your doubts
+
+828
+00:28:34,000 --> 00:28:36,000
+How will you have a momentum moving forward
+
+829
+00:28:38,000 --> 00:28:40,000
+So Sayaz have you taken a look at the curriculum
+
+830
+00:28:40,000 --> 00:28:42,000
+of Scalar
+
+831
+00:28:42,000 --> 00:28:44,000
+Can you just email it to me
+
+832
+00:28:44,000 --> 00:28:46,000
+I can email it to you or whatsapp it to you
+
+833
+00:28:46,000 --> 00:28:48,000
+as well and when it comes to
+
+834
+00:28:48,000 --> 00:28:50,000
+finances Sayaz are you paying any
+
+835
+00:28:50,000 --> 00:28:52,000
+EMIs as of now
+
+836
+00:28:52,000 --> 00:28:54,000
+No
+
+837
+00:28:54,000 --> 00:28:56,000
+That's a good thing
+
+838
+00:28:56,000 --> 00:28:58,000
+When it comes to the EMI plans
+
+839
+00:28:58,000 --> 00:29:00,000
+that I told you what sounded
+
+840
+00:29:00,000 --> 00:29:02,000
+more suitable to you
+
+841
+00:29:04,000 --> 00:29:06,000
+I think 2 year EMI
+
+842
+00:29:06,000 --> 00:29:08,000
+No cost EMI you are talking about
+
+843
+00:29:08,000 --> 00:29:10,000
+Yeah
+
+844
+00:29:10,000 --> 00:29:12,000
+So Sayaz lets do one
+
+845
+00:29:12,000 --> 00:29:14,000
+thing
+
+846
+00:29:14,000 --> 00:29:16,000
+Let me share you the details about the
+
+847
+00:29:16,000 --> 00:29:18,000
+data science program that we have here
+
+848
+00:29:18,000 --> 00:29:20,000
+What are the projects that you work on everything
+
+849
+00:29:20,000 --> 00:29:22,000
+You take a look at that
+
+850
+00:29:22,000 --> 00:29:24,000
+right
+
+851
+00:29:24,000 --> 00:29:26,000
+Get a clearer idea of what scalar is all about
+
+852
+00:29:26,000 --> 00:29:28,000
+And we will connect again
+
+853
+00:29:28,000 --> 00:29:30,000
+today its 1 pm right now
+
+854
+00:29:30,000 --> 00:29:32,000
+Around 5.30 I will connect with you
+
+855
+00:29:34,000 --> 00:29:36,000
+Okay if you have any doubts or queries
+
+856
+00:29:36,000 --> 00:29:38,000
+you can let me know Sayaz I can clear that out
+
+857
+00:29:38,000 --> 00:29:40,000
+for you
+
+858
+00:29:40,000 --> 00:29:42,000
+And the admissions
+
+859
+00:29:42,000 --> 00:29:44,000
+will be closing today at 12 pm
+
+860
+00:29:44,000 --> 00:29:46,000
+We have been trying to reach you
+
+861
+00:29:46,000 --> 00:29:48,000
+for a long time
+
+862
+00:29:48,000 --> 00:29:50,000
+Yeah whatever you get my point right
+
+863
+00:29:50,000 --> 00:29:52,000
+in the night well
+
+864
+00:29:52,000 --> 00:29:54,000
+We have been trying to reach you for a long time
+
+865
+00:29:54,000 --> 00:29:56,000
+Today was the last day I saw your profile
+
+866
+00:29:56,000 --> 00:29:58,000
+I thought I will just see if I can connect with you
+
+867
+00:29:58,000 --> 00:30:00,000
+So you go through the details first
+
+868
+00:30:00,000 --> 00:30:02,000
+Get a clearer idea what it is
+
+869
+00:30:02,000 --> 00:30:04,000
+I will connect around 5.30
+
+870
+00:30:04,000 --> 00:30:06,000
+Be available
+
+871
+00:30:06,000 --> 00:30:08,000
+Whatever doubts or queries that you have
+
+872
+00:30:08,000 --> 00:30:10,000
+We will clear that out for you
+
+873
+00:30:10,000 --> 00:30:12,000
+Okay
+
+874
+00:30:12,000 --> 00:30:14,000
+Okay this is your whatsapp number right Sayaz
+
+875
+00:30:14,000 --> 00:30:16,000
+No
+
+876
+00:30:16,000 --> 00:30:18,000
+It ends with 135
+
+877
+00:30:18,000 --> 00:30:20,000
+No this is not my whatsapp number
+
+878
+00:30:20,000 --> 00:30:22,000
+This is not your whatsapp number
+
+879
+00:30:22,000 --> 00:30:24,000
+Wait one second I will have to
+
+880
+00:30:24,000 --> 00:30:26,000
+Note down your whatsapp number
+
+881
+00:30:26,000 --> 00:30:28,000
+in that case
+
+882
+00:30:28,000 --> 00:30:30,000
+One second
+
+883
+00:30:32,000 --> 00:30:34,000
+One nine nine
+
+884
+00:30:36,000 --> 00:30:38,000
+Yeah tell me Sayaz
+
+885
+00:30:38,000 --> 00:30:40,000
+Its nine four
+
+886
+00:30:40,000 --> 00:30:42,000
+Nine four
+
+887
+00:30:42,000 --> 00:30:44,000
+Six two seven
+
+888
+00:30:44,000 --> 00:30:46,000
+Six two seven
+
+889
+00:30:46,000 --> 00:30:48,000
+Eight five
+
+890
+00:30:48,000 --> 00:30:50,000
+Nine six seven
+
+891
+00:30:50,000 --> 00:30:52,000
+Nine six seven
+
+892
+00:30:52,000 --> 00:30:54,000
+Nine four six two seven
+
+893
+00:30:54,000 --> 00:30:56,000
+Eight five nine six seven
+
+894
+00:30:56,000 --> 00:30:58,000
+Yes
+
+895
+00:30:58,000 --> 00:31:00,000
+Okay I am going to share the material with you
+
+896
+00:31:00,000 --> 00:31:02,000
+There will be some youtube videos of two to three minutes
+
+897
+00:31:02,000 --> 00:31:04,000
+There will be a brochure
+
+898
+00:31:04,000 --> 00:31:06,000
+There will be something about the placements as well
+
+899
+00:31:06,000 --> 00:31:08,000
+Right
+
+900
+00:31:08,000 --> 00:31:10,000
+You go through all of that
+
+901
+00:31:10,000 --> 00:31:12,000
+If you are aligned with the program
+
+902
+00:31:12,000 --> 00:31:14,000
+The next part of the admissions will be
+
+903
+00:31:14,000 --> 00:31:16,000
+You taking the test
+
+904
+00:31:16,000 --> 00:31:18,000
+Depending on how you do in the test
+
+905
+00:31:18,000 --> 00:31:20,000
+The second part of the
+
+906
+00:31:20,000 --> 00:31:22,000
+Admission process will be decided
+
+907
+00:31:22,000 --> 00:31:24,000
+If you do well in the test
+
+908
+00:31:24,000 --> 00:31:26,000
+Then you do not have to give any screening round
+
+909
+00:31:26,000 --> 00:31:28,000
+If you score less then there will be screening round
+
+910
+00:31:28,000 --> 00:31:30,000
+Where there will be a program manager
+
+911
+00:31:30,000 --> 00:31:32,000
+Who will connect with you to try and understand
+
+912
+00:31:32,000 --> 00:31:34,000
+What is your intent to join SKEA if you are the right fit for us
+
+913
+00:31:36,000 --> 00:31:38,000
+Got it so first go through the details Sayaz
+
+914
+00:31:38,000 --> 00:31:40,000
+Okay so I will go through the details
+
+915
+00:31:40,000 --> 00:31:42,000
+And I will connect with you around 5.30
+
+916
+00:31:42,000 --> 00:31:44,000
+Please be available at that time
+
+917
+00:31:44,000 --> 00:31:46,000
+Yes
+
+918
+00:31:46,000 --> 00:31:48,000
+Bye
+

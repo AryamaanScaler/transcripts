@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello.
+
+2
+00:00:01,000 --> 00:00:02,000
+Hello.
+
+3
+00:00:02,000 --> 00:00:07,000
+Hi, I am speaking with Siva Sargat Kumar.
+
+4
+00:00:07,000 --> 00:00:08,000
+Yes.
+
+5
+00:00:08,000 --> 00:00:09,000
+Yeah, Siva, good afternoon.
+
+6
+00:00:09,000 --> 00:00:10,000
+This is Sandeesh from Scalar Academy.
+
+7
+00:00:10,000 --> 00:00:11,000
+Yes, Jay.
+
+8
+00:00:11,000 --> 00:00:12,000
+So Siva, I got your profile from one of my junior associates here in Scala this morning.
+
+9
+00:00:12,000 --> 00:00:13,000
+Thank you.
+
+10
+00:00:13,000 --> 00:00:14,000
+And I was just going through your profile.
+
+11
+00:00:14,000 --> 00:00:15,000
+Your profile looked quite interesting.
+
+12
+00:00:15,000 --> 00:00:16,000
+As I see that your profile has been in our system for the past two years.
+
+13
+00:00:17,000 --> 00:00:22,000
+And meanwhile you have interacted with my associates.
+
+14
+00:00:22,000 --> 00:00:25,000
+I believe I have registered for quite a lot of master classes.
+
+15
+00:00:25,000 --> 00:00:30,000
+So I just wanted to understand, Siva, like do you have any conversation with my junior
+
+16
+00:00:30,000 --> 00:00:31,000
+associates?
+
+17
+00:00:31,000 --> 00:00:32,000
+Yes.
+
+18
+00:00:32,000 --> 00:00:35,000
+I have a lot of conversations with my junior associates.
+
+19
+00:00:35,000 --> 00:00:38,000
+I have a lot of conversations with my junior associates.
+
+20
+00:00:38,000 --> 00:00:52,000
+I have a lot of conversations with my junior associates.
+

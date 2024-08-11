@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi, Good Evening Mr. Pawan Durba this side
+
+4
+00:00:06,000 --> 00:00:08,000
+Ya Hi Durba
+
+5
+00:00:08,000 --> 00:00:10,000
+Hi, How are you doing Mr. Pawan
+
+6
+00:00:10,000 --> 00:00:12,000
+Ya I am doing fine
+
+7
+00:00:12,000 --> 00:00:14,000
+Perfect
+
+8
+00:00:14,000 --> 00:00:16,000
+I am just about to board a flight
+
+9
+00:00:16,000 --> 00:00:18,000
+Can you give me a call at 7.30
+
+10
+00:00:18,000 --> 00:00:20,000
+As soon as possible or tomorrow morning anytime
+
+11
+00:00:20,000 --> 00:00:22,000
+Your voice is breaking for me
+
+12
+00:00:22,000 --> 00:00:24,000
+Could you just repeat it once again
+
+13
+00:00:24,000 --> 00:00:26,000
+So I am just about to board a flight
+
+14
+00:00:26,000 --> 00:00:28,000
+Oh ok sure sure
+
+15
+00:00:28,000 --> 00:00:30,000
+You can give me a call
+
+16
+00:00:30,000 --> 00:00:32,000
+Somewhere around 8 o'clock or tomorrow morning
+
+17
+00:00:32,000 --> 00:00:34,000
+I will try to wind up
+
+18
+00:00:34,000 --> 00:00:36,000
+I have a meeting that will be somewhere around till 7.30
+
+19
+00:00:36,000 --> 00:00:38,000
+So either I will text you once I am done
+
+20
+00:00:38,000 --> 00:00:40,000
+If that is comfortable
+
+21
+00:00:40,000 --> 00:00:42,000
+If not then we can connect tomorrow
+
+22
+00:00:42,000 --> 00:00:44,000
+That is not an issue
+
+23
+00:00:44,000 --> 00:00:46,000
+I would just request you know
+
+24
+00:00:46,000 --> 00:00:48,000
+In the meantime in case you are not able to connect today
+
+25
+00:00:48,000 --> 00:00:50,000
+It will be great if you will be able to research a little bit
+
+26
+00:00:50,000 --> 00:00:52,000
+I have already provided you most of the information
+
+27
+00:00:52,000 --> 00:00:54,000
+Which I feel is relevant at this point
+
+28
+00:00:54,000 --> 00:00:56,000
+Let me go through
+
+29
+00:00:56,000 --> 00:00:58,000
+Perfect perfect
+
+30
+00:00:58,000 --> 00:01:00,000
+I will be dropping in couple of PDFs on your WhatsApp
+
+31
+00:01:00,000 --> 00:01:02,000
+So it is just easier for you
+
+32
+00:01:02,000 --> 00:01:04,000
+Sure we will do that
+
+33
+00:01:04,000 --> 00:01:06,000
+Have a safe flight bye bye
+

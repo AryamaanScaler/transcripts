@@ -1,0 +1,796 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi, am I speaking Swagat?
+
+4
+00:00:06,000 --> 00:00:08,000
+Yeah, yeah
+
+5
+00:00:08,000 --> 00:00:10,000
+Hello Swagat, good evening, how are you?
+
+6
+00:00:10,000 --> 00:00:12,000
+Yeah, I'm doing good
+
+7
+00:00:12,000 --> 00:00:15,000
+Swagat Aman this side from Scalar Academy
+
+8
+00:00:15,000 --> 00:00:17,000
+Yeah, yeah, hi Aman
+
+9
+00:00:17,000 --> 00:00:19,000
+How are you Swagat?
+
+10
+00:00:19,000 --> 00:00:21,000
+Yeah, I'm doing good
+
+11
+00:00:21,000 --> 00:00:26,000
+So any other master class coming this week?
+
+12
+00:00:27,000 --> 00:00:29,000
+To be really honest, I'm not exactly sure
+
+13
+00:00:29,000 --> 00:00:31,000
+I haven't checked that in a while
+
+14
+00:00:31,000 --> 00:00:33,000
+I mean you can go over the platform and see
+
+15
+00:00:33,000 --> 00:00:37,000
+because there are even reminders for the upcoming master classes
+
+16
+00:00:37,000 --> 00:00:39,000
+which you can enroll for
+
+17
+00:00:39,000 --> 00:00:41,000
+so you can go and do that as well
+
+18
+00:00:41,000 --> 00:00:43,000
+Any particular reason for that?
+
+19
+00:00:45,000 --> 00:00:46,000
+No, no, I'd like to discuss
+
+20
+00:00:46,000 --> 00:00:49,000
+I mean I could attend a master class
+
+21
+00:00:49,000 --> 00:00:51,000
+just to understand how long it takes
+
+22
+00:00:51,000 --> 00:00:53,000
+Obviously
+
+23
+00:00:53,000 --> 00:00:54,000
+Obviously I understand
+
+24
+00:00:54,000 --> 00:00:56,000
+I'd like to attend a couple of master classes
+
+25
+00:00:56,000 --> 00:00:58,000
+to understand the teaching quality
+
+26
+00:00:58,000 --> 00:01:00,000
+and these kind of things, right?
+
+27
+00:01:00,000 --> 00:01:02,000
+Yeah, yeah
+
+28
+00:01:02,000 --> 00:01:04,000
+First of all I just wanted to ask you
+
+29
+00:01:04,000 --> 00:01:06,000
+have you come back from your hometown?
+
+30
+00:01:06,000 --> 00:01:08,000
+Yeah, yeah, yeah
+
+31
+00:01:08,000 --> 00:01:10,000
+Just to study
+
+32
+00:01:10,000 --> 00:01:12,000
+Great, great, yeah
+
+33
+00:01:12,000 --> 00:01:14,000
+So the last time when we spoke
+
+34
+00:01:14,000 --> 00:01:16,000
+I think I gave you a brief walkthrough
+
+35
+00:01:16,000 --> 00:01:18,000
+regarding how exactly Scalar operates
+
+36
+00:01:18,000 --> 00:01:20,000
+and how exactly we can help you
+
+37
+00:01:20,000 --> 00:01:22,000
+achieving the goals that you are trying to
+
+38
+00:01:22,000 --> 00:01:24,000
+Right?
+
+39
+00:01:24,000 --> 00:01:26,000
+Yeah
+
+40
+00:01:26,000 --> 00:01:28,000
+So the last time the conversation ended was
+
+41
+00:01:28,000 --> 00:01:30,000
+in order to give you a better clarity
+
+42
+00:01:30,000 --> 00:01:33,000
+and a deeper insight as to how the Scalar program functions
+
+43
+00:01:33,000 --> 00:01:35,000
+I could let you speak to one of the learners
+
+44
+00:01:35,000 --> 00:01:37,000
+who have done the program themselves
+
+45
+00:01:37,000 --> 00:01:39,000
+You can have a word with them
+
+46
+00:01:39,000 --> 00:01:41,000
+and see for yourself
+
+47
+00:01:41,000 --> 00:01:43,000
+whatever doubts or career challenges
+
+48
+00:01:43,000 --> 00:01:45,000
+you might want to discuss with them
+
+49
+00:01:45,000 --> 00:01:47,000
+then you can see for yourself
+
+50
+00:01:47,000 --> 00:01:49,000
+and then I think that would be a much better way of
+
+51
+00:01:49,000 --> 00:01:51,000
+showing you the tangible results
+
+52
+00:01:51,000 --> 00:01:53,000
+that we might be able to achieve with you as well
+
+53
+00:01:55,000 --> 00:01:57,000
+Yeah, correct
+
+54
+00:01:57,000 --> 00:01:59,000
+So this might be a good time
+
+55
+00:01:59,000 --> 00:02:01,000
+where I should check their availability
+
+56
+00:02:01,000 --> 00:02:03,000
+for a session with you
+
+57
+00:02:03,000 --> 00:02:05,000
+Do you think? You would be up for that?
+
+58
+00:02:05,000 --> 00:02:07,000
+Yeah, great
+
+59
+00:02:07,000 --> 00:02:09,000
+So how about 7 to 8
+
+60
+00:02:09,000 --> 00:02:11,000
+the time slot between 7 to 8
+
+61
+00:02:11,000 --> 00:02:13,000
+works out for you for a quick session?
+
+62
+00:02:13,000 --> 00:02:15,000
+Today? Today only, yeah
+
+63
+00:02:15,000 --> 00:02:17,000
+Yeah, yeah, yeah, works out
+
+64
+00:02:17,000 --> 00:02:19,000
+Great
+
+65
+00:02:19,000 --> 00:02:21,000
+So you think that 8 to 8 is something you will be available in, right?
+
+66
+00:02:21,000 --> 00:02:23,000
+Correct, correct
+
+67
+00:02:23,000 --> 00:02:25,000
+And one more thing actually
+
+68
+00:02:25,000 --> 00:02:27,000
+Swagat, I also sent you a couple of mails
+
+69
+00:02:29,000 --> 00:02:31,000
+regarding the curriculum as well as the fee structure
+
+70
+00:02:31,000 --> 00:02:33,000
+So I just wanted to know like
+
+71
+00:02:33,000 --> 00:02:35,000
+have you gone through those?
+
+72
+00:02:35,000 --> 00:02:37,000
+No, I haven't gone through
+
+73
+00:02:37,000 --> 00:02:39,000
+I just reached around 4.30 today
+
+74
+00:02:39,000 --> 00:02:41,000
+so I did not get time
+
+75
+00:02:41,000 --> 00:02:43,000
+I will be going through that
+
+76
+00:02:43,000 --> 00:02:45,000
+No issues
+
+77
+00:02:45,000 --> 00:02:47,000
+Okay, let's first focus on the session
+
+78
+00:02:47,000 --> 00:02:49,000
+Right?
+
+79
+00:02:49,000 --> 00:02:51,000
+Whatever doubts you might have
+
+80
+00:02:51,000 --> 00:02:53,000
+I will advise you to ask
+
+81
+00:02:53,000 --> 00:02:55,000
+to resolve your doubts somewhere
+
+82
+00:02:55,000 --> 00:02:57,000
+regarding the ROI, which is one of the major things
+
+83
+00:02:57,000 --> 00:02:59,000
+that everyone discusses, right?
+
+84
+00:02:59,000 --> 00:03:01,000
+Before they want to get into a long-term program
+
+85
+00:03:03,000 --> 00:03:05,000
+The ROI as well as what kind of other
+
+86
+00:03:05,000 --> 00:03:07,000
+platforms there might be which might suit you
+
+87
+00:03:07,000 --> 00:03:09,000
+much better if that's the case
+
+88
+00:03:09,000 --> 00:03:11,000
+Because they themselves had made the journey
+
+89
+00:03:11,000 --> 00:03:13,000
+and they themselves had researched about scale
+
+90
+00:03:13,000 --> 00:03:15,000
+So let me do that
+
+91
+00:03:15,000 --> 00:03:17,000
+and we can ask all these doubts
+
+92
+00:03:17,000 --> 00:03:19,000
+regarding whatever is in your mind
+
+93
+00:03:19,000 --> 00:03:21,000
+and then we can connect again
+
+94
+00:03:21,000 --> 00:03:23,000
+Sounds good?
+
+95
+00:03:23,000 --> 00:03:25,000
+Yeah, I just want more questions
+
+96
+00:03:25,000 --> 00:03:27,000
+I was going through couple of other programs also
+
+97
+00:03:29,000 --> 00:03:31,000
+It's not like I'm saying anything
+
+98
+00:03:31,000 --> 00:03:33,000
+but just wanted to know
+
+99
+00:03:33,000 --> 00:03:35,000
+Absolutely
+
+100
+00:03:35,000 --> 00:03:37,000
+I was going through the
+
+101
+00:03:37,000 --> 00:03:39,000
+Booskoder Academy
+
+102
+00:03:39,000 --> 00:03:41,000
+where they also
+
+103
+00:03:41,000 --> 00:03:43,000
+do this kind of programs
+
+104
+00:03:43,000 --> 00:03:45,000
+They also
+
+105
+00:03:45,000 --> 00:03:47,000
+give insights into the structure
+
+106
+00:03:47,000 --> 00:03:49,000
+of the Boos and the industry level
+
+107
+00:03:49,000 --> 00:03:51,000
+full-stack programming
+
+108
+00:03:51,000 --> 00:03:53,000
+developers
+
+109
+00:03:53,000 --> 00:03:55,000
+How different is scale
+
+110
+00:03:55,000 --> 00:03:57,000
+from that or is it based on that
+
+111
+00:03:57,000 --> 00:03:59,000
+into more advanced and deeper level
+
+112
+00:03:59,000 --> 00:04:01,000
+How is it different?
+
+113
+00:04:01,000 --> 00:04:03,000
+I mean, if I'm being honest with you
+
+114
+00:04:03,000 --> 00:04:05,000
+I can tell you that it might
+
+115
+00:04:05,000 --> 00:04:07,000
+you might feel that
+
+116
+00:04:07,000 --> 00:04:09,000
+it's a bit of a salesy kind of thing
+
+117
+00:04:09,000 --> 00:04:11,000
+I don't want to do that to be really honest
+
+118
+00:04:11,000 --> 00:04:13,000
+I mean, I'll suggest that
+
+119
+00:04:13,000 --> 00:04:15,000
+this is something you can directly ask the alumni as well
+
+120
+00:04:15,000 --> 00:04:17,000
+because they themselves had made the research
+
+121
+00:04:17,000 --> 00:04:19,000
+on these platforms
+
+122
+00:04:19,000 --> 00:04:21,000
+They can give you a little bit of better insight
+
+123
+00:04:21,000 --> 00:04:23,000
+I mean, I can still tell you that
+
+124
+00:04:23,000 --> 00:04:25,000
+but still I think it would be much better
+
+125
+00:04:25,000 --> 00:04:27,000
+to ask them directly
+
+126
+00:04:27,000 --> 00:04:29,000
+Who are you actually?
+
+127
+00:04:29,000 --> 00:04:31,000
+When I'm asking you this
+
+128
+00:04:31,000 --> 00:04:33,000
+I'm not in touch with Booskoder
+
+129
+00:04:33,000 --> 00:04:35,000
+I have not contacted any of them
+
+130
+00:04:35,000 --> 00:04:37,000
+I was just going through Google
+
+131
+00:04:37,000 --> 00:04:39,000
+and trying to find, going through the curriculum
+
+132
+00:04:39,000 --> 00:04:41,000
+I mean, not right now
+
+133
+00:04:41,000 --> 00:04:43,000
+but one month back and all
+
+134
+00:04:43,000 --> 00:04:45,000
+So I have seen the curriculum
+
+135
+00:04:45,000 --> 00:04:47,000
+of Booskoder Academy
+
+136
+00:04:47,000 --> 00:04:49,000
+and the curriculum of scale
+
+137
+00:04:49,000 --> 00:04:51,000
+It's kind of similar
+
+138
+00:04:51,000 --> 00:04:53,000
+So I just wanted to understand
+
+139
+00:04:53,000 --> 00:04:55,000
+how different is scale
+
+140
+00:04:55,000 --> 00:04:57,000
+in that thing
+
+141
+00:04:57,000 --> 00:04:59,000
+and the intricacies of
+
+142
+00:04:59,000 --> 00:05:01,000
+how it is different
+
+143
+00:05:01,000 --> 00:05:03,000
+or is it into a more advanced level
+
+144
+00:05:03,000 --> 00:05:05,000
+or how is it
+
+145
+00:05:05,000 --> 00:05:07,000
+If I'm being honest with you
+
+146
+00:05:07,000 --> 00:05:09,000
+The thing is where Scalar specializes in
+
+147
+00:05:09,000 --> 00:05:11,000
+and in terms of maximum result
+
+148
+00:05:11,000 --> 00:05:13,000
+is handling senior profiles
+
+149
+00:05:13,000 --> 00:05:15,000
+like people who already
+
+150
+00:05:15,000 --> 00:05:17,000
+were very much good in their careers
+
+151
+00:05:17,000 --> 00:05:19,000
+like they have more than 10 years of experience
+
+152
+00:05:19,000 --> 00:05:21,000
+Scalar is much appropriate for them
+
+153
+00:05:21,000 --> 00:05:23,000
+because first of all
+
+154
+00:05:23,000 --> 00:05:25,000
+we have the community
+
+155
+00:05:25,000 --> 00:05:27,000
+We have the whole referral community
+
+156
+00:05:27,000 --> 00:05:29,000
+So if you are part of that
+
+157
+00:05:29,000 --> 00:05:31,000
+then there is a vibrant community
+
+158
+00:05:31,000 --> 00:05:33,000
+where you can get to know
+
+159
+00:05:33,000 --> 00:05:35,000
+the people who are doing the research
+
+160
+00:05:35,000 --> 00:05:37,000
+and if you are part of that
+
+161
+00:05:37,000 --> 00:05:39,000
+then there is a vibrant community
+
+162
+00:05:39,000 --> 00:05:41,000
+which can help you out in even growing after Scalar
+
+163
+00:05:41,000 --> 00:05:43,000
+Then the next thing is that
+
+164
+00:05:43,000 --> 00:05:45,000
+the kind of curriculum that we have
+
+165
+00:05:45,000 --> 00:05:47,000
+that is something which is very up to date
+
+166
+00:05:47,000 --> 00:05:49,000
+regarding the industry standard
+
+167
+00:05:49,000 --> 00:05:51,000
+and the thing is most importantly
+
+168
+00:05:51,000 --> 00:05:53,000
+we focus more on the
+
+169
+00:05:53,000 --> 00:05:55,000
+practical application of whatever you are going to learn
+
+170
+00:05:55,000 --> 00:05:57,000
+That's why we have instructors
+
+171
+00:05:57,000 --> 00:05:59,000
+who themselves were in
+
+172
+00:05:59,000 --> 00:06:01,000
+a product based industry
+
+173
+00:06:01,000 --> 00:06:03,000
+Otherwise it's easier to acquire
+
+174
+00:06:03,000 --> 00:06:05,000
+instructors who don't have that much experience
+
+175
+00:06:05,000 --> 00:06:07,000
+or who are already
+
+176
+00:06:07,000 --> 00:06:09,000
+coming from just
+
+177
+00:06:09,000 --> 00:06:11,000
+normal organizations
+
+178
+00:06:11,000 --> 00:06:13,000
+nothing much
+
+179
+00:06:13,000 --> 00:06:15,000
+There is a reason for why we have accumulated all these people
+
+180
+00:06:15,000 --> 00:06:17,000
+in the program
+
+181
+00:06:17,000 --> 00:06:19,000
+That's why we aim to give you the best quality out there
+
+182
+00:06:19,000 --> 00:06:21,000
+That might be the case
+
+183
+00:06:21,000 --> 00:06:23,000
+how Scalar differentiates itself
+
+184
+00:06:23,000 --> 00:06:25,000
+but still feel free to ask all the doubts
+
+185
+00:06:25,000 --> 00:06:27,000
+you might have with the ALMA itself
+
+186
+00:06:27,000 --> 00:06:29,000
+who have done the program
+
+187
+00:06:29,000 --> 00:06:31,000
+So you can see accordingly
+
+188
+00:06:31,000 --> 00:06:33,000
+Okay, so you will be sharing an invite?
+
+189
+00:06:33,000 --> 00:06:35,000
+Yeah, I will be sharing an invite
+
+190
+00:06:35,000 --> 00:06:37,000
+with you
+
+191
+00:06:37,000 --> 00:06:39,000
+You will be getting an invite as well as
+
+192
+00:06:39,000 --> 00:06:41,000
+you will get a call from one of my executors
+
+193
+00:06:41,000 --> 00:06:43,000
+who will tell you the profile
+
+194
+00:06:43,000 --> 00:06:45,000
+of the relevant alumni
+
+195
+00:06:45,000 --> 00:06:47,000
+we have matched for you and then you can see for yourself
+
+196
+00:06:47,000 --> 00:06:49,000
+Once you click on the link
+
+197
+00:06:49,000 --> 00:06:51,000
+you will get in the meeting
+
+198
+00:06:51,000 --> 00:06:53,000
+Okay, great
+
+199
+00:06:53,000 --> 00:06:55,000
+Nice talking to you, thanks
+

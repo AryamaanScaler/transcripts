@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hello, hello, in one hour you will be free or what so much is?
+
+2
+00:00:07,000 --> 00:00:11,000
+No, no, no, I am not free, almost 9 pm.
+
+3
+00:00:11,000 --> 00:00:15,000
+Okay, okay, till 9 pm you will not be free you are telling me.
+
+4
+00:00:15,000 --> 00:00:16,000
+Yes, yes, yes.
+
+5
+00:00:16,000 --> 00:00:18,000
+So after 9, 9.30.
+
+6
+00:00:18,000 --> 00:00:25,000
+I have already attended some webinar from the coding ninjas.
+
+7
+00:00:25,000 --> 00:00:27,000
+Coding ninjas webinar.
+
+8
+00:00:27,000 --> 00:00:28,000
+Yes.
+
+9
+00:00:28,000 --> 00:00:29,000
+Okay, okay.
+
+10
+00:00:29,000 --> 00:00:30,000
+I am attending that.
+
+11
+00:00:30,000 --> 00:00:31,000
+Good, good, good.
+
+12
+00:00:31,000 --> 00:00:32,000
+Okay.
+
+13
+00:00:32,000 --> 00:00:35,000
+Already I will be scheduled so I am not being here now.
+
+14
+00:00:35,000 --> 00:00:40,000
+No, no, no, I am asking you after 9.30 you will be available or not?
+
+15
+00:00:40,000 --> 00:00:41,000
+Yes, yes, yes.
+
+16
+00:00:41,000 --> 00:00:43,000
+After 9.30 I will be available.
+
+17
+00:00:43,000 --> 00:00:44,000
+Done, done.
+
+18
+00:00:44,000 --> 00:00:46,000
+So 9.30 will give you one call.
+
+19
+00:00:46,000 --> 00:00:47,000
+Okay, no problem.
+
+20
+00:00:47,000 --> 00:00:49,000
+Okay, okay.
+

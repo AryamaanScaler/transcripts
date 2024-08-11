@@ -1,0 +1,1008 @@
+1
+00:00:00,000 --> 00:00:09,000
+Hello. Hi, good afternoon. I hope you remember me. Yeah, yeah.
+
+2
+00:00:09,000 --> 00:00:20,000
+Yes. Yes. So as I mentioned earlier, like I will be a learner success manager and I'm from the onboarding team of a scalar. I will be discussing a few things right now about a profile and goals. Okay.
+
+3
+00:00:20,000 --> 00:00:22,000
+Okay, okay.
+
+4
+00:00:22,000 --> 00:00:25,000
+Basically,
+
+5
+00:00:25,000 --> 00:00:32,000
+currently I'm just working as an admin some support actually for the entire pan India.
+
+6
+00:00:32,000 --> 00:00:37,000
+Whereas our companies and whereas I'm working for an NGO called Greenpeace India.
+
+7
+00:00:37,000 --> 00:00:40,000
+I think you've heard it actually.
+
+8
+00:00:40,000 --> 00:00:43,000
+Okay, so you're currently working with Greenpeace India NGO.
+
+9
+00:00:43,000 --> 00:00:46,000
+Yeah, Greenpeace India where we work for an environment.
+
+10
+00:00:46,000 --> 00:00:49,000
+Okay, I've heard about it.
+
+11
+00:00:49,000 --> 00:00:54,000
+Yeah, we are just working here around I think 2013 I joined here.
+
+12
+00:00:54,000 --> 00:00:59,000
+Okay, until the time I'm handling this all the image for the center.
+
+13
+00:00:59,000 --> 00:01:05,000
+India and that's what admin support for the local section and based on the night.
+
+14
+00:01:05,000 --> 00:01:07,000
+Okay, okay. That's great.
+
+15
+00:01:07,000 --> 00:01:09,000
+That's great.
+
+16
+00:01:09,000 --> 00:01:12,000
+That is what my data.
+
+17
+00:01:12,000 --> 00:01:15,000
+Most of the data is in here.
+
+18
+00:01:15,000 --> 00:01:26,000
+We expect that data and that actually and then based on the reports, these two separate and consolidated.
+
+19
+00:01:26,000 --> 00:01:32,000
+We operate in five cities actually.
+
+20
+00:01:32,000 --> 00:01:37,000
+So, what are the requirements is coming based on the report.
+
+21
+00:01:37,000 --> 00:01:44,000
+And the employee information.
+
+22
+00:01:44,000 --> 00:01:49,000
+Okay, okay.
+
+23
+00:01:49,000 --> 00:01:52,000
+So overall, how many years of experience you have.
+
+24
+00:01:52,000 --> 00:01:55,000
+Overall, I think 22 actually.
+
+25
+00:01:55,000 --> 00:01:56,000
+That's great.
+
+26
+00:01:56,000 --> 00:02:00,000
+But then here I was around some 11 years.
+
+27
+00:02:00,000 --> 00:02:04,000
+Okay, and man what is the current CTC.
+
+28
+00:02:04,000 --> 00:02:06,000
+Current CTC is near to eight.
+
+29
+00:02:06,000 --> 00:02:13,000
+Okay. So, how you got this interest in upskilling now with the data science and machine learning.
+
+30
+00:02:13,000 --> 00:02:41,000
+Okay.
+
+31
+00:02:41,000 --> 00:02:42,000
+Okay, okay.
+
+32
+00:02:42,000 --> 00:02:46,000
+I see.
+
+33
+00:02:46,000 --> 00:02:56,000
+And have you tried to upscale from any other online platform before like is this is your first time experience with online learning or you have been accustomed to it.
+
+34
+00:02:56,000 --> 00:02:58,000
+No, this is the first one actually.
+
+35
+00:02:58,000 --> 00:02:59,000
+Okay.
+
+36
+00:02:59,000 --> 00:03:02,000
+I did my computer education.
+
+37
+00:03:02,000 --> 00:03:04,000
+I did some more of it actually goes.
+
+38
+00:03:04,000 --> 00:03:06,000
+Okay.
+
+39
+00:03:06,000 --> 00:03:12,000
+I learned.
+
+40
+00:03:12,000 --> 00:03:15,000
+Small, small, but worth learning.
+
+41
+00:03:15,000 --> 00:03:24,000
+And then now, which is only actually been live with me actually working on my career.
+
+42
+00:03:24,000 --> 00:03:26,000
+Okay.
+
+43
+00:03:26,000 --> 00:03:29,000
+I understand.
+
+44
+00:03:29,000 --> 00:03:35,000
+But want to learn some things, which I can do.
+
+45
+00:03:35,000 --> 00:03:37,000
+Learning to go from other step.
+
+46
+00:03:37,000 --> 00:03:40,000
+Even we have not office here.
+
+47
+00:03:40,000 --> 00:03:43,000
+Opposite.
+
+48
+00:03:43,000 --> 00:03:50,000
+Let us first try.
+
+49
+00:03:50,000 --> 00:03:51,000
+Okay.
+
+50
+00:03:51,000 --> 00:03:52,000
+Okay.
+
+51
+00:03:52,000 --> 00:03:53,000
+Okay.
+
+52
+00:03:53,000 --> 00:03:54,000
+I understand.
+
+53
+00:03:54,000 --> 00:03:55,000
+That's great.
+
+54
+00:03:55,000 --> 00:03:56,000
+Perfect.
+
+55
+00:03:56,000 --> 00:04:00,000
+Now, as you're the part of a scalar, I will ensure that you get the maximum benefit out of it.
+
+56
+00:04:00,000 --> 00:04:07,000
+And for the same, I just need to understand how your day look like as in do you work from home or from office.
+
+57
+00:04:07,000 --> 00:04:08,000
+Hello.
+
+58
+00:04:08,000 --> 00:04:09,000
+Hello.
+
+59
+00:04:09,000 --> 00:04:10,000
+Yeah, yeah.
+
+60
+00:04:10,000 --> 00:04:13,000
+I was asking like, do you work from home or from office.
+
+61
+00:04:13,000 --> 00:04:14,000
+It's an officer actually.
+
+62
+00:04:14,000 --> 00:04:15,000
+It's an office.
+
+63
+00:04:15,000 --> 00:04:16,000
+10 to 6 actually.
+
+64
+00:04:16,000 --> 00:04:17,000
+10 to 6.
+
+65
+00:04:17,000 --> 00:04:18,000
+But basically, yeah.
+
+66
+00:04:18,000 --> 00:04:19,000
+But basically, I used to take 3, 7, 8.
+
+67
+00:04:19,000 --> 00:04:20,000
+Okay.
+
+68
+00:04:20,000 --> 00:04:21,000
+And then have a night reporting and final reporting.
+
+69
+00:04:21,000 --> 00:04:22,000
+Okay.
+
+70
+00:04:22,000 --> 00:04:23,000
+For all India.
+
+71
+00:04:23,000 --> 00:04:24,000
+Which I use once.
+
+72
+00:04:24,000 --> 00:04:25,000
+I use 10 to 11.
+
+73
+00:04:25,000 --> 00:04:26,000
+Okay.
+
+74
+00:04:26,000 --> 00:04:27,000
+Okay.
+
+75
+00:04:27,000 --> 00:04:28,000
+I understand.
+
+76
+00:04:28,000 --> 00:04:29,000
+Okay.
+
+77
+00:04:29,000 --> 00:04:30,000
+So, I understand.
+
+78
+00:04:30,000 --> 00:04:31,000
+So, I understand.
+
+79
+00:04:31,000 --> 00:04:32,000
+So, I understand.
+
+80
+00:04:32,000 --> 00:04:33,000
+So, I understand.
+
+81
+00:04:33,000 --> 00:04:34,000
+So, I understand.
+
+82
+00:04:34,000 --> 00:04:35,000
+So, I understand.
+
+83
+00:04:35,000 --> 00:04:36,000
+So, I understand.
+
+84
+00:04:36,000 --> 00:04:37,000
+So, I understand.
+
+85
+00:04:37,000 --> 00:04:38,000
+So, I understand.
+
+86
+00:04:38,000 --> 00:04:39,000
+So, I understand.
+
+87
+00:04:39,000 --> 00:04:40,000
+So, I understand.
+
+88
+00:04:40,000 --> 00:04:41,000
+So, I understand.
+
+89
+00:04:41,000 --> 00:04:42,000
+Okay.
+
+90
+00:04:42,000 --> 00:04:43,000
+Okay.
+
+91
+00:04:43,000 --> 00:04:44,000
+Okay.
+
+92
+00:04:44,000 --> 00:04:47,000
+And then, that's the final day.
+
+93
+00:04:47,000 --> 00:04:48,000
+Okay.
+
+94
+00:04:48,000 --> 00:04:49,000
+I understood.
+
+95
+00:04:49,000 --> 00:04:50,000
+Got it.
+
+96
+00:04:50,000 --> 00:04:51,000
+I got it.
+
+97
+00:04:51,000 --> 00:04:52,000
+I got it.
+
+98
+00:04:52,000 --> 00:04:53,000
+I got it.
+
+99
+00:04:53,000 --> 00:04:54,000
+Cool then.
+
+100
+00:04:54,000 --> 00:04:57,000
+As you, I believe you already know that we have three alternate days classes.
+
+101
+00:04:57,000 --> 00:05:02,000
+And it will be usually on Monday, Wednesday, Friday in the evening at 9 p.m.
+
+102
+00:05:02,000 --> 00:05:07,000
+So, on a weekly basis, it will require around 15 hours of your learning time.
+
+103
+00:05:07,000 --> 00:05:09,000
+In which live classes are also included.
+
+104
+00:05:09,000 --> 00:05:10,000
+Okay.
+
+105
+00:05:10,000 --> 00:05:11,000
+Okay.
+
+106
+00:05:11,000 --> 00:05:12,000
+Cool.
+
+107
+00:05:12,000 --> 00:05:15,000
+Also, I can see that your dashboard is even prepared.
+
+108
+00:05:15,000 --> 00:05:17,000
+Have you tried to access your dashboard?
+
+109
+00:05:17,000 --> 00:05:18,000
+No, sir.
+
+110
+00:05:18,000 --> 00:05:19,000
+Not yet, sir.
+
+111
+00:05:19,000 --> 00:05:21,000
+Actually, today only I get a call.
+
+112
+00:05:21,000 --> 00:05:22,000
+Okay.
+
+113
+00:05:22,000 --> 00:05:25,000
+Today I was busy with my some other work.
+
+114
+00:05:25,000 --> 00:05:27,000
+Actually, I need to check that.
+
+115
+00:05:27,000 --> 00:05:28,000
+Okay.
+
+116
+00:05:28,000 --> 00:05:29,000
+Okay.
+
+117
+00:05:29,000 --> 00:05:30,000
+No issues.
+
+118
+00:05:30,000 --> 00:05:31,000
+You can access your dashboard.
+
+119
+00:05:31,000 --> 00:05:34,000
+All you need to do is to go to scalar.com.
+
+120
+00:05:34,000 --> 00:05:38,000
+And you can simply log in there either with your registered phone number or with your
+
+121
+00:05:38,000 --> 00:05:39,000
+registered mail ID.
+
+122
+00:05:39,000 --> 00:05:40,000
+Okay.
+
+123
+00:05:40,000 --> 00:05:41,000
+Yeah.
+
+124
+00:05:41,000 --> 00:05:45,000
+So, let's say if you will be using your registered phone number, then it will ask for an OTP.
+
+125
+00:05:45,000 --> 00:05:49,000
+And in case of mail ID, simply via Google authentication, you will be able to access
+
+126
+00:05:49,000 --> 00:05:50,000
+the dashboard.
+
+127
+00:05:50,000 --> 00:05:51,000
+Okay.
+
+128
+00:05:51,000 --> 00:05:52,000
+Okay, sir.
+
+129
+00:05:52,000 --> 00:05:53,000
+Okay.
+
+130
+00:05:53,000 --> 00:05:54,000
+So, do try that.
+
+131
+00:05:54,000 --> 00:05:56,000
+Once you will log in the very first, it will show you a little welcoming page.
+
+132
+00:05:56,000 --> 00:05:59,000
+And after that, there will be two, three nominal profile steps.
+
+133
+00:05:59,000 --> 00:06:03,000
+After completing those two, three steps, you will get redirected to the actual homepage
+
+134
+00:06:03,000 --> 00:06:04,000
+of the dashboard.
+
+135
+00:06:04,000 --> 00:06:05,000
+Okay.
+
+136
+00:06:05,000 --> 00:06:06,000
+Cool.
+
+137
+00:06:06,000 --> 00:06:07,000
+Okay.
+
+138
+00:06:07,000 --> 00:06:10,000
+Now, over there, you will find a lot of different activities that you can already start exploring
+
+139
+00:06:10,000 --> 00:06:12,000
+as in like there will be a batch allocation.
+
+140
+00:06:12,000 --> 00:06:14,000
+There will be a mentor selection, etc.
+
+141
+00:06:14,000 --> 00:06:20,000
+Now, batch allocation is basically two hours of self-assessment test just to understand
+
+142
+00:06:20,000 --> 00:06:23,000
+if you should start from beginner, intermediate or advanced level.
+
+143
+00:06:23,000 --> 00:06:26,000
+That's the only agenda of that test itself.
+
+144
+00:06:26,000 --> 00:06:27,000
+Nothing else.
+
+145
+00:06:27,000 --> 00:06:28,000
+Okay.
+
+146
+00:06:28,000 --> 00:06:29,000
+I will do one thing.
+
+147
+00:06:29,000 --> 00:06:33,000
+After this call, I will share one onboarding guide with you over the WhatsApp.
+
+148
+00:06:33,000 --> 00:06:35,000
+I hope this is a WhatsApp number.
+
+149
+00:06:35,000 --> 00:06:36,000
+Yeah.
+
+150
+00:06:36,000 --> 00:06:37,000
+Double nine, six to five.
+
+151
+00:06:37,000 --> 00:06:38,000
+Yeah.
+
+152
+00:06:38,000 --> 00:06:39,000
+Cool.
+
+153
+00:06:39,000 --> 00:06:42,000
+So, I will share one onboarding guide with you and I will also share a brochure which
+
+154
+00:06:42,000 --> 00:06:47,000
+will help you to get a little understanding about the dashboard, about this test and also
+
+155
+00:06:47,000 --> 00:06:50,000
+you will get a little detailed understanding about the curriculum as well.
+
+156
+00:06:50,000 --> 00:06:51,000
+Okay.
+
+157
+00:06:51,000 --> 00:06:52,000
+Okay.
+
+158
+00:06:52,000 --> 00:06:53,000
+So, do check both those documents.
+
+159
+00:06:53,000 --> 00:06:58,000
+And I would like to schedule one dashboard walkthrough session with you, which will take
+
+160
+00:06:58,000 --> 00:06:59,000
+around 15-20 minutes.
+
+161
+00:06:59,000 --> 00:07:03,000
+So, what will be the good time for that on this coming Sunday?
+
+162
+00:07:03,000 --> 00:07:05,000
+That is 30th of June.
+
+163
+00:07:05,000 --> 00:07:06,000
+So, coming Sunday.
+
+164
+00:07:06,000 --> 00:07:07,000
+Sunday, no problem.
+
+165
+00:07:07,000 --> 00:07:08,000
+Anything after 10 o'clock?
+
+166
+00:07:08,000 --> 00:07:09,000
+Okay.
+
+167
+00:07:09,000 --> 00:07:10,000
+2.30 works for you?
+
+168
+00:07:10,000 --> 00:07:11,000
+Yeah.
+
+169
+00:07:11,000 --> 00:07:12,000
+Yeah.
+
+170
+00:07:12,000 --> 00:07:13,000
+So, cool.
+
+171
+00:07:13,000 --> 00:07:18,000
+I will schedule it for 2.30 and you will receive the Google invite shortly over your email.
+
+172
+00:07:18,000 --> 00:07:19,000
+Okay.
+
+173
+00:07:19,000 --> 00:07:26,000
+And may I know if your finances are sorted as and have you opted for EMI's or made a one-time
+
+174
+00:07:26,000 --> 00:07:27,000
+payment?
+
+175
+00:07:27,000 --> 00:07:28,000
+No.
+
+176
+00:07:28,000 --> 00:07:29,000
+It's an EMI basically.
+
+177
+00:07:29,000 --> 00:07:33,000
+Because when I was talking to Shah, actually Shah told me to try.
+
+178
+00:07:33,000 --> 00:07:34,000
+Okay.
+
+179
+00:07:34,000 --> 00:07:35,000
+Okay.
+
+180
+00:07:35,000 --> 00:07:38,000
+Which is a busy, and I must occupy in my regular work section.
+
+181
+00:07:38,000 --> 00:07:39,000
+Okay.
+
+182
+00:07:39,000 --> 00:07:45,000
+First he told to try with their observation, then we go for the plan.
+
+183
+00:07:45,000 --> 00:07:47,000
+But anyway they opted for EMI.
+
+184
+00:07:47,000 --> 00:07:48,000
+EMI's, okay.
+
+185
+00:07:48,000 --> 00:07:51,000
+I don't know how we are going to start the work section.
+
+186
+00:07:51,000 --> 00:07:52,000
+Okay.
+
+187
+00:07:52,000 --> 00:07:54,000
+I believe your counselor will get in touch with you.
+
+188
+00:07:54,000 --> 00:07:55,000
+Nobody is for that part.
+
+189
+00:07:55,000 --> 00:07:56,000
+Yes.
+
+190
+00:07:56,000 --> 00:07:57,000
+Okay.
+
+191
+00:07:57,000 --> 00:08:00,000
+May I know what is the pin code of your current residence?
+
+192
+00:08:00,000 --> 00:08:01,000
+That is 42.
+
+193
+00:08:01,000 --> 00:08:02,000
+642.
+
+194
+00:08:02,000 --> 00:08:03,000
+642.
+
+195
+00:08:03,000 --> 00:08:04,000
+Yeah.
+
+196
+00:08:04,000 --> 00:08:05,000
+Okay.
+
+197
+00:08:05,000 --> 00:08:06,000
+Then I will be sharing these details with you over the WhatsApp.
+
+198
+00:08:06,000 --> 00:08:11,000
+Try to explore the dashboard and I will schedule this meeting with you for Sunday at 2.30 p.m.
+
+199
+00:08:11,000 --> 00:08:12,000
+Okay.
+
+200
+00:08:12,000 --> 00:08:13,000
+Okay.
+
+201
+00:08:13,000 --> 00:08:14,000
+So, you will receive the invite shortly.
+
+202
+00:08:14,000 --> 00:08:18,000
+And if in case you find any difficulty, please keep me posted.
+
+203
+00:08:18,000 --> 00:08:21,000
+And it is a request like please do save my number.
+
+204
+00:08:21,000 --> 00:08:24,000
+I am usually available between 11 to 8.
+
+205
+00:08:24,000 --> 00:08:26,000
+My week calls are on Mondays and Tuesdays.
+
+206
+00:08:26,000 --> 00:08:27,000
+Okay.
+
+207
+00:08:27,000 --> 00:08:28,000
+Okay.
+
+208
+00:08:28,000 --> 00:08:29,000
+Okay.
+
+209
+00:08:29,000 --> 00:08:32,000
+Once again, dear Sandhavan, thank you so much and welcome to Scalers.
+
+210
+00:08:32,000 --> 00:08:34,000
+It was really nice talking to you.
+
+211
+00:08:34,000 --> 00:08:35,000
+Thank you.
+
+212
+00:08:35,000 --> 00:08:36,000
+Bye-bye.
+
+213
+00:08:36,000 --> 00:08:37,000
+Hello.
+
+214
+00:08:37,000 --> 00:08:38,000
+Hello.
+
+215
+00:08:38,000 --> 00:08:41,000
+Sorry, I am not going to bother you.
+
+216
+00:08:41,000 --> 00:08:44,000
+No, no, no issues.
+
+217
+00:08:44,000 --> 00:08:47,000
+May I know who is this?
+
+218
+00:08:47,000 --> 00:08:50,000
+Darshan, this side.
+
+219
+00:08:50,000 --> 00:08:51,000
+Darshan.
+
+220
+00:08:51,000 --> 00:08:52,000
+Oh, yes, Darshan.
+
+221
+00:08:52,000 --> 00:08:55,000
+I guess this is your another number.
+
+222
+00:08:55,000 --> 00:08:58,000
+No, this is the same number.
+
+223
+00:08:58,000 --> 00:09:04,000
+Actually, while I was trying to select my mentor, at that time, it is showing only one option.
+
+224
+00:09:04,000 --> 00:09:05,000
+Okay.
+
+225
+00:09:05,000 --> 00:09:06,000
+Just do one thing.
+
+226
+00:09:06,000 --> 00:09:08,000
+Share the screenshot with me over WhatsApp.
+
+227
+00:09:08,000 --> 00:09:09,000
+Okay.
+
+228
+00:09:09,000 --> 00:09:10,000
+I will check with the team.
+
+229
+00:09:10,000 --> 00:09:11,000
+Don't worry.
+
+230
+00:09:11,000 --> 00:09:12,000
+Okay.
+
+231
+00:09:12,000 --> 00:09:13,000
+Just a minute.
+
+232
+00:09:13,000 --> 00:09:14,000
+Please stay online.
+
+233
+00:09:14,000 --> 00:09:15,000
+Yes, yes, I am staying.
+
+234
+00:09:15,000 --> 00:09:17,000
+Because I start from the beginning.
+
+235
+00:09:17,000 --> 00:09:18,000
+Okay.
+
+236
+00:09:18,000 --> 00:09:19,000
+Okay.
+
+237
+00:09:19,000 --> 00:09:21,000
+See, select the mentor to guide you.
+
+238
+00:09:21,000 --> 00:09:27,000
+Explore the detail profile of each mentor and choose the one that best fits your need.
+
+239
+00:09:27,000 --> 00:09:28,000
+Because there is one name.
+
+240
+00:09:28,000 --> 00:09:31,000
+He is recently worked as a senior software engineer.
+
+241
+00:09:31,000 --> 00:09:32,000
+Okay.
+
+242
+00:09:32,000 --> 00:09:33,000
+And there is a recommendation.
+
+243
+00:09:33,000 --> 00:09:35,000
+I have only one option.
+
+244
+00:09:35,000 --> 00:09:36,000
+Select and confirm mentor.
+
+245
+00:09:36,000 --> 00:09:38,000
+Share the screenshot with me.
+
+246
+00:09:38,000 --> 00:09:40,000
+No, no, no, I got it.
+
+247
+00:09:40,000 --> 00:09:42,000
+Now I get the option.
+
+248
+00:09:42,000 --> 00:09:43,000
+Thank you.
+
+249
+00:09:43,000 --> 00:09:44,000
+Okay, okay.
+
+250
+00:09:44,000 --> 00:09:45,000
+Take care.
+
+251
+00:09:45,000 --> 00:09:46,000
+Thank you.
+
+252
+00:09:46,000 --> 00:09:47,000
+Bye-bye.
+

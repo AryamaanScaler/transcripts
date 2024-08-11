@@ -1,0 +1,916 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello? Hello?
+
+2
+00:00:05,000 --> 00:00:08,000
+Yeah, Swamiji, is my audible?
+
+3
+00:00:08,000 --> 00:00:10,000
+Yes, yes, I am listening.
+
+4
+00:00:10,000 --> 00:00:16,000
+Yeah, Swamiji, I will be your point of contact moving further basically.
+
+5
+00:00:16,000 --> 00:00:24,000
+So, Monica shared your details with me as you underwred for the academy program at Scalar, so open engineering course, correct?
+
+6
+00:00:24,000 --> 00:00:25,000
+Yes, yes.
+
+7
+00:00:25,000 --> 00:00:28,000
+You are currently working with HCM?
+
+8
+00:00:28,000 --> 00:00:32,000
+Yeah, are you currently working with HCM?
+
+9
+00:00:32,000 --> 00:00:34,000
+Hello?
+
+10
+00:00:34,000 --> 00:00:37,000
+Yeah, are you currently working with HCM?
+
+11
+00:00:42,000 --> 00:00:43,000
+Swamiji, is my audible?
+
+12
+00:00:43,000 --> 00:00:44,000
+Hello?
+
+13
+00:00:44,000 --> 00:00:45,000
+Yeah, I am audible?
+
+14
+00:00:45,000 --> 00:00:46,000
+Yes, yes.
+
+15
+00:00:46,000 --> 00:00:51,000
+Yeah, I was just asking you where are you currently working?
+
+16
+00:00:51,000 --> 00:00:55,000
+I am working in conversion in India.
+
+17
+00:00:55,000 --> 00:00:57,000
+Where?
+
+18
+00:00:58,000 --> 00:01:01,000
+Convergent, Inpo, and Private Limited.
+
+19
+00:01:01,000 --> 00:01:03,000
+In what role?
+
+20
+00:01:03,000 --> 00:01:06,000
+That is PHP developer.
+
+21
+00:01:06,000 --> 00:01:08,000
+Okay, okay, fine.
+
+22
+00:01:08,000 --> 00:01:10,000
+And how did you get to know about Scalar?
+
+23
+00:01:10,000 --> 00:01:14,000
+Like any friend told you or randomly you visited the platform?
+
+24
+00:01:14,000 --> 00:01:16,000
+No, no, no, no.
+
+25
+00:01:16,000 --> 00:01:22,000
+I have randomly found some course related things.
+
+26
+00:01:22,000 --> 00:01:28,000
+So I find Facebook and YouTube, and I will connect with them.
+
+27
+00:01:28,000 --> 00:01:32,000
+And how many years of experience you have in total?
+
+28
+00:01:32,000 --> 00:01:36,000
+Total I have experience of only 3.21.
+
+29
+00:01:36,000 --> 00:01:41,000
+So you are from computer science background or any other stream?
+
+30
+00:01:41,000 --> 00:01:43,000
+No, no, computer science background.
+
+31
+00:01:43,000 --> 00:01:47,000
+So what exactly that you are looking into in Scalar?
+
+32
+00:01:47,000 --> 00:01:50,000
+Because you told me that you are a PHP developer, right?
+
+33
+00:01:50,000 --> 00:01:54,000
+So what exactly is your expectation from the program?
+
+34
+00:01:54,000 --> 00:02:01,000
+My expectation is currently from the program is I have to knowledge gain in DSA related things.
+
+35
+00:02:01,000 --> 00:02:08,000
+So after that I will further proceed to the product based company.
+
+36
+00:02:08,000 --> 00:02:10,000
+Product based company, okay.
+
+37
+00:02:10,000 --> 00:02:14,000
+So all of the product based company require DSA related things.
+
+38
+00:02:14,000 --> 00:02:18,000
+Only DSA product based company not being OBL2.
+
+39
+00:02:18,000 --> 00:02:20,000
+Okay, I understood.
+
+40
+00:02:20,000 --> 00:02:22,000
+So you said that you are from computer science background.
+
+41
+00:02:22,000 --> 00:02:27,000
+So DSA is something which has been covered a little bit during your graduation time also.
+
+42
+00:02:27,000 --> 00:02:32,000
+All are studying in there but that time I have not properly studied about this.
+
+43
+00:02:32,000 --> 00:02:35,000
+So you are not practicing daily, correct?
+
+44
+00:02:35,000 --> 00:02:36,000
+Yes.
+
+45
+00:02:36,000 --> 00:02:38,000
+Okay, okay, fine.
+
+46
+00:02:38,000 --> 00:02:39,000
+What about system designing?
+
+47
+00:02:39,000 --> 00:02:43,000
+I will study only for the semester.
+
+48
+00:02:43,000 --> 00:02:45,000
+Semester, okay, understood.
+
+49
+00:02:45,000 --> 00:02:47,000
+And what about system designing?
+
+50
+00:02:47,000 --> 00:02:53,000
+Are you getting any opportunity to work on system designing, design patterns, all these things in your current company?
+
+51
+00:02:53,000 --> 00:02:55,000
+Yeah, yeah.
+
+52
+00:02:55,000 --> 00:03:03,000
+I was just asking you, are you getting opportunities to work on design, system designing, design patterns and all these things in your current company?
+
+53
+00:03:03,000 --> 00:03:07,000
+No, no, no, I have no properly this type of thing.
+
+54
+00:03:07,000 --> 00:03:08,000
+Okay, okay, fine.
+
+55
+00:03:08,000 --> 00:03:17,000
+They are giving me some design related thing in company and I need to play that dynamic all of them.
+
+56
+00:03:17,000 --> 00:03:19,000
+Okay, okay, fine.
+
+57
+00:03:19,000 --> 00:03:27,000
+So have you ever tried to, because it's been three years, so have you ever given interviews in any product based company so far?
+
+58
+00:03:27,000 --> 00:03:29,000
+No, no, no, I have not given.
+
+59
+00:03:29,000 --> 00:03:30,000
+You have not given.
+
+60
+00:03:30,000 --> 00:03:32,000
+So how did you came to know?
+
+61
+00:03:32,000 --> 00:03:33,000
+No, no.
+
+62
+00:03:33,000 --> 00:03:39,000
+So how you generally came to know that in product based companies if you go for an interview you will be getting questions from DSA and all.
+
+63
+00:03:39,000 --> 00:03:43,000
+You done your research or the council from Scala told you about it?
+
+64
+00:03:43,000 --> 00:03:56,000
+No, no, no, no, I have been searching about the product based company related things and there I will find some YouTube and Facebook that I will say that they are related things.
+
+65
+00:03:56,000 --> 00:04:04,000
+So they are at, I will find in LinkedIn many of their ads and some about the product based company interview related things.
+
+66
+00:04:04,000 --> 00:04:09,000
+All of the information is only DSA and Christian Design in the market.
+
+67
+00:04:09,000 --> 00:04:11,000
+Okay, okay, understood.
+
+68
+00:04:11,000 --> 00:04:13,000
+And can I help you with your PIN code?
+
+69
+00:04:13,000 --> 00:04:15,000
+My PIN code?
+
+70
+00:04:15,000 --> 00:04:17,000
+711202
+
+71
+00:04:17,000 --> 00:04:19,000
+711202
+
+72
+00:04:19,000 --> 00:04:21,000
+202
+
+73
+00:04:21,000 --> 00:04:22,000
+Okay, thanks.
+
+74
+00:04:22,000 --> 00:04:27,000
+And what about like your working hours generally? How it looks like?
+
+75
+00:04:27,000 --> 00:04:33,000
+Currently I am working from 10 to 7.30.
+
+76
+00:04:33,000 --> 00:04:37,000
+10 to 7.30. So you prefer night batch or morning batch?
+
+77
+00:04:37,000 --> 00:04:41,000
+I will prefer morning batch where I am currently working from home.
+
+78
+00:04:41,000 --> 00:04:42,000
+Okay.
+
+79
+00:04:42,000 --> 00:04:43,000
+So I have no problem.
+
+80
+00:04:43,000 --> 00:04:47,000
+So morning 7 to 9 will be comfortable for you?
+
+81
+00:04:47,000 --> 00:04:49,000
+Yes.
+
+82
+00:04:49,000 --> 00:04:53,000
+You are saying that morning 7 to 9 will be comfortable, correct?
+
+83
+00:04:53,000 --> 00:04:54,000
+Yes, yes.
+
+84
+00:04:54,000 --> 00:04:58,000
+Okay. And what about weekends? How usually your weekends look like?
+
+85
+00:04:58,000 --> 00:05:03,000
+Do you have any family business to take care of or you will be usually free only in weekends?
+
+86
+00:05:03,000 --> 00:05:04,000
+Hello?
+
+87
+00:05:04,000 --> 00:05:09,000
+Yeah, I was just asking how your weekends looks like Saturday, Sunday?
+
+88
+00:05:09,000 --> 00:05:12,000
+Are you usually occupied in Saturday, Sunday or are you free?
+
+89
+00:05:12,000 --> 00:05:15,000
+No, I have only weekend only in Sunday.
+
+90
+00:05:15,000 --> 00:05:21,000
+Okay. So we want you to dedicate around 15 hours into this particular platform on a weekly basis.
+
+91
+00:05:21,000 --> 00:05:24,000
+So how exactly you are planning to do it?
+
+92
+00:05:24,000 --> 00:05:32,000
+I am planning to do that in the morning. I will start the E-Dates in the work plan in here.
+
+93
+00:05:32,000 --> 00:05:39,000
+And after the E-Dates, I can give the two and a half hours.
+
+94
+00:05:39,000 --> 00:05:40,000
+Okay.
+
+95
+00:05:40,000 --> 00:05:45,000
+And the weekend Sunday, I can give more time.
+
+96
+00:05:45,000 --> 00:05:47,000
+Okay, fine, fine. Understood.
+
+97
+00:05:47,000 --> 00:05:53,000
+So, Swamiji, any doubts regarding to the program that you wanted to clarify with?
+
+98
+00:05:53,000 --> 00:05:56,000
+Do you have any doubt, any concerns regarding to it?
+
+99
+00:05:56,000 --> 00:06:01,000
+Do you have any doubts regarding to the program?
+
+100
+00:06:01,000 --> 00:06:04,000
+I only have two doubts.
+
+101
+00:06:04,000 --> 00:06:15,000
+I have one problem is happening, I think. I have not been properly don't know.
+
+102
+00:06:15,000 --> 00:06:16,000
+Okay.
+
+103
+00:06:16,000 --> 00:06:23,000
+Some HR has been, my company HR is discussing about my company working hours.
+
+104
+00:06:23,000 --> 00:06:24,000
+Okay.
+
+105
+00:06:24,000 --> 00:06:27,000
+So after Monday, I can confirm that.
+
+106
+00:06:27,000 --> 00:06:29,000
+Next Monday or this Monday?
+
+107
+00:06:29,000 --> 00:06:31,000
+This Monday, this Monday.
+
+108
+00:06:31,000 --> 00:06:33,000
+Okay, fine, fine.
+
+109
+00:06:33,000 --> 00:06:35,000
+So do you have night batch also?
+
+110
+00:06:35,000 --> 00:06:40,000
+I think they are discussing something, they are stopped the hour work from home.
+
+111
+00:06:40,000 --> 00:06:44,000
+Oh, okay. So even if you wanted to go to office...
+
+112
+00:06:44,000 --> 00:06:47,000
+That time will be problematic for me also.
+
+113
+00:06:47,000 --> 00:06:50,000
+Okay, so where is your office location?
+
+114
+00:06:50,000 --> 00:06:55,000
+Office location Kolkata. I am in Navra.
+
+115
+00:06:55,000 --> 00:06:59,000
+Okay, so you wanted to relocate to Kolkata in that case, that what you are telling?
+
+116
+00:07:00,000 --> 00:07:04,000
+Yes, relocate, yeah, I can continue from the home.
+
+117
+00:07:04,000 --> 00:07:11,000
+No, no, I was just asking you if your office, they are telling you to come to the office from next week or next month.
+
+118
+00:07:11,000 --> 00:07:15,000
+They will not call you directly, right? They will not tell you that you have to report to office next week.
+
+119
+00:07:15,000 --> 00:07:18,000
+That is not going to happen. That no company is going to tell you.
+
+120
+00:07:18,000 --> 00:07:22,000
+They will give you a month span of time to relocate and all, right?
+
+121
+00:07:22,000 --> 00:07:24,000
+Yes, yes, yes.
+
+122
+00:07:24,000 --> 00:07:26,000
+So in that case, you are already planning to...
+
+123
+00:07:26,000 --> 00:07:30,000
+Actually, informers are planning to stop working from home.
+
+124
+00:07:30,000 --> 00:07:31,000
+Okay, okay.
+
+125
+00:07:31,000 --> 00:07:34,000
+That the confirmation is coming tomorrow.
+
+126
+00:07:34,000 --> 00:07:36,000
+Okay, so I wanted to know...
+
+127
+00:07:36,000 --> 00:07:38,000
+They gave me 15 days to relocate, yeah.
+
+128
+00:07:38,000 --> 00:07:46,000
+So what you are thinking, like if they are asking you to relocate, then how will you be managing the program?
+
+129
+00:07:46,000 --> 00:07:49,000
+That is the concern for me.
+
+130
+00:07:49,000 --> 00:07:53,000
+Because they are having time issue coming.
+
+131
+00:07:53,000 --> 00:07:54,000
+Okay.
+
+132
+00:07:54,000 --> 00:07:58,000
+That time I don't be able to join in the morning.
+
+133
+00:07:58,000 --> 00:08:03,000
+You can look for the night batch at that point of time.
+
+134
+00:08:03,000 --> 00:08:13,000
+I think that is the problem. I confirm it after tomorrow, I think at 12 PM, I have confirmed all the questions.
+
+135
+00:08:13,000 --> 00:08:15,000
+Okay, so you are telling that...
+
+136
+00:08:15,000 --> 00:08:19,000
+Because today is the Sunday, so I am not able to connect to my company.
+
+137
+00:08:19,000 --> 00:08:28,000
+Okay, so my concern is, like what I was asking, like if tomorrow, if your company is asking you to come to office,
+
+138
+00:08:28,000 --> 00:08:34,000
+okay, so are you saying that like you will not be able to continue in the program? Is that what you are telling?
+
+139
+00:08:34,000 --> 00:08:36,000
+Yes, yes, that's the concern.
+
+140
+00:08:36,000 --> 00:08:41,000
+Because if I don't give the proper timing, so how can I continue that?
+
+141
+00:08:41,000 --> 00:08:43,000
+Okay, so now, Swamij, you help me understand.
+
+142
+00:08:43,000 --> 00:08:48,000
+Because I need to start or because I need to be study of these things,
+
+143
+00:08:48,000 --> 00:08:53,000
+I need to complete all of assignments and also need to be joining to the life session.
+
+144
+00:08:53,000 --> 00:08:55,000
+Correct.
+
+145
+00:08:55,000 --> 00:08:56,000
+That's what we need.
+
+146
+00:08:56,000 --> 00:09:01,000
+If I don't give the time, how can I continue this?
+
+147
+00:09:01,000 --> 00:09:03,000
+Okay, so just let me help you understand.
+
+148
+00:09:03,000 --> 00:09:09,000
+So how exactly in that case you will be planning to move to product based companies and how will you planning to do the essay?
+
+149
+00:09:09,000 --> 00:09:12,000
+Okay, just forget about scalar, you tell me this.
+
+150
+00:09:13,000 --> 00:09:19,000
+I was just asking you in that case, okay, now imagine you can't manage the class, that's what the concern, right?
+
+151
+00:09:19,000 --> 00:09:26,000
+If they are asking to come back to office, in that case, how will you be able to move into product based companies?
+
+152
+00:09:26,000 --> 00:09:28,000
+Because that is something which you are basically looking for.
+
+153
+00:09:28,000 --> 00:09:31,000
+That is not possible to me. I think that is not possible to me.
+
+154
+00:09:31,000 --> 00:09:37,000
+So one thing is possible, I leave the company and to study, only focus on study.
+
+155
+00:09:38,000 --> 00:09:40,000
+So this company how far?
+
+156
+00:09:40,000 --> 00:09:42,000
+I have a responsibility something.
+
+157
+00:09:42,000 --> 00:09:44,000
+How far this company is from?
+
+158
+00:09:44,000 --> 00:09:46,000
+So I continue the service company.
+
+159
+00:09:46,000 --> 00:09:51,000
+How far this company is from your current place like where you are currently residing?
+
+160
+00:09:51,000 --> 00:09:59,000
+I am currently there, what from the almost 40 kilometers.
+
+161
+00:09:59,000 --> 00:10:02,000
+140, 40.
+
+162
+00:10:02,000 --> 00:10:04,000
+40.
+
+163
+00:10:04,000 --> 00:10:15,000
+So if you wanted to continue working there, you basically you wanted to shift to that place in Kolkata?
+
+164
+00:10:15,000 --> 00:10:19,000
+Shift to this place or continue from my home?
+
+165
+00:10:19,000 --> 00:10:24,000
+Because many of people are going from my area to Kolkata.
+
+166
+00:10:24,000 --> 00:10:27,000
+So how much is the journey time? What will be the travel time?
+
+167
+00:10:27,000 --> 00:10:28,000
+How much it will take?
+
+168
+00:10:28,000 --> 00:10:37,000
+If I will travel into the company, that almost if I go into the public transport, that time it will be more than 2 hours.
+
+169
+00:10:37,000 --> 00:10:44,000
+If I continue with my private vehicle, so that will be 1.5 hours.
+
+170
+00:10:44,000 --> 00:10:46,000
+Yeah, 1.45 hours.
+
+171
+00:10:46,000 --> 00:10:49,000
+Depending on the situation of the traffic.
+
+172
+00:10:49,000 --> 00:10:55,000
+So in that case, will you be able to reach home before 9 o'clock? Night 9 o'clock?
+
+173
+00:10:55,000 --> 00:11:01,000
+That is my only concern. So I confirm this to tomorrow.
+
+174
+00:11:01,000 --> 00:11:07,000
+They can't even tell us because they have to discuss about this thing.
+
+175
+00:11:07,000 --> 00:11:12,000
+So I confirm tomorrow from my manager who has my company owner.
+
+176
+00:11:12,000 --> 00:11:17,000
+Just confirm also one more thing, what will be the proper working hours in that case?
+
+177
+00:11:17,000 --> 00:11:20,000
+So that we can plan it accordingly.
+
+178
+00:11:20,000 --> 00:11:24,000
+Then I will continue about all of those things.
+
+179
+00:11:24,000 --> 00:11:30,000
+And how can I manage the all time and everything?
+
+180
+00:11:30,000 --> 00:11:34,000
+If I cannot manage that time, so how can I go possible to the company?
+
+181
+00:11:34,000 --> 00:11:38,000
+Okay, and have you completed the EMI process?
+
+182
+00:11:38,000 --> 00:11:41,000
+Yes, yes, yes. That is done.
+
+183
+00:11:41,000 --> 00:11:44,000
+You completed the EMI process also?
+
+184
+00:11:44,000 --> 00:11:50,000
+Yes, I have also completed the exam that is done.
+
+185
+00:11:50,000 --> 00:11:56,000
+I have also been intermediated. That is what I will do.
+
+186
+00:11:56,000 --> 00:11:58,000
+Correct, correct.
+
+187
+00:11:58,000 --> 00:12:01,000
+Just think about how much this is a long time plan for you.
+
+188
+00:12:01,000 --> 00:12:04,000
+Because even if it is a 10 month of struggle for you,
+
+189
+00:12:04,000 --> 00:12:08,000
+this is something which can take care of your left of your career.
+
+190
+00:12:09,000 --> 00:12:16,000
+The rest of the 20 years of your career can be sorted if you can just put some extra effort in the 10 months.
+
+191
+00:12:16,000 --> 00:12:22,000
+If that is the only some month going on, that is not a problem for me.
+
+192
+00:12:22,000 --> 00:12:26,000
+Because that is the very much time, almost one year.
+
+193
+00:12:26,000 --> 00:12:31,000
+But how can I manage this time? I need to be focused on that.
+
+194
+00:12:32,000 --> 00:12:36,000
+Yes, yes, sure. We will get more clarity tomorrow.
+
+195
+00:12:36,000 --> 00:12:39,000
+So then we can discuss further on that.
+
+196
+00:12:39,000 --> 00:12:45,000
+I will connect with them and follow with them and some discussion about these things.
+
+197
+00:12:45,000 --> 00:12:50,000
+They have to confirm that after one month we can continue our work from home.
+
+198
+00:12:50,000 --> 00:12:56,000
+Or they can stop our work from home and starting the August, December, what is the month.
+
+199
+00:12:56,000 --> 00:12:58,000
+Then I will confirm that.
+
+200
+00:12:59,000 --> 00:13:02,000
+Can you confirm your mail id?
+
+201
+00:13:02,000 --> 00:13:05,000
+This is samyadet.sad.gmail.com
+
+202
+00:13:07,000 --> 00:13:11,000
+And this number which I am currently connected to, this is the registered mobile number, right?
+
+203
+00:13:11,000 --> 00:13:13,000
+Yes, exactly.
+
+204
+00:13:13,000 --> 00:13:16,000
+And did you selected the mender?
+
+205
+00:13:16,000 --> 00:13:18,000
+What?
+
+206
+00:13:18,000 --> 00:13:20,000
+Did you selected the mender?
+
+207
+00:13:20,000 --> 00:13:22,000
+Yes, I have selected.
+
+208
+00:13:22,000 --> 00:13:24,000
+So your first class is going to be on Wednesday.
+
+209
+00:13:24,000 --> 00:13:27,000
+So when I say at 9 o'clock you will be getting the first introduction.
+
+210
+00:13:27,000 --> 00:13:29,000
+Yes, at 9 o'clock.
+
+211
+00:13:29,000 --> 00:13:31,000
+Ok, samyadet.
+
+212
+00:13:31,000 --> 00:13:34,000
+Ok, then I schedule a batch.
+
+213
+00:13:34,000 --> 00:13:37,000
+Because I am not scheduled currently anywhere.
+
+214
+00:13:37,000 --> 00:13:41,000
+Ok, ok then.
+
+215
+00:13:41,000 --> 00:13:45,000
+Let's connect tomorrow. I am connected with you in WhatsApp.
+
+216
+00:13:45,000 --> 00:13:48,000
+Let me know tomorrow once you have the word with your team.
+
+217
+00:13:48,000 --> 00:13:50,000
+Ok, ok.
+
+218
+00:13:50,000 --> 00:13:56,000
+If I am not able to continue this then what I do?
+
+219
+00:13:56,000 --> 00:13:59,000
+Let's discuss tomorrow what is the scenario.
+
+220
+00:13:59,000 --> 00:14:03,000
+Ok, ok. Let's discuss our thing then I will discuss about that.
+
+221
+00:14:03,000 --> 00:14:05,000
+Correct.
+
+222
+00:14:05,000 --> 00:14:08,000
+Because before that I will not be continuing this thing.
+
+223
+00:14:08,000 --> 00:14:10,000
+Understood, understood.
+
+224
+00:14:10,000 --> 00:14:13,000
+Let us see what is the scenario tomorrow.
+
+225
+00:14:13,000 --> 00:14:15,000
+And then I will help you out with that.
+
+226
+00:14:15,000 --> 00:14:17,000
+Then I will try to help you out.
+
+227
+00:14:17,000 --> 00:14:20,000
+Then we will look into it. What can we do?
+
+228
+00:14:20,000 --> 00:14:22,000
+Ok, ok. Don't worry.
+
+229
+00:14:22,000 --> 00:14:24,000
+Ok, bye. Thank you.
+

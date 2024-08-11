@@ -1,0 +1,1936 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hi Aditya, good evening, I'm Shri here from Scalier Academy.
+
+2
+00:00:04,000 --> 00:00:05,000
+Hi, I'm Shri.
+
+3
+00:00:05,000 --> 00:00:06,000
+Hi, how are you?
+
+4
+00:00:07,000 --> 00:00:08,000
+I'm good, I'm good.
+
+5
+00:00:08,000 --> 00:00:14,000
+Great to hear that. I'm good, okay. I just need you to end your 15 minutes to complete your onboarding formalities with the team.
+
+6
+00:00:15,000 --> 00:00:16,000
+Okay?
+
+7
+00:00:16,000 --> 00:00:17,000
+Okay.
+
+8
+00:00:17,000 --> 00:00:21,000
+So I could see that the course which you have taken with Scalier Academy for the software engineering program, right?
+
+9
+00:00:22,000 --> 00:00:23,000
+Yes.
+
+10
+00:00:23,000 --> 00:00:25,000
+So the counselor name is Shri Nivasan?
+
+11
+00:00:25,000 --> 00:00:26,000
+Yes.
+
+12
+00:00:26,000 --> 00:00:34,000
+Okay, after him I will be a learner success manager at Scalo who will help you out with the process detailing and will be making you comfortable with the dashboard features.
+
+13
+00:00:35,000 --> 00:00:43,000
+Any doubts which are coming ahead with the class timing, with the classes lecture or with the mentor and instructor, please raise all the concerns on my WhatsApp number.
+
+14
+00:00:44,000 --> 00:00:46,000
+This is my WhatsApp and calling number for your handy reference.
+
+15
+00:00:47,000 --> 00:00:48,000
+Okay?
+
+16
+00:00:48,000 --> 00:00:49,000
+It's your number?
+
+17
+00:00:50,000 --> 00:00:53,000
+This is my WhatsApp and calling number for your handy reference.
+
+18
+00:00:54,000 --> 00:00:55,000
+Okay.
+
+19
+00:00:55,000 --> 00:00:58,000
+Now moving ahead, I would like to confirm you certain details in my system.
+
+20
+00:00:59,000 --> 00:01:01,000
+I already got your profile from your counselor.
+
+21
+00:01:01,000 --> 00:01:04,000
+So I just wanted to understand about your profile in a more better way, right?
+
+22
+00:01:05,000 --> 00:01:08,000
+So kindly just help me with the rectification of your details.
+
+23
+00:01:09,000 --> 00:01:14,000
+Your registered mail id is aditya m4596 at the gmail.com, right?
+
+24
+00:01:16,000 --> 00:01:17,000
+Correct.
+
+25
+00:01:17,000 --> 00:01:21,000
+I could see that you have completed your graduation degree in 2017, that is B.Tech.
+
+26
+00:01:22,000 --> 00:01:23,000
+Yes.
+
+27
+00:01:23,000 --> 00:01:24,000
+B.Tech in which branch you have done?
+
+28
+00:01:25,000 --> 00:01:26,000
+Computer Science.
+
+29
+00:01:26,000 --> 00:01:27,000
+Okay, Computer Science.
+
+30
+00:01:27,000 --> 00:01:29,000
+Then after what you have done, master's, post-graduation?
+
+31
+00:01:31,000 --> 00:01:32,000
+No, I don't know.
+
+32
+00:01:32,000 --> 00:01:33,000
+Okay.
+
+33
+00:01:33,000 --> 00:01:34,000
+Any?
+
+34
+00:01:34,000 --> 00:01:35,000
+Okay.
+
+35
+00:01:35,000 --> 00:01:38,000
+Then after graduation, you have started working, right?
+
+36
+00:01:39,000 --> 00:01:40,000
+Yes.
+
+37
+00:01:40,000 --> 00:01:41,000
+Okay.
+
+38
+00:01:41,000 --> 00:01:42,000
+So do you have any master's plan?
+
+39
+00:01:44,000 --> 00:01:46,000
+Master's degree or post-graduation?
+
+40
+00:01:47,000 --> 00:01:49,000
+I didn't think so.
+
+41
+00:01:50,000 --> 00:01:51,000
+Okay.
+
+42
+00:01:51,000 --> 00:01:55,000
+So you have done your graduation from Rajasthan Technical University, Kota?
+
+43
+00:01:56,000 --> 00:01:57,000
+Yes.
+
+44
+00:01:57,000 --> 00:01:58,000
+Okay.
+
+45
+00:01:58,000 --> 00:02:01,000
+I could see that currently you are associated with Nagaro, is the company?
+
+46
+00:02:01,000 --> 00:02:02,000
+Yes.
+
+47
+00:02:02,000 --> 00:02:05,000
+As a designation, is the associated staff engineer?
+
+48
+00:02:06,000 --> 00:02:07,000
+Yes.
+
+49
+00:02:07,000 --> 00:02:08,000
+Okay.
+
+50
+00:02:08,000 --> 00:02:11,000
+And the current CTC, they are opting you for this current role, is 14 LPF?
+
+51
+00:02:12,000 --> 00:02:14,000
+No, now it's changed.
+
+52
+00:02:14,000 --> 00:02:15,000
+It's 16.
+
+53
+00:02:16,000 --> 00:02:17,000
+16, right?
+
+54
+00:02:17,000 --> 00:02:18,000
+Yes.
+
+55
+00:02:18,000 --> 00:02:19,000
+16, okay.
+
+56
+00:02:19,000 --> 00:02:20,000
+16.
+
+57
+00:02:20,000 --> 00:02:21,000
+Yeah.
+
+58
+00:02:21,000 --> 00:02:26,000
+And could you just help me with the year of experience you are having total with the programming?
+
+59
+00:02:27,000 --> 00:02:30,000
+It's almost like 0.6 years.
+
+60
+00:02:31,000 --> 00:02:32,000
+0.6 years?
+
+61
+00:02:32,000 --> 00:02:33,000
+Yes.
+
+62
+00:02:33,000 --> 00:02:34,000
+Impressive number.
+
+63
+00:02:34,000 --> 00:02:35,000
+Okay.
+
+64
+00:02:35,000 --> 00:02:39,000
+And these 6 years of experience were completely into the programming, right?
+
+65
+00:02:40,000 --> 00:02:41,000
+Yes.
+
+66
+00:02:41,000 --> 00:02:42,000
+Okay.
+
+67
+00:02:42,000 --> 00:02:46,000
+Can you just help me with the understanding of doing the subscaling code since you are
+
+68
+00:02:46,000 --> 00:02:49,000
+having a good year of experience in your hand in the software field?
+
+69
+00:02:50,000 --> 00:02:52,000
+So what's your next goal after the completion of this program?
+
+70
+00:02:53,000 --> 00:02:56,000
+Which kind of domain and which kind of profile you wanted to get into?
+
+71
+00:02:59,000 --> 00:03:02,000
+To be frank, I'm a bit confused today.
+
+72
+00:03:03,000 --> 00:03:04,000
+Okay.
+
+73
+00:03:04,000 --> 00:03:06,000
+What should I do or should I not do?
+
+74
+00:03:06,000 --> 00:03:13,000
+Because in the market, I think Java is a good course for me.
+
+75
+00:03:13,000 --> 00:03:14,000
+Java, full-stack.
+
+76
+00:03:14,000 --> 00:03:25,000
+But as my experience in multiple technologies, so that's getting me something very big in
+
+77
+00:03:25,000 --> 00:03:33,000
+the market because like my last one year experience, 1.5 year experience in data engineering,
+
+78
+00:03:33,000 --> 00:03:37,000
+other than that I have total experience in Java and Angular.
+
+79
+00:03:37,000 --> 00:03:43,000
+So for that reason, what should I do next?
+
+80
+00:03:43,000 --> 00:03:45,000
+That's the main question for me.
+
+81
+00:03:45,000 --> 00:03:46,000
+Okay.
+
+82
+00:03:46,000 --> 00:03:50,000
+Like what field I choose, like data or Java.
+
+83
+00:03:50,000 --> 00:03:54,000
+So that's a little bit confusing.
+
+84
+00:03:54,000 --> 00:03:58,000
+But I think I made mine on Java.
+
+85
+00:03:58,000 --> 00:04:03,000
+But to be frank, I gave it to multiple companies.
+
+86
+00:04:03,000 --> 00:04:04,000
+I gave it to multiple companies.
+
+87
+00:04:04,000 --> 00:04:05,000
+They asked me.
+
+88
+00:04:05,000 --> 00:04:09,000
+Someone asked me in Java.
+
+89
+00:04:09,000 --> 00:04:11,000
+Some project asked me in data.
+
+90
+00:04:11,000 --> 00:04:13,000
+So that's the reason if I choose.
+
+91
+00:04:13,000 --> 00:04:17,000
+So data engineering also comes into the software engineering only, no?
+
+92
+00:04:17,000 --> 00:04:18,000
+Yes.
+
+93
+00:04:18,000 --> 00:04:20,000
+That comes in the last, not in the initially.
+
+94
+00:04:20,000 --> 00:04:21,000
+We do have the curriculum.
+
+95
+00:04:21,000 --> 00:04:24,000
+You might have received curriculum from your counselor, right?
+
+96
+00:04:24,000 --> 00:04:25,000
+You have gone through it?
+
+97
+00:04:25,000 --> 00:04:26,000
+Okay, yeah.
+
+98
+00:04:26,000 --> 00:04:27,000
+Have you gone through it?
+
+99
+00:04:27,000 --> 00:04:28,000
+Yes, yes, yes.
+
+100
+00:04:28,000 --> 00:04:29,000
+I've gone through it.
+
+101
+00:04:29,000 --> 00:04:33,000
+Because DSA will be the same and system designs will be the same, right?
+
+102
+00:04:33,000 --> 00:04:34,000
+Yeah.
+
+103
+00:04:34,000 --> 00:04:38,000
+And if you go for any of the good product based companies, two rounds definitely will
+
+104
+00:04:38,000 --> 00:04:40,000
+be there from the DSA, right?
+
+105
+00:04:40,000 --> 00:04:41,000
+Yes, yes.
+
+106
+00:04:41,000 --> 00:04:44,000
+So I would suggest you, you are into this correct domain.
+
+107
+00:04:44,000 --> 00:04:46,000
+You are not doing any transition.
+
+108
+00:04:46,000 --> 00:04:50,000
+So definitely you will be having a good growth in the upcoming sector.
+
+109
+00:04:50,000 --> 00:04:55,000
+Because if you are going to do any kind of transition in your career, in that case,
+
+110
+00:04:55,000 --> 00:04:59,000
+you have to sacrifice a little bit with the salary and all.
+
+111
+00:04:59,000 --> 00:05:02,000
+But in the software domain, you are just going with the software field only, no?
+
+112
+00:05:02,000 --> 00:05:05,000
+So it can give you a good package in upcoming days.
+
+113
+00:05:05,000 --> 00:05:06,000
+Okay.
+
+114
+00:05:06,000 --> 00:05:08,000
+So you do one thing.
+
+115
+00:05:08,000 --> 00:05:12,000
+After my call, I'll try to arrange a call from someone who can just help you with this
+
+116
+00:05:12,000 --> 00:05:13,000
+style, right?
+
+117
+00:05:13,000 --> 00:05:17,000
+What will be the data engineer and what will be the, should I go?
+
+118
+00:05:17,000 --> 00:05:21,000
+Like you were thinking about that, that data engineer should be into coming into this data
+
+119
+00:05:21,000 --> 00:05:23,000
+science and machine learning, right?
+
+120
+00:05:23,000 --> 00:05:29,000
+Yes, but I think, yeah, I'm confusing on that.
+
+121
+00:05:29,000 --> 00:05:30,000
+Okay, I'll do one thing.
+
+122
+00:05:30,000 --> 00:05:35,000
+I'll just arrange a call from some, you know, some expert who can just clarify you this
+
+123
+00:05:35,000 --> 00:05:37,000
+particular doubt, okay?
+
+124
+00:05:37,000 --> 00:05:38,000
+Yes.
+
+125
+00:05:38,000 --> 00:05:39,000
+Okay.
+
+126
+00:05:39,000 --> 00:05:44,000
+So now, but your aim is wanted to become a kind of good full-stack engineer, a good data
+
+127
+00:05:44,000 --> 00:05:45,000
+engineer.
+
+128
+00:05:45,000 --> 00:05:46,000
+This is very clear, right?
+
+129
+00:05:46,000 --> 00:05:48,000
+Upscaling should be there, no?
+
+130
+00:05:48,000 --> 00:05:49,000
+Yes.
+
+131
+00:05:49,000 --> 00:05:53,000
+How many programming languages are already known to you and you have expertise knowledge
+
+132
+00:05:53,000 --> 00:05:54,000
+with that?
+
+133
+00:05:54,000 --> 00:05:58,000
+Java, the first one.
+
+134
+00:05:58,000 --> 00:06:02,000
+Second one is Python.
+
+135
+00:06:02,000 --> 00:06:05,000
+Python, PySpark.
+
+136
+00:06:05,000 --> 00:06:06,000
+SQL.
+
+137
+00:06:06,000 --> 00:06:10,000
+SQL and a little bit more than Angular.
+
+138
+00:06:10,000 --> 00:06:13,000
+Okay.
+
+139
+00:06:13,000 --> 00:06:16,000
+Yeah, in Java, advanced Java.
+
+140
+00:06:16,000 --> 00:06:19,000
+Any frameworks like Spring Boot and all?
+
+141
+00:06:19,000 --> 00:06:20,000
+No JS?
+
+142
+00:06:20,000 --> 00:06:22,000
+Yeah, Spring Boot.
+
+143
+00:06:22,000 --> 00:06:25,000
+The only, yeah.
+
+144
+00:06:25,000 --> 00:06:26,000
+Okay, got it.
+
+145
+00:06:26,000 --> 00:06:31,000
+Okay, so what you are expecting from Scalar Academy in terms of guidance, mentorship and
+
+146
+00:06:31,000 --> 00:06:36,000
+the placements, what's your main intent of joining Scalar Academy?
+
+147
+00:06:36,000 --> 00:06:48,000
+I just want to grow myself in a learning phase because I want to expect something from
+
+148
+00:06:48,000 --> 00:06:52,000
+Scalar to always solve my doubts.
+
+149
+00:06:52,000 --> 00:06:56,000
+Yes, fundamentals have to be very strong, for sure.
+
+150
+00:06:56,000 --> 00:06:57,000
+Yes.
+
+151
+00:06:57,000 --> 00:07:03,000
+And I want to clear my old basics.
+
+152
+00:07:03,000 --> 00:07:13,000
+What product companies require from the developers, what they need and how I track their interviews
+
+153
+00:07:13,000 --> 00:07:19,000
+and how I join the most big companies that I have.
+
+154
+00:07:19,000 --> 00:07:21,000
+Okay, understood.
+
+155
+00:07:21,000 --> 00:07:26,000
+So definitely our team would be keeping an eye on your performance and would be helping
+
+156
+00:07:26,000 --> 00:07:30,000
+you out with the in and out just to make yourself that confident.
+
+157
+00:07:30,000 --> 00:07:36,000
+We will try our best to keep you motivated throughout the program and we will try to
+
+158
+00:07:36,000 --> 00:07:38,000
+give you the good opportunities in your hand.
+
+159
+00:07:38,000 --> 00:07:42,000
+But for that, the thing is that we are looking at proper, you know, what we are expecting
+
+160
+00:07:42,000 --> 00:07:45,000
+from the learners and you have to spend your 15 hours in a week.
+
+161
+00:07:45,000 --> 00:07:49,000
+This is a minimum time which is required for the platform.
+
+162
+00:07:49,000 --> 00:07:50,000
+Yes.
+
+163
+00:07:50,000 --> 00:07:51,000
+Okay.
+
+164
+00:07:51,000 --> 00:07:56,000
+So 15 hours in a week, make sure.
+
+165
+00:07:56,000 --> 00:07:57,000
+Just be on a call.
+
+166
+00:07:57,000 --> 00:07:59,000
+Just allow me a minute.
+
+167
+00:07:59,000 --> 00:08:00,000
+Just be on the call.
+
+168
+00:08:00,000 --> 00:08:01,000
+Okay.
+
+169
+00:08:01,000 --> 00:08:02,000
+Okay.
+
+170
+00:08:02,000 --> 00:08:03,000
+Yes.
+
+171
+00:08:03,000 --> 00:08:04,000
+Thank you.
+
+172
+00:08:04,000 --> 00:08:05,000
+Okay.
+
+173
+00:08:05,000 --> 00:08:24,000
+So I think this 15 hours includes your classes' timings as well.
+
+174
+00:08:24,000 --> 00:08:27,000
+So I hope you would not be having any issues with that, right?
+
+175
+00:08:27,000 --> 00:08:28,000
+No.
+
+176
+00:08:28,000 --> 00:08:31,000
+We have seen so many working professionals who have been doing that.
+
+177
+00:08:31,000 --> 00:08:37,000
+So just make sure you are just putting your efforts like 50% and 50% we are ready to put
+
+178
+00:08:37,000 --> 00:08:40,000
+in so that we can just achieve the goal which is there in our mind.
+
+179
+00:08:40,000 --> 00:08:42,000
+We want a good alumni from this platform.
+
+180
+00:08:42,000 --> 00:08:45,000
+You want a good placement and the fundamental has to be strong.
+
+181
+00:08:45,000 --> 00:08:47,000
+For that, we both have to work.
+
+182
+00:08:47,000 --> 00:08:49,000
+We both have to run on the platform.
+
+183
+00:08:49,000 --> 00:08:51,000
+Then only something good will happen, right?
+
+184
+00:08:51,000 --> 00:08:52,000
+Yes.
+
+185
+00:08:52,000 --> 00:08:56,000
+So other than that, can you just let me know what's your office model?
+
+186
+00:08:56,000 --> 00:08:58,000
+You have to go to office every day, five days.
+
+187
+00:08:58,000 --> 00:09:00,000
+What's the hybrid or work from home?
+
+188
+00:09:00,000 --> 00:09:03,000
+Now, currently it's work from home.
+
+189
+00:09:03,000 --> 00:09:13,000
+But if I change a project, if project requirements occur, like we need to go hybrid or we need
+
+190
+00:09:13,000 --> 00:09:16,000
+to change the location that will depend on the project.
+
+191
+00:09:16,000 --> 00:09:18,000
+But currently it's work from home.
+
+192
+00:09:18,000 --> 00:09:19,000
+Work from home.
+
+193
+00:09:19,000 --> 00:09:21,000
+What's your working hour?
+
+194
+00:09:21,000 --> 00:09:24,000
+It's 10 to 7.
+
+195
+00:09:24,000 --> 00:09:27,000
+10 to 7, right?
+
+196
+00:09:27,000 --> 00:09:28,000
+Okay.
+
+197
+00:09:28,000 --> 00:09:31,000
+And how far do you stay from your office?
+
+198
+00:09:31,000 --> 00:09:37,000
+I stay 35 minutes away.
+
+199
+00:09:37,000 --> 00:09:39,000
+35 minutes away.
+
+200
+00:09:39,000 --> 00:09:42,000
+It means it will take you around traffic, right?
+
+201
+00:09:42,000 --> 00:09:44,000
+It happens everywhere.
+
+202
+00:09:44,000 --> 00:09:49,000
+So it will take you, if you're just leaving your office by 7.
+
+203
+00:09:49,000 --> 00:09:55,000
+So, okay, so anyway, like you don't have to go to office for now because it's a concurrently
+
+204
+00:09:55,000 --> 00:09:57,000
+work from home model, right?
+
+205
+00:09:57,000 --> 00:10:02,000
+So whenever you are going to start going office, the timing would be only 35 minutes.
+
+206
+00:10:02,000 --> 00:10:05,000
+So around 8, 8.30 you'll be at home, right?
+
+207
+00:10:05,000 --> 00:10:12,000
+And from 9 to 11, we have evening classes here and morning classes timing would be 7am to 9.
+
+208
+00:10:12,000 --> 00:10:14,000
+So what do you think?
+
+209
+00:10:14,000 --> 00:10:18,000
+I will be good at 7am to 9 in morning classes.
+
+210
+00:10:18,000 --> 00:10:19,000
+Okay.
+
+211
+00:10:19,000 --> 00:10:21,000
+It means that you're a morning person completely, right?
+
+212
+00:10:21,000 --> 00:10:24,000
+So you won't be finding any issues with that, right?
+
+213
+00:10:24,000 --> 00:10:25,000
+Yes.
+
+214
+00:10:25,000 --> 00:10:27,000
+7am to 9am you're going to join the class.
+
+215
+00:10:27,000 --> 00:10:30,000
+Your batch will be starting here on 17th of July.
+
+216
+00:10:30,000 --> 00:10:33,000
+9pm to 11, you will have only one session in night.
+
+217
+00:10:33,000 --> 00:10:35,000
+It would be your orientation.
+
+218
+00:10:35,000 --> 00:10:39,000
+Then after your module classes will be there in the morning call only.
+
+219
+00:10:39,000 --> 00:10:40,000
+Okay.
+
+220
+00:10:40,000 --> 00:10:43,000
+Sorry, can you say that because your voice little bit break.
+
+221
+00:10:43,000 --> 00:10:44,000
+Okay.
+
+222
+00:10:44,000 --> 00:10:45,000
+Can you hear me now?
+
+223
+00:10:45,000 --> 00:10:46,000
+Is it better?
+
+224
+00:10:46,000 --> 00:10:47,000
+Yes.
+
+225
+00:10:47,000 --> 00:10:48,000
+Okay.
+
+226
+00:10:48,000 --> 00:10:50,000
+So we have two timings with scaler.
+
+227
+00:10:50,000 --> 00:10:52,000
+Evening timing is 9pm to 11.
+
+228
+00:10:52,000 --> 00:10:54,000
+Morning timing would be 7am to 9.
+
+229
+00:10:54,000 --> 00:10:55,000
+Okay.
+
+230
+00:10:55,000 --> 00:10:59,000
+As you mentioned, you are comfortable with the morning classes, but our batch will be
+
+231
+00:10:59,000 --> 00:11:01,000
+starting here on 17th of July.
+
+232
+00:11:01,000 --> 00:11:04,000
+So that one session will be there in only night.
+
+233
+00:11:04,000 --> 00:11:06,000
+It's the orientation.
+
+234
+00:11:06,000 --> 00:11:07,000
+Okay.
+
+235
+00:11:07,000 --> 00:11:10,000
+Then after you will have your normal module classes in the evening hours only.
+
+236
+00:11:10,000 --> 00:11:11,000
+Okay.
+
+237
+00:11:11,000 --> 00:11:12,000
+Okay.
+
+238
+00:11:12,000 --> 00:11:13,000
+Okay.
+
+239
+00:11:13,000 --> 00:11:14,000
+So what are the activities?
+
+240
+00:11:14,000 --> 00:11:16,000
+What are the work you're going to do it on the portal before 17th?
+
+241
+00:11:16,000 --> 00:11:17,000
+I'll let you know.
+
+242
+00:11:17,000 --> 00:11:19,000
+One will be your profile update.
+
+243
+00:11:19,000 --> 00:11:21,000
+So have you logged into the portal or not?
+
+244
+00:11:21,000 --> 00:11:22,000
+Yes.
+
+245
+00:11:22,000 --> 00:11:24,000
+You have already logged in, right?
+
+246
+00:11:24,000 --> 00:11:25,000
+Yes, I have logged in.
+
+247
+00:11:25,000 --> 00:11:26,000
+Okay.
+
+248
+00:11:26,000 --> 00:11:27,000
+So I'll give you some work.
+
+249
+00:11:27,000 --> 00:11:31,000
+Four work you're supposed to do it by the next weekend.
+
+250
+00:11:31,000 --> 00:11:33,000
+One will be your profile update.
+
+251
+00:11:33,000 --> 00:11:35,000
+In the right corner of the dashboard, your name is there.
+
+252
+00:11:35,000 --> 00:11:38,000
+You just have to click on your name, go to the setting option and update your
+
+253
+00:11:38,000 --> 00:11:40,000
+academy and job profile.
+
+254
+00:11:40,000 --> 00:11:43,000
+Second thing you have to do, your mentor selection.
+
+255
+00:11:43,000 --> 00:11:44,000
+Sorry.
+
+256
+00:11:44,000 --> 00:11:45,000
+Sorry.
+
+257
+00:11:45,000 --> 00:11:46,000
+Just give me a second.
+
+258
+00:11:46,000 --> 00:11:47,000
+I need to log in again.
+
+259
+00:11:47,000 --> 00:11:48,000
+No, no.
+
+260
+00:11:48,000 --> 00:11:49,000
+You don't have to log in.
+
+261
+00:11:49,000 --> 00:11:50,000
+You don't have to update it.
+
+262
+00:11:50,000 --> 00:11:51,000
+For now, just hear me out.
+
+263
+00:11:51,000 --> 00:11:54,000
+I will write everything on your WhatsApp number.
+
+264
+00:11:54,000 --> 00:11:56,000
+You can do it by the next upcoming weekend.
+
+265
+00:11:56,000 --> 00:11:57,000
+Okay.
+
+266
+00:11:57,000 --> 00:11:58,000
+Okay.
+
+267
+00:11:58,000 --> 00:12:00,000
+So one will be the profile update on the dashboard.
+
+268
+00:12:00,000 --> 00:12:02,000
+Second will be your mentor selection.
+
+269
+00:12:02,000 --> 00:12:06,000
+Third will be your scalar assessment test, which will take you two hours of your
+
+270
+00:12:06,000 --> 00:12:07,000
+time.
+
+271
+00:12:07,000 --> 00:12:09,000
+And the questions are complete coming from programming.
+
+272
+00:12:09,000 --> 00:12:11,000
+So just give your best in the paper.
+
+273
+00:12:11,000 --> 00:12:15,000
+Depending on the marks, our team will decide that which batch could be the
+
+274
+00:12:15,000 --> 00:12:16,000
+preferred option for you.
+
+275
+00:12:16,000 --> 00:12:19,000
+Like out of these three, beginner, intermediate and advanced.
+
+276
+00:12:19,000 --> 00:12:22,000
+So if you're joining beginner, it will take you 12 months.
+
+277
+00:12:22,000 --> 00:12:27,000
+Intermediate will take you 11.5 months and advanced will take you 9 to 10 months.
+
+278
+00:12:27,000 --> 00:12:31,000
+After the completion of the course, you will have the dashboard access with you
+
+279
+00:12:31,000 --> 00:12:35,000
+till six more months where you can apply for the job opportunities via scalar.
+
+280
+00:12:35,000 --> 00:12:36,000
+Okay.
+
+281
+00:12:36,000 --> 00:12:37,000
+Clear?
+
+282
+00:12:37,000 --> 00:12:38,000
+Okay.
+
+283
+00:12:38,000 --> 00:12:39,000
+Okay.
+
+284
+00:12:39,000 --> 00:12:43,000
+Now moving ahead, there is a one form on the dashboard under the scalar offering.
+
+285
+00:12:43,000 --> 00:12:47,000
+You might have seen it towards your right direction on the dashboard.
+
+286
+00:12:47,000 --> 00:12:49,000
+Just check it once after my call.
+
+287
+00:12:49,000 --> 00:12:53,000
+There is expectation form, which I'm expecting you to fill it by today or tomorrow.
+
+288
+00:12:53,000 --> 00:12:54,000
+Okay.
+
+289
+00:12:54,000 --> 00:12:55,000
+Okay.
+
+290
+00:12:55,000 --> 00:12:58,000
+If any doubts arise, you can ping me on my WhatsApp number and I will just
+
+291
+00:12:58,000 --> 00:13:00,000
+clarify your doubts for the same.
+
+292
+00:13:00,000 --> 00:13:01,000
+Okay.
+
+293
+00:13:01,000 --> 00:13:03,000
+So currently are you staying with your family?
+
+294
+00:13:03,000 --> 00:13:04,000
+Yes.
+
+295
+00:13:04,000 --> 00:13:05,000
+Okay.
+
+296
+00:13:05,000 --> 00:13:08,000
+So what generally do you do in your weekend hours?
+
+297
+00:13:08,000 --> 00:13:14,000
+You do prefer going out every week in Southside or like what do you prefer to be at home or what?
+
+298
+00:13:14,000 --> 00:13:16,000
+Depends.
+
+299
+00:13:16,000 --> 00:13:17,000
+Depends.
+
+300
+00:13:17,000 --> 00:13:18,000
+Depends.
+
+301
+00:13:18,000 --> 00:13:19,000
+Okay.
+
+302
+00:13:19,000 --> 00:13:22,000
+It totally depends.
+
+303
+00:13:22,000 --> 00:13:26,000
+But in a weekend, I have one time five to eight.
+
+304
+00:13:26,000 --> 00:13:27,000
+It's busy.
+
+305
+00:13:27,000 --> 00:13:29,000
+I'm always busy on five to eight.
+
+306
+00:13:29,000 --> 00:13:31,000
+Both Saturday and Sunday you're busy?
+
+307
+00:13:31,000 --> 00:13:32,000
+Okay.
+
+308
+00:13:32,000 --> 00:13:35,000
+So what do you do on Saturday and Sunday?
+
+309
+00:13:35,000 --> 00:13:38,000
+I think either Saturday or Sunday.
+
+310
+00:13:38,000 --> 00:13:39,000
+Oh, sure.
+
+311
+00:13:39,000 --> 00:13:40,000
+Okay.
+
+312
+00:13:40,000 --> 00:13:41,000
+Either of one, right?
+
+313
+00:13:41,000 --> 00:13:42,000
+Either of one.
+
+314
+00:13:42,000 --> 00:13:43,000
+Got it.
+
+315
+00:13:43,000 --> 00:13:46,000
+Why I've asked this now, because I want this 15 hours from your end.
+
+316
+00:13:46,000 --> 00:13:53,000
+So I'm just planning how to take out this 15 hours and your plan is if you're going to miss any of the live sessions in any week, right?
+
+317
+00:13:53,000 --> 00:13:56,000
+So as you mentioned, you will be out on Saturday or Sunday.
+
+318
+00:13:56,000 --> 00:14:00,000
+So you're going to sit in your weekend hours and complete the lag in the particular timing, right?
+
+319
+00:14:00,000 --> 00:14:04,000
+And along with your assignments and homework also have to be on point.
+
+320
+00:14:04,000 --> 00:14:06,000
+So yeah, just make sure you're doing that.
+
+321
+00:14:06,000 --> 00:14:09,000
+Now, let me know how you're done with the finances front.
+
+322
+00:14:09,000 --> 00:14:12,000
+I believe 20,000 has been paid, right?
+
+323
+00:14:12,000 --> 00:14:13,000
+Yes.
+
+324
+00:14:13,000 --> 00:14:17,000
+Rest of the amount, are you planning to do it EMI or wanted to go with one shot?
+
+325
+00:14:17,000 --> 00:14:19,000
+I think this is done.
+
+326
+00:14:19,000 --> 00:14:24,000
+I think I have started the EMI part is done from my...
+
+327
+00:14:24,000 --> 00:14:27,000
+You're going with the no cost EMI or cost EMI?
+
+328
+00:14:27,000 --> 00:14:29,000
+No cost EMI.
+
+329
+00:14:29,000 --> 00:14:33,000
+No cost EMI and the amount will be 12,250, right?
+
+330
+00:14:33,000 --> 00:14:34,000
+Yes, I think so.
+
+331
+00:14:34,000 --> 00:14:35,000
+Yeah.
+
+332
+00:14:35,000 --> 00:14:36,000
+Okay. Yes.
+
+333
+00:14:36,000 --> 00:14:38,000
+And the EMI would start from the month of August.
+
+334
+00:14:38,000 --> 00:14:42,000
+Every month, fifth of the month, the amount will be auto debit from your account.
+
+335
+00:14:42,000 --> 00:14:43,000
+Yes.
+
+336
+00:14:43,000 --> 00:14:45,000
+Okay. So we are clear with the finances.
+
+337
+00:14:45,000 --> 00:14:48,000
+So are you financing your own course, right?
+
+338
+00:14:48,000 --> 00:14:51,000
+Or somebody in your family is helping you with that?
+
+339
+00:14:51,000 --> 00:14:52,000
+Sorry?
+
+340
+00:14:52,000 --> 00:14:56,000
+Somebody like in your family, someone is helping you with the financing the school.
+
+341
+00:14:56,000 --> 00:14:58,000
+So you are doing it by your own?
+
+342
+00:14:58,000 --> 00:15:00,000
+Yeah, I'm doing it by my own.
+
+343
+00:15:00,000 --> 00:15:01,000
+Oh, no.
+
+344
+00:15:01,000 --> 00:15:04,000
+Okay. So apart from that, any other EMI is with you?
+
+345
+00:15:04,000 --> 00:15:07,000
+Yeah, card loan, home loan.
+
+346
+00:15:07,000 --> 00:15:10,000
+Oh, these many loans. Okay. Bunch of loans.
+
+347
+00:15:10,000 --> 00:15:14,000
+So I hope you would not be finding the problem with the financial crunch.
+
+348
+00:15:14,000 --> 00:15:20,000
+This 12,250 will be the okay because it's only hardly you have to manage it for eight to nine months.
+
+349
+00:15:20,000 --> 00:15:24,000
+And then after you can see the good opportunities with the great package.
+
+350
+00:15:24,000 --> 00:15:27,000
+So this would be then.
+
+351
+00:15:27,000 --> 00:15:29,000
+Any other doubt?
+
+352
+00:15:29,000 --> 00:15:32,000
+No, no, no. I hope so. I'll get it.
+
+353
+00:15:32,000 --> 00:15:34,000
+You'll get it. Don't worry.
+
+354
+00:15:34,000 --> 00:15:40,000
+Just make sure that you are going to just put your work here and this thing will be taken care of.
+
+355
+00:15:40,000 --> 00:15:45,000
+Okay. So now I have already informed you what are the work you're supposed to do it on the portal.
+
+356
+00:15:45,000 --> 00:15:48,000
+I will write all those things on your WhatsApp number.
+
+357
+00:15:48,000 --> 00:15:52,000
+And I also am sharing the onboarding guide for your friends to take out some time,
+
+358
+00:15:52,000 --> 00:15:59,000
+go to the onboarding references and do the work and let me know on my WhatsApp number once the work will be done so that I can check your dashboard.
+
+359
+00:15:59,000 --> 00:16:00,000
+Okay.
+
+360
+00:16:00,000 --> 00:16:04,000
+Okay. I just want to one thing you said it.
+
+361
+00:16:04,000 --> 00:16:11,000
+Some expected things I feel it wants for me.
+
+362
+00:16:11,000 --> 00:16:15,000
+What your voice is making. Hello.
+
+363
+00:16:15,000 --> 00:16:16,000
+Hello.
+
+364
+00:16:16,000 --> 00:16:17,000
+I can hear you now.
+
+365
+00:16:17,000 --> 00:16:21,000
+Yeah, you said some expectations.
+
+366
+00:16:21,000 --> 00:16:23,000
+From my right.
+
+367
+00:16:23,000 --> 00:16:25,000
+I need to do that today or tomorrow.
+
+368
+00:16:25,000 --> 00:16:34,000
+Okay. I just I just want to clear is this on the dashboard under the scale offering and the standard scale offering.
+
+369
+00:16:34,000 --> 00:16:37,000
+Where your name is there in the top right corner.
+
+370
+00:16:37,000 --> 00:16:43,000
+Right on just front page of the dashboard middle of the page towards your right.
+
+371
+00:16:43,000 --> 00:16:45,000
+What's my right. Yes.
+
+372
+00:16:45,000 --> 00:16:49,000
+Mentor selection, batch allocation.
+
+373
+00:16:49,000 --> 00:16:51,000
+There are some.
+
+374
+00:16:51,000 --> 00:16:53,000
+No, it's not to me.
+
+375
+00:16:53,000 --> 00:16:58,000
+I think. Are you on the which page currently as it.
+
+376
+00:16:58,000 --> 00:17:07,000
+Where the get started with your scale originally introduction to dashboard and just go to it.
+
+377
+00:17:07,000 --> 00:17:09,000
+And find your badge. Yes.
+
+378
+00:17:09,000 --> 00:17:13,000
+Find your badge from where you can give you a scale your assessment test.
+
+379
+00:17:13,000 --> 00:17:14,000
+Okay.
+
+380
+00:17:14,000 --> 00:17:19,000
+And you can just scroll you understand the scale offering.
+
+381
+00:17:19,000 --> 00:17:20,000
+Okay.
+
+382
+00:17:20,000 --> 00:17:22,000
+It's going to open and send us.
+
+383
+00:17:22,000 --> 00:17:25,000
+Fill in some expectation form.
+
+384
+00:17:25,000 --> 00:17:26,000
+Do that.
+
+385
+00:17:26,000 --> 00:17:28,000
+And also let me know.
+
+386
+00:17:28,000 --> 00:17:34,000
+Are you aware about it now after the completion of your course you will have the access for the dashboard to six more months.
+
+387
+00:17:34,000 --> 00:17:37,000
+You can apply for the job opportunities via scale.
+
+388
+00:17:37,000 --> 00:17:43,000
+Also you can take the teaching assistant help if you stuck anywhere while just going through any recordings.
+
+389
+00:17:43,000 --> 00:17:50,000
+Also let me know what will be your preferred way of communication if you would like to connect again with you just to pass on any information regarding classes or anything.
+
+390
+00:17:50,000 --> 00:17:56,000
+So do you want me to reach out to you on your WhatsApp number before calling or normal call also would work for you.
+
+391
+00:17:56,000 --> 00:17:58,000
+Normal call anything.
+
+392
+00:17:58,000 --> 00:18:00,000
+Anything will work.
+
+393
+00:18:00,000 --> 00:18:01,000
+Take care.
+
+394
+00:18:01,000 --> 00:18:16,000
+So in a week I would be available with you for five days to assist you like Wednesday, Thursday, and my off days in case of my unavailability if anything is very important to discuss with a scalar member you can directly reach out to the customer executed number which I will share with you.
+
+395
+00:18:16,000 --> 00:18:20,000
+That is a live chat live call you can do it from the dashboard also.
+
+396
+00:18:20,000 --> 00:18:24,000
+And also I will share you the number where you can directly call on that number.
+
+397
+00:18:24,000 --> 00:18:29,000
+Either you can wait for me to log in after two days and I will just pick your queries on point.
+
+398
+00:18:29,000 --> 00:18:30,000
+Okay.
+
+399
+00:18:30,000 --> 00:18:31,000
+Okay.
+
+400
+00:18:31,000 --> 00:18:34,000
+And can you just help me with your PEN code area PEN code.
+
+401
+00:18:34,000 --> 00:18:40,000
+302019
+
+402
+00:18:40,000 --> 00:18:43,000
+Okay you are staying there Jaipur.
+
+403
+00:18:43,000 --> 00:18:44,000
+Yes.
+
+404
+00:18:44,000 --> 00:18:45,000
+Okay.
+
+405
+00:18:45,000 --> 00:18:46,000
+Got it.
+
+406
+00:18:46,000 --> 00:18:49,000
+How is the weather in Jaipur now?
+
+407
+00:18:49,000 --> 00:18:52,000
+I think cloudy.
+
+408
+00:18:52,000 --> 00:18:54,000
+Today's cloudy weather.
+
+409
+00:18:54,000 --> 00:18:55,000
+Finally.
+
+410
+00:18:55,000 --> 00:18:57,000
+Some cold weather.
+
+411
+00:18:57,000 --> 00:18:58,000
+Yes.
+
+412
+00:18:58,000 --> 00:19:01,000
+Because there is a lot of heat to it.
+
+413
+00:19:01,000 --> 00:19:02,000
+Yes.
+
+414
+00:19:02,000 --> 00:19:05,000
+That's why I asked because we are staying in Bangalore now.
+
+415
+00:19:05,000 --> 00:19:06,000
+Yeah.
+
+416
+00:19:06,000 --> 00:19:09,000
+So here the weather is very good now.
+
+417
+00:19:09,000 --> 00:19:15,000
+So that's why I thought of asking you after listening that you are from Rajasthan like from Jaipur.
+
+418
+00:19:15,000 --> 00:19:16,000
+Yes.
+
+419
+00:19:16,000 --> 00:19:18,000
+So don't worry for that.
+
+420
+00:19:18,000 --> 00:19:20,000
+I have done your onboarding.
+
+421
+00:19:20,000 --> 00:19:23,000
+17th of July the badge will come in for you.
+
+422
+00:19:23,000 --> 00:19:24,000
+Okay.
+
+423
+00:19:24,000 --> 00:19:34,000
+And also I would like to connect with you on the video call sessions for the dashboard overview session where I have to make you understand how you can reach out to the mentor who would be your teaching assistant.
+
+424
+00:19:34,000 --> 00:19:39,000
+How you can see the live session a complete exposure will be given to you on the dashboard.
+
+425
+00:19:39,000 --> 00:19:40,000
+But not today not tomorrow.
+
+426
+00:19:40,000 --> 00:19:43,000
+I'll just let you know the timing from your WhatsApp.
+
+427
+00:19:43,000 --> 00:19:44,000
+Okay.
+
+428
+00:19:44,000 --> 00:19:45,000
+Okay.
+
+429
+00:19:45,000 --> 00:19:48,000
+For the time being just explore your dashboard as much as you can do that and just collect your queries.
+
+430
+00:19:48,000 --> 00:19:52,000
+So when we will connect on the call you can shoot your questions.
+
+431
+00:19:52,000 --> 00:19:53,000
+Okay.
+
+432
+00:19:53,000 --> 00:19:54,000
+Thank you.
+
+433
+00:19:54,000 --> 00:19:57,000
+Welcome on board of it's giving you all the warm wishes to your career.
+
+434
+00:19:57,000 --> 00:19:58,000
+Thank you.
+
+435
+00:19:58,000 --> 00:20:00,000
+And one more thing.
+
+436
+00:20:00,000 --> 00:20:01,000
+Yeah.
+
+437
+00:20:01,000 --> 00:20:02,000
+Sorry.
+
+438
+00:20:02,000 --> 00:20:05,000
+This is your first ever platform you're joining the theater.
+
+439
+00:20:05,000 --> 00:20:06,000
+Yes.
+
+440
+00:20:06,000 --> 00:20:07,000
+Yes.
+
+441
+00:20:07,000 --> 00:20:12,000
+Before then that you never explored any other platform.
+
+442
+00:20:12,000 --> 00:20:13,000
+I hope so.
+
+443
+00:20:13,000 --> 00:20:15,000
+I don't require anything.
+
+444
+00:20:15,000 --> 00:20:16,000
+Okay.
+
+445
+00:20:16,000 --> 00:20:17,000
+So open source and you free time.
+
+446
+00:20:17,000 --> 00:20:18,000
+How do you learn basically.
+
+447
+00:20:18,000 --> 00:20:22,000
+Do you watch YouTube videos or take some courses from what do you mean.
+
+448
+00:20:22,000 --> 00:20:23,000
+I prefer video.
+
+449
+00:20:23,000 --> 00:20:25,000
+I have you daily lectures.
+
+450
+00:20:25,000 --> 00:20:30,000
+I only think I'm good at.
+
+451
+00:20:30,000 --> 00:20:33,000
+I'm not good at anything like curing.
+
+452
+00:20:33,000 --> 00:20:39,000
+So I always try to be practical and learn from videos.
+
+453
+00:20:39,000 --> 00:20:40,000
+Okay.
+
+454
+00:20:40,000 --> 00:20:41,000
+That's the thing.
+
+455
+00:20:41,000 --> 00:20:42,000
+Yeah.
+
+456
+00:20:42,000 --> 00:20:43,000
+And it's okay.
+
+457
+00:20:43,000 --> 00:20:44,000
+Yeah.
+
+458
+00:20:44,000 --> 00:20:45,000
+Tell me your version now.
+
+459
+00:20:45,000 --> 00:20:46,000
+Yeah.
+
+460
+00:20:46,000 --> 00:20:50,000
+One question is that my courses Java full set.
+
+461
+00:20:50,000 --> 00:20:51,000
+Correct.
+
+462
+00:20:51,000 --> 00:20:57,000
+And one more thing that she mentioned told me that you are also we also added added you
+
+463
+00:20:57,000 --> 00:21:03,000
+a data engineering course but we don't provide you any mentorship on data engineering but
+
+464
+00:21:03,000 --> 00:21:05,000
+we will provide you what video.
+
+465
+00:21:05,000 --> 00:21:06,000
+Yes.
+
+466
+00:21:06,000 --> 00:21:07,000
+Yes.
+
+467
+00:21:07,000 --> 00:21:09,000
+Recorded video will be there in the corner.
+
+468
+00:21:09,000 --> 00:21:10,000
+Yes.
+
+469
+00:21:10,000 --> 00:21:15,000
+Because our main criteria will be the DSM SQL for one month and then after system designs
+
+470
+00:21:16,000 --> 00:21:21,000
+model then after we will give you the option to take either data engineering product management
+
+471
+00:21:21,000 --> 00:21:23,000
+in genius or you can go with a different one.
+
+472
+00:21:23,000 --> 00:21:26,000
+I'll just share the curriculum for you.
+
+473
+00:21:26,000 --> 00:21:27,000
+Okay.
+
+474
+00:21:27,000 --> 00:21:28,000
+Okay.
+
+475
+00:21:28,000 --> 00:21:29,000
+Okay.
+
+476
+00:21:29,000 --> 00:21:30,000
+Okay.
+
+477
+00:21:30,000 --> 00:21:31,000
+This I need to clear it.
+
+478
+00:21:31,000 --> 00:21:32,000
+Yeah.
+
+479
+00:21:32,000 --> 00:21:33,000
+Thank you.
+
+480
+00:21:33,000 --> 00:21:34,000
+Bye.
+
+481
+00:21:34,000 --> 00:21:35,000
+Good night.
+
+482
+00:21:35,000 --> 00:21:36,000
+Thank you.
+
+483
+00:21:36,000 --> 00:21:37,000
+Good night.
+
+484
+00:21:37,000 --> 00:21:38,000
+Take care.
+

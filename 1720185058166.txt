@@ -1,0 +1,2708 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:08,000
+Sir, I require the information about
+
+4
+00:00:08,000 --> 00:00:16,000
+the information about
+
+5
+00:00:16,000 --> 00:00:20,000
+highest packages
+
+6
+00:00:20,000 --> 00:00:22,000
+how to get highest packages
+
+7
+00:00:22,000 --> 00:00:24,000
+it means the road map
+
+8
+00:00:24,000 --> 00:00:26,000
+I require about the road map
+
+9
+00:00:26,000 --> 00:00:28,000
+You want to have an idea regarding the road map
+
+10
+00:00:28,000 --> 00:00:30,000
+how to get higher packages
+
+11
+00:00:30,000 --> 00:00:32,000
+ok, just give me a second
+
+12
+00:00:36,000 --> 00:00:38,000
+means in the interview section
+
+13
+00:00:38,000 --> 00:00:40,000
+which part of the area should be asked
+
+14
+00:00:40,000 --> 00:00:42,000
+just like topics
+
+15
+00:00:42,000 --> 00:00:44,000
+ok, we should have to prepare for that
+
+16
+00:00:44,000 --> 00:00:48,000
+ok, in this scenario
+
+17
+00:00:48,000 --> 00:00:56,000
+because all the kinds of interview
+
+18
+00:00:56,000 --> 00:01:02,000
+the package will be decided according to the experience
+
+19
+00:01:02,000 --> 00:01:04,000
+or what you learned
+
+20
+00:01:04,000 --> 00:01:08,000
+what you create your projects according to that
+
+21
+00:01:08,000 --> 00:01:12,000
+and what correct the part of DSA
+
+22
+00:01:12,000 --> 00:01:14,000
+and part of HLDIP
+
+23
+00:01:14,000 --> 00:01:18,000
+and low level and high level programming
+
+24
+00:01:18,000 --> 00:01:24,000
+so if you want to get a good package
+
+25
+00:01:24,000 --> 00:01:28,000
+basically you have to be very good in advanced data structures
+
+26
+00:01:28,000 --> 00:01:30,000
+till advanced data structures you need to be very good in
+
+27
+00:01:30,000 --> 00:01:32,000
+ok, then in LLD
+
+28
+00:01:32,000 --> 00:01:34,000
+low level designing you need to be good in
+
+29
+00:01:34,000 --> 00:01:36,000
+till OOPs concept questions will be asked
+
+30
+00:01:36,000 --> 00:01:38,000
+and you need to have a basic understanding
+
+31
+00:01:38,000 --> 00:01:40,000
+regarding HLD as well
+
+32
+00:01:40,000 --> 00:01:42,000
+ok
+
+33
+00:01:42,000 --> 00:01:44,000
+so once this part is done
+
+34
+00:01:44,000 --> 00:01:46,000
+you can do entry level job also
+
+35
+00:01:46,000 --> 00:01:48,000
+even in like FANG and WANG companies
+
+36
+00:01:48,000 --> 00:01:50,000
+or any tier 1 product based companies
+
+37
+00:01:50,000 --> 00:01:52,000
+like even Paytm and all
+
+38
+00:01:52,000 --> 00:01:54,000
+that kind of questions will be asked in the interview
+
+39
+00:01:56,000 --> 00:02:00,000
+that's the reason I want such type of roadmaps
+
+40
+00:02:00,000 --> 00:02:04,000
+so for an example
+
+41
+00:02:04,000 --> 00:02:06,000
+if you see the master class of
+
+42
+00:02:06,000 --> 00:02:10,000
+HV rule outside India
+
+43
+00:02:10,000 --> 00:02:12,000
+ok, so do one thing
+
+44
+00:02:12,000 --> 00:02:16,000
+in the master classes
+
+45
+00:02:16,000 --> 00:02:18,000
+no, I have seen that video
+
+46
+00:02:18,000 --> 00:02:20,000
+I am not talking about that
+
+47
+00:02:20,000 --> 00:02:22,000
+I am just saying that video
+
+48
+00:02:22,000 --> 00:02:24,000
+but after completing the video
+
+49
+00:02:24,000 --> 00:02:26,000
+what exactly the roadmap has been given
+
+50
+00:02:26,000 --> 00:02:28,000
+ok
+
+51
+00:02:28,000 --> 00:02:30,000
+you didn't get the roadmap
+
+52
+00:02:30,000 --> 00:02:32,000
+no, I didn't get
+
+53
+00:02:32,000 --> 00:02:34,000
+I get the roadmap
+
+54
+00:02:34,000 --> 00:02:36,000
+ok
+
+55
+00:02:36,000 --> 00:02:38,000
+I get the roadmap but
+
+56
+00:02:38,000 --> 00:02:40,000
+this job is for outside
+
+57
+00:02:40,000 --> 00:02:42,000
+ok
+
+58
+00:02:42,000 --> 00:02:44,000
+or remote areas
+
+59
+00:02:44,000 --> 00:02:46,000
+ok
+
+60
+00:02:46,000 --> 00:02:48,000
+so remote area
+
+61
+00:02:48,000 --> 00:02:50,000
+one year experience is required
+
+62
+00:02:50,000 --> 00:02:52,000
+ok
+
+63
+00:02:52,000 --> 00:02:54,000
+I am correct or wrong?
+
+64
+00:02:54,000 --> 00:02:56,000
+correct, it's depending upon company
+
+65
+00:02:56,000 --> 00:02:58,000
+there is no mandatory that
+
+66
+00:02:58,000 --> 00:03:00,000
+if you only have one year experience
+
+67
+00:03:00,000 --> 00:03:02,000
+generally you will be getting remote jobs
+
+68
+00:03:02,000 --> 00:03:04,000
+there is no such kind of official criteria
+
+69
+00:03:04,000 --> 00:03:06,000
+but it will be depending upon companies
+
+70
+00:03:06,000 --> 00:03:08,000
+to companies right
+
+71
+00:03:12,000 --> 00:03:14,000
+so it will vary depending upon company
+
+72
+00:03:14,000 --> 00:03:16,000
+to company
+
+73
+00:03:16,000 --> 00:03:18,000
+so that the reason
+
+74
+00:03:18,000 --> 00:03:20,000
+I require the companies
+
+75
+00:03:20,000 --> 00:03:22,000
+with the list
+
+76
+00:03:22,000 --> 00:03:24,000
+ok
+
+77
+00:03:24,000 --> 00:03:26,000
+and I require the
+
+78
+00:03:26,000 --> 00:03:28,000
+information that
+
+79
+00:03:28,000 --> 00:03:30,000
+which topic should be completed
+
+80
+00:03:30,000 --> 00:03:32,000
+more focus
+
+81
+00:03:32,000 --> 00:03:34,000
+ok
+
+82
+00:03:34,000 --> 00:03:36,000
+so focus will be conducted
+
+83
+00:03:36,000 --> 00:03:38,000
+by I told you about
+
+84
+00:03:38,000 --> 00:03:40,000
+mandatory interviews and mock interviews
+
+85
+00:03:40,000 --> 00:03:42,000
+that will be conducted by our platform
+
+86
+00:03:42,000 --> 00:03:44,000
+in the program
+
+87
+00:03:44,000 --> 00:03:46,000
+so all those mandatory interviews
+
+88
+00:03:46,000 --> 00:03:48,000
+which we are conducting
+
+89
+00:03:48,000 --> 00:03:50,000
+they are topics which you have to be cleared
+
+90
+00:03:50,000 --> 00:03:52,000
+so these are mandatory sessions
+
+91
+00:03:52,000 --> 00:03:54,000
+like as I mentioned DSA
+
+92
+00:03:54,000 --> 00:03:56,000
+system designing HLD, LLD
+
+93
+00:03:56,000 --> 00:03:58,000
+these are the mandatory content basically
+
+94
+00:03:58,000 --> 00:04:00,000
+sir I have
+
+95
+00:04:00,000 --> 00:04:02,000
+John Fulstech developer
+
+96
+00:04:02,000 --> 00:04:04,000
+so I have seen
+
+97
+00:04:04,000 --> 00:04:06,000
+the course between the beginner
+
+98
+00:04:06,000 --> 00:04:08,000
+intermediate and advanced
+
+99
+00:04:08,000 --> 00:04:10,000
+ok
+
+100
+00:04:10,000 --> 00:04:12,000
+so they focus on
+
+101
+00:04:12,000 --> 00:04:14,000
+intermediate and advanced on the DSA
+
+102
+00:04:14,000 --> 00:04:16,000
+projects
+
+103
+00:04:16,000 --> 00:04:18,000
+and
+
+104
+00:04:18,000 --> 00:04:20,000
+low level design
+
+105
+00:04:20,000 --> 00:04:22,000
+and high level design
+
+106
+00:04:22,000 --> 00:04:24,000
+if I am correct
+
+107
+00:04:24,000 --> 00:04:26,000
+correct
+
+108
+00:04:26,000 --> 00:04:28,000
+correct
+
+109
+00:04:28,000 --> 00:04:30,000
+so that advanced part is that
+
+110
+00:04:30,000 --> 00:04:32,000
+for the tier 1 interview
+
+111
+00:04:32,000 --> 00:04:34,000
+no no no
+
+112
+00:04:34,000 --> 00:04:36,000
+nothing like that
+
+113
+00:04:36,000 --> 00:04:38,000
+ok
+
+114
+00:04:38,000 --> 00:04:40,000
+but beginner module
+
+115
+00:04:40,000 --> 00:04:42,000
+focusing is first to target you
+
+116
+00:04:42,000 --> 00:04:44,000
+and get an entry level job
+
+117
+00:04:44,000 --> 00:04:46,000
+that is the first target
+
+118
+00:04:46,000 --> 00:04:48,000
+once your core module is over
+
+119
+00:04:48,000 --> 00:04:50,000
+there is an elective where HLD is going to be covered
+
+120
+00:04:50,000 --> 00:04:52,000
+that is there in the platform
+
+121
+00:04:52,000 --> 00:04:54,000
+but it is optional for the learners
+
+122
+00:04:54,000 --> 00:04:56,000
+that is also being covered as live content only
+
+123
+00:04:56,000 --> 00:04:58,000
+so the courses is similar only
+
+124
+00:04:58,000 --> 00:05:00,000
+outline is similar same content is going to be covered
+
+125
+00:05:00,000 --> 00:05:02,000
+only the structure is different
+
+126
+00:05:02,000 --> 00:05:04,000
+ok
+
+127
+00:05:04,000 --> 00:05:06,000
+because see if I am
+
+128
+00:05:06,000 --> 00:05:08,000
+I can't prepare a person with 10 years of experience
+
+129
+00:05:08,000 --> 00:05:10,000
+I am not teaching a pressure like you
+
+130
+00:05:10,000 --> 00:05:12,000
+so there has to be some difference
+
+131
+00:05:12,000 --> 00:05:14,000
+that is the only difference that you will be seeing
+
+132
+00:05:14,000 --> 00:05:16,000
+ok so in your path also
+
+133
+00:05:16,000 --> 00:05:18,000
+you are teach from basic to advanced level
+
+134
+00:05:18,000 --> 00:05:20,000
+so once you are completing the program
+
+135
+00:05:20,000 --> 00:05:22,000
+you will be also having a similar skill set
+
+136
+00:05:22,000 --> 00:05:24,000
+ok don't get confused
+
+137
+00:05:24,000 --> 00:05:26,000
+on to the structure basically
+
+138
+00:05:26,000 --> 00:05:28,000
+ok the first preference
+
+139
+00:05:28,000 --> 00:05:30,000
+is given to SQL and all because
+
+140
+00:05:30,000 --> 00:05:32,000
+for an entry level job these are the things required
+
+141
+00:05:32,000 --> 00:05:34,000
+additionally
+
+142
+00:05:34,000 --> 00:05:36,000
+you will be asking these sort of questions so that by SQL
+
+143
+00:05:36,000 --> 00:05:38,000
+and additional contents are covering
+
+144
+00:05:38,000 --> 00:05:40,000
+but HLD is a topic which is going to be covered
+
+145
+00:05:40,000 --> 00:05:42,000
+for you but you have to decide
+
+146
+00:05:42,000 --> 00:05:44,000
+whether I have to cover
+
+147
+00:05:44,000 --> 00:05:46,000
+the thing is that now
+
+148
+00:05:46,000 --> 00:05:48,000
+what I have to know
+
+149
+00:05:48,000 --> 00:05:50,000
+a proper roadmap
+
+150
+00:05:50,000 --> 00:05:52,000
+of getting higher packages
+
+151
+00:05:52,000 --> 00:05:54,000
+ok
+
+152
+00:05:54,000 --> 00:05:56,000
+getting higher packages
+
+153
+00:05:56,000 --> 00:05:58,000
+with
+
+154
+00:05:58,000 --> 00:06:00,000
+step by step
+
+155
+00:06:00,000 --> 00:06:02,000
+Harshit see
+
+156
+00:06:02,000 --> 00:06:04,000
+one thing you have to understand you have
+
+157
+00:06:04,000 --> 00:06:06,000
+to be enrolled into this particular program
+
+158
+00:06:06,000 --> 00:06:08,000
+into this structured path
+
+159
+00:06:08,000 --> 00:06:10,000
+so that you will be able to get those
+
+160
+00:06:10,000 --> 00:06:12,000
+particular contents so basically
+
+161
+00:06:12,000 --> 00:06:14,000
+you are currently inside that kind of a structure
+
+162
+00:06:14,000 --> 00:06:16,000
+so whatever that you are seeing
+
+163
+00:06:16,000 --> 00:06:18,000
+in the curriculum that is the structure
+
+164
+00:06:18,000 --> 00:06:20,000
+the content is assigned as per the
+
+165
+00:06:20,000 --> 00:06:22,000
+structure only
+
+166
+00:06:22,000 --> 00:06:24,000
+so you are again asking me to send you the structure
+
+167
+00:06:24,000 --> 00:06:26,000
+so I am not able to understand what exactly I should send you
+
+168
+00:06:26,000 --> 00:06:28,000
+the curriculum is the proper structure
+
+169
+00:06:28,000 --> 00:06:30,000
+it is explained in detail for you
+
+170
+00:06:30,000 --> 00:06:32,000
+no sir
+
+171
+00:06:32,000 --> 00:06:34,000
+we are not talking about the curriculum
+
+172
+00:06:34,000 --> 00:06:36,000
+curriculum is given
+
+173
+00:06:36,000 --> 00:06:38,000
+which we have to learn
+
+174
+00:06:38,000 --> 00:06:40,000
+then in addition to that what exactly you want me to send you
+
+175
+00:06:40,000 --> 00:06:42,000
+sir
+
+176
+00:06:42,000 --> 00:06:44,000
+in a frank way
+
+177
+00:06:44,000 --> 00:06:46,000
+with the
+
+178
+00:06:46,000 --> 00:06:48,000
+with the
+
+179
+00:06:48,000 --> 00:06:50,000
+with the transfer statement
+
+180
+00:06:50,000 --> 00:06:52,000
+if a
+
+181
+00:06:52,000 --> 00:06:54,000
+is a fresher go
+
+182
+00:06:54,000 --> 00:06:56,000
+to the company
+
+183
+00:06:56,000 --> 00:06:58,000
+if any institution or
+
+184
+00:06:58,000 --> 00:07:00,000
+academy is providing to the
+
+185
+00:07:00,000 --> 00:07:02,000
+to the company interview
+
+186
+00:07:02,000 --> 00:07:04,000
+okay
+
+187
+00:07:04,000 --> 00:07:06,000
+my question is very simple as a fresher
+
+188
+00:07:06,000 --> 00:07:08,000
+belonging that I want to reach
+
+189
+00:07:08,000 --> 00:07:10,000
+at a higher payment
+
+190
+00:07:10,000 --> 00:07:12,000
+okay my expectation
+
+191
+00:07:12,000 --> 00:07:14,000
+level minimum 18
+
+192
+00:07:14,000 --> 00:07:16,000
+20 legs
+
+193
+00:07:16,000 --> 00:07:18,000
+understood
+
+194
+00:07:18,000 --> 00:07:20,000
+okay
+
+195
+00:07:20,000 --> 00:07:22,000
+what are the
+
+196
+00:07:22,000 --> 00:07:24,000
+eligibility criteria
+
+197
+00:07:24,000 --> 00:07:26,000
+what are the eligibility criteria
+
+198
+00:07:26,000 --> 00:07:28,000
+okay understood
+
+199
+00:07:28,000 --> 00:07:30,000
+what are the eligibility criteria
+
+200
+00:07:30,000 --> 00:07:32,000
+for cracking those
+
+201
+00:07:32,000 --> 00:07:34,000
+to cracking
+
+202
+00:07:34,000 --> 00:07:36,000
+those
+
+203
+00:07:36,000 --> 00:07:38,000
+so the road map
+
+204
+00:07:38,000 --> 00:07:40,000
+road map means
+
+205
+00:07:40,000 --> 00:07:42,000
+you have to be good in DSA
+
+206
+00:07:42,000 --> 00:07:44,000
+if you wanted to crack those sort of level
+
+207
+00:07:44,000 --> 00:07:46,000
+then you need to be very good in system designing
+
+208
+00:07:46,000 --> 00:07:48,000
+including low level designing and high level
+
+209
+00:07:48,000 --> 00:07:50,000
+designing you need to have an understanding
+
+210
+00:07:50,000 --> 00:07:52,000
+of sequel also
+
+211
+00:07:52,000 --> 00:07:54,000
+and if you are good in any text works and technology
+
+212
+00:07:54,000 --> 00:07:56,000
+it will be an added advantage
+
+213
+00:07:56,000 --> 00:07:58,000
+for you
+
+214
+00:07:58,000 --> 00:08:00,000
+this is the road map you have to learn all these things
+
+215
+00:08:00,000 --> 00:08:02,000
+then only you will be able to crack
+
+216
+00:08:02,000 --> 00:08:04,000
+that's why I said we have developed the curriculum
+
+217
+00:08:04,000 --> 00:08:06,000
+according to that if you are asking me what
+
+218
+00:08:06,000 --> 00:08:08,000
+all things to learn whatever is mentioned in the
+
+219
+00:08:08,000 --> 00:08:10,000
+curriculum you need to be good in each and everything
+
+220
+00:08:10,000 --> 00:08:12,000
+that I was just simply telling
+
+221
+00:08:12,000 --> 00:08:14,000
+okay
+
+222
+00:08:14,000 --> 00:08:16,000
+okay
+
+223
+00:08:16,000 --> 00:08:18,000
+okay and you know if you
+
+224
+00:08:18,000 --> 00:08:20,000
+see you know I you remember the dashboard
+
+225
+00:08:20,000 --> 00:08:22,000
+main you will be able to find
+
+226
+00:08:22,000 --> 00:08:24,000
+there are one or two master
+
+227
+00:08:24,000 --> 00:08:26,000
+classes are there which is explaining how
+
+228
+00:08:26,000 --> 00:08:28,000
+to learn SDE jobs in Amazon
+
+229
+00:08:28,000 --> 00:08:30,000
+how to learn SDE jobs in Paytm
+
+230
+00:08:30,000 --> 00:08:32,000
+Fonpay and all watch that
+
+231
+00:08:32,000 --> 00:08:34,000
+recording once you will be getting little bit more
+
+232
+00:08:34,000 --> 00:08:36,000
+clarity if you want one and a half
+
+233
+00:08:36,000 --> 00:08:38,000
+hour session which is explained
+
+234
+00:08:38,000 --> 00:08:40,000
+okay
+
+235
+00:08:40,000 --> 00:08:42,000
+that also type of master class
+
+236
+00:08:42,000 --> 00:08:44,000
+is available yes yes so
+
+237
+00:08:44,000 --> 00:08:46,000
+open the dashboard on the main menu
+
+238
+00:08:46,000 --> 00:08:48,000
+you will be finding master classes and community classes
+
+239
+00:08:48,000 --> 00:08:50,000
+there there are couple of master
+
+240
+00:08:50,000 --> 00:08:52,000
+classes are there just stick it once you will be able to find
+
+241
+00:08:52,000 --> 00:08:54,000
+it okay
+
+242
+00:08:54,000 --> 00:08:56,000
+okay
+
+243
+00:08:56,000 --> 00:08:58,000
+okay
+
+244
+00:08:58,000 --> 00:09:00,000
+you don't get confused into lot of
+
+245
+00:09:00,000 --> 00:09:02,000
+stuffs okay it's pretty
+
+246
+00:09:02,000 --> 00:09:04,000
+simple whatever you are expected you know
+
+247
+00:09:04,000 --> 00:09:06,000
+we have put you into that particular batch only
+
+248
+00:09:06,000 --> 00:09:08,000
+once you are completely learned
+
+249
+00:09:08,000 --> 00:09:10,000
+all of them just maintain that you know you will be having
+
+250
+00:09:10,000 --> 00:09:12,000
+an 80% of more than 80%
+
+251
+00:09:12,000 --> 00:09:14,000
+attendance and you know you are solving all
+
+252
+00:09:14,000 --> 00:09:16,000
+the problems then you will be well and good
+
+253
+00:09:16,000 --> 00:09:18,000
+you follow the curriculum
+
+254
+00:09:18,000 --> 00:09:20,000
+and content rest everything will be following
+
+255
+00:09:20,000 --> 00:09:22,000
+properly
+
+256
+00:09:22,000 --> 00:09:24,000
+okay
+
+257
+00:09:24,000 --> 00:09:26,000
+okay sir
+
+258
+00:09:26,000 --> 00:09:28,000
+but the reason
+
+259
+00:09:28,000 --> 00:09:30,000
+I am asking that I belong to
+
+260
+00:09:30,000 --> 00:09:32,000
+tier 3 government college
+
+261
+00:09:32,000 --> 00:09:34,000
+no problem we have people from B.Com
+
+262
+00:09:34,000 --> 00:09:36,000
+background who don't even study
+
+263
+00:09:36,000 --> 00:09:38,000
+distance degree who have just
+
+264
+00:09:38,000 --> 00:09:40,000
+diploma only these sort of people have come
+
+265
+00:09:40,000 --> 00:09:42,000
+and done the program so tier 3, tier
+
+266
+00:09:42,000 --> 00:09:44,000
+1, tier 2 doesn't matter we have IIT
+
+267
+00:09:44,000 --> 00:09:46,000
+background students who are still learning from IIT
+
+268
+00:09:46,000 --> 00:09:48,000
+and they are coming and again doing the course
+
+269
+00:09:48,000 --> 00:09:50,000
+tier 3 campus diploma holders
+
+270
+00:09:50,000 --> 00:09:52,000
+people who are even you know drop out
+
+271
+00:09:52,000 --> 00:09:54,000
+from the degree these sort of
+
+272
+00:09:54,000 --> 00:09:56,000
+people have done and got jobs
+
+273
+00:09:56,000 --> 00:09:58,000
+good jobs also you don't have to worry about
+
+274
+00:09:58,000 --> 00:10:00,000
+your background and all okay
+
+275
+00:10:00,000 --> 00:10:02,000
+and sir one
+
+276
+00:10:02,000 --> 00:10:04,000
+thing I want to ask
+
+277
+00:10:04,000 --> 00:10:06,000
+two more questions
+
+278
+00:10:06,000 --> 00:10:08,000
+how much
+
+279
+00:10:08,000 --> 00:10:10,000
+as the rule
+
+280
+00:10:10,000 --> 00:10:12,000
+takes higher
+
+281
+00:10:12,000 --> 00:10:14,000
+strategy
+
+282
+00:10:14,000 --> 00:10:16,000
+getting a higher paid job strategy
+
+283
+00:10:16,000 --> 00:10:18,000
+how much amount
+
+284
+00:10:18,000 --> 00:10:20,000
+yeah I have to
+
+285
+00:10:20,000 --> 00:10:22,000
+change my direction to devops
+
+286
+00:10:22,000 --> 00:10:24,000
+yeah
+
+287
+00:10:24,000 --> 00:10:26,000
+devops engineer
+
+288
+00:10:26,000 --> 00:10:28,000
+artificial engineer machine learning engineer
+
+289
+00:10:28,000 --> 00:10:30,000
+data analytic engineer
+
+290
+00:10:30,000 --> 00:10:32,000
+so even if you are deciding
+
+291
+00:10:32,000 --> 00:10:34,000
+to do that then also it's only the
+
+292
+00:10:34,000 --> 00:10:36,000
+skills matter you have to start from zero
+
+293
+00:10:36,000 --> 00:10:38,000
+you have to go to the same
+
+294
+00:10:38,000 --> 00:10:40,000
+thing and if you are looking for jobs in
+
+295
+00:10:40,000 --> 00:10:42,000
+the market then software engineering jobs are
+
+296
+00:10:42,000 --> 00:10:44,000
+the highest in number
+
+297
+00:10:44,000 --> 00:10:46,000
+okay whatever you are currently doing that is having
+
+298
+00:10:46,000 --> 00:10:48,000
+the highest number of jobs available in the market
+
+299
+00:10:48,000 --> 00:10:50,000
+currently so you are in the correct place
+
+300
+00:10:50,000 --> 00:10:52,000
+okay
+
+301
+00:10:52,000 --> 00:10:54,000
+so it doesn't require devops and something
+
+302
+00:10:54,000 --> 00:10:56,000
+no no no
+
+303
+00:10:56,000 --> 00:10:58,000
+devops development when you are comparing
+
+304
+00:10:58,000 --> 00:11:00,000
+with software development salary is less
+
+305
+00:11:00,000 --> 00:11:02,000
+okay
+
+306
+00:11:02,000 --> 00:11:04,000
+and data science
+
+307
+00:11:04,000 --> 00:11:06,000
+and ML you will not find this much
+
+308
+00:11:06,000 --> 00:11:08,000
+of opportunity also
+
+309
+00:11:08,000 --> 00:11:10,000
+devops
+
+310
+00:11:10,000 --> 00:11:12,000
+devops has the highest salary
+
+311
+00:11:12,000 --> 00:11:14,000
+or full stack
+
+312
+00:11:14,000 --> 00:11:16,000
+full stack is the highest salary
+
+313
+00:11:16,000 --> 00:11:18,000
+software developer is having the full
+
+314
+00:11:18,000 --> 00:11:20,000
+salary
+
+315
+00:11:20,000 --> 00:11:22,000
+okay
+
+316
+00:11:24,000 --> 00:11:26,000
+I got the point
+
+317
+00:11:26,000 --> 00:11:28,000
+okay
+
+318
+00:11:28,000 --> 00:11:30,000
+call me or text me whenever you have doubt
+
+319
+00:11:30,000 --> 00:11:32,000
+don't get accumulative
+
+320
+00:11:32,000 --> 00:11:34,000
+doubts and you know
+
+321
+00:11:34,000 --> 00:11:36,000
+make yourself feel something
+
+322
+00:11:36,000 --> 00:11:38,000
+the thing is that
+
+323
+00:11:38,000 --> 00:11:40,000
+the thing is
+
+324
+00:11:40,000 --> 00:11:42,000
+that
+
+325
+00:11:42,000 --> 00:11:44,000
+I don't know the MNC company
+
+326
+00:11:44,000 --> 00:11:46,000
+I don't know MNC
+
+327
+00:11:46,000 --> 00:11:48,000
+curriculum okay
+
+328
+00:11:48,000 --> 00:11:50,000
+I decorum about MNC company
+
+329
+00:11:50,000 --> 00:11:52,000
+okay this is my
+
+330
+00:11:52,000 --> 00:11:54,000
+first approach in the MNC sector
+
+331
+00:11:54,000 --> 00:11:56,000
+area okay
+
+332
+00:11:56,000 --> 00:11:58,000
+so I have no guidance
+
+333
+00:11:58,000 --> 00:12:00,000
+which path I have to follow
+
+334
+00:12:00,000 --> 00:12:02,000
+okay
+
+335
+00:12:02,000 --> 00:12:04,000
+how to approach the company how
+
+336
+00:12:04,000 --> 00:12:06,000
+to get a job okay this is the first
+
+337
+00:12:06,000 --> 00:12:08,000
+time which I have joined the institute
+
+338
+00:12:08,000 --> 00:12:10,000
+and they provide me such type of criteria
+
+339
+00:12:10,000 --> 00:12:12,000
+but in further way
+
+340
+00:12:12,000 --> 00:12:14,000
+in further way
+
+341
+00:12:14,000 --> 00:12:16,000
+or upgrade action
+
+342
+00:12:16,000 --> 00:12:18,000
+okay I have to learn
+
+343
+00:12:18,000 --> 00:12:20,000
+that my things how to apply
+
+344
+00:12:20,000 --> 00:12:22,000
+and where to apply
+
+345
+00:12:22,000 --> 00:12:24,000
+okay okay
+
+346
+00:12:24,000 --> 00:12:26,000
+correct na
+
+347
+00:12:26,000 --> 00:12:28,000
+correct correct
+
+348
+00:12:28,000 --> 00:12:30,000
+there is basically
+
+349
+00:12:30,000 --> 00:12:32,000
+it's completely a myth that you know
+
+350
+00:12:32,000 --> 00:12:34,000
+there is
+
+351
+00:12:34,000 --> 00:12:36,000
+a specific method is there specific
+
+352
+00:12:36,000 --> 00:12:38,000
+way is there that if you want to target
+
+353
+00:12:38,000 --> 00:12:40,000
+the only thing is that you need to have that relevant
+
+354
+00:12:40,000 --> 00:12:42,000
+skill set if you once you are ready
+
+355
+00:12:42,000 --> 00:12:44,000
+for skill set you are ready for market
+
+356
+00:12:44,000 --> 00:12:46,000
+anywhere in the world okay
+
+357
+00:12:46,000 --> 00:12:48,000
+irrespective of whether it's abroad
+
+358
+00:12:48,000 --> 00:12:50,000
+irrespective of any company you will be able to crack
+
+359
+00:12:50,000 --> 00:12:52,000
+it okay
+
+360
+00:12:52,000 --> 00:12:54,000
+there is nothing like you know
+
+361
+00:12:54,000 --> 00:12:56,000
+MNC companies follow a specific method
+
+362
+00:12:56,000 --> 00:12:58,000
+other companies follow a specific method something
+
+363
+00:12:58,000 --> 00:13:00,000
+is there little bit of but you know it's
+
+364
+00:13:00,000 --> 00:13:02,000
+everything is covered in that curriculum you just
+
+365
+00:13:02,000 --> 00:13:04,000
+follow the curriculum properly once
+
+366
+00:13:04,000 --> 00:13:06,000
+you complete the program and once you clear the
+
+367
+00:13:06,000 --> 00:13:08,000
+interviews and all you will be well and good
+
+368
+00:13:08,000 --> 00:13:10,000
+sir
+
+369
+00:13:10,000 --> 00:13:12,000
+one thing
+
+370
+00:13:12,000 --> 00:13:14,000
+I have a problem regarding
+
+371
+00:13:14,000 --> 00:13:16,000
+about the interviews
+
+372
+00:13:16,000 --> 00:13:18,000
+because
+
+373
+00:13:18,000 --> 00:13:20,000
+sometimes
+
+374
+00:13:20,000 --> 00:13:22,000
+a slip of tongue
+
+375
+00:13:22,000 --> 00:13:24,000
+has been happen but excessively
+
+376
+00:13:24,000 --> 00:13:26,000
+means whatever you have asked
+
+377
+00:13:26,000 --> 00:13:28,000
+tell me now
+
+378
+00:13:28,000 --> 00:13:30,000
+okay
+
+379
+00:13:30,000 --> 00:13:32,000
+sometimes it should be happen
+
+380
+00:13:32,000 --> 00:13:34,000
+and so I required
+
+381
+00:13:34,000 --> 00:13:36,000
+such type of
+
+382
+00:13:36,000 --> 00:13:38,000
+development so what I should
+
+383
+00:13:38,000 --> 00:13:40,000
+this will be learn from one
+
+384
+00:13:40,000 --> 00:13:42,000
+to one
+
+385
+00:13:42,000 --> 00:13:44,000
+the option available
+
+386
+00:13:44,000 --> 00:13:46,000
+soft skill trainings are there in the program
+
+387
+00:13:48,000 --> 00:13:50,000
+yeah
+
+388
+00:13:50,000 --> 00:13:52,000
+soft skill trainings are there in the program
+
+389
+00:13:52,000 --> 00:13:54,000
+so you will be having some understanding
+
+390
+00:13:54,000 --> 00:13:56,000
+and additional to that you know you have
+
+391
+00:13:56,000 --> 00:13:58,000
+mentor sessions also right
+
+392
+00:13:58,000 --> 00:14:00,000
+whether you can sit and we are additionally giving you
+
+393
+00:14:00,000 --> 00:14:02,000
+you told interviews also mock interviews
+
+394
+00:14:04,000 --> 00:14:06,000
+sir right now my mentor
+
+395
+00:14:06,000 --> 00:14:08,000
+is from Google
+
+396
+00:14:08,000 --> 00:14:10,000
+which is
+
+397
+00:14:10,000 --> 00:14:12,000
+which is being selected by
+
+398
+00:14:12,000 --> 00:14:14,000
+automatically from
+
+399
+00:14:14,000 --> 00:14:16,000
+the scalar box
+
+400
+00:14:16,000 --> 00:14:18,000
+I select automatically
+
+401
+00:14:18,000 --> 00:14:20,000
+so he is working
+
+402
+00:14:20,000 --> 00:14:22,000
+in Google
+
+403
+00:14:22,000 --> 00:14:24,000
+my mentor
+
+404
+00:14:24,000 --> 00:14:26,000
+I don't know about
+
+405
+00:14:26,000 --> 00:14:28,000
+this thing I have write the message but
+
+406
+00:14:28,000 --> 00:14:30,000
+it will start on after
+
+407
+00:14:30,000 --> 00:14:32,000
+17th
+
+408
+00:14:32,000 --> 00:14:34,000
+17th you can book
+
+409
+00:14:34,000 --> 00:14:36,000
+yeah
+
+410
+00:14:36,000 --> 00:14:38,000
+so if a mentor will guide
+
+411
+00:14:38,000 --> 00:14:40,000
+how to switch the
+
+412
+00:14:40,000 --> 00:14:42,000
+company and come to
+
+413
+00:14:42,000 --> 00:14:44,000
+yeah mentor in the first mentorship session
+
+414
+00:14:44,000 --> 00:14:46,000
+you can ask all the doubts
+
+415
+00:14:46,000 --> 00:14:48,000
+that you asked me also now
+
+416
+00:14:48,000 --> 00:14:50,000
+he will clarify it properly
+
+417
+00:14:50,000 --> 00:14:52,000
+you can ask him how did he crack
+
+418
+00:14:52,000 --> 00:14:54,000
+Google whatever
+
+419
+00:14:54,000 --> 00:14:56,000
+that he put how was the interview questions
+
+420
+00:14:56,000 --> 00:14:58,000
+you can tell him I also wanted to work
+
+421
+00:14:58,000 --> 00:15:00,000
+for Google so can you tell me a little bit
+
+422
+00:15:00,000 --> 00:15:02,000
+understanding how exactly things should I
+
+423
+00:15:02,000 --> 00:15:04,000
+prepare so he will guide you on that
+
+424
+00:15:04,000 --> 00:15:06,000
+great
+
+425
+00:15:06,000 --> 00:15:08,000
+okay sir
+
+426
+00:15:08,000 --> 00:15:10,000
+okay
+
+427
+00:15:10,000 --> 00:15:12,000
+so
+
+428
+00:15:12,000 --> 00:15:14,000
+what are you doing we got at home
+
+429
+00:15:14,000 --> 00:15:16,000
+or what are you doing
+
+430
+00:15:16,000 --> 00:15:18,000
+right now
+
+431
+00:15:18,000 --> 00:15:20,000
+I am going to drop
+
+432
+00:15:20,000 --> 00:15:22,000
+my mom
+
+433
+00:15:22,000 --> 00:15:24,000
+where are you going to drop
+
+434
+00:15:24,000 --> 00:15:26,000
+bus stand
+
+435
+00:15:26,000 --> 00:15:28,000
+I am going to Pali
+
+436
+00:15:28,000 --> 00:15:30,000
+I am going to city
+
+437
+00:15:30,000 --> 00:15:32,000
+I am going to my old
+
+438
+00:15:32,000 --> 00:15:34,000
+Alex city
+
+439
+00:15:34,000 --> 00:15:36,000
+I am going there, you will see
+
+440
+00:15:36,000 --> 00:15:38,000
+okay
+
+441
+00:15:38,000 --> 00:15:40,000
+I am going to Gokhsar
+
+442
+00:15:40,000 --> 00:15:42,000
+I am going to dropping
+
+443
+00:15:42,000 --> 00:15:44,000
+I am going to Pali
+
+444
+00:15:44,000 --> 00:15:46,000
+I am going to dropping
+
+445
+00:15:46,000 --> 00:15:48,000
+it is clear
+
+446
+00:15:48,000 --> 00:15:50,000
+it is clear
+
+447
+00:15:50,000 --> 00:15:52,000
+okay
+
+448
+00:15:52,000 --> 00:15:54,000
+I am
+
+449
+00:15:54,000 --> 00:15:56,000
+actually learning
+
+450
+00:15:56,000 --> 00:15:58,000
+and I am doing my education
+
+451
+00:15:58,000 --> 00:16:00,000
+and I also have money
+
+452
+00:16:00,000 --> 00:16:02,000
+okay
+
+453
+00:16:02,000 --> 00:16:04,000
+for box office
+
+454
+00:16:04,000 --> 00:16:06,000
+I want
+
+455
+00:16:06,000 --> 00:16:08,000
+to do my work
+
+456
+00:16:08,000 --> 00:16:10,000
+a little bit
+
+457
+00:16:10,000 --> 00:16:12,000
+advance
+
+458
+00:16:12,000 --> 00:16:14,000
+utility
+
+459
+00:16:14,000 --> 00:16:16,000
+utility
+
+460
+00:16:16,000 --> 00:16:18,000
+so it will be a little bit easy going
+
+461
+00:16:18,000 --> 00:16:20,000
+correct
+
+462
+00:16:20,000 --> 00:16:22,000
+correct
+
+463
+00:16:22,000 --> 00:16:24,000
+so I was thinking
+
+464
+00:16:24,000 --> 00:16:26,000
+if I go to minimum package
+
+465
+00:16:26,000 --> 00:16:28,000
+then 15, 16, 18
+
+466
+00:16:28,000 --> 00:16:30,000
+if I have the capacity
+
+467
+00:16:30,000 --> 00:16:32,000
+then I will take
+
+468
+00:16:32,000 --> 00:16:34,000
+15, 16, 18
+
+469
+00:16:34,000 --> 00:16:36,000
+if I have the capacity
+
+470
+00:16:36,000 --> 00:16:38,000
+to crack 15, 16, 18
+
+471
+00:16:38,000 --> 00:16:40,000
+then I will take
+
+472
+00:16:40,000 --> 00:16:42,000
+that mender
+
+473
+00:16:42,000 --> 00:16:44,000
+that mender will guide you properly
+
+474
+00:16:44,000 --> 00:16:46,000
+on the first session
+
+475
+00:16:46,000 --> 00:16:48,000
+that's why we have given you a free session
+
+476
+00:16:48,000 --> 00:16:50,000
+okay, so on that session
+
+477
+00:16:50,000 --> 00:16:52,000
+you will get proper guidance
+
+478
+00:16:52,000 --> 00:16:54,000
+he is an industry expert
+
+479
+00:16:54,000 --> 00:16:56,000
+yes
+
+480
+00:16:56,000 --> 00:16:58,000
+and also sir, my second question
+
+481
+00:16:58,000 --> 00:17:00,000
+is that I should do
+
+482
+00:17:00,000 --> 00:17:02,000
+any transition
+
+483
+00:17:02,000 --> 00:17:04,000
+after 5 years
+
+484
+00:17:04,000 --> 00:17:06,000
+if I am not selected for
+
+485
+00:17:06,000 --> 00:17:08,000
+UCSC
+
+486
+00:17:08,000 --> 00:17:10,000
+if you are not selected for
+
+487
+00:17:10,000 --> 00:17:12,000
+UCSC
+
+488
+00:17:12,000 --> 00:17:14,000
+if I am not
+
+489
+00:17:14,000 --> 00:17:16,000
+I will properly focus on this
+
+490
+00:17:16,000 --> 00:17:18,000
+plan B that is called development area
+
+491
+00:17:18,000 --> 00:17:20,000
+so
+
+492
+00:17:20,000 --> 00:17:22,000
+after continuously work on
+
+493
+00:17:22,000 --> 00:17:24,000
+the food stand development with the experience of 5 years
+
+494
+00:17:24,000 --> 00:17:26,000
+yes
+
+495
+00:17:26,000 --> 00:17:28,000
+okay
+
+496
+00:17:28,000 --> 00:17:30,000
+which area I want to switch
+
+497
+00:17:30,000 --> 00:17:32,000
+for more advance
+
+498
+00:17:32,000 --> 00:17:34,000
+okay
+
+499
+00:17:34,000 --> 00:17:36,000
+for positions
+
+500
+00:17:36,000 --> 00:17:38,000
+what will happen
+
+501
+00:17:38,000 --> 00:17:40,000
+his carry will be
+
+502
+00:17:40,000 --> 00:17:42,000
+that is ready
+
+503
+00:17:42,000 --> 00:17:44,000
+for utility, do viewers
+
+504
+00:17:44,000 --> 00:17:46,000
+so, we will get his guide
+
+505
+00:17:46,000 --> 00:17:48,000
+so
+
+506
+00:17:48,000 --> 00:17:50,000
+we will be secure
+
+507
+00:17:50,000 --> 00:17:52,000
+that if he is working
+
+508
+00:17:52,000 --> 00:17:54,000
+then we will get his results
+
+509
+00:17:54,000 --> 00:17:56,000
+so, we will guide him
+
+510
+00:17:56,000 --> 00:17:58,000
+on what to do
+
+511
+00:17:58,000 --> 00:18:00,000
+if government is there
+
+512
+00:18:00,000 --> 00:18:02,000
+then automatically
+
+513
+00:18:02,000 --> 00:18:04,000
+everything is planned
+
+514
+00:18:04,000 --> 00:18:06,000
+if you are in private
+
+515
+00:18:06,000 --> 00:18:08,000
+then you don't have any knowledge
+
+516
+00:18:08,000 --> 00:18:10,000
+on how to grow
+
+517
+00:18:10,000 --> 00:18:12,000
+how not to do
+
+518
+00:18:12,000 --> 00:18:14,000
+so, this is the thing
+
+519
+00:18:14,000 --> 00:18:16,000
+so, I got a plan
+
+520
+00:18:16,000 --> 00:18:18,000
+that in 5 years
+
+521
+00:18:18,000 --> 00:18:20,000
+I will make
+
+522
+00:18:20,000 --> 00:18:22,000
+a good performer
+
+523
+00:18:22,000 --> 00:18:24,000
+means, I will do a service of 1 year
+
+524
+00:18:24,000 --> 00:18:26,000
+in some company
+
+525
+00:18:26,000 --> 00:18:28,000
+okay
+
+526
+00:18:28,000 --> 00:18:30,000
+then in 2nd year or 3rd year
+
+527
+00:18:30,000 --> 00:18:32,000
+I mean
+
+528
+00:18:32,000 --> 00:18:34,000
+maybe for 2 years
+
+529
+00:18:34,000 --> 00:18:36,000
+or for 1 year
+
+530
+00:18:36,000 --> 00:18:38,000
+I will work there and switch
+
+531
+00:18:38,000 --> 00:18:40,000
+in the company above
+
+532
+00:18:40,000 --> 00:18:42,000
+so, it is good for a professional
+
+533
+00:18:42,000 --> 00:18:44,000
+that your number of projects is counted
+
+534
+00:18:44,000 --> 00:18:46,000
+that if you are working in a company for 1 year
+
+535
+00:18:46,000 --> 00:18:48,000
+then you will get your results
+
+536
+00:18:48,000 --> 00:18:50,000
+correct
+
+537
+00:18:52,000 --> 00:18:54,000
+so, that learning
+
+538
+00:18:54,000 --> 00:18:56,000
+that is a little
+
+539
+00:18:56,000 --> 00:18:58,000
+attract for the company
+
+540
+00:18:58,000 --> 00:19:00,000
+technical department
+
+541
+00:19:02,000 --> 00:19:04,000
+that is
+
+542
+00:19:04,000 --> 00:19:06,000
+packages to
+
+543
+00:19:06,000 --> 00:19:08,000
+packages
+
+544
+00:19:08,000 --> 00:19:10,000
+that is an increment
+
+545
+00:19:10,000 --> 00:19:12,000
+but, if you are
+
+546
+00:19:12,000 --> 00:19:14,000
+in a company
+
+547
+00:19:14,000 --> 00:19:16,000
+then you should
+
+548
+00:19:16,000 --> 00:19:18,000
+work in a company
+
+549
+00:19:18,000 --> 00:19:20,000
+as the highest
+
+550
+00:19:20,000 --> 00:19:22,000
+service to reach
+
+551
+00:19:22,000 --> 00:19:24,000
+it should be
+
+552
+00:19:24,000 --> 00:19:26,000
+after 1 year
+
+553
+00:19:26,000 --> 00:19:28,000
+minimum 2 years for
+
+554
+00:19:28,000 --> 00:19:30,000
+that
+
+555
+00:19:30,000 --> 00:19:32,000
+do you understand
+
+556
+00:19:32,000 --> 00:19:34,000
+correct
+
+557
+00:19:34,000 --> 00:19:36,000
+once you complete the program
+
+558
+00:19:36,000 --> 00:19:38,000
+you can start applying
+
+559
+00:19:38,000 --> 00:19:40,000
+for jobs because
+
+560
+00:19:40,000 --> 00:19:42,000
+if you get a good package
+
+561
+00:19:42,000 --> 00:19:44,000
+then you make it
+
+562
+00:19:44,000 --> 00:19:46,000
+whether you want to go for UPS or
+
+563
+00:19:46,000 --> 00:19:48,000
+anything
+
+564
+00:19:48,000 --> 00:19:50,000
+sir
+
+565
+00:19:50,000 --> 00:19:52,000
+I take this course
+
+566
+00:19:52,000 --> 00:19:54,000
+at the
+
+567
+00:19:56,000 --> 00:19:58,000
+15 month program
+
+568
+00:19:58,000 --> 00:20:00,000
+okay
+
+569
+00:20:00,000 --> 00:20:02,000
+and from the placement
+
+570
+00:20:02,000 --> 00:20:04,000
+side
+
+571
+00:20:04,000 --> 00:20:06,000
+from the placement side
+
+572
+00:20:06,000 --> 00:20:08,000
+they have
+
+573
+00:20:08,000 --> 00:20:10,000
+we will
+
+574
+00:20:10,000 --> 00:20:12,000
+give you higher MNC placement
+
+575
+00:20:12,000 --> 00:20:14,000
+okay
+
+576
+00:20:14,000 --> 00:20:16,000
+when I see from the higher MNC
+
+577
+00:20:16,000 --> 00:20:18,000
+they will provide
+
+578
+00:20:18,000 --> 00:20:20,000
+platform
+
+579
+00:20:20,000 --> 00:20:22,000
+platform
+
+580
+00:20:22,000 --> 00:20:24,000
+so
+
+581
+00:20:24,000 --> 00:20:26,000
+I take this course
+
+582
+00:20:26,000 --> 00:20:28,000
+the higher MNC
+
+583
+00:20:28,000 --> 00:20:30,000
+I take my best performance
+
+584
+00:20:30,000 --> 00:20:32,000
+in that
+
+585
+00:20:32,000 --> 00:20:34,000
+so, sir, in the company
+
+586
+00:20:36,000 --> 00:20:38,000
+the role of the SD
+
+587
+00:20:38,000 --> 00:20:40,000
+it also makes a difference
+
+588
+00:20:40,000 --> 00:20:42,000
+and the project also makes a difference
+
+589
+00:20:42,000 --> 00:20:44,000
+because if you are in higher packages
+
+590
+00:20:44,000 --> 00:20:46,000
+so
+
+591
+00:20:46,000 --> 00:20:48,000
+the expectations are higher
+
+592
+00:20:48,000 --> 00:20:50,000
+if I am correct
+
+593
+00:20:50,000 --> 00:20:52,000
+correct
+
+594
+00:20:52,000 --> 00:20:54,000
+okay
+
+595
+00:20:54,000 --> 00:20:56,000
+without expectations
+
+596
+00:20:56,000 --> 00:20:58,000
+they will not give you higher package
+
+597
+00:20:58,000 --> 00:21:00,000
+they know that you are in the field of area
+
+598
+00:21:00,000 --> 00:21:02,000
+okay
+
+599
+00:21:02,000 --> 00:21:04,000
+okay
+
+600
+00:21:04,000 --> 00:21:06,000
+correct
+
+601
+00:21:06,000 --> 00:21:08,000
+correct
+
+602
+00:21:08,000 --> 00:21:10,000
+so, that is the thing, sir
+
+603
+00:21:10,000 --> 00:21:12,000
+that you should guide
+
+604
+00:21:12,000 --> 00:21:14,000
+what is the flow
+
+605
+00:21:14,000 --> 00:21:16,000
+because this is the biggest problem
+
+606
+00:21:16,000 --> 00:21:18,000
+that
+
+607
+00:21:18,000 --> 00:21:20,000
+the strategy is not getting set
+
+608
+00:21:20,000 --> 00:21:22,000
+because I went to the master
+
+609
+00:21:22,000 --> 00:21:24,000
+the SDP
+
+610
+00:21:24,000 --> 00:21:26,000
+okay
+
+611
+00:21:26,000 --> 00:21:28,000
+Anshuman sir gave
+
+612
+00:21:28,000 --> 00:21:30,000
+the answer
+
+613
+00:21:30,000 --> 00:21:32,000
+Anshuman sir gave the answer
+
+614
+00:21:32,000 --> 00:21:34,000
+Anshuman sir told you
+
+615
+00:21:34,000 --> 00:21:36,000
+the whole system
+
+616
+00:21:36,000 --> 00:21:38,000
+that you will get so many packages
+
+617
+00:21:38,000 --> 00:21:40,000
+in this country
+
+618
+00:21:40,000 --> 00:21:42,000
+you will get so many packages
+
+619
+00:21:42,000 --> 00:21:44,000
+okay
+
+620
+00:21:44,000 --> 00:21:46,000
+this is the thing
+
+621
+00:21:46,000 --> 00:21:48,000
+this is the thing
+
+622
+00:21:48,000 --> 00:21:50,000
+the time is not good
+
+623
+00:21:50,000 --> 00:21:52,000
+because the system is not good
+
+624
+00:21:52,000 --> 00:21:54,000
+the time is not good
+
+625
+00:21:54,000 --> 00:21:56,000
+I never
+
+626
+00:21:56,000 --> 00:21:58,000
+okay
+
+627
+00:21:58,000 --> 00:22:00,000
+so, tell me
+
+628
+00:22:00,000 --> 00:22:02,000
+how to command the system
+
+629
+00:22:02,000 --> 00:22:04,000
+I want
+
+630
+00:22:04,000 --> 00:22:06,000
+now I am in India
+
+631
+00:22:06,000 --> 00:22:08,000
+okay, I want to apply MNC
+
+632
+00:22:08,000 --> 00:22:10,000
+but
+
+633
+00:22:10,000 --> 00:22:12,000
+how to apply it
+
+634
+00:22:12,000 --> 00:22:14,000
+that
+
+635
+00:22:14,000 --> 00:22:16,000
+actually
+
+636
+00:22:16,000 --> 00:22:18,000
+I will tell you
+
+637
+00:22:18,000 --> 00:22:20,000
+you will get job
+
+638
+00:22:20,000 --> 00:22:22,000
+you will get job in a good package
+
+639
+00:22:22,000 --> 00:22:24,000
+as a fracture
+
+640
+00:22:24,000 --> 00:22:26,000
+if you are
+
+641
+00:22:26,000 --> 00:22:28,000
+a fracture
+
+642
+00:22:28,000 --> 00:22:30,000
+if you are a fracture
+
+643
+00:22:30,000 --> 00:22:32,000
+then
+
+644
+00:22:32,000 --> 00:22:34,000
+you will get job in a good package
+
+645
+00:22:34,000 --> 00:22:36,000
+you will not get a chance
+
+646
+00:22:36,000 --> 00:22:38,000
+and I have applied in the DC commission
+
+647
+00:22:38,000 --> 00:22:40,000
+I know
+
+648
+00:22:40,000 --> 00:22:42,000
+this is the register
+
+649
+00:22:42,000 --> 00:22:44,000
+25000, 25000
+
+650
+00:22:44,000 --> 00:22:46,000
+okay
+
+651
+00:22:46,000 --> 00:22:48,000
+okay, so I did the work
+
+652
+00:22:48,000 --> 00:22:50,000
+and I got more job
+
+653
+00:22:50,000 --> 00:22:52,000
+I got more job
+
+654
+00:22:52,000 --> 00:22:54,000
+but I did the payment rise
+
+655
+00:22:54,000 --> 00:22:56,000
+okay
+
+656
+00:22:56,000 --> 00:22:58,000
+okay
+
+657
+00:22:58,000 --> 00:23:00,000
+I am working
+
+658
+00:23:00,000 --> 00:23:02,000
+with that
+
+659
+00:23:02,000 --> 00:23:04,000
+I am working with my MNC
+
+660
+00:23:04,000 --> 00:23:06,000
+I will do more
+
+661
+00:23:06,000 --> 00:23:08,000
+I will do more
+
+662
+00:23:08,000 --> 00:23:10,000
+is it correct or wrong
+
+663
+00:23:10,000 --> 00:23:12,000
+is it correct
+
+664
+00:23:12,000 --> 00:23:14,000
+correct
+
+665
+00:23:14,000 --> 00:23:16,000
+I will do more
+
+666
+00:23:16,000 --> 00:23:18,000
+I will do more
+
+667
+00:23:18,000 --> 00:23:20,000
+actually you know
+
+668
+00:23:20,000 --> 00:23:22,000
+I can hear you properly
+
+669
+00:23:22,000 --> 00:23:24,000
+because air is coming
+
+670
+00:23:24,000 --> 00:23:26,000
+I think you are driving
+
+671
+00:23:26,000 --> 00:23:28,000
+can you give me a call back
+
+672
+00:23:28,000 --> 00:23:30,000
+actually
+
+673
+00:23:30,000 --> 00:23:32,000
+you are not able to hear
+
+674
+00:23:32,000 --> 00:23:34,000
+call me after
+
+675
+00:23:34,000 --> 00:23:36,000
+you drop your mom
+
+676
+00:23:36,000 --> 00:23:38,000
+okay
+
+677
+00:23:38,000 --> 00:23:40,000
+bye
+

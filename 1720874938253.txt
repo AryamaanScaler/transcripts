@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:05,000
+Yes
+
+4
+00:00:05,000 --> 00:00:07,000
+Hi, speaking to Fayaz
+
+5
+00:00:07,000 --> 00:00:08,000
+Yes
+
+6
+00:00:08,000 --> 00:00:12,000
+Fayaz Bhapna here actually, I'm calling from Scalar Academy's Program Manager
+
+7
+00:00:12,000 --> 00:00:13,000
+Sorry?
+
+8
+00:00:13,000 --> 00:00:16,000
+I'm calling from Scalar Academy's Program Manager, Fayaz
+
+9
+00:00:16,000 --> 00:00:17,000
+Yes, yes
+
+10
+00:00:17,000 --> 00:00:21,000
+I happen to receive a profile from my team that you have requested a call back from us
+
+11
+00:00:21,000 --> 00:00:25,000
+but we were not able to get in touch with you after
+
+12
+00:00:25,000 --> 00:00:27,000
+I think you had a flight
+
+13
+00:00:27,000 --> 00:00:28,000
+3 days back
+
+14
+00:00:28,000 --> 00:00:29,000
+Yes
+
+15
+00:00:29,000 --> 00:00:35,000
+After that there was no response from your end, just trying to understand because we're coming at an end for closing the profiles
+
+16
+00:00:35,000 --> 00:00:38,000
+So it's a good time to connect?
+
+17
+00:00:38,000 --> 00:00:40,000
+Yeah
+
+18
+00:00:40,000 --> 00:00:44,000
+Yeah, you have requested a call back again, like you reached out to Scalar before as well
+
+19
+00:00:44,000 --> 00:00:52,000
+but on 9th of July you requested a call back, like can we understand like what are you looking forward from Scalar and how can we help you out with?
+
+20
+00:00:52,000 --> 00:00:58,000
+I wanted to understand if there are any courses for full-scale development at the moment
+
+21
+00:00:58,000 --> 00:01:02,000
+which are like under 6 months of duration?
+
+22
+00:01:02,000 --> 00:01:09,000
+There is no 6 months of duration even for an advanced batch that we cater for VPs and director levels also
+
+23
+00:01:09,000 --> 00:01:14,000
+The course will go up to even in advanced 9 to 11 months
+
+24
+00:01:14,000 --> 00:01:18,000
+but the placement starts in the middle of the learning after your module
+
+25
+00:01:18,000 --> 00:01:22,000
+Okay, so like around what month?
+
+26
+00:01:22,000 --> 00:01:26,000
+Let's say, see we have not taken a test on your profile
+
+27
+00:01:26,000 --> 00:01:31,000
+Assuming that you are an intermediate, let's say not an advanced, if you're an intermediate
+
+28
+00:01:31,000 --> 00:01:36,000
+your advanced DSA will be completing around 5 to 6 months
+
+29
+00:01:36,000 --> 00:01:41,000
+So once you complete that you can start giving mock interviews to your mentors
+
+30
+00:01:41,000 --> 00:01:42,000
+Okay
+
+31
+00:01:42,000 --> 00:01:46,000
+So once you clear the mock interview you are open to sit for the placements from Scalar Academy
+
+32
+00:01:46,000 --> 00:01:50,000
+but you have any placements or referrals coming in from your friends or the community
+
+33
+00:01:50,000 --> 00:01:55,000
+you can get help from our teaching assistant and mentors to prepare and then apply for the companies
+
+34
+00:01:55,000 --> 00:01:57,000
+Okay
+
+35
+00:01:57,000 --> 00:02:02,000
+Yeah, and this placement assistance will go up to post 6 months of the course completion also
+
+36
+00:02:02,000 --> 00:02:04,000
+Okay
+
+37
+00:02:04,000 --> 00:02:05,000
+Yeah
+
+38
+00:02:05,000 --> 00:02:12,000
+Yeah, once the course is completed still I'll be able to get the placement assistance right
+
+39
+00:02:12,000 --> 00:02:16,000
+Yeah, after the course there are 6 more months that a profile gets placement assistance
+
+40
+00:02:16,000 --> 00:02:21,000
+So it's an individual choice whether you want to sit in between or after the course that's a call taken by a profile
+
+41
+00:02:21,000 --> 00:02:23,000
+Okay
+
+42
+00:02:23,000 --> 00:02:30,000
+And I happen to also get this on an email that you are a junior of Naman Bhalla, is that correct?
+
+43
+00:02:30,000 --> 00:02:32,000
+Yes, yes, yes
+
+44
+00:02:32,000 --> 00:02:34,000
+Okay, okay, okay, fine
+
+45
+00:02:34,000 --> 00:02:40,000
+Is there any other questions because I can see that your profile was being with Scalar last year as well
+
+46
+00:02:41,000 --> 00:02:45,000
+So can I understand what happened that you couldn't take a call with us before?
+
+47
+00:02:45,000 --> 00:02:53,000
+I was not satisfied with the course and the fee structure at the moment
+
+48
+00:02:53,000 --> 00:02:59,000
+Okay, so now are you looking forward to Scalar Academy again?
+
+49
+00:02:59,000 --> 00:03:01,000
+Yes, yeah
+
+50
+00:03:01,000 --> 00:03:06,000
+Okay, so did you happen to see the curriculum, I mean did you happen to do any of the research?
+
+51
+00:03:06,000 --> 00:03:08,000
+No, I haven't
+
+52
+00:03:08,000 --> 00:03:09,000
+Okay
+
+53
+00:03:09,000 --> 00:03:12,000
+Could you please just send me some brochure or something?
+
+54
+00:03:12,000 --> 00:03:16,000
+Yeah, so we will also take a small test on a profile, it's not to judge your profile
+
+55
+00:03:16,000 --> 00:03:22,000
+It is just to understand what kind of mentors we can provide and what kind of curriculum will be suitable for you
+
+56
+00:03:22,000 --> 00:03:24,000
+Because they will be beginner, intermediate and advanced
+
+57
+00:03:24,000 --> 00:03:30,000
+So is it okay that you can attempt the test spending 10-15 minutes any time today before sleeping?
+
+58
+00:03:30,000 --> 00:03:32,000
+Yeah, yeah sure
+
+59
+00:03:32,000 --> 00:03:36,000
+Okay, because I'll send you the link and it will expire by midnight 12 am
+
+60
+00:03:36,000 --> 00:03:38,000
+So please try and attempt all the questions
+
+61
+00:03:38,000 --> 00:03:40,000
+And is this your WhatsApp number?
+
+62
+00:03:40,000 --> 00:03:42,000
+Let me see
+
+63
+00:03:42,000 --> 00:03:44,000
+No, this is not my WhatsApp number
+
+64
+00:03:44,000 --> 00:03:48,000
+Can you just read out your WhatsApp number so I can send you some contacts?
+
+65
+00:03:48,000 --> 00:03:50,000
+It's 94627
+
+66
+00:03:50,000 --> 00:03:52,000
+94627
+
+67
+00:03:52,000 --> 00:03:54,000
+Yes, 8-5
+
+68
+00:03:54,000 --> 00:03:56,000
+9-6-7
+
+69
+00:03:56,000 --> 00:03:58,000
+9-4-6-2-7-8-5-9-6-7, correct?
+
+70
+00:03:58,000 --> 00:04:00,000
+Yes, that's correct
+
+71
+00:04:00,000 --> 00:04:04,000
+Okay, I'll just ping you, you confirm your email ID and then I'll send you the email
+
+72
+00:04:04,000 --> 00:04:08,000
+I'll just ping you, hi, you confirm your email ID on the WhatsApp for me
+
+73
+00:04:08,000 --> 00:04:12,000
+I'll be sending you three emails, one email will be the fees and break up of the EMI
+
+74
+00:04:12,000 --> 00:04:14,000
+Second is about the services given by Scalo
+
+75
+00:04:14,000 --> 00:04:16,000
+Third will be about your test link
+
+76
+00:04:16,000 --> 00:04:20,000
+And other details will be on the WhatsApp for you like curriculum and the LinkedIn profiles
+
+77
+00:04:20,000 --> 00:04:22,000
+Sure
+
+78
+00:04:22,000 --> 00:04:24,000
+One more thing, what is your years of experience, Mayas?
+
+79
+00:04:24,000 --> 00:04:26,000
+Around three years
+
+80
+00:04:26,000 --> 00:04:28,000
+And you're working as?
+
+81
+00:04:28,000 --> 00:04:32,000
+I was working as a software developer, like Cobb Legend
+
+82
+00:04:32,000 --> 00:04:34,000
+Okay, now you're working with Cognizant itself?
+
+83
+00:04:34,000 --> 00:04:36,000
+No, I'm not working anywhere at the moment
+
+84
+00:04:36,000 --> 00:04:40,000
+Okay, so how long it has been that you have taken a break?
+
+85
+00:04:40,000 --> 00:04:44,000
+Around two months, two and a half
+
+86
+00:04:44,000 --> 00:04:48,000
+Okay, so you are planning to upskill first and get into a company?
+
+87
+00:04:48,000 --> 00:04:50,000
+Yes
+
+88
+00:04:50,000 --> 00:04:56,000
+Okay, fine, so I'll just ping you, hi, and I'll share you a couple of profiles from Cognizant as well so you can get an idea about the transitions
+
+89
+00:04:56,000 --> 00:04:58,000
+Okay
+
+90
+00:04:58,000 --> 00:05:00,000
+Okay, I'll connect you tomorrow then
+
+91
+00:05:00,000 --> 00:05:02,000
+Okay, thank you
+
+92
+00:05:02,000 --> 00:05:04,000
+Take care, bye
+

@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:11,000
+Hello, hello, hello, yeah, sorry, are you sleeping? No, I'm not sleeping well, I have fever and cold, please tell me.
+
+2
+00:00:11,000 --> 00:00:20,000
+Okay, okay, sorry, sorry to trouble you. No, no, no, please tell me. Actually, the SAT exam is there, right? Where can I find that?
+
+3
+00:00:20,000 --> 00:00:22,000
+On the dashboard at the very top.
+
+4
+00:00:23,000 --> 00:00:25,000
+The very top?
+
+5
+00:00:25,000 --> 00:00:27,000
+Batch allocation test.
+
+6
+00:00:29,000 --> 00:00:32,000
+Batch allocation test? Is it a batch?
+
+7
+00:00:32,000 --> 00:00:35,000
+Yeah, yeah, batch allocation, you can even choose that to take the test.
+
+8
+00:00:36,000 --> 00:00:37,000
+Or the same thing.
+
+9
+00:00:39,000 --> 00:00:43,000
+Give me 10 minutes, I'll ask someone or give me some time, I'll ask someone to reach out to you and help you out.
+
+10
+00:00:43,000 --> 00:00:44,000
+Okay, fine.
+
+11
+00:00:46,000 --> 00:00:47,000
+Sure.
+
+12
+00:00:47,000 --> 00:00:48,000
+Thank you.
+
+13
+00:00:48,000 --> 00:00:49,000
+Welcome.
+
+14
+00:00:50,000 --> 00:00:51,000
+Thank you.
+

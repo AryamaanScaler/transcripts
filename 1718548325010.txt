@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello, I am speaking to Aditya.
+
+2
+00:00:02,000 --> 00:00:03,000
+Yes.
+
+3
+00:00:03,000 --> 00:00:08,000
+Aditya, hi, this is Anjali calling you from Scalera army from the Learner's X15.
+
+4
+00:00:08,000 --> 00:00:10,000
+Yes, I am doing.
+
+5
+00:00:10,000 --> 00:00:11,000
+Hi, how are you?
+
+6
+00:00:11,000 --> 00:00:12,000
+I am good.
+
+7
+00:00:12,000 --> 00:00:13,000
+Great to hear that.
+
+8
+00:00:13,000 --> 00:00:18,000
+Okay, I just need you 15 to 20 minutes if you are available now to complete your onboarding
+
+9
+00:00:18,000 --> 00:00:19,000
+formalities.
+
+10
+00:00:19,000 --> 00:00:25,000
+Let me connect after an hour because I am out of my home.
+
+11
+00:00:25,000 --> 00:00:26,000
+Oh, is it?
+
+12
+00:00:27,000 --> 00:00:29,000
+No worries, I will try to call today.
+
+13
+00:00:29,000 --> 00:00:31,000
+If not today, then we can have this call tomorrow.
+
+14
+00:00:31,000 --> 00:00:34,000
+What's your working hours for tomorrow?
+
+15
+00:00:34,000 --> 00:00:38,000
+It's 10 to 7.
+
+16
+00:00:38,000 --> 00:00:40,000
+Okay, 10 to 7.
+
+17
+00:00:40,000 --> 00:00:45,000
+So before 10, I won't be able to connect because my shift starts around 11.
+
+18
+00:00:45,000 --> 00:00:48,000
+Is it possible to connect in your working hours?
+
+19
+00:00:48,000 --> 00:00:50,000
+Do you have to go to office or how is it?
+
+20
+00:00:50,000 --> 00:00:53,000
+It's work from home so we can connect.
+
+21
+00:00:53,000 --> 00:00:54,000
+We can connect, okay.
+
+22
+00:00:54,000 --> 00:00:57,000
+After 12.30 or 1 around we can connect.
+
+23
+00:00:57,000 --> 00:01:01,000
+After 2 because I have a meeting at 12 to 1.
+
+24
+00:01:01,000 --> 00:01:02,000
+Okay.
+
+25
+00:01:02,000 --> 00:01:04,000
+So after 2 I can connect.
+
+26
+00:01:04,000 --> 00:01:06,000
+Okay, I will keep a note of it.
+
+27
+00:01:06,000 --> 00:01:07,000
+Thank you, bye.
+
+28
+00:01:07,000 --> 00:01:08,000
+Bye.
+

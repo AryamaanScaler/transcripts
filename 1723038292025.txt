@@ -1,0 +1,1820 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, Hello, Hi, Is this Prabhat?
+
+2
+00:00:04,000 --> 00:00:10,000
+Yes, Prabhat Sunny this side, calling you from Scalar Academy, how are you?
+
+3
+00:00:10,000 --> 00:00:12,000
+Yes, I am fine.
+
+4
+00:00:12,000 --> 00:00:16,000
+I received your profile actually from one of my subordinates.
+
+5
+00:00:16,000 --> 00:00:25,000
+And I can see that you have recently attended a class which was on build a career in DevOps engineering.
+
+6
+00:00:25,000 --> 00:00:26,000
+DevOps, yes.
+
+7
+00:00:26,000 --> 00:00:30,000
+Yes, so this was the reason I called you personally.
+
+8
+00:00:30,000 --> 00:00:32,000
+So I hope this is a good time to talk.
+
+9
+00:00:32,000 --> 00:00:34,000
+Yes, yes.
+
+10
+00:00:34,000 --> 00:00:40,000
+So Prabhat I can see that your profile is in our system from a very long period of time.
+
+11
+00:00:40,000 --> 00:00:43,000
+You registered for the first time about a year ago.
+
+12
+00:00:43,000 --> 00:00:54,000
+Yes, yes sir. Actually that was for joining a workshop type.
+
+13
+00:00:54,000 --> 00:00:56,000
+For a master class?
+
+14
+00:00:56,000 --> 00:01:03,000
+Yes, for a low level architecture, DevOps and I registered for that.
+
+15
+00:01:03,000 --> 00:01:12,000
+So are you in software development or are you in a non-coding field?
+
+16
+00:01:12,000 --> 00:01:14,000
+I am in a non-coding field.
+
+17
+00:01:14,000 --> 00:01:16,000
+In ICICI Bank, correct?
+
+18
+00:01:16,000 --> 00:01:18,000
+Correct, correct.
+
+19
+00:01:18,000 --> 00:01:21,000
+You have mentioned ICICI Bank Deputy Manager.
+
+20
+00:01:21,000 --> 00:01:23,000
+Yes, yes.
+
+21
+00:01:23,000 --> 00:01:29,000
+I can see that you have mentioned that you have passed out of NIT Patna in 2021.
+
+22
+00:01:29,000 --> 00:01:31,000
+Yes, right.
+
+23
+00:01:31,000 --> 00:01:34,000
+So what branch was yours in BIT.
+
+24
+00:01:34,000 --> 00:01:36,000
+It was mechanical branch.
+
+25
+00:01:36,000 --> 00:01:40,000
+Okay, so it was mechanical. So how did you get into the bank, Prabhat?
+
+26
+00:01:41,000 --> 00:01:52,000
+In the bank, because it was a non-coding profile, so it is here now.
+
+27
+00:01:53,000 --> 00:02:06,000
+So our work is of TCS, third party handling, development part.
+
+28
+00:02:06,000 --> 00:02:16,000
+After that, the process of deployment, deployment on the server, code fixing and testing is our part.
+
+29
+00:02:16,000 --> 00:02:18,000
+Keyway testing and all.
+
+30
+00:02:18,000 --> 00:02:24,000
+So the part here is of TCS, the rest is of our side.
+
+31
+00:02:24,000 --> 00:02:31,000
+Okay, so ICICI Bank, the project you are working on is of TCS.
+
+32
+00:02:31,000 --> 00:02:38,000
+Yes, I have an application called iMobile.
+
+33
+00:02:38,000 --> 00:02:39,000
+Okay.
+
+34
+00:02:39,000 --> 00:02:41,000
+I mean, iMobile.
+
+35
+00:02:41,000 --> 00:02:43,000
+Yes, iMobile.
+
+36
+00:02:43,000 --> 00:02:44,000
+I use it.
+
+37
+00:02:44,000 --> 00:02:47,000
+I use it on Google Payphone.
+
+38
+00:02:47,000 --> 00:02:54,000
+So we are working on the updated version of it, i.e. 3.0,
+
+39
+00:02:54,000 --> 00:02:58,000
+where we are changing it at the architecture level, security level.
+
+40
+00:02:58,000 --> 00:03:02,000
+So we are working on the same application now.
+
+41
+00:03:02,000 --> 00:03:14,000
+So like API related or both the requirements are working.
+
+42
+00:03:14,000 --> 00:03:16,000
+Okay, okay.
+
+43
+00:03:16,000 --> 00:03:19,000
+So what is the planning for the future?
+
+44
+00:03:19,000 --> 00:03:28,000
+The planning is to move to another bank sector.
+
+45
+00:03:28,000 --> 00:03:33,000
+Because in the coding part, maybe I will not fit there.
+
+46
+00:03:33,000 --> 00:03:41,000
+So that means where there is this infra-related deployment, it will be taken from there.
+
+47
+00:03:41,000 --> 00:03:48,000
+So all these things are of infra-related, deployment or post-development.
+
+48
+00:03:48,000 --> 00:03:53,000
+So all these things come in the DevOps.
+
+49
+00:03:53,000 --> 00:03:54,000
+Correct, correct.
+
+50
+00:03:54,000 --> 00:03:58,000
+Before I joined that seminar, I was there.
+
+51
+00:03:58,000 --> 00:03:59,000
+Yeah, yeah.
+
+52
+00:03:59,000 --> 00:04:06,000
+So you must have an idea about Scalar, I think.
+
+53
+00:04:06,000 --> 00:04:08,000
+Yeah, yeah, I know, I know that.
+
+54
+00:04:08,000 --> 00:04:17,000
+So our program on DevOps, obviously we provide training to you.
+
+55
+00:04:17,000 --> 00:04:23,000
+And after that, we help you to get placed in better product-based companies as well.
+
+56
+00:04:23,000 --> 00:04:28,000
+So now you are working on iMobile in ICICI.
+
+57
+00:04:28,000 --> 00:04:31,000
+TCS is developing it, correct?
+
+58
+00:04:31,000 --> 00:04:33,000
+Correct, correct.
+
+59
+00:04:33,000 --> 00:04:35,000
+Post-development, you mean?
+
+60
+00:04:35,000 --> 00:04:39,000
+Post-development is in ICICI side.
+
+61
+00:04:39,000 --> 00:04:43,000
+So it's server-based deployment and all testing and all that.
+
+62
+00:04:43,000 --> 00:04:44,000
+Okay, okay.
+
+63
+00:04:44,000 --> 00:04:47,000
+So you mean there is no core development team in ICICI?
+
+64
+00:04:47,000 --> 00:04:52,000
+No, core development, the coding part, API, we all have work to do.
+
+65
+00:04:52,000 --> 00:05:01,000
+First, give requirements, API, whatever it is, discuss and finalize it.
+
+66
+00:05:01,000 --> 00:05:05,000
+Infra, first of all, it's of infra, it wasn't started.
+
+67
+00:05:05,000 --> 00:05:09,000
+That now according to the new architecture, it will be infra.
+
+68
+00:05:09,000 --> 00:05:15,000
+And we have to give API to them, after that, they will make their coding and we will go back.
+
+69
+00:05:15,000 --> 00:05:25,000
+So after the YAML file, the process is that we have to deploy it on the server through the ICICI pipeline.
+
+70
+00:05:25,000 --> 00:05:29,000
+All this process is after ICICI.
+
+71
+00:05:29,000 --> 00:05:33,000
+So you have QA testing, SIT testing, EIT testing.
+
+72
+00:05:33,000 --> 00:05:41,000
+So you give a lot of things after the development, all the post-development things like testing, support, DevOps etc.
+
+73
+00:05:41,000 --> 00:05:44,000
+So post-development, you manage all that.
+
+74
+00:05:44,000 --> 00:05:45,000
+Yes, yes.
+
+75
+00:05:45,000 --> 00:05:50,000
+So how many years have you been in this role?
+
+76
+00:05:50,000 --> 00:05:54,000
+I will complete my 2 years on 1st September.
+
+77
+00:05:54,000 --> 00:05:56,000
+Okay, okay, before that?
+
+78
+00:05:56,000 --> 00:05:58,000
+This was my first job.
+
+79
+00:05:58,000 --> 00:05:59,000
+Okay, first job.
+
+80
+00:05:59,000 --> 00:06:06,000
+I was working a bit during Corona time, so I was down a lot in placement in NIT Patna.
+
+81
+00:06:06,000 --> 00:06:18,000
+So you have been in this role for 2 years, so there are better banks like Barclays, JP Morgan,
+
+82
+00:06:18,000 --> 00:06:25,000
+Wins Fargo Bank of America, SSBC, TBS etc.
+
+83
+00:06:25,000 --> 00:06:29,000
+So I am targeting to this bank actually.
+
+84
+00:06:29,000 --> 00:06:37,000
+Because there we need more technical knowledge and depth.
+
+85
+00:06:37,000 --> 00:06:46,000
+So here it is okay, but we need more vast knowledge.
+
+86
+00:06:46,000 --> 00:06:51,000
+So we need more in the process.
+
+87
+00:06:52,000 --> 00:06:58,000
+Obviously, we need more technical knowledge because when you go to these companies,
+
+88
+00:06:58,000 --> 00:07:03,000
+at least 1-2 rounds you will be asked about your data structures and algorithms.
+
+89
+00:07:03,000 --> 00:07:05,000
+What are the things?
+
+90
+00:07:05,000 --> 00:07:12,000
+If you see the advanced data structures, you will be asked about greedy algorithms, dynamic programming,
+
+91
+00:07:12,000 --> 00:07:15,000
+questions on the linked list etc.
+
+92
+00:07:15,000 --> 00:07:18,000
+Questions on sorting algorithms.
+
+93
+00:07:18,000 --> 00:07:20,000
+And the rest is about tools.
+
+94
+00:07:20,000 --> 00:07:29,000
+So in DevOps, some people work on infra, some people work on CI, CI-CD, continuous integration, continuous deployment.
+
+95
+00:07:29,000 --> 00:07:33,000
+You will see that some people are working on scalability.
+
+96
+00:07:33,000 --> 00:07:34,000
+Correct.
+
+97
+00:07:34,000 --> 00:07:45,000
+So you should not only be able to manage infra, or you are only working on CI-CD, or you are only working on scalability.
+
+98
+00:07:46,000 --> 00:07:52,000
+You have to be ready for everything because you don't know what the company will do tomorrow in DevOps.
+
+99
+00:07:52,000 --> 00:07:54,000
+Yes, that is the same thing.
+
+100
+00:07:54,000 --> 00:08:02,000
+In the current scenario, we all have an idea of infra, then GitHub, CI-CD pipeline.
+
+101
+00:08:02,000 --> 00:08:09,000
+The rest of the things like tools etc. we don't have an idea of all this.
+
+102
+00:08:10,000 --> 00:08:15,000
+So overall, if you have an idea, then I need it.
+
+103
+00:08:15,000 --> 00:08:18,000
+I have a program here.
+
+104
+00:08:18,000 --> 00:08:25,000
+And in the program, learning is done so that your career will be sorted for the next 10-15 years.
+
+105
+00:08:25,000 --> 00:08:30,000
+Because now, for example, you have 2 years of experience.
+
+106
+00:08:30,000 --> 00:08:44,000
+Now when you have 5 plus years of experience in DevOps, then you may need to work with senior folks at the architect level.
+
+107
+00:08:44,000 --> 00:08:51,000
+Because suppose a product is being built from scratch, the architect is designing it there.
+
+108
+00:08:51,000 --> 00:08:56,000
+So after development, you have to manage the product like a DevOps engineer.
+
+109
+00:08:56,000 --> 00:08:57,000
+Correct.
+
+110
+00:08:57,000 --> 00:09:08,000
+So you should know what technology you need to use in architecture that is efficient and that won't cause any problems in post-development things.
+
+111
+00:09:08,000 --> 00:09:12,000
+You have to take the product in the long term.
+
+112
+00:09:12,000 --> 00:09:14,000
+Yes, correct.
+
+113
+00:09:14,000 --> 00:09:25,000
+And as far as JPMorgan, Morgan Stanley, Wells Fargo, Bank of America, and other companies are concerned, their products are very skilled.
+
+114
+00:09:25,000 --> 00:09:28,000
+Now ICICI's iMobile is also used by people.
+
+115
+00:09:28,000 --> 00:09:36,000
+But in India, you will see that ICICI people also use more Paytm than iMobile on Google.
+
+116
+00:09:36,000 --> 00:09:38,000
+I am telling you about myself.
+
+117
+00:09:38,000 --> 00:09:40,000
+I am doing it myself.
+
+118
+00:09:40,000 --> 00:09:44,000
+Actually, iMobile is bank related.
+
+119
+00:09:44,000 --> 00:09:50,000
+You have the data of the total bank, the loans, the debit card, you will get everything.
+
+120
+00:09:50,000 --> 00:09:52,000
+I also use it.
+
+121
+00:09:52,000 --> 00:09:55,000
+But for payment, I am using Google Payphone.
+
+122
+00:09:55,000 --> 00:09:56,000
+Exactly.
+
+123
+00:09:56,000 --> 00:10:00,000
+If you want, you can do the same thing with iMobile.
+
+124
+00:10:00,000 --> 00:10:02,000
+But it is not that easy.
+
+125
+00:10:02,000 --> 00:10:04,000
+It is a bit complicated.
+
+126
+00:10:04,000 --> 00:10:06,000
+It is a bit time-taking.
+
+127
+00:10:06,000 --> 00:10:07,000
+Correct.
+
+128
+00:10:07,000 --> 00:10:15,000
+Because overall, the bank work is based on the application.
+
+129
+00:10:15,000 --> 00:10:16,000
+Exactly.
+
+130
+00:10:16,000 --> 00:10:19,000
+It is a bit complex.
+
+131
+00:10:19,000 --> 00:10:22,000
+It has a bit of latency.
+
+132
+00:10:22,000 --> 00:10:23,000
+It is a bit less.
+
+133
+00:10:23,000 --> 00:10:24,000
+You can see that.
+
+134
+00:10:24,000 --> 00:10:27,000
+You cannot compare it to the user-friendly version.
+
+135
+00:10:27,000 --> 00:10:28,000
+I agree.
+
+136
+00:10:28,000 --> 00:10:33,000
+That is why we are making the next version, iMobile 3.0.
+
+137
+00:10:33,000 --> 00:10:40,000
+The things like latency, changes in architecture, all this is at the security level.
+
+138
+00:10:40,000 --> 00:10:44,000
+For this, we are making a new version of it in the bank.
+
+139
+00:10:44,000 --> 00:10:48,000
+It will be released by March 2025.
+
+140
+00:10:48,000 --> 00:10:51,000
+We are working on this project.
+
+141
+00:10:51,000 --> 00:10:59,000
+I mean, the bigger the firm you go to, the bigger the product will be.
+
+142
+00:10:59,000 --> 00:11:01,000
+The more users there will be.
+
+143
+00:11:01,000 --> 00:11:02,000
+Correct.
+
+144
+00:11:02,000 --> 00:11:10,000
+If there is a person who does not have the hands-on skills to work on a highly skilled system,
+
+145
+00:11:10,000 --> 00:11:14,000
+then obviously, the firm will not shortlist your resume.
+
+146
+00:11:14,000 --> 00:11:16,000
+Correct.
+
+147
+00:11:16,000 --> 00:11:22,000
+What happens in Scalar is that we train you according to the expectations of the product-based firm.
+
+148
+00:11:22,000 --> 00:11:28,000
+In DevOps, you should have good knowledge of Python.
+
+149
+00:11:28,000 --> 00:11:31,000
+You should have good knowledge of computer networks, Linux, etc.
+
+150
+00:11:31,000 --> 00:11:39,000
+If we talk about tools, we have Docker, Kubernetes, Ansible, Chef, Puppet.
+
+151
+00:11:39,000 --> 00:11:41,000
+Monitoring tools have been developed.
+
+152
+00:11:41,000 --> 00:11:45,000
+Jenkins, Terraform, etc.
+
+153
+00:11:45,000 --> 00:11:50,000
+Companies use tools like Prometheus and Grafana for monitoring.
+
+154
+00:11:50,000 --> 00:11:56,000
+Scalar trains you on all the tools.
+
+155
+00:11:56,000 --> 00:12:02,000
+We also provide you with in-depth knowledge of AWS.
+
+156
+00:12:02,000 --> 00:12:14,000
+You have done DSA in the program, you have learned tools, SQL, Python, computer networks, AWS, and the entire cloud.
+
+157
+00:12:14,000 --> 00:12:20,000
+You have also learned system design and advanced data structures for future growth.
+
+158
+00:12:21,000 --> 00:12:25,000
+The highly skilled product companies that you are targeting,
+
+159
+00:12:25,000 --> 00:12:31,000
+let's say in the next 6-8 months, we get you to work on the same problems
+
+160
+00:12:31,000 --> 00:12:37,000
+that a person like you is working on in JPMorgan or Bank of America.
+
+161
+00:12:37,000 --> 00:12:42,000
+What do you think? How much will you get hands-on from this?
+
+162
+00:12:42,000 --> 00:12:49,000
+Yes, it's like, it's the same thing.
+
+163
+00:12:49,000 --> 00:12:57,000
+When I will try to get the offline, it will be difficult, but it will be very helpful for me.
+
+164
+00:12:57,000 --> 00:13:05,000
+Exactly, because your goal should be first to understand the ecosystem of your target companies and your target role.
+
+165
+00:13:06,000 --> 00:13:12,000
+Now you will know that these things are used in companies.
+
+166
+00:13:12,000 --> 00:13:18,000
+So when you go there after 8-10 months, you will be able to easily adapt the ecosystem.
+
+167
+00:13:18,000 --> 00:13:20,000
+You will be able to work there.
+
+168
+00:13:20,000 --> 00:13:25,000
+Agenda is not just about cracking jobs, you have to go there and work, survive, and grow.
+
+169
+00:13:25,000 --> 00:13:29,000
+Yes, there is survival too.
+
+170
+00:13:29,000 --> 00:13:32,000
+Exactly. So what does Scalar do?
+
+171
+00:13:32,000 --> 00:13:34,000
+First, they teach you, teach you.
+
+172
+00:13:34,000 --> 00:13:38,000
+We have made you work on more than 50 real-life case studies.
+
+173
+00:13:38,000 --> 00:13:45,000
+Along with this, you will know that Naman Bhalla was our student.
+
+174
+00:13:45,000 --> 00:13:48,000
+He joined Scalar as a student.
+
+175
+00:13:48,000 --> 00:13:54,000
+He studied from our company and cracked his first offer in Google as a fresher.
+
+176
+00:13:55,000 --> 00:13:59,000
+He worked for 3 years in Google and then built Dunzo and Cultfit.
+
+177
+00:13:59,000 --> 00:14:03,000
+And now he is heading our DevOps program.
+
+178
+00:14:03,000 --> 00:14:11,000
+You can see that all our educators and instructors work in this company.
+
+179
+00:14:11,000 --> 00:14:19,000
+Those who have built a platform like Hotstar, Moit Yadav, Chhitej Mishra who has made Snapdeal,
+
+180
+00:14:19,000 --> 00:14:23,000
+or our co-founder Anshuman Singh.
+
+181
+00:14:23,000 --> 00:14:27,000
+The messenger that we use on Facebook has been built by Anshuman.
+
+182
+00:14:27,000 --> 00:14:31,000
+So you are learning from all these people live.
+
+183
+00:14:31,000 --> 00:14:43,000
+The second thing is that the companies like JP Morgan or Microsoft, Amazon, Google,
+
+184
+00:14:43,000 --> 00:14:49,000
+so all these companies serve as a mentor to our senior profiles.
+
+185
+00:14:49,000 --> 00:14:56,000
+For example, you can choose a person from Microsoft who will be your personal mentor.
+
+186
+00:14:56,000 --> 00:15:00,000
+He can have a 10-12 year experience, he will be a 1.5-2 crore CTC.
+
+187
+00:15:00,000 --> 00:15:06,000
+And he will be in a role where he is hiring platform engineers like you in Microsoft.
+
+188
+00:15:06,000 --> 00:15:10,000
+So Scalar trained you in interviews.
+
+189
+00:15:10,000 --> 00:15:13,000
+Scalar gave you mock interviews.
+
+190
+00:15:13,000 --> 00:15:17,000
+For example, you completed Python and gave mock interviews on Python.
+
+191
+00:15:17,000 --> 00:15:23,000
+Those who are taking interviews on Python in real time are in tier 1 product companies.
+
+192
+00:15:23,000 --> 00:15:28,000
+If a profile like yours comes to me, who has a 2-year experience in DevOps,
+
+193
+00:15:28,000 --> 00:15:33,000
+and if you give us 8-10 months on a weekly basis,
+
+194
+00:15:33,000 --> 00:15:38,000
+then you can easily crack an offer of 20-25 LPAs.
+
+195
+00:15:38,000 --> 00:15:42,000
+I think your CTC will be around 10-15 if I am not wrong.
+
+196
+00:15:42,000 --> 00:15:45,000
+Yes, 14 years.
+
+197
+00:15:45,000 --> 00:15:50,000
+So from 15 you can reach 25-30 in the next 10-12 months.
+
+198
+00:15:50,000 --> 00:15:54,000
+This is my next target.
+
+199
+00:15:54,000 --> 00:16:02,000
+And if you get an on-site opportunity, you can move outside India.
+
+200
+00:16:02,000 --> 00:16:06,000
+So that's it.
+
+201
+00:16:06,000 --> 00:16:11,000
+I will send you the details of my program.
+
+202
+00:16:11,000 --> 00:16:14,000
+You can go through it.
+
+203
+00:16:14,000 --> 00:16:18,000
+I will send you the placement report and curriculum.
+
+204
+00:16:18,000 --> 00:16:22,000
+But my program is an invite-only program.
+
+205
+00:16:22,000 --> 00:16:28,000
+This is not the reason that anyone can buy my program from the website.
+
+206
+00:16:28,000 --> 00:16:36,000
+So the process is that I will send you the details, you can go through it.
+
+207
+00:16:36,000 --> 00:16:43,000
+And there is a set of 16 multiple choice questions that you have to attempt not to judge you.
+
+208
+00:16:43,000 --> 00:16:47,000
+This is just to understand your current level.
+
+209
+00:16:47,000 --> 00:16:55,000
+It would be better for you to understand the level of the program.
+
+210
+00:16:55,000 --> 00:17:02,000
+So there are multiple questions related to the program or in general?
+
+211
+00:17:02,000 --> 00:17:06,000
+So you are coming to the program.
+
+212
+00:17:06,000 --> 00:17:12,000
+There are people who have no experience, who have no technical background.
+
+213
+00:17:12,000 --> 00:17:17,000
+And they have only heard that people get this much salary in DevOps.
+
+214
+00:17:17,000 --> 00:17:22,000
+So you hear that people want to do it even after hearing it.
+
+215
+00:17:22,000 --> 00:17:28,000
+But now you are coming to the program, the course doesn't matter.
+
+216
+00:17:28,000 --> 00:17:31,000
+You should get the results tomorrow.
+
+217
+00:17:31,000 --> 00:17:36,000
+Now suppose you are coming to me and I am not able to produce the results.
+
+218
+00:17:36,000 --> 00:17:39,000
+You are spending 8-10 months with me.
+
+219
+00:17:39,000 --> 00:17:44,000
+And if you invest the same 8-10 months in the right place, you will get the return.
+
+220
+00:17:44,000 --> 00:17:46,000
+You will get the outcome.
+
+221
+00:17:46,000 --> 00:17:49,000
+So we need the outcome too.
+
+222
+00:17:49,000 --> 00:17:56,000
+This is the reason we need to see if the person who is coming to me can get the results.
+
+223
+00:17:56,000 --> 00:18:00,000
+So I am not pointing on you because you have been in DevOps for 2 years.
+
+224
+00:18:00,000 --> 00:18:02,000
+So it's not that I am talking about you.
+
+225
+00:18:02,000 --> 00:18:05,000
+But for those who have no experience.
+
+226
+00:18:05,000 --> 00:18:10,000
+Now suppose the other person thinks that it's too tough and I won't be able to do it.
+
+227
+00:18:10,000 --> 00:18:12,000
+So what will that person give me?
+
+228
+00:18:12,000 --> 00:18:13,000
+Just a negative review.
+
+229
+00:18:13,000 --> 00:18:16,000
+He can't give anything else.
+
+230
+00:18:17,000 --> 00:18:19,000
+So this is the reason.
+
+231
+00:18:19,000 --> 00:18:22,000
+First we will try to understand what is the current skill set level.
+
+232
+00:18:22,000 --> 00:18:26,000
+And for this we will give you the 16 multiple choice question set.
+
+233
+00:18:26,000 --> 00:18:28,000
+You have gone through the details.
+
+234
+00:18:28,000 --> 00:18:30,000
+You have seen the placement reports.
+
+235
+00:18:30,000 --> 00:18:34,000
+If you see my placement ratio now, you must know KPMG.
+
+236
+00:18:34,000 --> 00:18:36,000
+One of the big four.
+
+237
+00:18:36,000 --> 00:18:40,000
+KPMG audited our placement last year.
+
+238
+00:18:40,000 --> 00:18:43,000
+Our ratio was around 94%.
+
+239
+00:18:44,000 --> 00:18:48,000
+This year our placement audit was done by B2K analytics.
+
+240
+00:18:48,000 --> 00:18:52,000
+And my placement ratio has increased by 2% to 96%.
+
+241
+00:18:52,000 --> 00:18:58,000
+So if you get on board tomorrow, you have to maintain the placement ratio too.
+
+242
+00:18:58,000 --> 00:19:00,000
+Yes.
+
+243
+00:19:00,000 --> 00:19:02,000
+This is the reason.
+
+244
+00:19:02,000 --> 00:19:03,000
+We will follow a process.
+
+245
+00:19:03,000 --> 00:19:05,000
+You go through the details.
+
+246
+00:19:05,000 --> 00:19:07,000
+You try to answer those questions.
+
+247
+00:19:07,000 --> 00:19:09,000
+After that we will have a better conversation.
+
+248
+00:19:09,000 --> 00:19:12,000
+Where we will understand your doubts and expectations.
+
+249
+00:19:12,000 --> 00:19:17,000
+If everything is correct, we will meet on Google meet one on one.
+
+250
+00:19:17,000 --> 00:19:21,000
+The agenda is to understand your expectations.
+
+251
+00:19:21,000 --> 00:19:25,000
+And see if the scalar is delivering the expectations or not.
+
+252
+00:19:28,000 --> 00:19:31,000
+If everything is correct, we will give you the offer letter for the program.
+
+253
+00:19:31,000 --> 00:19:33,000
+And my fees.
+
+254
+00:19:33,000 --> 00:19:38,000
+We charge around 3.69 lakhs.
+
+255
+00:19:39,000 --> 00:19:42,000
+You get a scholarship of 55,000.
+
+256
+00:19:42,000 --> 00:19:45,000
+And the fees are reduced to 3.14 lakhs.
+
+257
+00:19:45,000 --> 00:19:48,000
+Initially you pay 20,000.
+
+258
+00:19:48,000 --> 00:19:53,000
+The remaining part is split into EMI.
+
+259
+00:19:53,000 --> 00:19:58,000
+Which is around 7.5 to 12,000.
+
+260
+00:19:58,000 --> 00:20:00,000
+Okay.
+
+261
+00:20:00,000 --> 00:20:02,000
+Yes.
+
+262
+00:20:02,000 --> 00:20:04,000
+Okay.
+
+263
+00:20:04,000 --> 00:20:07,000
+You share that with me.
+
+264
+00:20:07,000 --> 00:20:09,000
+I will go through this.
+
+265
+00:20:09,000 --> 00:20:12,000
+So, I want to ask you something.
+
+266
+00:20:12,000 --> 00:20:14,000
+Where are you from?
+
+267
+00:20:14,000 --> 00:20:16,000
+I am from Bihar.
+
+268
+00:20:16,000 --> 00:20:19,000
+Currently I am living in Hyderabad.
+
+269
+00:20:19,000 --> 00:20:21,000
+Okay. Where exactly in Bihar?
+
+270
+00:20:21,000 --> 00:20:24,000
+Shekpura district.
+
+271
+00:20:24,000 --> 00:20:26,000
+Okay. Shekpura.
+
+272
+00:20:26,000 --> 00:20:29,000
+My house is in Muzaffarpur.
+
+273
+00:20:29,000 --> 00:20:30,000
+Okay.
+
+274
+00:20:30,000 --> 00:20:32,000
+I saw NIT Patna.
+
+275
+00:20:32,000 --> 00:20:35,000
+I thought you are from Bihar.
+
+276
+00:20:35,000 --> 00:20:38,000
+NIT Patna is good.
+
+277
+00:20:38,000 --> 00:20:41,000
+I have heard that the placement is good.
+
+278
+00:20:41,000 --> 00:20:43,000
+Yes.
+
+279
+00:20:43,000 --> 00:20:46,000
+This year it is a very good record.
+
+280
+00:20:46,000 --> 00:20:49,000
+It is a good company.
+
+281
+00:20:49,000 --> 00:20:53,000
+Is there no community there?
+
+282
+00:20:53,000 --> 00:20:54,000
+Yes, there is.
+
+283
+00:20:54,000 --> 00:20:59,000
+We don't have a simple group.
+
+284
+00:20:59,000 --> 00:21:02,000
+There is Lumini Tech.
+
+285
+00:21:02,000 --> 00:21:06,000
+Network is also very important.
+
+286
+00:21:06,000 --> 00:21:12,000
+Our community is the biggest in Asia.
+
+287
+00:21:12,000 --> 00:21:16,000
+There are more than 50,000 people in my community.
+
+288
+00:21:16,000 --> 00:21:19,000
+All of them are working in product-based companies.
+
+289
+00:21:19,000 --> 00:21:22,000
+If you say any company, I have people from there.
+
+290
+00:21:22,000 --> 00:21:23,000
+You can say any role.
+
+291
+00:21:23,000 --> 00:21:25,000
+I have people in that role.
+
+292
+00:21:25,000 --> 00:21:31,000
+If you are coming to Scalar, it is not like you come once and the placement is over.
+
+293
+00:21:31,000 --> 00:21:32,000
+No.
+
+294
+00:21:32,000 --> 00:21:36,000
+It is like lifelong you have a bond with Scalar.
+
+295
+00:21:36,000 --> 00:21:41,000
+Because my community provides you with a lifetime access to Scalar.
+
+296
+00:21:41,000 --> 00:21:44,000
+This is the reason.
+
+297
+00:21:44,000 --> 00:21:48,000
+Placement assistance is also a lifetime.
+
+298
+00:21:48,000 --> 00:21:57,000
+If you come after 5-10 years and ask for some referrals, we will be able to help you with that.
+
+299
+00:21:57,000 --> 00:21:59,000
+Okay.
+
+300
+00:21:59,000 --> 00:22:00,000
+Yes.
+
+301
+00:22:00,000 --> 00:22:05,000
+I will send you the details.
+
+302
+00:22:05,000 --> 00:22:08,000
+Is this your number on WhatsApp?
+
+303
+00:22:08,000 --> 00:22:10,000
+Yes, it is my same number.
+
+304
+00:22:10,000 --> 00:22:13,000
+I will send you some details on WhatsApp.
+
+305
+00:22:13,000 --> 00:22:15,000
+Go through it.
+
+306
+00:22:15,000 --> 00:22:20,000
+I will share the link of the assessment with the team.
+
+307
+00:22:20,000 --> 00:22:22,000
+It takes 15-20 minutes to attempt.
+
+308
+00:22:22,000 --> 00:22:25,000
+You can also attempt on your phone.
+
+309
+00:22:25,000 --> 00:22:28,000
+The link comes with an expiry time.
+
+310
+00:22:28,000 --> 00:22:35,000
+Tell me, how long will you be able to take out time in 15-20 minutes to attempt it so that I can share the link accordingly?
+
+311
+00:22:35,000 --> 00:22:38,000
+Today is Wednesday.
+
+312
+00:22:38,000 --> 00:22:39,000
+Yes.
+
+313
+00:22:39,000 --> 00:22:49,000
+The time will be out on Wednesday, but it is free on Saturday, Friday, Saturday and Sunday.
+
+314
+00:22:49,000 --> 00:22:51,000
+Okay.
+
+315
+00:22:51,000 --> 00:22:58,000
+Either I can attempt on tomorrow evening or on Saturday anytime.
+
+316
+00:22:58,000 --> 00:23:03,000
+I will send you a valid link for the next 24 hours.
+
+317
+00:23:03,000 --> 00:23:05,000
+It is 7.40 pm now.
+
+318
+00:23:05,000 --> 00:23:09,000
+If you get time in the next 24 hours, try it.
+
+319
+00:23:09,000 --> 00:23:14,000
+If you are saying it tomorrow evening, try it before 7.40 pm.
+
+320
+00:23:14,000 --> 00:23:16,000
+Okay.
+
+321
+00:23:16,000 --> 00:23:18,000
+I will attempt on the evening time.
+
+322
+00:23:18,000 --> 00:23:20,000
+Okay.
+
+323
+00:23:20,000 --> 00:23:22,000
+I will share the link.
+
+324
+00:23:22,000 --> 00:23:26,000
+I will send you the details of the program via my official email.
+
+325
+00:23:26,000 --> 00:23:30,000
+I will send you the curriculum and some small videos on WhatsApp.
+
+326
+00:23:30,000 --> 00:23:33,000
+I will send you the videos of 1-1.5 minutes.
+
+327
+00:23:33,000 --> 00:23:39,000
+The resources are made by our co-founder Anshuman.
+
+328
+00:23:39,000 --> 00:23:42,000
+If you watch those 3-4 videos, you will get 2-3 minutes of videos.
+
+329
+00:23:42,000 --> 00:23:44,000
+I will not send long videos.
+
+330
+00:23:44,000 --> 00:23:53,000
+You will get an understanding of the entire career path, growth and curriculum in DevOps.
+
+331
+00:23:53,000 --> 00:23:55,000
+Okay.
+
+332
+00:23:55,000 --> 00:23:56,000
+Okay.
+
+333
+00:23:56,000 --> 00:23:59,000
+You can attempt on the next day and we will connect.
+
+334
+00:23:59,000 --> 00:24:02,000
+We will discuss the things in detail.
+
+335
+00:24:02,000 --> 00:24:04,000
+Okay.
+
+336
+00:24:04,000 --> 00:24:06,000
+If you have any questions, ask us.
+
+337
+00:24:06,000 --> 00:24:08,000
+I am here.
+
+338
+00:24:08,000 --> 00:24:10,000
+No, I don't have any questions.
+
+339
+00:24:10,000 --> 00:24:16,000
+I have many responsibilities.
+
+340
+00:24:16,000 --> 00:24:20,000
+It is difficult for me.
+
+341
+00:24:20,000 --> 00:24:24,000
+Honestly, I am saying that I will not do it later.
+
+342
+00:24:24,000 --> 00:24:28,000
+I am not asking for immediate decision on this call.
+
+343
+00:24:28,000 --> 00:24:32,000
+I know that the fees are high.
+
+344
+00:24:32,000 --> 00:24:35,000
+I am not saying that my fees are low.
+
+345
+00:24:35,000 --> 00:24:44,000
+But for this program of 3,14,000 rupees, I can tell you that you will not spend more than 1,00,000 rupees from your own pocket.
+
+346
+00:24:44,000 --> 00:24:46,000
+I can tell you how.
+
+347
+00:24:46,000 --> 00:24:50,000
+Suppose that initially you were on boarding.
+
+348
+00:24:50,000 --> 00:24:52,000
+At that time you paid 20,000 rupees.
+
+349
+00:24:52,000 --> 00:24:54,000
+You can pay with anything.
+
+350
+00:24:54,000 --> 00:24:56,000
+Debit, credit card, anything.
+
+351
+00:24:56,000 --> 00:24:58,000
+After that, we will keep you in the observation period.
+
+352
+00:24:58,000 --> 00:25:00,000
+Which will be till 30th August.
+
+353
+00:25:00,000 --> 00:25:03,000
+During this time, you will attend classes.
+
+354
+00:25:03,000 --> 00:25:05,000
+You will take mentor sessions.
+
+355
+00:25:05,000 --> 00:25:08,000
+You will take one on one doubt clearing sessions with the teaching assistant.
+
+356
+00:25:08,000 --> 00:25:12,000
+Basically, you will utilize our resources.
+
+357
+00:25:12,000 --> 00:25:16,000
+If you feel that the scaler is good but not good for me.
+
+358
+00:25:16,000 --> 00:25:18,000
+Then you will not continue.
+
+359
+00:25:18,000 --> 00:25:23,000
+In that case, you will get back 20,000 rupees without any deduction.
+
+360
+00:25:23,000 --> 00:25:27,000
+And your EMI will not start from September.
+
+361
+00:25:27,000 --> 00:25:31,000
+Suppose the scaler feels that you are not doing classes.
+
+362
+00:25:31,000 --> 00:25:33,000
+You have not taken mentor sessions.
+
+363
+00:25:33,000 --> 00:25:37,000
+Then the scaler can also tell you to take your money back and quit the program.
+
+364
+00:25:37,000 --> 00:25:40,000
+You will be returned in that too.
+
+365
+00:25:40,000 --> 00:25:42,000
+Suppose you continue.
+
+366
+00:25:42,000 --> 00:25:44,000
+Suppose you took EMI of 7,500 rupees.
+
+367
+00:25:44,000 --> 00:25:46,000
+Which is our minimum EMI plan.
+
+368
+00:25:46,000 --> 00:25:48,000
+You paid EMI for 10 months.
+
+369
+00:25:48,000 --> 00:25:50,000
+You paid 75,000 rupees.
+
+370
+00:25:50,000 --> 00:25:52,000
+You paid 20,000 rupees initially.
+
+371
+00:25:52,000 --> 00:25:56,000
+Now it is 95,000 rupees in total.
+
+372
+00:25:56,000 --> 00:26:02,000
+So, let's say, you may know that the product based companies.
+
+373
+00:26:02,000 --> 00:26:05,000
+They provide you a higher CTC.
+
+374
+00:26:05,000 --> 00:26:09,000
+And they provide you a 110 joining bonuses also.
+
+375
+00:26:09,000 --> 00:26:12,000
+Which starts from 2-3 lakhs.
+
+376
+00:26:12,000 --> 00:26:14,000
+And it goes up to 7-8 lakhs.
+
+377
+00:26:14,000 --> 00:26:16,000
+So, it is approximately 5 lakhs.
+
+378
+00:26:16,000 --> 00:26:20,000
+One of my friends recently, JP Morgan, Mr. Wilson,
+
+379
+00:26:20,000 --> 00:26:24,000
+So, the starting bonus was 5 lakhs.
+
+380
+00:26:24,000 --> 00:26:28,000
+So, suppose you have 15 CTC.
+
+381
+00:26:28,000 --> 00:26:30,000
+If you invest 1 lakh rupees,
+
+382
+00:26:30,000 --> 00:26:32,000
+That 15 CTC becomes 25.
+
+383
+00:26:32,000 --> 00:26:34,000
+For example,
+
+384
+00:26:34,000 --> 00:26:36,000
+Suppose 25-30, whatever happens.
+
+385
+00:26:36,000 --> 00:26:39,000
+Apart from that, the bonuses you are getting.
+
+386
+00:26:39,000 --> 00:26:43,000
+You can pre-close your EMI using those bonuses.
+
+387
+00:26:43,000 --> 00:26:45,000
+Secondly,
+
+388
+00:26:45,000 --> 00:26:51,000
+This upscaling will sort you out for the next 10-12 years.
+
+389
+00:26:51,000 --> 00:26:55,000
+Meaning, you don't have to spend a single penny for your career growth.
+
+390
+00:26:55,000 --> 00:26:59,000
+Scalers are your community.
+
+391
+00:26:59,000 --> 00:27:02,000
+Placement assistance is your alumni referral channel.
+
+392
+00:27:02,000 --> 00:27:05,000
+So, if you have any requirement for anything tomorrow,
+
+393
+00:27:05,000 --> 00:27:07,000
+Scalers are always there for you.
+
+394
+00:27:07,000 --> 00:27:11,000
+So, suppose you invested 1 lakh rupees.
+
+395
+00:27:11,000 --> 00:27:15,000
+If you get a bonus of 2-3 lakhs,
+
+396
+00:27:15,000 --> 00:27:19,000
+No one will give you any good returns.
+
+397
+00:27:19,000 --> 00:27:21,000
+Correct?
+
+398
+00:27:21,000 --> 00:27:23,000
+So, managing is not important.
+
+399
+00:27:23,000 --> 00:27:25,000
+Responsibility is always there.
+
+400
+00:27:25,000 --> 00:27:29,000
+As time goes by, your responsibilities will increase.
+
+401
+00:27:29,000 --> 00:27:31,000
+They won't decrease.
+
+402
+00:27:31,000 --> 00:27:33,000
+Correct?
+
+403
+00:27:33,000 --> 00:27:35,000
+And today, you have 2 years of experience.
+
+404
+00:27:35,000 --> 00:27:37,000
+If you go for an interview,
+
+405
+00:27:37,000 --> 00:27:43,000
+Do you think that giving an interview for 2 years or 5 years of experience will be the same?
+
+406
+00:27:43,000 --> 00:27:47,000
+No, no.
+
+407
+00:27:47,000 --> 00:27:49,000
+Expectations will increase, right?
+
+408
+00:27:49,000 --> 00:27:51,000
+As the experience is getting.
+
+409
+00:27:51,000 --> 00:27:57,000
+It's always better to get into the product-based companies when you are in the early stage of your career.
+
+410
+00:27:57,000 --> 00:27:59,000
+Yes, sir.
+
+411
+00:27:59,000 --> 00:28:03,000
+The rest of the 7500 is managed.
+
+412
+00:28:03,000 --> 00:28:05,000
+You live in Hyderabad.
+
+413
+00:28:05,000 --> 00:28:09,000
+If you go out on a Sunday, you will spend around 6000-7000.
+
+414
+00:28:09,000 --> 00:28:13,000
+Yes, the government is manageable.
+
+415
+00:28:13,000 --> 00:28:17,000
+So, first try to go through the details.
+
+416
+00:28:17,000 --> 00:28:19,000
+Try to answer the questions.
+
+417
+00:28:19,000 --> 00:28:23,000
+We will discuss the rest later.
+
+418
+00:28:23,000 --> 00:28:25,000
+My job is not to push you.
+
+419
+00:28:25,000 --> 00:28:27,000
+You understand?
+
+420
+00:28:27,000 --> 00:28:31,000
+Sometimes, we take things that we need, even if they are expensive.
+
+421
+00:28:31,000 --> 00:28:33,000
+We take them.
+
+422
+00:28:33,000 --> 00:28:37,000
+Your needs and expectations should be fulfilled.
+
+423
+00:28:37,000 --> 00:28:39,000
+That's what matters.
+
+424
+00:28:39,000 --> 00:28:41,000
+Yes, sir.
+
+425
+00:28:41,000 --> 00:28:43,000
+So, anything else?
+
+426
+00:28:43,000 --> 00:28:45,000
+No, no.
+
+427
+00:28:45,000 --> 00:28:51,000
+How much time do I spend on weekly basis?
+
+428
+00:28:51,000 --> 00:28:55,000
+We expect 10-12 hours from you, including the live classes.
+
+429
+00:28:55,000 --> 00:28:59,000
+Because my classes are not daily.
+
+430
+00:28:59,000 --> 00:29:07,000
+My classes are like that of 95% of my students.
+
+431
+00:29:07,000 --> 00:29:13,000
+We have people who are more experienced than 20 years.
+
+432
+00:29:13,000 --> 00:29:21,000
+The senior profile who has done upskilling is Mr. Piyush Goyal.
+
+433
+00:29:21,000 --> 00:29:25,000
+He is 28 years old.
+
+434
+00:29:25,000 --> 00:29:29,000
+He is working as a VP for Apple India.
+
+435
+00:29:29,000 --> 00:29:33,000
+He has a CTC of 3.5 crores.
+
+436
+00:29:33,000 --> 00:29:39,000
+He was a learner in our software development program, DSN System Design.
+
+437
+00:29:39,000 --> 00:29:41,000
+Last year.
+
+438
+00:29:41,000 --> 00:29:49,000
+If you come here, you will see that there are people who are upskilling themselves.
+
+439
+00:29:49,000 --> 00:29:55,000
+That's why it is not possible to do daily classes for any working professional.
+
+440
+00:29:55,000 --> 00:29:57,000
+Yes, sir.
+
+441
+00:29:57,000 --> 00:29:59,000
+So, my classes run on Mondays, Wednesdays and Fridays.
+
+442
+00:29:59,000 --> 00:30:05,000
+Either you take the morning batch of 7-9 or you read the evening batch of 9-11.
+
+443
+00:30:05,000 --> 00:30:07,000
+Okay.
+
+444
+00:30:07,000 --> 00:30:09,000
+Okay.
+
+445
+00:30:09,000 --> 00:30:11,000
+Okay, fine.
+
+446
+00:30:11,000 --> 00:30:13,000
+Okay, then I will share the details.
+
+447
+00:30:13,000 --> 00:30:15,000
+I will also share the link by 8 pm.
+
+448
+00:30:15,000 --> 00:30:19,000
+We will connect tomorrow around the same time.
+
+449
+00:30:19,000 --> 00:30:21,000
+Will that work?
+
+450
+00:30:21,000 --> 00:30:23,000
+Yes.
+
+451
+00:30:23,000 --> 00:30:25,000
+Okay, then.
+
+452
+00:30:25,000 --> 00:30:27,000
+Thank you so much.
+
+453
+00:30:27,000 --> 00:30:29,000
+It was nice talking to you.
+
+454
+00:30:29,000 --> 00:30:31,000
+You are welcome.
+
+455
+00:30:31,000 --> 00:30:33,000
+Bye.
+

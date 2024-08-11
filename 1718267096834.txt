@@ -1,0 +1,804 @@
+1
+00:00:00,000 --> 00:00:06,680
+Hello. Is it better now? Yeah, now it's better. Yeah, so you requested for a call back to
+
+2
+00:00:06,680 --> 00:00:11,040
+understand about your career trajectory in Scalar. So I wanted to understand what exactly
+
+3
+00:00:11,040 --> 00:00:18,080
+you're looking for and how we can help. So see, I was looking forward to, you know, pursue
+
+4
+00:00:18,080 --> 00:00:25,760
+the career in being a data scientist and you know, to have a guidance about the same like,
+
+5
+00:00:25,760 --> 00:00:29,360
+you know, what should be the career path and everything. Okay. So I did the webinar as well
+
+6
+00:00:30,640 --> 00:00:39,360
+that held on, I believe, 18th or 19th. 18th May. So after that only, you know, I made up my mind
+
+7
+00:00:39,360 --> 00:00:45,280
+for this. But, you know, currently my situation is like this that, you know, I am not able to
+
+8
+00:00:45,280 --> 00:00:51,520
+give time. My dad was a government officer, so there are not many formalities that I need to
+
+9
+00:00:51,520 --> 00:00:57,120
+go through first. Okay. To help my mom, you know, get all the funds and everything that is there.
+
+10
+00:00:57,920 --> 00:01:03,520
+So right now I'm like not in a state to give much time to, you know, studies and everything. But
+
+11
+00:01:03,520 --> 00:01:08,640
+honestly, the class won't be started right away. There are certain procedures we have in Scalar.
+
+12
+00:01:09,520 --> 00:01:14,560
+Firstly, we have to go with an entrance examination. That's a basic eligibility criteria
+
+13
+00:01:14,560 --> 00:01:19,920
+and where you have to score more than 40% of marks. If you get that, then you will join Scalar
+
+14
+00:01:19,920 --> 00:01:25,360
+Academy and we will give you a one month of time. In this one month, there would be certain 40-50
+
+15
+00:01:25,360 --> 00:01:30,800
+videos which you have to watch. It's like hardly half an hour or 45 minutes you have to give on
+
+16
+00:01:30,800 --> 00:01:36,240
+the daily basis. Once you have gone with this one month of pre-primary, pre-primary in the sense that
+
+17
+00:01:36,240 --> 00:01:41,200
+we want you to refresh the knowledge about statistics, mathematics, coding, logic and everything.
+
+18
+00:01:41,200 --> 00:01:47,840
+And then at last, like on something around 16th or 15th of next month, that would be July,
+
+19
+00:01:47,840 --> 00:01:53,040
+you have to go with three hours of examination which will decide the perfect batch for you.
+
+20
+00:01:53,040 --> 00:01:57,760
+Like is it someone who you want to get into beginner, intermediate or advanced level?
+
+21
+00:01:57,760 --> 00:02:01,520
+Because see, I cannot put everyone in the same classes, right? If a fresher is there,
+
+22
+00:02:01,520 --> 00:02:05,680
+if someone with a data analyst role and data scientist role is there, I need to understand
+
+23
+00:02:05,680 --> 00:02:10,240
+their profile from the very scratch level and even understand that what gap they have in the
+
+24
+00:02:10,240 --> 00:02:15,840
+profile. Your live classes is going to be started in July onwards. That would be something around
+
+25
+00:02:15,840 --> 00:02:22,320
+16th of July. This is just a month of process we have because see, I will tell you, Scalar is a
+
+26
+00:02:22,320 --> 00:02:26,720
+personalized approach program. Anuj, we cannot directly put you into the classes and ask you,
+
+27
+00:02:27,360 --> 00:02:34,640
+just go with the like recorded session or something. This is a live classes, right? So once we are
+
+28
+00:02:34,640 --> 00:02:40,080
+100% sure, okay, Anuj is someone who is eligible for the program by taking that evaluation,
+
+29
+00:02:40,080 --> 00:02:44,640
+then we are sure that by taking three hours of examination, we understood your profile
+
+30
+00:02:45,120 --> 00:02:49,200
+because see, half an hour conversation is not enough, where I will be able to understand what
+
+31
+00:02:49,200 --> 00:02:54,320
+Anuj was doing and what is your vision altogether, right? So that's why we take three hour examination.
+
+32
+00:02:54,320 --> 00:02:59,680
+Once your results are out, according to your result, we decide the perfect batch for you.
+
+33
+00:02:59,680 --> 00:03:04,880
+And then we will have one mentor session also that mentor would be specifically assigned to you,
+
+34
+00:03:04,880 --> 00:03:09,440
+whom you're going to discuss about your career tragically entirely. Because everyone who comes
+
+35
+00:03:09,440 --> 00:03:13,440
+to Scalar, someone wants to become data scientist, someone wants to become machine learning scientist,
+
+36
+00:03:13,440 --> 00:03:18,960
+someone wants to become applied scientist, right? So then your life classes get started when this
+
+37
+00:03:18,960 --> 00:03:29,280
+all formalities gets completed. Okay, understood. So and like after all this happens, so Scalar do
+
+38
+00:03:29,280 --> 00:03:33,600
+have a placement program as well. Yes, yes, yes. See, I will just give you an idea. I will just give
+
+39
+00:03:33,600 --> 00:03:38,880
+you a detailed idea so that you can understand how we work. See, there are a lot of evaluations
+
+40
+00:03:38,960 --> 00:03:44,080
+happens in Scalar. Because if I'm giving a same curriculum to everyone, it won't help, right?
+
+41
+00:03:44,080 --> 00:03:49,120
+Even if I give a same mentor to everyone, that won't help. I have to personalize the things for
+
+42
+00:03:49,120 --> 00:03:53,200
+the learner because everyone is coming from a different sort of, you know, vision altogether,
+
+43
+00:03:53,200 --> 00:03:57,440
+and the background, the kind of skill set they have, the kind of qualification they have,
+
+44
+00:03:57,440 --> 00:04:02,400
+everything differs. So what we do in Scalar, once you go with, let's say, basic eligibility,
+
+45
+00:04:02,400 --> 00:04:06,800
+you are cleared, you get with pre-primary, you have gone with your three hour examination,
+
+46
+00:04:06,800 --> 00:04:11,360
+we have perfectly given you the beginner intermediate advanced the batch, and one
+
+47
+00:04:11,360 --> 00:04:16,800
+mentor is specifically assigned to you. Accordingly, then your life classes get started. And once you
+
+48
+00:04:16,800 --> 00:04:22,160
+start with your life classes, now we discuss the entire projects in the classes. This would not be
+
+49
+00:04:22,160 --> 00:04:27,360
+theory, we are not downloading the data from Kaggle or something. We are actually having a tie up with
+
+50
+00:04:27,360 --> 00:04:34,160
+the organizations like Netflix, McKinsey, Amazon, Delivery, Airbnb. Once we give you that data set
+
+51
+00:04:34,160 --> 00:04:39,600
+from these organizations, like it's a real time projects of these organizations with a real time
+
+52
+00:04:39,600 --> 00:04:44,320
+business scenario of these organizations. So the class would be announced where we are going to
+
+53
+00:04:44,320 --> 00:04:48,880
+discuss, okay, we are getting the projects from Netflix today. This is what we have to solve for
+
+54
+00:04:48,880 --> 00:04:54,240
+the company. The entire projects once you complete it, you can mention these all projects in your
+
+55
+00:04:54,240 --> 00:04:59,360
+resume as a portfolio of yours. So there would be a project related to data science that's like,
+
+56
+00:04:59,360 --> 00:05:04,240
+let's say predictive modeling, prescriptive modeling, hypothesis testing, linear regression,
+
+57
+00:05:04,240 --> 00:05:08,000
+you will be doing the project from machine learning and AI that would be from computer
+
+58
+00:05:08,000 --> 00:05:14,080
+vision recommendation model, this NLP neural network. Once you complete this, then we will
+
+59
+00:05:14,080 --> 00:05:18,640
+train you on MLOps. That's a deployment as well how you're going to build any machine learning
+
+60
+00:05:18,640 --> 00:05:24,080
+model, and how you're going to deploy it on a server that's AWS, big data analytics and all.
+
+61
+00:05:24,080 --> 00:05:28,240
+Even generative AI is included because a lot of the companies are asking for generative AI right
+
+62
+00:05:28,240 --> 00:05:33,760
+now. Once your entire training is completed, then we will have a mock interview session.
+
+63
+00:05:33,760 --> 00:05:39,760
+We want you to take one, two or might be 10 mock interviews so that we can prepare you properly
+
+64
+00:05:39,760 --> 00:05:45,680
+and you become eligible for the interviews. It's very simple Anuj, like there are a lot of people
+
+65
+00:05:45,680 --> 00:05:50,240
+who are very skilled, but they don't know how to represent themselves in the interview, right?
+
+66
+00:05:50,240 --> 00:05:54,640
+So we have to teach you the communication sort of skills, soft skills, your technical skills,
+
+67
+00:05:54,640 --> 00:05:59,360
+how you're going to give them the entire idea about your portfolio, what sort of projects you
+
+68
+00:05:59,360 --> 00:06:04,480
+have done from the industry, creating your GitHub profile accordingly. And once your mentors say,
+
+69
+00:06:04,480 --> 00:06:10,160
+yes, Anuj, you are eligible, then Scalar only align your interviews with our hiring partner.
+
+70
+00:06:10,160 --> 00:06:14,880
+Go for one interview, 10 interview, 20 interview, doesn't matter. You can go for four or five
+
+71
+00:06:14,880 --> 00:06:20,400
+different offer letter and negotiate for the company what you have to join. So our work is to
+
+72
+00:06:20,400 --> 00:06:26,080
+understand the gap of the profile, train you on the industry standards, give you hands-on experience
+
+73
+00:06:26,080 --> 00:06:30,800
+and then make you eligible for the placement. Placement, you have to do it. Obviously,
+
+74
+00:06:30,800 --> 00:06:34,000
+once I make you sit into the interview, you have to crack that organization.
+
+75
+00:06:36,400 --> 00:06:40,240
+I also wanted to know, see, I have a beta from electronics and communication.
+
+76
+00:06:42,560 --> 00:06:49,840
+You know, because of issues earlier back then, I was not able to sit on the college placements
+
+77
+00:06:49,840 --> 00:06:58,720
+that were there. So, you know, somehow I ended up into doing data analysis.
+
+78
+00:06:59,840 --> 00:07:06,640
+But then, first, you know, I worked in workforce team, the workforce analyst initially,
+
+79
+00:07:06,640 --> 00:07:15,600
+you learned MIS business, how things turn. So now I have a seven to eight years experience.
+
+80
+00:07:15,760 --> 00:07:24,000
+I'm working here as a senior quality analyst. So the thing is, you know, I want to pursue
+
+81
+00:07:24,000 --> 00:07:35,040
+this line only as the next step from being a scientist. And what more I was, like why I was
+
+82
+00:07:35,040 --> 00:07:40,400
+more fascinated about this as a scientist was certain modules that, you know, would touch
+
+83
+00:07:41,840 --> 00:07:49,280
+to machine learning and again, you know, come back to the thing that relates to my core,
+
+84
+00:07:49,280 --> 00:07:55,360
+as an electronics engineer, right? That is the same reason why I am doing this.
+
+85
+00:07:55,840 --> 00:08:02,560
+Again, you know, come back to the thing that relates to my core, as an electronics engineer,
+
+86
+00:08:02,560 --> 00:08:09,120
+right? That is the reason why I want to pursue this thing because I want to get back to my core.
+
+87
+00:08:09,120 --> 00:08:16,080
+And I'm like, I think this is the only way to seek for some related job, which actually, you know,
+
+88
+00:08:16,080 --> 00:08:25,120
+adds to my core and where I can actually, you know, share myself as a scholar, as being an engineer.
+
+89
+00:08:26,240 --> 00:08:31,760
+You know, I'm working as an analyst and anybody, you know, who comes from a background as a graduate
+
+90
+00:08:35,680 --> 00:08:44,720
+almost ID, you know, as an analyst, if you send stuff. See, I will give you one, like basic idea.
+
+91
+00:08:44,720 --> 00:08:49,280
+If you talk about data science engineers right now in the organization, if you get hired like
+
+92
+00:08:49,360 --> 00:08:54,960
+seven, eight years back, the people who know Python, SQL, Excel, and they have, you know,
+
+93
+00:08:54,960 --> 00:08:59,760
+the basic business acumen, they people can also become a data scientist, because that time the
+
+94
+00:08:59,760 --> 00:09:04,560
+scenario of the market was not that high, because the people were not even aware about what ML and
+
+95
+00:09:04,560 --> 00:09:11,520
+AI can do. But right now, if you go in any of the organization, even a data science engineer needs
+
+96
+00:09:11,520 --> 00:09:15,760
+to work with, you know, data scientists, or you can say machine learning scientists, software
+
+97
+00:09:15,760 --> 00:09:20,560
+development, where they have to create something from scratch, they're looking for the people who
+
+98
+00:09:20,560 --> 00:09:28,160
+can develop the digital solutions for the company. Can you hear me? Yes, I can. Okay. So in this way,
+
+99
+00:09:28,160 --> 00:09:32,720
+I will just give you like seven to eight job descriptions of the organization. The first,
+
+100
+00:09:32,720 --> 00:09:38,080
+your major role, where you have to work closely with these people to define the complex technical
+
+101
+00:09:38,080 --> 00:09:43,680
+challenge. Second, you have to plan, lead and manage the modulation and the simulation project.
+
+102
+00:09:43,680 --> 00:09:47,840
+That simply means that you're not someone who is working in service based company, right? That,
+
+103
+00:09:47,840 --> 00:09:52,400
+okay, the clients will be coming and I will just make the rectification customization and I will
+
+104
+00:09:52,400 --> 00:09:57,600
+share the report to them. No, you have to plan, lead and manage the entire simulation process.
+
+105
+00:09:57,600 --> 00:10:02,000
+That means they can ask you to build any sort of model for one of the business problem of the
+
+106
+00:10:02,000 --> 00:10:07,440
+organization. And from scratch level of the data sourcing to a data cleaning, manipulating it,
+
+107
+00:10:07,440 --> 00:10:12,960
+analyzing it, creating a report, then getting that structured data to create a machine learning or AI
+
+108
+00:10:12,960 --> 00:10:18,400
+model and getting the deployment as well. The entire cycle the person is asking right now,
+
+109
+00:10:18,400 --> 00:10:24,160
+even for a data science roles. Yeah. Exactly. Looking for such kind of challenges because
+
+110
+00:10:24,720 --> 00:10:31,040
+like that's what I'm aspiring for, to create, to innovate. I mean, that is the core of being
+
+111
+00:10:31,040 --> 00:10:37,760
+an engineer. Right. Back to that core. See, if you work in data scientist domain and you already
+
+112
+00:10:37,760 --> 00:10:42,160
+have seven, eight years of experience, you can definitely get into any sort of data scientist or
+
+113
+00:10:42,160 --> 00:10:47,120
+machine learning scientist position. But yeah, for that you have to at least work for 15, 20 good
+
+114
+00:10:47,120 --> 00:10:52,080
+projects from the market because until and unless you have an hands-on experience, no company will
+
+115
+00:10:52,080 --> 00:10:57,280
+give a job. They are because their entire interview process revolves around that. Okay. This is my
+
+116
+00:10:57,280 --> 00:11:01,760
+business problem. Let us know the approach to solve this business problem. Yes. That's, that's really
+
+117
+00:11:01,760 --> 00:11:07,120
+important. I completely agree to you on that matter. So yeah, I'm like, I'm completely interested,
+
+118
+00:11:07,120 --> 00:11:14,960
+you know, to get on to get on board. You know about scalar academy, like you have researched
+
+119
+00:11:14,960 --> 00:11:20,880
+about us or have you gone through the detailed curriculum or something? I haven't gone through
+
+120
+00:11:20,880 --> 00:11:27,120
+the detailed curriculum. I haven't researched much about it. I got a suggestion from my friends
+
+121
+00:11:27,120 --> 00:11:36,720
+who have already, you know, okay, and yeah, and you know, how you got to know about scalar
+
+122
+00:11:36,720 --> 00:11:43,520
+academy? See there are a couple of friends who used to, you know, always push me that, okay,
+
+123
+00:11:43,520 --> 00:11:49,200
+you should also do these courses like from an academy and scalar. So when we talk on
+
+124
+00:11:49,200 --> 00:11:55,040
+daily basis, no, and share and direct. So that's how things were, you know, following around.
+
+125
+00:11:55,760 --> 00:12:06,480
+But give me one second. I'm sorry. Yeah. Uh, yeah.
+
+126
+00:12:06,480 --> 00:12:12,640
+So the name was revolving around, uh, conversations, but I never researched about it.
+
+127
+00:12:14,240 --> 00:12:21,200
+You know, the practice as well, but then I came across Instagram about this about,
+
+128
+00:12:21,200 --> 00:12:26,560
+so I was interested because, uh, the things that were said in that, uh,
+
+129
+00:12:26,560 --> 00:12:35,360
+I actually, you know, um, hit exactly the points that I was looking for.
+
+130
+00:12:35,440 --> 00:12:39,840
+Okay. So I thought, why not? Do you know, I mean, uh, there is no pain in, you know,
+
+131
+00:12:39,840 --> 00:12:46,560
+attending a webinar for two and a half hours. So I gave it a shot. So I found it interesting.
+
+132
+00:12:47,280 --> 00:12:51,600
+That's why I requested for a call back, you know, within the webinar, there were like holes that
+
+133
+00:12:51,600 --> 00:12:56,800
+were happening. Right. So I guess you guys got to know that I requested it. Right. Yes. Yes. Yes.
+
+134
+00:12:57,760 --> 00:13:02,560
+Yeah. I mean, I'm, I'm really interested to be on board, but the only thing that I'm
+
+135
+00:13:02,560 --> 00:13:10,560
+expecting right now is a bit of time, like 10, 10 days, uh, because, you know, there are certain,
+
+136
+00:13:10,560 --> 00:13:14,720
+uh, from my team, because of the chat, I'm doing through two different roles.
+
+137
+00:13:15,360 --> 00:13:23,200
+Like right now I'm, my, my dad was a government officer in the board. So I have to run through
+
+138
+00:13:23,200 --> 00:13:28,960
+that office and, you know, uh, I have to go to the C for, you know, getting all the recommendations
+
+139
+00:13:28,960 --> 00:13:35,680
+done. Okay. See, I will not take your lot of time because I know the situation at your home.
+
+140
+00:13:35,680 --> 00:13:39,600
+What best I can give you because see anyhow, the classes are not going to be started right away,
+
+141
+00:13:39,600 --> 00:13:44,080
+neither in 10 days, neither in 20, neither in one month. Also, we're going to start the batch from
+
+142
+00:13:44,080 --> 00:13:50,640
+July onwards. What you can do because we have some process. I will just give you one difference.
+
+143
+00:13:50,640 --> 00:13:55,680
+Scalar is not a certification course. It's not like that. Okay. Someone will pay the fees and
+
+144
+00:13:55,680 --> 00:14:00,880
+we'll just complete the curriculum and get the, you know, certification at last. We have made
+
+145
+00:14:00,880 --> 00:14:05,520
+this curriculum after talking to, you know, a hundred of data scientists, a hundred of CTO CEOs
+
+146
+00:14:05,520 --> 00:14:10,480
+of the organization. And that's the major reason we are only dealing with product-based organization
+
+147
+00:14:10,480 --> 00:14:16,240
+are all hiring partners are either tier one or tier two company. So we have to make people
+
+148
+00:14:16,240 --> 00:14:21,040
+eligible for these rules because these people, like these organizations who are hiring with us,
+
+149
+00:14:21,040 --> 00:14:25,040
+obviously they are looking for a better candidate, right? If I'm giving a hundred people to them,
+
+150
+00:14:25,040 --> 00:14:29,200
+and let's say 90 people are rejected, only 10 people they're able to hire. They will never come
+
+151
+00:14:29,200 --> 00:14:35,120
+back to Scalar. But if I'm giving a hundred people to them and 95, 96% are getting hired,
+
+152
+00:14:35,120 --> 00:14:38,880
+they will frequently hire from Scalar. And that's what they're doing from seven years.
+
+153
+00:14:38,880 --> 00:14:44,880
+So we have to maintain three things. The first, the quality of education to maintain the quality.
+
+154
+00:14:44,880 --> 00:14:48,480
+See, I cannot change the syllabus. Obviously, if you want to become a data scientist, you have to
+
+155
+00:14:48,480 --> 00:14:53,920
+learn the things which is required. But what I can do better is I can make sure that the people who
+
+156
+00:14:53,920 --> 00:14:57,920
+are going to train you would be either data scientists, machine learning scientists. They
+
+157
+00:14:57,920 --> 00:15:03,200
+have 10, 15 year experience. They are working in Fang, Mang or good product-based organization
+
+158
+00:15:03,200 --> 00:15:08,960
+who are eligible, who can actually train the people. Second, I can do that rather than giving
+
+159
+00:15:08,960 --> 00:15:13,840
+you any sort of, you know, dummy projects or giving you any Kaggle or any, you know, dummy data,
+
+160
+00:15:13,840 --> 00:15:18,080
+I can make sure that I can give you real-time hands-on project, which will boost your, you know,
+
+161
+00:15:18,800 --> 00:15:24,480
+entire, you can say idea, having an understanding about business acumen, hands-on experience would
+
+162
+00:15:24,480 --> 00:15:29,520
+be there. You will itself be confident into the interview. The third, what I can give you that the
+
+163
+00:15:29,520 --> 00:15:34,800
+best mentor who can actually assist you, guide you, train you that, okay, this is something which is
+
+164
+00:15:34,800 --> 00:15:39,360
+required. This is how you have to do it. This is how you are going to plan your career trajectory.
+
+165
+00:15:39,360 --> 00:15:43,920
+These are the projects you should do. Who can handhold someone and give you all sort of clarity
+
+166
+00:15:43,920 --> 00:15:49,360
+what they need in next year. Last would be where I can give you the platform where you can sit for
+
+167
+00:15:49,360 --> 00:15:55,680
+the interview and crack the organization for you. Now in this process, not everyone is different.
+
+168
+00:15:55,680 --> 00:16:00,560
+And if I'm going to give a generic course, it won't help anyone to achieve that. That's why we have
+
+169
+00:16:00,560 --> 00:16:06,320
+made it very personalized. Have you like thought like any academy have an entrance examination?
+
+170
+00:16:07,360 --> 00:16:12,880
+No, no, but we have, because we don't want to take people who don't even have a basic math and logic
+
+171
+00:16:12,880 --> 00:16:17,760
+understanding coming from BA, BCom background and saying, I want to become a data scientist. See,
+
+172
+00:16:17,760 --> 00:16:22,960
+it's like hard work can be there, but out of 100 people, two or three people would be successful.
+
+173
+00:16:25,440 --> 00:16:30,480
+So I have to take those people whom I can place because after paying the huge amount to Scala,
+
+174
+00:16:30,480 --> 00:16:35,040
+you are not looking for the package of four, five, seven, eight LP. Right. If you are someone who is
+
+175
+00:16:35,040 --> 00:16:39,440
+already earning 15, you will be thinking about 25, 30. If you're already earning 30, you will be
+
+176
+00:16:39,440 --> 00:16:45,600
+thinking about 45, 50. So we have to make that also sure that how we can make you that eligible
+
+177
+00:16:45,600 --> 00:16:50,720
+that you can get that sort of package in the market. So first basic test you can go through
+
+178
+00:16:50,720 --> 00:16:55,520
+in next 24 hours, whenever you are free, it's hardly half an hour test. And that's what I said,
+
+179
+00:16:55,520 --> 00:17:00,640
+I will not take your much time. You can go with the test now. That's a basic eligibility in the
+
+180
+00:17:00,640 --> 00:17:06,080
+night, like after your entire, when the work is over at 10 o'clock, 11 o'clock at that time,
+
+181
+00:17:06,080 --> 00:17:11,520
+when you can spend half an hour to understand what is our basic eligibility. If you clear that
+
+182
+00:17:11,520 --> 00:17:16,160
+test, I will give you the results. I will tell you what analysis we have made, what are the
+
+183
+00:17:16,160 --> 00:17:20,720
+answers you made it correct or incorrect. Whenever you have in a time in a day or night,
+
+184
+00:17:20,720 --> 00:17:25,520
+just go through the entire detail, which I'm sharing. That's a brochure, detailed curriculum,
+
+185
+00:17:25,520 --> 00:17:30,640
+some of the very less number of video I will be sharing you. That's hardly four to five minute
+
+186
+00:17:30,640 --> 00:17:35,680
+video to give you a sort of clarity, what sort of projects these data scientists are working upon
+
+187
+00:17:35,680 --> 00:17:40,880
+in their company. Okay. Then you can think, okay, if you want to join and you want to start the
+
+188
+00:17:40,880 --> 00:17:48,320
+classes from July onwards, then you can onboard in Scalar and you can wait for July. So you have a
+
+189
+00:17:48,320 --> 00:17:52,800
+month of time where you can, you know, do all your stuff, which you are doing. And simultaneously,
+
+190
+00:17:52,800 --> 00:17:58,800
+you can work upon your upskillment. By the way, what happened to your father? Like is the medical
+
+191
+00:17:58,960 --> 00:17:59,840
+issue or it was like,
+
+192
+00:18:07,200 --> 00:18:13,040
+he was a patient of heart, like not like high blood pressure.
+
+193
+00:18:16,640 --> 00:18:23,040
+So because of those medication, his kidney got affected. Yeah. So
+
+194
+00:18:23,440 --> 00:18:28,800
+like everything was fine. I don't know what happened. He got panicked or what.
+
+195
+00:18:30,240 --> 00:18:35,040
+So he got two heart attacks back to back. Oh my God. Your mother is fine now.
+
+196
+00:18:36,160 --> 00:18:42,320
+She's, she's doing good better than before. Yeah. Like I'm, I'm here with her. Okay. So yeah.
+
+197
+00:18:42,320 --> 00:18:47,200
+You are married or like you're single right now. I'm married. I'm married. Okay. At least there
+
+198
+00:18:48,160 --> 00:18:54,240
+would be someone who can take care of her. Okay. Let me then show you all the details. You just
+
+199
+00:18:54,240 --> 00:18:59,040
+go. You will be sharing me on email. This is your WhatsApp number. I can show you on WhatsApp as well.
+
+200
+00:19:00,800 --> 00:19:04,320
+Hello. That's yeah. I can show you on WhatsApp and mail both if you want.
+
+201
+00:19:04,880 --> 00:19:08,480
+Can you hear me? Hello. Can you hear me?
+

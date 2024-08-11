@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, Hi, I think there was some issues.
+
+2
+00:00:04,000 --> 00:00:08,000
+Okay, we will connect on Tuesday then, but in afternoon.
+
+3
+00:00:08,000 --> 00:00:10,000
+Okay, sure.
+
+4
+00:00:10,000 --> 00:00:13,000
+Because I might not be available in the evening.
+
+5
+00:00:13,000 --> 00:00:16,000
+So, okay, no problem.
+
+6
+00:00:16,000 --> 00:00:17,000
+No problem.
+
+7
+00:00:17,000 --> 00:00:20,000
+Afternoon maybe around 12 or 1, I will call you back.
+
+8
+00:00:20,000 --> 00:00:21,000
+Okay.
+
+9
+00:00:21,000 --> 00:00:22,000
+Yeah, yeah.
+
+10
+00:00:22,000 --> 00:00:24,000
+Fine. Thanks Prateek, anything else?
+
+11
+00:00:24,000 --> 00:00:25,000
+No problem.
+
+12
+00:00:25,000 --> 00:00:26,000
+You want to know before you talk?
+
+13
+00:00:26,000 --> 00:00:27,000
+No problem.
+
+14
+00:00:27,000 --> 00:00:28,000
+Okay, fine.
+
+15
+00:00:28,000 --> 00:00:29,000
+No problem.
+
+16
+00:00:29,000 --> 00:00:30,000
+Take care.
+
+17
+00:00:30,000 --> 00:00:31,000
+Yeah, take care, good bye.
+
+18
+00:00:31,000 --> 00:00:32,000
+Bye bye.
+

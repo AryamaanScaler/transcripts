@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Yes
+
+3
+00:00:04,000 --> 00:00:06,000
+May I know your good name?
+
+4
+00:00:06,000 --> 00:00:08,000
+Priyansh Gheera, who is this?
+
+5
+00:00:10,000 --> 00:00:14,000
+This is Vishnu here, I called you from Scalar Academy
+
+6
+00:00:14,000 --> 00:00:16,000
+Okay
+
+7
+00:00:16,000 --> 00:00:22,000
+I just called you for the onboarding purpose, I got you a details as you enrolled for the software engineering program from Scalar
+
+8
+00:00:22,000 --> 00:00:26,000
+Actually Bhavana from Amritsh team shared you a details with me, it's a good time to talk
+
+9
+00:00:26,000 --> 00:00:30,000
+Can you call me at around 5 pm?
+
+10
+00:00:30,000 --> 00:00:32,000
+Yes, we can, we can call at 5, no problem
+
+11
+00:00:32,000 --> 00:00:34,000
+Okay cool, bye, thank you
+

@@ -1,0 +1,1464 @@
+1
+00:00:00,000 --> 00:00:03,600
+Hello, yeah, hi, how are you? Hello.
+
+2
+00:00:06,100 --> 00:00:06,900
+Good time to connect.
+
+3
+00:00:08,200 --> 00:00:08,600
+Hello.
+
+4
+00:00:09,200 --> 00:00:09,800
+Yeah, all right.
+
+5
+00:00:10,300 --> 00:00:14,000
+So yeah, yeah, so what sort of questions you have for me?
+
+6
+00:00:14,000 --> 00:00:15,300
+I'm open for that, right?
+
+7
+00:00:16,100 --> 00:00:20,300
+And I'll be, you know, helping you to understand how exactly at
+
+8
+00:00:20,300 --> 00:00:23,800
+scale up we can actually help you if you are relevant for the platform as well.
+
+9
+00:00:24,200 --> 00:00:24,600
+All right.
+
+10
+00:00:26,900 --> 00:00:27,200
+Yeah.
+
+11
+00:00:27,700 --> 00:00:29,500
+So what questions do you have?
+
+12
+00:00:29,500 --> 00:00:31,800
+You told me that you are coming from a non-tech background.
+
+13
+00:00:33,300 --> 00:00:36,000
+And it's been two years since you started in tech, correct?
+
+14
+00:00:37,200 --> 00:00:38,800
+Yes, two and a half years.
+
+15
+00:00:38,900 --> 00:00:39,900
+Two and a half years, okay.
+
+16
+00:00:40,100 --> 00:00:41,700
+So what package are you working on?
+
+17
+00:00:43,400 --> 00:00:46,000
+I'm working on 3LPA.
+
+18
+00:00:46,800 --> 00:00:47,300
+3LPA?
+
+19
+00:00:47,300 --> 00:00:50,000
+Yes, it's a Ph.P. development.
+
+20
+00:00:50,500 --> 00:00:52,400
+Ph.P. development, okay.
+
+21
+00:00:52,800 --> 00:00:55,400
+There aren't many opportunities in Ph.P. development.
+
+22
+00:00:55,400 --> 00:00:57,800
+So you have to switch to the next one.
+
+23
+00:00:57,800 --> 00:01:04,000
+Yes, that's why I'm thinking of doing one stack or full stack.
+
+24
+00:01:04,000 --> 00:01:07,300
+Even if you go to one stack, you will be limited.
+
+25
+00:01:07,600 --> 00:01:07,900
+Right?
+
+26
+00:01:08,400 --> 00:01:11,400
+Even if you look at one stack developer in the industry, not everybody is,
+
+27
+00:01:11,400 --> 00:01:13,100
+every company is considering, right?
+
+28
+00:01:13,600 --> 00:01:18,400
+Rather, if you are taking a transition and, you know, getting into solid
+
+29
+00:01:18,400 --> 00:01:22,000
+engineering, right, and become a full stack engineer, then your demand will
+
+30
+00:01:22,000 --> 00:01:23,300
+already be more in the industry.
+
+31
+00:01:23,900 --> 00:01:27,900
+Once you are very, as you said, your background, you are put into logic, right?
+
+32
+00:01:28,500 --> 00:01:30,800
+So problem solving is one thing which is very important.
+
+33
+00:01:31,200 --> 00:01:34,900
+If that skill set is in your profile, and not only the skill set, but you also
+
+34
+00:01:34,900 --> 00:01:37,400
+have, you know, hands-on experience, right?
+
+35
+00:01:37,800 --> 00:01:41,400
+While, you know, understanding complex problem and deriving a solution.
+
+36
+00:01:42,500 --> 00:01:43,000
+Right, Nupur?
+
+37
+00:01:43,000 --> 00:01:44,900
+So that is something which is very important.
+
+38
+00:01:45,400 --> 00:01:50,400
+Now, if I talk about the industry, if I talk about the industry, then with 0 to 2
+
+39
+00:01:50,400 --> 00:01:54,000
+years of experience, people are actually getting 15-25 lakh rupees of salary
+
+40
+00:01:54,000 --> 00:01:55,400
+package in between, right?
+
+41
+00:01:56,100 --> 00:02:00,200
+Your package is low because, right now, you are in a start-up, or I feel you are
+
+42
+00:02:00,200 --> 00:02:02,100
+working in a service-based company, correct?
+
+43
+00:02:02,800 --> 00:02:04,900
+And that might be a big challenge.
+
+44
+00:02:05,700 --> 00:02:09,200
+So I hope you understand the difference between a service-based company and a
+
+45
+00:02:09,200 --> 00:02:10,100
+product-based company.
+
+46
+00:02:12,200 --> 00:02:12,700
+Right, Nupur?
+
+47
+00:02:12,800 --> 00:02:14,300
+So Nupur, what is your plan?
+
+48
+00:02:14,600 --> 00:02:18,400
+I mean, one thing you are considering that, yes, I want to take the transition,
+
+49
+00:02:18,700 --> 00:02:19,000
+right?
+
+50
+00:02:19,500 --> 00:02:21,900
+But are you ready to invest your 12 months with Scader?
+
+51
+00:02:22,200 --> 00:02:26,900
+We have a 12-month program where we also give you training, we also give you
+
+52
+00:02:26,900 --> 00:02:28,100
+projects to work on, right?
+
+53
+00:02:28,700 --> 00:02:32,800
+You will have a mentor who is already in the industry, in the developer role, or
+
+54
+00:02:32,800 --> 00:02:35,800
+tech lead role, or in the architect role, correct?
+
+55
+00:02:36,100 --> 00:02:39,000
+So they will also help you to understand the market scenario.
+
+56
+00:02:39,600 --> 00:02:44,000
+Because, Nupur, see, presenting yourself is also very important in front of the
+
+57
+00:02:44,000 --> 00:02:45,000
+recruiters, right?
+
+58
+00:02:45,700 --> 00:02:51,500
+And, what I understand is that you have little, you know, you are a little
+
+59
+00:02:51,500 --> 00:02:53,600
+underconfident right now, correct?
+
+60
+00:02:53,600 --> 00:02:56,500
+That confidence is not complete because you have never got such a hands-on
+
+61
+00:02:56,500 --> 00:02:57,600
+experience.
+
+62
+00:02:58,700 --> 00:03:01,900
+So, practically you are not aware about the approvals completely.
+
+63
+00:03:02,600 --> 00:03:03,600
+Correct me if I am wrong.
+
+64
+00:03:05,500 --> 00:03:06,000
+Correct.
+
+65
+00:03:06,700 --> 00:03:08,900
+So Nupur, what is your plan about this?
+
+66
+00:03:08,900 --> 00:03:14,900
+Actually, I am seeing it on the order platform as well, but I feel that Scaler is
+
+67
+00:03:14,900 --> 00:03:15,700
+the best.
+
+68
+00:03:15,700 --> 00:03:19,700
+So I wanted the full curriculum of what is right and what is not.
+
+69
+00:03:19,700 --> 00:03:24,900
+And according to that, I wanted to invest in 12 months, and the placement
+
+70
+00:03:24,900 --> 00:03:27,100
+should also be according to that.
+
+71
+00:03:27,100 --> 00:03:27,700
+Exactly.
+
+72
+00:03:27,700 --> 00:03:33,200
+If you see the placement ratio of Scaler, of the last two years, Nupur, right?
+
+73
+00:03:33,200 --> 00:03:37,200
+So, 93% was in 2022 and 93% was in 2015.
+
+74
+00:03:37,200 --> 00:03:41,200
+And people from Scaler, they are actually getting placed into good companies, right?
+
+75
+00:03:41,200 --> 00:03:44,200
+Because our collaboration is with product-based companies.
+
+76
+00:03:44,200 --> 00:03:48,200
+This is a drive of our placement engine, right?
+
+77
+00:03:48,200 --> 00:03:50,200
+The second drive is referrals.
+
+78
+00:03:50,200 --> 00:03:54,200
+You must know that the product-based companies do major hiring through referrals
+
+79
+00:03:54,200 --> 00:03:56,200
+within the organization, right?
+
+80
+00:03:56,200 --> 00:03:59,200
+So here, there is a community of 40,000 developers.
+
+81
+00:03:59,200 --> 00:04:00,200
+Okay?
+
+82
+00:04:00,200 --> 00:04:02,200
+You will also get access to that community.
+
+83
+00:04:02,200 --> 00:04:05,200
+Where you can connect with people, you will be able to add networking.
+
+84
+00:04:05,200 --> 00:04:08,200
+Networking is very important, Nupur, right?
+
+85
+00:04:08,200 --> 00:04:11,200
+Especially in tech nowadays, correct?
+
+86
+00:04:11,200 --> 00:04:15,200
+So those people can also refer you to their companies.
+
+87
+00:04:15,200 --> 00:04:19,200
+And when you complete the program for 10 months, you will be eligible for the interviews.
+
+88
+00:04:19,200 --> 00:04:20,200
+Okay?
+
+89
+00:04:20,200 --> 00:04:23,200
+In that, mock interview preparation will be taken care by us.
+
+90
+00:04:23,200 --> 00:04:27,200
+We will take care of your mock interview, interview preparation, CV building, soft skills,
+
+91
+00:04:27,200 --> 00:04:28,200
+Right?
+
+92
+00:04:28,200 --> 00:04:30,200
+Problem solving approach.
+
+93
+00:04:30,200 --> 00:04:32,200
+Everything will be taken care by us.
+
+94
+00:04:32,200 --> 00:04:35,200
+Even you will work on one project end to end by yourself.
+
+95
+00:04:35,200 --> 00:04:39,200
+And here you will not only work, you will also be scaling up that particular system.
+
+96
+00:04:39,200 --> 00:04:41,200
+Are you getting my point?
+
+97
+00:04:41,200 --> 00:04:45,200
+So the experience you get working in a company, in a good product-based company,
+
+98
+00:04:45,200 --> 00:04:47,200
+you will get that here.
+
+99
+00:04:47,200 --> 00:04:49,200
+You will create a system yourself.
+
+100
+00:04:49,200 --> 00:04:51,200
+You will see scalability challenges.
+
+101
+00:04:51,200 --> 00:04:55,200
+And once you are in that system, you will be able to work on that.
+
+102
+00:04:55,200 --> 00:04:57,200
+You will see the challenges.
+
+103
+00:04:57,200 --> 00:05:00,200
+And once you are looking at something from ground level, right?
+
+104
+00:05:00,200 --> 00:05:03,200
+Starting levels, if you ever see, while creating a system,
+
+105
+00:05:03,200 --> 00:05:05,200
+you know where the flaws come from.
+
+106
+00:05:05,200 --> 00:05:09,200
+Because you have put your different approaches in it.
+
+107
+00:05:09,200 --> 00:05:10,200
+Correct?
+
+108
+00:05:10,200 --> 00:05:13,200
+So you will be able to see pros and cons of every approach.
+
+109
+00:05:13,200 --> 00:05:18,200
+And that makes you more confident while representing yourself in front of the recruiters.
+
+110
+00:05:18,200 --> 00:05:19,200
+Right?
+
+111
+00:05:20,200 --> 00:05:24,200
+Because if you see, Nupur, I will discuss a small scenario with you.
+
+112
+00:05:24,200 --> 00:05:25,200
+Right?
+
+113
+00:05:25,200 --> 00:05:27,200
+You will not see Google now.
+
+114
+00:05:27,200 --> 00:05:30,200
+Google will post on LinkedIn that we are looking for development profiles.
+
+115
+00:05:30,200 --> 00:05:31,200
+Right?
+
+116
+00:05:31,200 --> 00:05:34,200
+Because that is done internally through hiring or through reference.
+
+117
+00:05:34,200 --> 00:05:37,200
+If you have a CV shortlist once in Google,
+
+118
+00:05:37,200 --> 00:05:39,200
+that means 50% of your journey is done.
+
+119
+00:05:39,200 --> 00:05:42,200
+Next 50% is you have to focus on problem solving.
+
+120
+00:05:42,200 --> 00:05:45,200
+So for that, DSA is something which is very important.
+
+121
+00:05:45,200 --> 00:05:46,200
+Data Social Algorithm.
+
+122
+00:05:46,200 --> 00:05:47,200
+Right?
+
+123
+00:05:47,200 --> 00:05:50,200
+So in Scalar, initial two months will be the computer fundamentals,
+
+124
+00:05:50,200 --> 00:05:53,200
+which is dedicated to programming language.
+
+125
+00:05:53,200 --> 00:05:57,200
+Either you can go with Java or you can go with Python, according to your preference.
+
+126
+00:05:59,200 --> 00:06:01,200
+Next four months?
+
+127
+00:06:01,200 --> 00:06:02,200
+Any one of them.
+
+128
+00:06:02,200 --> 00:06:03,200
+Any one of them, yes.
+
+129
+00:06:03,200 --> 00:06:06,200
+If I talk about Java, we highly recommend Java,
+
+130
+00:06:06,200 --> 00:06:09,200
+because the scalability challenges, right?
+
+131
+00:06:09,200 --> 00:06:14,200
+The scaled organizations, the legacy companies, they prefer Java more.
+
+132
+00:06:14,200 --> 00:06:15,200
+Correct?
+
+133
+00:06:15,200 --> 00:06:19,200
+Because with Java, you can handle distributed systems very well.
+
+134
+00:06:19,200 --> 00:06:20,200
+Correct?
+
+135
+00:06:20,200 --> 00:06:21,200
+Yes.
+
+136
+00:06:21,200 --> 00:06:25,200
+So our next four months are completely dedicated to DSA.
+
+137
+00:06:25,200 --> 00:06:28,200
+Problem solving approach, you will be working on real time problem,
+
+138
+00:06:28,200 --> 00:06:29,200
+one problem every day.
+
+139
+00:06:29,200 --> 00:06:30,200
+Okay?
+
+140
+00:06:30,200 --> 00:06:32,200
+So that we can actually see your approach.
+
+141
+00:06:32,200 --> 00:06:34,200
+We can actually evaluate it.
+
+142
+00:06:34,200 --> 00:06:38,200
+If there is a challenge, we will overcome that particular challenge
+
+143
+00:06:38,200 --> 00:06:40,200
+by understanding the approach.
+
+144
+00:06:40,200 --> 00:06:43,200
+It is a cloud-based platform, Nupur.
+
+145
+00:06:43,200 --> 00:06:44,200
+Right?
+
+146
+00:06:44,200 --> 00:06:46,200
+So we give you the dashboard access of Scalar.
+
+147
+00:06:46,200 --> 00:06:50,200
+Every class has recordings, because people who are a part of the platform as learners,
+
+148
+00:06:50,200 --> 00:06:52,200
+they all are working professionals.
+
+149
+00:06:52,200 --> 00:06:53,200
+Right?
+
+150
+00:06:53,200 --> 00:06:56,200
+So sometimes it may happen that classes miss out on deployment issues
+
+151
+00:06:56,200 --> 00:06:58,200
+or some issues in the organization.
+
+152
+00:06:58,200 --> 00:06:59,200
+Correct?
+
+153
+00:06:59,200 --> 00:07:02,200
+So they can access that particular recording anytime.
+
+154
+00:07:02,200 --> 00:07:03,200
+Okay?
+
+155
+00:07:03,200 --> 00:07:06,200
+Apart from that, we have a lot of other programs,
+
+156
+00:07:06,200 --> 00:07:08,200
+which are also working on the same.
+
+157
+00:07:08,200 --> 00:07:09,200
+Okay?
+
+158
+00:07:09,200 --> 00:07:12,200
+Apart from that, one thing which is very important
+
+159
+00:07:12,200 --> 00:07:14,200
+is you will be having teaching assistants.
+
+160
+00:07:14,200 --> 00:07:16,200
+For example, you miss out on a class,
+
+161
+00:07:16,200 --> 00:07:18,200
+you are going through the recording.
+
+162
+00:07:18,200 --> 00:07:19,200
+Okay?
+
+163
+00:07:19,200 --> 00:07:22,200
+So after recording, you might be having questions also.
+
+164
+00:07:22,200 --> 00:07:23,200
+Right?
+
+165
+00:07:23,200 --> 00:07:25,200
+You might have some questions in your mind.
+
+166
+00:07:25,200 --> 00:07:27,200
+If there is a challenge, who will you reach out to?
+
+167
+00:07:27,200 --> 00:07:30,200
+So we have teaching assistants from morning 9 till 11 in the night.
+
+168
+00:07:30,200 --> 00:07:32,200
+So you can connect with them.
+
+169
+00:07:32,200 --> 00:07:35,200
+And these are also people who are working in the industry only.
+
+170
+00:07:38,200 --> 00:07:41,200
+So is this something you are looking at, Nupur?
+
+171
+00:07:41,200 --> 00:07:42,200
+Yes.
+
+172
+00:07:42,200 --> 00:07:44,200
+I can't see your voice.
+
+173
+00:07:44,200 --> 00:07:45,200
+Hello.
+
+174
+00:07:45,200 --> 00:07:46,200
+Hello.
+
+175
+00:07:46,200 --> 00:07:47,200
+Hello.
+
+176
+00:07:47,200 --> 00:07:48,200
+Yes, Nupur.
+
+177
+00:07:48,200 --> 00:07:51,200
+We have a four-month program till DSA.
+
+178
+00:07:51,200 --> 00:07:52,200
+Yes.
+
+179
+00:07:52,200 --> 00:07:53,200
+After that...
+
+180
+00:07:53,200 --> 00:07:54,200
+No, it's six months.
+
+181
+00:07:54,200 --> 00:07:55,200
+Six months.
+
+182
+00:07:55,200 --> 00:07:56,200
+Okay.
+
+183
+00:07:56,200 --> 00:07:57,200
+Two months.
+
+184
+00:07:57,200 --> 00:07:58,200
+Yes.
+
+185
+00:07:58,200 --> 00:07:59,200
+Two months.
+
+186
+00:07:59,200 --> 00:08:00,200
+Two months of programming fundamentals.
+
+187
+00:08:00,200 --> 00:08:01,200
+And then four months of DSA.
+
+188
+00:08:01,200 --> 00:08:02,200
+Right?
+
+189
+00:08:02,200 --> 00:08:03,200
+Okay.
+
+190
+00:08:03,200 --> 00:08:04,200
+So you are looking at Nupur.
+
+191
+00:08:04,200 --> 00:08:05,200
+Yes.
+
+192
+00:08:05,200 --> 00:08:06,200
+And then four months of DSA.
+
+193
+00:08:06,200 --> 00:08:07,200
+Right?
+
+194
+00:08:07,200 --> 00:08:08,200
+DSA.
+
+195
+00:08:08,200 --> 00:08:09,200
+And then our system design.
+
+196
+00:08:09,200 --> 00:08:10,200
+Low-level design, high-level design.
+
+197
+00:08:10,200 --> 00:08:11,200
+Because system design is very important.
+
+198
+00:08:11,200 --> 00:08:12,200
+How many projects are there?
+
+199
+00:08:12,200 --> 00:08:13,200
+There is one project in this, end-to-end.
+
+200
+00:08:13,200 --> 00:08:14,200
+Which you also scale.
+
+201
+00:08:14,200 --> 00:08:15,200
+Alright?
+
+202
+00:08:15,200 --> 00:08:16,200
+That is one live project.
+
+203
+00:08:16,200 --> 00:08:17,200
+Okay?
+
+204
+00:08:17,200 --> 00:08:18,200
+And there are 80 plus live case studies for you.
+
+205
+00:08:18,200 --> 00:08:19,200
+Mini case studies.
+
+206
+00:08:19,200 --> 00:08:20,200
+You will see how Uber came into the picture.
+
+207
+00:08:20,200 --> 00:08:21,200
+Right?
+
+208
+00:08:21,200 --> 00:08:22,200
+And all these projects you will be able to...
+
+209
+00:08:22,200 --> 00:08:23,200
+You know, you will be able to...
+
+210
+00:08:23,200 --> 00:08:24,200
+You will be able to do it.
+
+211
+00:08:24,200 --> 00:08:25,200
+You will be able to do it.
+
+212
+00:08:25,200 --> 00:08:26,200
+You will be able to do it.
+
+213
+00:08:26,200 --> 00:08:27,200
+You will be able to do it.
+
+214
+00:08:27,200 --> 00:08:28,200
+You will be able to do it.
+
+215
+00:08:28,200 --> 00:08:29,200
+You will be able to do it.
+
+216
+00:08:29,200 --> 00:08:30,200
+You will be able to do it.
+
+217
+00:08:36,200 --> 00:08:37,200
+Okay?
+
+218
+00:08:37,200 --> 00:08:38,200
+Okay.
+
+219
+00:08:38,200 --> 00:08:39,200
+Okay.
+
+220
+00:08:39,200 --> 00:08:40,200
+Okay.
+
+221
+00:08:40,200 --> 00:08:41,200
+Okay.
+
+222
+00:08:41,200 --> 00:08:42,200
+Okay.
+
+223
+00:08:42,200 --> 00:08:43,200
+Okay.
+
+224
+00:08:43,200 --> 00:08:44,200
+Okay.
+
+225
+00:08:44,200 --> 00:08:45,200
+Okay.
+
+226
+00:08:45,200 --> 00:08:46,200
+Okay.
+
+227
+00:08:46,200 --> 00:08:47,200
+Okay.
+
+228
+00:08:47,200 --> 00:08:48,200
+Okay.
+
+229
+00:08:48,200 --> 00:08:49,200
+Okay.
+
+230
+00:08:49,200 --> 00:08:50,200
+Okay.
+
+231
+00:08:50,200 --> 00:08:51,200
+Okay.
+
+232
+00:08:51,200 --> 00:08:52,200
+Okay.
+
+233
+00:08:52,200 --> 00:08:53,200
+Okay.
+
+234
+00:08:53,200 --> 00:08:54,200
+Okay.
+
+235
+00:08:54,200 --> 00:08:55,200
+Okay.
+
+236
+00:08:55,200 --> 00:08:56,200
+Okay.
+
+237
+00:08:56,200 --> 00:08:57,200
+Okay.
+
+238
+00:08:57,200 --> 00:08:58,200
+Okay.
+
+239
+00:08:58,200 --> 00:08:59,200
+Okay.
+
+240
+00:08:59,200 --> 00:09:00,200
+Okay.
+
+241
+00:09:00,200 --> 00:09:01,200
+Okay.
+
+242
+00:09:01,200 --> 00:09:02,200
+Okay.
+
+243
+00:09:02,200 --> 00:09:03,200
+Okay.
+
+244
+00:09:03,200 --> 00:09:04,200
+Okay.
+
+245
+00:09:04,200 --> 00:09:25,940
+So these morning, you will have those
+
+246
+00:09:25,940 --> 00:09:33,640
+things listed on the map of the schedule.
+
+247
+00:09:33,640 --> 00:09:37,640
+It will be difficult for you to grab things in that space.
+
+248
+00:09:37,640 --> 00:09:39,640
+Correct? We also don't want that.
+
+249
+00:09:39,640 --> 00:09:42,640
+So the batch will start from 17th July.
+
+250
+00:09:42,640 --> 00:09:44,640
+There are two timings.
+
+251
+00:09:44,640 --> 00:09:48,640
+One is morning 7 to 9 before the working hours.
+
+252
+00:09:48,640 --> 00:09:52,640
+And one is 9 to 11 after the working hours in the night.
+
+253
+00:09:52,640 --> 00:09:55,640
+So there are 3 days classes in a week in alternate days.
+
+254
+00:09:55,640 --> 00:09:57,640
+What is your preference?
+
+255
+00:09:57,640 --> 00:10:00,640
+Morning 7 to 9 or evening 9 to 11?
+
+256
+00:10:00,640 --> 00:10:02,640
+No, night.
+
+257
+00:10:02,640 --> 00:10:05,640
+Does your husband also take in the evening?
+
+258
+00:10:05,640 --> 00:10:11,640
+Yes. Actually my daughter also goes to school and office.
+
+259
+00:10:11,640 --> 00:10:13,640
+I understand.
+
+260
+00:10:13,640 --> 00:10:19,640
+You must have discussed with your husband that you are planning.
+
+261
+00:10:19,640 --> 00:10:23,640
+What was his reaction?
+
+262
+00:10:23,640 --> 00:10:33,640
+He has asked me to see the scenario and study the syllabus.
+
+263
+00:10:33,640 --> 00:10:37,640
+Actually there is a finance too.
+
+264
+00:10:37,640 --> 00:10:39,640
+Yes.
+
+265
+00:10:39,640 --> 00:10:47,640
+So how much is the fee of the full-stack course?
+
+266
+00:10:47,640 --> 00:10:50,640
+The program's fee is Rs. 369,000.
+
+267
+00:10:51,640 --> 00:10:53,640
+This is the program's fee.
+
+268
+00:10:53,640 --> 00:10:57,640
+If you clear the test, you will get Rs. 55,000 scholarship.
+
+269
+00:10:57,640 --> 00:10:59,640
+Your husband is already enrolled with us.
+
+270
+00:10:59,640 --> 00:11:02,640
+So his coupon code will be applied.
+
+271
+00:11:02,640 --> 00:11:06,640
+And you will get Rs. 10,000 further cashback.
+
+272
+00:11:06,640 --> 00:11:09,640
+So the program fee for you will be Rs. 3,04,000.
+
+273
+00:11:09,640 --> 00:11:14,640
+In initial you have to pay only Rs. 20,000 during selection time.
+
+274
+00:11:14,640 --> 00:11:19,640
+And the balance will be distributed in EMI for 5 years.
+
+275
+00:11:19,640 --> 00:11:21,640
+For 5 years.
+
+276
+00:11:21,640 --> 00:11:23,640
+Yes.
+
+277
+00:11:23,640 --> 00:11:25,640
+And what is the interest rate?
+
+278
+00:11:25,640 --> 00:11:27,640
+There is no interest for 2 years.
+
+279
+00:11:27,640 --> 00:11:29,640
+If you want to go above that, then there is interest.
+
+280
+00:11:29,640 --> 00:11:31,640
+Because we provide you with financial support.
+
+281
+00:11:31,640 --> 00:11:35,640
+But there is no need to think so long.
+
+282
+00:11:35,640 --> 00:11:37,640
+Usually people, when they join a product-based company,
+
+283
+00:11:37,640 --> 00:11:41,640
+they get a joining bonus.
+
+284
+00:11:42,640 --> 00:11:44,640
+So the balance fee is cleared.
+
+285
+00:11:44,640 --> 00:11:47,640
+So there are many people with 3 lakhs package on the platform.
+
+286
+00:11:47,640 --> 00:11:49,640
+And many people have come before.
+
+287
+00:11:49,640 --> 00:11:51,640
+People are able to get the transition.
+
+288
+00:11:51,640 --> 00:11:54,640
+So if you are seriously looking forward to something,
+
+289
+00:11:54,640 --> 00:11:56,640
+your husband is also a part of it.
+
+290
+00:11:56,640 --> 00:11:58,640
+He has tested and tried it.
+
+291
+00:11:58,640 --> 00:12:00,640
+He is a platform for you both.
+
+292
+00:12:00,640 --> 00:12:02,640
+So this can be a good opportunity.
+
+293
+00:12:02,640 --> 00:12:04,640
+When your program is completed,
+
+294
+00:12:04,640 --> 00:12:08,640
+you will start a new one in a different company.
+
+295
+00:12:09,640 --> 00:12:13,640
+Rather than waiting for a best time or financials to get normalized,
+
+296
+00:12:13,640 --> 00:12:15,640
+we actually can start something.
+
+297
+00:12:15,640 --> 00:12:17,640
+You see initial investment in EMI.
+
+298
+00:12:17,640 --> 00:12:19,640
+When your placement drive starts,
+
+299
+00:12:19,640 --> 00:12:23,640
+before that, it is just like 80-90 thousand rupees that we invest.
+
+300
+00:12:23,640 --> 00:12:25,640
+So again, it will be a win-win situation.
+
+301
+00:12:25,640 --> 00:12:27,640
+So again, it will be a win-win situation for you.
+
+302
+00:12:27,640 --> 00:12:31,640
+And even the prices are also going to get high.
+
+303
+00:12:31,640 --> 00:12:33,640
+So in the coming months,
+
+304
+00:12:34,640 --> 00:12:38,640
+it will be going upwards of 10,000 rupees.
+
+305
+00:12:38,640 --> 00:12:40,640
+This is also what I just want to say.
+
+306
+00:12:40,640 --> 00:12:42,640
+It is not like it is a marketing gimmick.
+
+307
+00:12:42,640 --> 00:12:44,640
+But it is what it is.
+
+308
+00:12:44,640 --> 00:12:46,640
+Because your husband is already enrolled.
+
+309
+00:12:46,640 --> 00:12:50,640
+So I don't want you guys to take it on the higher side.
+
+310
+00:12:50,640 --> 00:12:54,640
+So tell me, Nupur, what is your perspective on this?
+
+311
+00:12:54,640 --> 00:12:58,640
+You have taken me to the highest level.
+
+312
+00:12:58,640 --> 00:13:02,640
+You have also shared a brochure with me.
+
+313
+00:13:02,640 --> 00:13:04,640
+I have shared a brochure.
+
+314
+00:13:04,640 --> 00:13:08,640
+I have shared some LinkedIn profiles with you.
+
+315
+00:13:08,640 --> 00:13:10,640
+Alright.
+
+316
+00:13:10,640 --> 00:13:13,640
+And Nupur, today you can go through and discuss
+
+317
+00:13:13,640 --> 00:13:16,640
+if you want to connect with an alum or a learner
+
+318
+00:13:16,640 --> 00:13:18,640
+who was previously on a package of 2-3 lakhs,
+
+319
+00:13:18,640 --> 00:13:20,640
+who was previously on a package of 4-5 lakhs,
+
+320
+00:13:20,640 --> 00:13:22,640
+who was previously on a package of 2-3 lakhs,
+
+321
+00:13:22,640 --> 00:13:24,640
+now they are working in a good organization.
+
+322
+00:13:24,640 --> 00:13:26,640
+I can also get you connected with that person.
+
+323
+00:13:26,640 --> 00:13:27,640
+Alright.
+
+324
+00:13:27,640 --> 00:13:29,640
+Working in a good organization now.
+
+325
+00:13:29,640 --> 00:13:34,640
+And tomorrow morning, can we connect between 10-11?
+
+326
+00:13:37,640 --> 00:13:39,640
+Before 10, yes.
+
+327
+00:13:39,640 --> 00:13:41,640
+Before 10, but...
+
+328
+00:13:41,640 --> 00:13:45,640
+Actually my office timing is 10.30 to 7.30.
+
+329
+00:13:45,640 --> 00:13:46,640
+Alright.
+
+330
+00:13:46,640 --> 00:13:49,640
+Before 10, it is not a problem.
+
+331
+00:13:49,640 --> 00:13:54,640
+But please make sure that at 9.30, I will give you a call.
+
+332
+00:13:54,640 --> 00:13:58,640
+But please make sure that you answer the call.
+
+333
+00:13:58,640 --> 00:14:01,640
+Because if I will be blocking my calendar, it is only for you.
+
+334
+00:14:01,640 --> 00:14:02,640
+Alright.
+
+335
+00:14:02,640 --> 00:14:04,640
+So, yeah, please make sure.
+
+336
+00:14:04,640 --> 00:14:05,640
+Nupur, do one thing.
+
+337
+00:14:05,640 --> 00:14:07,640
+Share your CV with me once.
+
+338
+00:14:07,640 --> 00:14:09,640
+On this number, on WhatsApp or email.
+
+339
+00:14:09,640 --> 00:14:11,640
+I will get it evaluated from my team as well.
+
+340
+00:14:11,640 --> 00:14:12,640
+On this number?
+
+341
+00:14:12,640 --> 00:14:13,640
+Yes, on this number or email.
+
+342
+00:14:13,640 --> 00:14:15,640
+Whatever you think is right, you can do that.
+
+343
+00:14:15,640 --> 00:14:16,640
+Right?
+
+344
+00:14:16,640 --> 00:14:19,640
+And then just pen down your questions.
+
+345
+00:14:19,640 --> 00:14:21,640
+Whatever questions you have in your mind right now.
+
+346
+00:14:21,640 --> 00:14:22,640
+Just pen it down.
+
+347
+00:14:22,640 --> 00:14:23,640
+Right?
+
+348
+00:14:23,640 --> 00:14:26,640
+And tomorrow morning, we will discuss that completely.
+
+349
+00:14:26,640 --> 00:14:27,640
+Okay.
+
+350
+00:14:27,640 --> 00:14:30,640
+When will you have your aptitude test?
+
+351
+00:14:30,640 --> 00:14:31,640
+That depends on you.
+
+352
+00:14:31,640 --> 00:14:33,640
+If I want to enroll.
+
+353
+00:14:33,640 --> 00:14:34,640
+That depends on you.
+
+354
+00:14:34,640 --> 00:14:36,640
+I will have to check the slot as well.
+
+355
+00:14:36,640 --> 00:14:38,640
+Whether we are taking admissions or not.
+
+356
+00:14:38,640 --> 00:14:39,640
+But first, go through the details.
+
+357
+00:14:39,640 --> 00:14:41,640
+That is more important.
+
+358
+00:14:41,640 --> 00:14:42,640
+Share your CV with me.
+
+359
+00:14:42,640 --> 00:14:44,640
+I will get it evaluated once.
+
+360
+00:14:44,640 --> 00:14:48,640
+And then tomorrow morning at 9.30, I will just be blocking my calendar.
+
+361
+00:14:49,640 --> 00:14:50,640
+Okay.
+
+362
+00:14:50,640 --> 00:14:51,640
+Alright.
+
+363
+00:14:51,640 --> 00:14:52,640
+Okay, Nupur.
+
+364
+00:14:52,640 --> 00:14:53,640
+Bye.
+
+365
+00:14:53,640 --> 00:14:54,640
+Bye.
+
+366
+00:14:54,640 --> 00:14:55,640
+Goodbye.
+

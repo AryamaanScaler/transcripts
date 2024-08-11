@@ -1,0 +1,252 @@
+1
+00:00:00,000 --> 00:00:08,000
+Hello. Yes. Yes, Siva, can you hear me now? Yeah, now it's clear. Yeah, now it's okay.
+
+2
+00:00:08,000 --> 00:00:14,000
+Got it. So, what I was saying that, when I was seeing your profile, I see that you were
+
+3
+00:00:14,000 --> 00:00:20,000
+active on our interview bit platform, going through a set of SQL interview questions,
+
+4
+00:00:20,000 --> 00:00:26,000
+and along with that, you had registered for another free masterclass in Solid Principles
+
+5
+00:00:26,000 --> 00:00:34,000
+also. Right? Yes, yes. But due to some reason, you were not able to attend. So, very
+
+6
+00:00:34,000 --> 00:00:39,000
+facing technical difficulties or you got busy with some other work, so that is the reason
+
+7
+00:00:39,000 --> 00:00:48,000
+you were not able to attend? No, I mean, busy with other work also, so I attended because
+
+8
+00:00:48,000 --> 00:00:55,000
+I'm in support 24 hours a day, so I can attend some department also.
+
+9
+00:00:55,000 --> 00:01:00,000
+Got it. So, what made you do this register for it? From here, you want to, you're planning
+
+10
+00:01:00,000 --> 00:01:06,000
+to switch into product piece or trying to upscale yourself? Yeah, upscale my data engineering.
+
+11
+00:01:06,000 --> 00:01:14,000
+Yeah. Got it. Back end terms of development, how many years of experience you have now?
+
+12
+00:01:14,000 --> 00:01:22,000
+Seven years of experience in skill and field skill. Okay. Got it. And what's your role
+
+13
+00:01:22,000 --> 00:01:30,000
+here? You're into backend? Yeah, backend sub application. Got it. So, now to get into
+
+14
+00:01:30,000 --> 00:01:37,000
+data science domain. Data engineering domain, right? Yeah. So, have you started any
+
+15
+00:01:37,000 --> 00:01:45,000
+preparation? Yeah, I'm going into preparation. Going for preparations. Got it. And how did
+
+16
+00:01:45,000 --> 00:01:52,000
+you get in about Scalar? Through Facebook. Facebook ads. Have you done any research
+
+17
+00:01:52,000 --> 00:01:59,000
+about Scalar, what we do here, other than master class or winter buid platform? No,
+
+18
+00:01:59,000 --> 00:02:08,000
+I don't think that ads like a Scalar is good, but I'm not much on the Scalar. Got it. See,
+
+19
+00:02:08,000 --> 00:02:16,000
+basically, what we do here is that Scalar is an online tech-per-city where different
+
+20
+00:02:16,000 --> 00:02:22,000
+working professionals, from one year to 15 years, 20 years experience individuals come
+
+21
+00:02:22,000 --> 00:02:28,000
+here with different requirements. Requirements may be like, sir, I'm having less CPC or I
+
+22
+00:02:28,000 --> 00:02:34,000
+want to improve my skill sets to survive or want to get into a good product based company.
+
+23
+00:02:34,000 --> 00:02:39,000
+So, these kind of individuals approach us. Okay. So, what we do is we hand pick few of
+
+24
+00:02:39,000 --> 00:02:47,000
+them, divide them into smaller groups and accordingly we train them. Okay. Okay. So,
+
+25
+00:02:47,000 --> 00:02:53,000
+basically, in simple words, we make them efficient developer or architect or data engineer, data
+
+26
+00:02:53,000 --> 00:03:00,000
+scientist or DevOps engineer. These kind of roles, we train people here by giving them
+
+27
+00:03:00,000 --> 00:03:06,000
+that good product based companies exposure in terms of scalability, in terms of countering
+
+28
+00:03:06,000 --> 00:03:13,000
+certain troubleshoots and stuff. So, basically, along with the training, we help you in terms
+
+29
+00:03:13,000 --> 00:03:20,000
+of placement also. Right now, we have almost 900 companies, 800 to 900 companies in collaboration
+
+30
+00:03:20,000 --> 00:03:27,000
+with us. All are tier 3, tier 2, tier 1 product, these companies and some good top tier service
+
+31
+00:03:27,000 --> 00:03:34,000
+based industries also. So, this is what we do here. Siva, you are in scale. Can you walk
+
+32
+00:03:36,000 --> 00:03:42,000
+me through your profile? Like what's your background? How you started your career? My
+
+33
+00:03:42,000 --> 00:03:49,000
+background, what do you mean? Was that? Your education background? Education PG. And after
+
+34
+00:03:50,000 --> 00:03:57,000
+that, you got into TechMind? No, not in TechMind. I searched not in TechMind. Okay. So, now
+
+35
+00:04:04,000 --> 00:04:11,000
+it's been how many years you've been working in TechMind? Almost 7 years. Not only in TechMind,
+
+36
+00:04:12,000 --> 00:04:19,000
+my previous company is creating product like that small company. Got it. So, maybe you're
+
+37
+00:04:20,000 --> 00:04:27,000
+curious for you to register for it. Is it something related to your job or something?
+
+38
+00:04:27,000 --> 00:04:34,000
+Yeah, I'm looking into it. Got it. So, you mentioned you're offering like data engineering
+
+39
+00:04:35,000 --> 00:04:42,000
+or something else? So, we do provide data engineering program, but that comes under
+
+40
+00:04:46,000 --> 00:04:53,000
+data science program what we have here. Okay, okay, okay. Okay, as a specialization or elective
+
+41
+00:04:53,000 --> 00:05:00,000
+we have. Other than that, if you really want to get into development or get into the data
+
+42
+00:05:01,000 --> 00:05:06,000
+engineering part, I would suggest you if you are planning to or looking forward to have
+
+43
+00:05:06,000 --> 00:05:11,000
+a structured kind of training program where you could save lot of time and you can see
+
+44
+00:05:11,000 --> 00:05:17,000
+the results. In such a way, for such reason, you can go with the training program what
+
+45
+00:05:17,000 --> 00:05:24,000
+we have here on the full stack also. Okay. Okay. But the thing is, you are left to your
+
+46
+00:05:25,000 --> 00:05:32,000
+decisions. Overall, almost seven to eight years of experience you have by now. Right?
+
+47
+00:05:32,000 --> 00:05:37,000
+Right, almost seven to eight years of experience. Correct. Seven to eight years of experience
+
+48
+00:05:37,000 --> 00:05:43,000
+you have by now. Yeah. It's a high time for you to change because it's been so long and
+
+49
+00:05:43,000 --> 00:05:48,000
+you're still staying with one or two companies available. So, from here, actually if you
+
+50
+00:05:49,000 --> 00:05:54,000
+plan to switch to upscale and then you try to get into any tier one, tier two, product
+
+51
+00:05:54,000 --> 00:06:01,000
+based company. So, from there, you can actually working for few years, you can get into abroad
+
+52
+00:06:02,000 --> 00:06:09,000
+also, the company sponsorship. Okay. So, there are lot of other benefits. So, one thing which
+
+53
+00:06:09,000 --> 00:06:16,000
+is very important that is your skill sets. Okay. Yeah. So, now we are back to the topic
+
+54
+00:06:18,000 --> 00:06:24,000
+of skill. So, how is it going in terms of learning opportunities in terms of building
+
+55
+00:06:24,000 --> 00:06:31,000
+something or involving in a project? How's the work like banding with them? Yeah, it's
+
+56
+00:06:31,000 --> 00:06:40,000
+overall application support. We only maintain overall application in the info line and database
+
+57
+00:06:40,000 --> 00:06:47,000
+level and application level. Okay. Yeah, combined on both, all three environments.
+
+58
+00:06:47,000 --> 00:06:56,000
+Basically, some little bit of enhancement also we can do it in our project as per the
+
+59
+00:06:57,000 --> 00:07:06,000
+customer requirement. We have some, we will assign some small enhancement and also that
+
+60
+00:07:06,000 --> 00:07:13,000
+should be tested with our team and it should be deployed also by our team. Got it. Got
+
+61
+00:07:13,000 --> 00:07:20,000
+it. So, it's been more than seven, eight months and do you get involved in any actually?
+
+62
+00:07:20,000 --> 00:07:28,000
+What? Hello. Yeah, yeah. Yeah, I'm on repeat. Yes, yes. So, I was telling it's been more
+
+63
+00:07:28,000 --> 00:07:38,000
+than seven years. What? Six or seven? I don't, actually, why is it lower? I think so.
+

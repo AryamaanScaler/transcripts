@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:10,400
+Hello, hey, how are you? I'm good. I'm good. I just gave a call like from tomorrow onwards
+
+2
+00:00:10,400 --> 00:00:17,560
+your classes will begin. So I hope you are ready. Yeah, tomorrow. Okay. So I hope you
+
+3
+00:00:17,560 --> 00:00:23,120
+are prepared for that. Yeah, sure. Yeah, I will not get prepared. But yeah, I'll start
+
+4
+00:00:23,120 --> 00:00:29,920
+with that. Yeah. Good. So here's the thing like you have completed that batch allocation
+
+5
+00:00:29,920 --> 00:00:35,380
+test, right? Yeah, yeah. And you got beginner with Python. So have you selected morning
+
+6
+00:00:35,380 --> 00:00:42,400
+or evening? Morning. Morning. Morning. Okay. Okay. So you will be attending classes in
+
+7
+00:00:42,400 --> 00:00:47,960
+the morning. Okay. So by today you already it will get confirmed. Okay. And you will
+
+8
+00:00:48,040 --> 00:00:54,480
+be able to see your upcoming classes by today UD. So check it out. Okay. Sure. Sure. Thanks
+
+9
+00:00:54,480 --> 00:00:58,280
+for informing me. All right. Please take care. Bye bye. Yeah, sure. Thanks. Bye.
+

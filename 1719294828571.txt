@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hello, hello. Hey, hi, everyone. Good morning. Good morning. Yeah, tell me.
+
+2
+00:01:36,000 --> 00:02:00,640
+Hi, thank you.
+
+3
+00:02:00,640 --> 00:02:04,580
+I have a credential.
+

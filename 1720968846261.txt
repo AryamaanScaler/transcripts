@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi Aslan
+
+4
+00:00:06,000 --> 00:00:08,000
+There is a session with you at 8.30 remember?
+
+5
+00:00:08,000 --> 00:00:10,000
+8.30 or was it postponed?
+
+6
+00:00:10,000 --> 00:00:12,000
+Because I can see the mail that was postponed to 9.00
+
+7
+00:00:12,000 --> 00:00:14,000
+Ok let me check
+
+8
+00:00:14,000 --> 00:00:16,000
+No it's not a mail
+
+9
+00:00:16,000 --> 00:00:18,000
+Your Alam session is with 8.30 pm
+
+10
+00:00:18,000 --> 00:00:20,000
+For sure
+
+11
+00:00:20,000 --> 00:00:22,000
+Ok
+
+12
+00:00:22,000 --> 00:00:24,000
+The other one is with me, you have an 8.30 session
+
+13
+00:00:24,000 --> 00:00:26,000
+8 pm for sure, I am going to show you the link
+
+14
+00:00:26,000 --> 00:00:28,000
+You can check your email which says Alam connected at 8.30
+
+15
+00:00:28,000 --> 00:00:30,000
+You can join in the next 10 minutes and then it's ok
+
+16
+00:00:30,000 --> 00:00:32,000
+You can join in 10 minutes
+
+17
+00:00:32,000 --> 00:00:34,000
+Yeah yeah I will join
+
+18
+00:00:34,000 --> 00:00:36,000
+Make sure that you do not join exactly at 8.30 because the person will be coming up a little late
+
+19
+00:00:36,000 --> 00:00:38,000
+He will be joining by let's say 10.40
+
+20
+00:00:38,000 --> 00:00:40,000
+You can join by 8.40
+
+21
+00:00:40,000 --> 00:00:42,000
+Ok fine yeah
+

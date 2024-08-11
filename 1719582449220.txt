@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello
+
+2
+00:00:01,000 --> 00:00:03,000
+Yeah, hi Nupur, good evening
+
+3
+00:00:03,000 --> 00:00:05,000
+Are you in office right now?
+
+4
+00:00:05,000 --> 00:00:07,000
+Yeah, I am in office
+
+5
+00:00:07,000 --> 00:00:10,000
+Oh, okay. How much time will you leave from office?
+
+6
+00:00:10,000 --> 00:00:12,000
+Till 8.30
+
+7
+00:00:12,000 --> 00:00:14,000
+8.30, okay
+
+8
+00:00:14,000 --> 00:00:18,000
+Nupur, will you share your Aadhar card and pen card on WhatsApp?
+
+9
+00:00:18,000 --> 00:00:22,000
+I don't have it right now, I will have to go home and do it
+
+10
+00:00:22,000 --> 00:00:25,000
+Okay, okay, no problem, you can go home and do it for me
+
+11
+00:00:25,000 --> 00:00:27,000
+Okay
+
+12
+00:00:27,000 --> 00:00:29,000
+Okay Nupur, bye
+
+13
+00:00:29,000 --> 00:00:31,000
+Bye
+

@@ -1,0 +1,321 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello.
+
+2
+00:00:01,000 --> 00:00:02,000
+Hello.
+
+3
+00:00:02,000 --> 00:00:03,000
+Hi.
+
+4
+00:00:03,000 --> 00:00:04,000
+Good evening.
+
+5
+00:00:04,000 --> 00:00:05,000
+Is this Kamal speaking?
+
+6
+00:00:05,000 --> 00:00:06,000
+Yes.
+
+7
+00:00:06,000 --> 00:00:07,000
+Kamal, this is Priyank speaking from Scalar Academy.
+
+8
+00:00:07,000 --> 00:00:08,000
+Yes.
+
+9
+00:00:08,000 --> 00:00:09,000
+Kamal, I wanted to know if you are planning to upscale your career from data science or
+
+10
+00:00:09,000 --> 00:00:10,000
+data analytics?
+
+11
+00:00:10,000 --> 00:00:11,000
+What is your name?
+
+12
+00:00:11,000 --> 00:00:12,000
+Priyank.
+
+13
+00:00:12,000 --> 00:00:13,000
+Priyank.
+
+14
+00:00:13,000 --> 00:00:14,000
+Priyank.
+
+15
+00:00:14,000 --> 00:00:15,000
+Priyank.
+
+16
+00:00:15,000 --> 00:00:16,000
+Priyank.
+
+17
+00:00:16,000 --> 00:00:17,000
+Priyank.
+
+18
+00:00:17,000 --> 00:00:18,000
+Priyank.
+
+19
+00:00:18,000 --> 00:00:19,000
+Priyank.
+
+20
+00:00:19,000 --> 00:00:20,000
+Priyank.
+
+21
+00:00:20,000 --> 00:00:21,000
+Priyank.
+
+22
+00:00:21,000 --> 00:00:22,000
+Priyank.
+
+23
+00:00:22,000 --> 00:00:23,000
+Priyank.
+
+24
+00:00:23,000 --> 00:00:24,000
+Priyank.
+
+25
+00:00:24,000 --> 00:00:25,000
+Priyank.
+
+26
+00:00:25,000 --> 00:00:26,000
+Priyank.
+
+27
+00:00:26,000 --> 00:00:27,000
+Priyank.
+
+28
+00:00:27,000 --> 00:00:28,000
+Priyank.
+
+29
+00:00:28,000 --> 00:00:29,000
+Priyank.
+
+30
+00:02:29,000 --> 00:02:30,000
+Priyank.
+
+31
+00:02:30,000 --> 00:02:31,000
+Priyank.
+
+32
+00:02:31,000 --> 00:02:32,000
+Priyank.
+
+33
+00:02:32,000 --> 00:02:33,000
+Priyank.
+
+34
+00:02:33,000 --> 00:02:34,000
+Priyank.
+
+35
+00:02:34,000 --> 00:02:35,000
+Priyank.
+
+36
+00:02:35,000 --> 00:02:36,000
+Priyank.
+
+37
+00:02:36,000 --> 00:02:37,000
+Priyank.
+
+38
+00:02:37,000 --> 00:02:38,000
+Priyank.
+
+39
+00:02:38,000 --> 00:02:39,000
+Priyank.
+
+40
+00:02:39,000 --> 00:02:40,000
+Priyank.
+
+41
+00:02:40,000 --> 00:02:41,000
+Priyank.
+
+42
+00:02:41,000 --> 00:02:42,000
+Priyank.
+
+43
+00:02:42,000 --> 00:02:43,000
+Kamal, you are an employee now.
+
+44
+00:02:43,000 --> 00:02:44,000
+It depends on you.
+
+45
+00:02:44,000 --> 00:02:45,000
+Yes, absolutely, that too depends.
+
+46
+00:02:45,000 --> 00:02:46,000
+It depends because like me, I am not working right now.
+
+47
+00:02:46,000 --> 00:02:47,000
+I am looking for work somewhere.
+
+48
+00:02:47,000 --> 00:02:48,000
+And my parents are working as a father.
+
+49
+00:02:48,000 --> 00:02:49,000
+So they make their budget for their house, take out the expenses accordingly and by
+
+50
+00:02:49,000 --> 00:02:50,000
+the month withdraw Rs 7-8000.
+
+51
+00:02:50,000 --> 00:02:51,000
+It is a big issue.
+
+52
+00:02:51,000 --> 00:02:52,000
+So Kamal, you are still not working now?
+
+53
+00:02:52,000 --> 00:02:53,000
+No.
+
+54
+00:02:53,000 --> 00:02:54,000
+No.
+
+55
+00:02:54,000 --> 00:02:55,000
+No.
+
+56
+00:02:55,000 --> 00:02:56,000
+No.
+
+57
+00:02:56,000 --> 00:02:57,000
+No.
+
+58
+00:02:57,000 --> 00:02:58,000
+No.
+
+59
+00:02:58,000 --> 00:02:59,000
+So are developing something?
+
+60
+00:02:59,000 --> 00:03:00,000
+No, I am not working as of now.
+
+61
+00:03:00,000 --> 00:03:01,000
+I am still looking for a job.
+
+62
+00:03:01,000 --> 00:03:06,000
+But I am not working at the moment so that time I get something so that I can have an
+
+63
+00:03:06,000 --> 00:03:12,520
+upskilling in the job too and I can take skills from both the sides, have a good work experience
+
+64
+00:03:12,520 --> 00:03:13,520
+too.
+
+65
+00:03:13,520 --> 00:03:14,919
+No probelm at all Kamal.
+
+66
+00:03:14,919 --> 00:03:18,339
+I guess WhatsApp is available on your number, right?
+
+67
+00:03:18,339 --> 00:03:19,339
+Yes.
+
+68
+00:03:19,339 --> 00:03:22,880
+I am sending you messages on WhatsApp.
+
+69
+00:03:22,880 --> 00:03:27,639
+and sending you some research materials, so go through it, if you want to take this
+
+70
+00:03:27,639 --> 00:03:28,639
+job.
+
+71
+00:03:28,639 --> 00:03:37,639
+Whatever material you have, send it to me, I will analyze it and show it to my parents
+
+72
+00:03:37,639 --> 00:03:42,639
+and I will also take suggestions from my brothers.
+
+73
+00:03:42,639 --> 00:03:43,639
+Sure.
+
+74
+00:03:43,639 --> 00:03:49,639
+And then whenever you feel that within 3-6 months your condition is better and you have
+
+75
+00:03:49,639 --> 00:03:55,639
+a little feasibility to invest, then connect me again, I will guide you on what to do.
+
+76
+00:03:55,639 --> 00:03:56,639
+Okay Sir.
+
+77
+00:03:56,639 --> 00:03:57,639
+Okay Kamal.
+
+78
+00:03:57,639 --> 00:03:58,639
+Thanks for your time.
+
+79
+00:03:58,639 --> 00:03:59,639
+Okay Sir.
+
+80
+00:03:59,639 --> 00:03:59,639
+
+
+

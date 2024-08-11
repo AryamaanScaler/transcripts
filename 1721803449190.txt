@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hi Teja, how are you?
+
+2
+00:00:02,000 --> 00:00:04,000
+Yeah, I'm good. Thank you. How are you?
+
+3
+00:00:04,000 --> 00:00:06,000
+I'm doing good Teja. Thank you for asking.
+
+4
+00:00:06,000 --> 00:00:10,000
+So Teja, you are in the intermediate batch right now, right?
+
+5
+00:00:10,000 --> 00:00:12,000
+Yes, I have written the exam.
+
+6
+00:00:12,000 --> 00:00:14,000
+I was selected for that.
+
+7
+00:00:14,000 --> 00:00:18,000
+So do you want to retake your SAT or you are satisfied with the intermediate batch?
+
+8
+00:00:18,000 --> 00:00:24,000
+Yeah, intermediate is fine because the time complexity problems I see are discussed.
+
+9
+00:00:24,000 --> 00:00:28,000
+So I need to learn that properly.
+
+10
+00:00:28,000 --> 00:00:30,000
+So you will start with intermediate batch only, right?
+
+11
+00:00:30,000 --> 00:00:32,000
+Yes.
+
+12
+00:00:32,000 --> 00:00:36,000
+Okay, sure. Are you sure you don't want to reattempt the SAT once again and move to advanced batch?
+
+13
+00:00:36,000 --> 00:00:42,000
+No, mostly no because in the advanced batch time complexity problems are discussed.
+
+14
+00:00:42,000 --> 00:00:46,000
+No, directly the advanced DSA will start.
+
+15
+00:00:46,000 --> 00:00:50,000
+So if the basics with DSA is not clear, I think intermediate will be the best choice.
+
+16
+00:00:50,000 --> 00:00:54,000
+Yeah, then in that case I will be going with the intermediate batch only, right?
+
+17
+00:00:54,000 --> 00:00:55,000
+Yes.
+
+18
+00:00:55,000 --> 00:00:57,000
+Okay Teja, no problem with the same. Any other queries from your end?
+
+19
+00:00:57,000 --> 00:01:03,000
+I had a mentor session, course mentor session yesterday.
+
+20
+00:01:03,000 --> 00:01:07,000
+But is that free because I was...
+
+21
+00:01:07,000 --> 00:01:11,000
+Yeah, it was a complimentary one, plan your scalar journey.
+
+22
+00:01:11,000 --> 00:01:13,000
+So how was the session?
+
+23
+00:01:13,000 --> 00:01:19,000
+Yeah, it was session like all the questions were cleared.
+
+24
+00:01:19,000 --> 00:01:23,000
+Like yeah, I got the answers.
+
+25
+00:01:23,000 --> 00:01:25,000
+Okay.
+
+26
+00:01:25,000 --> 00:01:29,000
+But I will see if in case tomorrow if I wanted to change the mentor maybe I will...
+
+27
+00:01:29,000 --> 00:01:31,000
+Yeah, you can do that. That is not a problem.
+
+28
+00:01:31,000 --> 00:01:35,000
+So you will be able to change the mentor only once you book the next session.
+
+29
+00:01:35,000 --> 00:01:37,000
+Okay, fine.
+
+30
+00:01:37,000 --> 00:01:39,000
+Okay, that time you can change the mentor.
+
+31
+00:01:39,000 --> 00:01:41,000
+Can you also meanwhile get me some more profiles?
+
+32
+00:01:41,000 --> 00:01:47,000
+So basically the profile will be visible Teja only once you go for a second mentor session, right?
+
+33
+00:01:47,000 --> 00:01:49,000
+So that time there will be a choice.
+
+34
+00:01:49,000 --> 00:01:51,000
+But still I will look into it once.
+
+35
+00:01:51,000 --> 00:01:55,000
+So how you provide it right for the first time like profiles.
+
+36
+00:01:55,000 --> 00:02:01,000
+So in that way if you can provide me some more profiles which are relevant to my things.
+
+37
+00:02:01,000 --> 00:02:05,000
+So I can go through it and based on that I can select.
+
+38
+00:02:05,000 --> 00:02:07,000
+No problem, give me some time. I will check that once.
+
+39
+00:02:07,000 --> 00:02:11,000
+So the relevant like I will try with checking the other profile also.
+
+40
+00:02:11,000 --> 00:02:15,000
+But the relevant option will be available directly in your dashboard only.
+
+41
+00:02:15,000 --> 00:02:17,000
+According to the next selection when you will be doing.
+
+42
+00:02:17,000 --> 00:02:19,000
+But still I will check this once.
+
+43
+00:02:19,000 --> 00:02:21,000
+I will keep you updated on this.
+
+44
+00:02:21,000 --> 00:02:23,000
+Okay Teja. Thank you. Good day. Bye.
+

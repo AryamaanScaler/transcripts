@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:09,000
+Hello, hello, hello. Yes, Mr. Shaswath. Yeah, I am safe. Yes. How are you Mr. Shaswath?
+
+2
+00:00:09,000 --> 00:00:15,000
+I am fine. Actually, I am right now occupied. Yeah, I will call you back. Yeah, for sure.
+
+3
+00:00:15,000 --> 00:00:21,000
+What time would be convenient? Actually, I have to go somewhere with my mom. So, I will call you.
+
+4
+00:00:21,000 --> 00:00:26,000
+Don't know the time. I will let you know, bro. Alright, alright. Have a nice day.
+

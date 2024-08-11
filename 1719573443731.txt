@@ -1,0 +1,216 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello, hello.
+
+2
+00:00:01,000 --> 00:00:02,000
+Hey, hi, am I speaking with Somuji?
+
+3
+00:00:02,000 --> 00:00:03,000
+Yes, yes.
+
+4
+00:00:03,000 --> 00:00:04,000
+Hey, hi, Monica, this side.
+
+5
+00:00:04,000 --> 00:00:05,000
+This call is from Scholar Academy.
+
+6
+00:00:05,000 --> 00:00:06,000
+How are you?
+
+7
+00:00:06,000 --> 00:00:07,000
+Okay, okay.
+
+8
+00:00:07,000 --> 00:00:08,000
+Please tell me.
+
+9
+00:00:08,000 --> 00:00:09,000
+Yeah, just would like to know, would like to take your feet back.
+
+10
+00:00:09,000 --> 00:00:10,000
+You attended one of our master class, right?
+
+11
+00:00:10,000 --> 00:00:11,000
+That is Roadmap to Become a Machine Learning Engineer, correct?
+
+12
+00:00:11,000 --> 00:00:12,000
+Yes, yes, yes, yes, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I
+
+13
+00:00:12,000 --> 00:00:13,000
+was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+14
+00:00:13,000 --> 00:00:14,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I
+
+15
+00:00:14,000 --> 00:00:15,000
+was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+16
+00:00:15,000 --> 00:00:16,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+17
+00:00:16,000 --> 00:00:17,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I
+
+18
+00:00:17,000 --> 00:00:18,000
+was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+19
+00:00:18,000 --> 00:00:19,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a,
+
+20
+00:00:19,000 --> 00:00:20,000
+I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+21
+00:00:20,000 --> 00:00:21,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I
+
+22
+00:00:21,000 --> 00:00:22,000
+was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+23
+00:00:22,000 --> 00:00:23,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I
+
+24
+00:00:23,000 --> 00:00:30,000
+was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+25
+00:00:30,000 --> 00:00:35,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a,
+
+26
+00:00:35,000 --> 00:00:40,000
+I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+27
+00:00:40,000 --> 00:00:45,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a,
+
+28
+00:00:45,000 --> 00:00:50,000
+I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+29
+00:00:50,000 --> 00:00:55,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+30
+00:00:55,000 --> 00:01:00,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I
+
+31
+00:01:00,000 --> 00:01:05,000
+was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+32
+00:01:05,000 --> 00:01:10,000
+a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I
+
+33
+00:01:10,000 --> 00:01:15,000
+was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was a, I was
+
+34
+00:01:16,000 --> 00:01:21,000
+So I will switch from no PHP to Java 15 language Java Street.
+
+35
+00:01:21,000 --> 00:01:29,000
+Okay. So the, I will be changed to my from PHP to
+
+36
+00:01:29,000 --> 00:01:36,000
+mean stack. Okay. Okay. Okay. So full stack you are telling me that is something that
+
+37
+00:01:36,000 --> 00:01:41,000
+you are planning for you. Okay. How many years of experience you have overall?
+
+38
+00:01:41,000 --> 00:01:44,000
+I have almost four years.
+
+39
+00:01:44,000 --> 00:01:53,000
+So now I have a very basic question. So you attended one of the master class also about
+
+40
+00:01:53,000 --> 00:02:00,000
+scalar Academy. Right. And just curious to know whether right now you know anything about
+
+41
+00:02:00,000 --> 00:02:03,000
+scalar or just exploring what exactly?
+
+42
+00:02:03,000 --> 00:02:10,000
+No, no, no. I will know about something or not properly. I will only attend the master
+
+43
+00:02:10,000 --> 00:02:18,000
+class. That's what nothing else. Okay. So you want me to guide you for that for our
+
+44
+00:02:18,000 --> 00:02:23,000
+full stack course basically or what exactly?
+
+45
+00:02:23,000 --> 00:02:34,000
+One minute I have meeting after five minutes. I want a meeting in after five minutes. So
+
+46
+00:02:34,000 --> 00:02:35,000
+can you be?
+
+47
+00:02:35,000 --> 00:02:38,000
+Yeah. You want me to give you call back by the evening?
+
+48
+00:02:38,000 --> 00:02:39,000
+Yes, yes, yes.
+
+49
+00:02:39,000 --> 00:02:42,000
+By what time you will be available?
+
+50
+00:02:42,000 --> 00:02:46,000
+That is 16th is proper time.
+
+51
+00:02:46,000 --> 00:02:47,000
+Sorry?
+
+52
+00:02:47,000 --> 00:02:49,000
+16th, 16th.
+
+53
+00:02:49,000 --> 00:02:51,000
+Okay, done.
+
+54
+00:02:51,000 --> 00:02:52,000
+Okay.
+

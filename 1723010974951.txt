@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello
+
+2
+00:00:01,000 --> 00:00:02,000
+Hello
+
+3
+00:00:02,000 --> 00:00:03,000
+Hello
+
+4
+00:00:03,000 --> 00:00:05,000
+Hi, is this Gulam speaking?
+
+5
+00:00:05,000 --> 00:00:06,000
+Yes, yes
+
+6
+00:00:06,000 --> 00:00:09,000
+Hi Gulam, Chetma from Scala
+
+7
+00:00:09,000 --> 00:00:11,000
+Yeah, tell me
+
+8
+00:00:11,000 --> 00:00:12,000
+Hi, how are you?
+
+9
+00:00:12,000 --> 00:00:14,000
+Yeah, I am doing good, how are you?
+
+10
+00:00:14,000 --> 00:00:15,000
+I am good, I am good, thanks
+
+11
+00:00:15,000 --> 00:00:21,000
+So Gulam, I got to know that you wanted to raise a pause request but were unable to do so or something?
+
+12
+00:00:21,000 --> 00:00:22,000
+Yes, correct, correct
+
+13
+00:00:22,000 --> 00:00:27,000
+Actually when I am trying to do that, it says that there is some error fetching or something like that
+
+14
+00:00:27,000 --> 00:00:30,000
+Ok, are you in front of a dashboard right now?
+
+15
+00:00:30,000 --> 00:00:33,000
+I am, just a minute
+
+16
+00:00:33,000 --> 00:00:34,000
+Yeah
+
+17
+00:00:57,000 --> 00:01:16,000
+Yeah, I am in front of a dashboard now, tell me
+
+18
+00:01:16,000 --> 00:01:17,000
+Hello
+
+19
+00:01:17,000 --> 00:01:18,000
+Yeah, yeah tell me
+
+20
+00:01:18,000 --> 00:01:25,000
+Ok, as you can see in the top left side, manage batch or timings, one option is there?
+
+21
+00:01:25,000 --> 00:01:26,000
+Yeah, correct
+
+22
+00:01:26,000 --> 00:01:28,000
+Yeah, please click there
+
+23
+00:01:28,000 --> 00:01:33,000
+After that, click on pause scroll option
+
+24
+00:01:33,000 --> 00:01:37,000
+Ok, yeah pause scrolls
+
+25
+00:01:37,000 --> 00:01:41,000
+And bottom right side also you have one pause scroll option, click there
+
+26
+00:01:41,000 --> 00:01:48,000
+Yes, so then it asks me for the options applicable to you
+
+27
+00:01:48,000 --> 00:01:50,000
+Yeah, select that
+
+28
+00:01:51,000 --> 00:01:55,000
+Yeah, selected next
+
+29
+00:01:55,000 --> 00:02:05,000
+Now when I select next, it says unable to find suitable pause dates, due to some technical issue we are unable to fetch course pause dates
+
+30
+00:02:05,000 --> 00:02:09,000
+Please submit a course pause request to resolve it
+
+31
+00:02:09,000 --> 00:02:11,000
+Yeah, you can submit it
+
+32
+00:02:11,000 --> 00:02:12,000
+Submit it? Ok
+
+33
+00:02:12,000 --> 00:02:15,000
+Yeah
+
+34
+00:02:15,000 --> 00:02:21,000
+Ok, so request is submitted on pause course, team will reach out to you in 2 to 4 working days
+
+35
+00:02:21,000 --> 00:02:26,000
+Ok, let's wait for some time, ok, accordingly the team will reach out and help you out with it
+
+36
+00:02:26,000 --> 00:02:27,000
+Ok
+
+37
+00:02:27,000 --> 00:02:28,000
+Sure
+

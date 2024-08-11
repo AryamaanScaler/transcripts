@@ -1,0 +1,188 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello, Mr Swagat, how are you doing?
+
+3
+00:00:04,000 --> 00:00:06,000
+How is your day going?
+
+4
+00:00:06,000 --> 00:00:08,000
+Yeah, yeah, doing good. I attended the SAT
+
+5
+00:00:08,000 --> 00:00:10,000
+That's why I called
+
+6
+00:00:10,000 --> 00:00:14,000
+Then I got an option to fill out from intermediate and intermediate refresher
+
+7
+00:00:14,000 --> 00:00:16,000
+So, what's the difference?
+
+8
+00:00:16,000 --> 00:00:18,000
+Hello
+
+9
+00:00:22,000 --> 00:00:24,000
+Hello
+
+10
+00:00:24,000 --> 00:00:26,000
+Yeah, yeah, yeah, Mr Swagat
+
+11
+00:00:26,000 --> 00:00:28,000
+Yeah, what's the difference between intermediate refresher Java and intermediate?
+
+12
+00:00:30,000 --> 00:00:32,000
+So, intermediate refresher Java
+
+13
+00:00:32,000 --> 00:00:36,000
+So, intermediate refresher Java, if you see from the dashboard itself
+
+14
+00:00:36,000 --> 00:00:42,000
+It is mostly for starting here with one month of Java and then intermediate
+
+15
+00:00:42,000 --> 00:00:46,000
+intermediate DSA. Intermediate DSA is directly going to go ahead and start with intermediate DSA itself
+
+16
+00:00:46,000 --> 00:00:48,000
+Aha
+
+17
+00:00:48,000 --> 00:00:50,000
+So, in that Java
+
+18
+00:00:50,000 --> 00:00:54,000
+So, they'll be covering concurrency and other things
+
+19
+00:00:54,000 --> 00:00:56,000
+Absolutely
+
+20
+00:00:56,000 --> 00:01:02,000
+So, I wanted to strengthen my knowledge on concurrency and things
+
+21
+00:01:02,000 --> 00:01:06,000
+So, will that be a part of intermediate at some point of time or not?
+
+22
+00:01:08,000 --> 00:01:10,000
+I believe that
+
+23
+00:01:10,000 --> 00:01:12,000
+Just give me a moment
+
+24
+00:01:12,000 --> 00:01:14,000
+If it is a part of intermediate DSA
+
+25
+00:01:14,000 --> 00:01:18,000
+It will also be a part of intermediate refresher DSA
+
+26
+00:01:18,000 --> 00:01:20,000
+No, that I know
+
+27
+00:01:20,000 --> 00:01:24,000
+But then concurrency is something
+
+28
+00:01:24,000 --> 00:01:26,000
+I think that is specific to Java
+
+29
+00:01:26,000 --> 00:01:30,000
+Maybe it will be there in Python and all obviously
+
+30
+00:01:30,000 --> 00:01:32,000
+But, so I don't want to miss out on concurrency
+
+31
+00:01:32,000 --> 00:01:34,000
+So, not sure
+
+32
+00:01:34,000 --> 00:01:36,000
+If I should
+
+33
+00:01:36,000 --> 00:01:38,000
+The curriculum is same
+
+34
+00:01:38,000 --> 00:01:40,000
+The curriculum would be same
+
+35
+00:01:40,000 --> 00:01:42,000
+Whether you go ahead with beginner
+
+36
+00:01:42,000 --> 00:01:44,000
+Even you go ahead with intermediate
+
+37
+00:01:44,000 --> 00:01:46,000
+You can have an intermediate refresher Java
+
+38
+00:01:46,000 --> 00:01:48,000
+So, overall if you see, curriculum would be same
+
+39
+00:01:48,000 --> 00:01:50,000
+Just let me
+
+40
+00:01:50,000 --> 00:01:52,000
+So, in terms of
+
+41
+00:01:52,000 --> 00:01:54,000
+Okay, let me just check this once with my team
+
+42
+00:01:54,000 --> 00:01:56,000
+And get back to you for the same
+
+43
+00:01:56,000 --> 00:01:58,000
+Okay
+
+44
+00:01:58,000 --> 00:02:00,000
+What it would be included or not
+
+45
+00:02:00,000 --> 00:02:02,000
+Yeah
+
+46
+00:02:02,000 --> 00:02:04,000
+Alright, thank you
+
+47
+00:02:04,000 --> 00:02:06,000
+Thank you
+

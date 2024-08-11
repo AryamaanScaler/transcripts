@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:14,000
+Hello, hello, hi, Nupur, good afternoon. Nupur, am I audible to you? Hello, hello, am I audible to you?
+
+2
+00:00:14,000 --> 00:00:22,000
+Nupur, that's right, from Scalings Academy. Hello.
+

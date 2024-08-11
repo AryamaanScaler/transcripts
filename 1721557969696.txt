@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hello, Hi Sonu, Hi Teja, How are you doing?
+
+2
+00:00:04,000 --> 00:00:06,000
+I am good, I am good, Thank you
+
+3
+00:00:06,000 --> 00:00:10,000
+Your number was not reachable, I was trying to call you
+
+4
+00:00:10,000 --> 00:00:12,000
+There might be some network problem
+
+5
+00:00:12,000 --> 00:00:16,000
+Actually I haven't written the BAT test
+
+6
+00:00:16,000 --> 00:00:18,000
+You haven't written the SAT test
+
+7
+00:00:18,000 --> 00:00:20,000
+SAT, Batch allocation test
+
+8
+00:00:20,000 --> 00:00:22,000
+Yes, Batch allocation test
+
+9
+00:00:22,000 --> 00:00:27,000
+Okay, Checking once, like if you don't attempt the test
+
+10
+00:00:27,000 --> 00:00:29,000
+You are qualified for beginner batch by default
+
+11
+00:00:29,000 --> 00:00:31,000
+Okay, so in case if you want
+
+12
+00:00:31,000 --> 00:00:35,000
+No, no, no, one thing, beginner batch I am not
+
+13
+00:00:35,000 --> 00:00:37,000
+I don't want to take beginner batch
+
+14
+00:00:37,000 --> 00:00:39,000
+Yeah, yeah, no problem with that, I will help you with the other process also
+
+15
+00:00:39,000 --> 00:00:41,000
+Like I am saying, since you didn't take the test
+
+16
+00:00:41,000 --> 00:00:44,000
+That is why by default it is showing beginner batch
+
+17
+00:00:44,000 --> 00:00:49,000
+Okay, now if you want I can upgrade you to intermediate Java refresher batch
+
+18
+00:00:49,000 --> 00:00:54,000
+No, no, not even refresher batch, I don't want to go to refresher batch even
+
+19
+00:00:54,000 --> 00:00:56,000
+Then you don't want to go with intermediate batch
+
+20
+00:00:56,000 --> 00:00:57,000
+Correct, correct
+
+21
+00:00:57,000 --> 00:01:00,000
+But for that you should have taken the SAT exam, right Teja?
+
+22
+00:01:00,000 --> 00:01:02,000
+Yeah, yeah, actually I would have taken
+
+23
+00:01:02,000 --> 00:01:05,000
+But yesterday I was bit sick and I couldn't take the SAT exam
+
+24
+00:01:05,000 --> 00:01:07,000
+So I will write it today
+
+25
+00:01:07,000 --> 00:01:10,000
+I already had a word with Adna on it
+
+26
+00:01:10,000 --> 00:01:12,000
+So, she said that
+
+27
+00:01:12,000 --> 00:01:15,000
+Like are you getting the option to rewrite the SAT in your dashboard?
+
+28
+00:01:15,000 --> 00:01:19,000
+Yeah, in the dashboard it was showing you can start the exam
+
+29
+00:01:19,000 --> 00:01:21,000
+I will write it today by default
+
+30
+00:01:21,000 --> 00:01:22,000
+Okay, you write it today once
+
+31
+00:01:22,000 --> 00:01:24,000
+And let me know what is the result
+
+32
+00:01:24,000 --> 00:01:27,000
+In case if the intermediate transfer has to be done
+
+33
+00:01:27,000 --> 00:01:29,000
+We will help you with that
+
+34
+00:01:29,000 --> 00:01:31,000
+What will be the questions in that?
+
+35
+00:01:31,000 --> 00:01:32,000
+There will be coding problems
+
+36
+00:01:32,000 --> 00:01:34,000
+So if you solve even one problem also
+
+37
+00:01:34,000 --> 00:01:37,000
+Then you will be given an intermediate batch
+
+38
+00:01:37,000 --> 00:01:38,000
+Okay, fine
+
+39
+00:01:38,000 --> 00:01:39,000
+Okay, sure
+
+40
+00:01:39,000 --> 00:01:41,000
+Let me know like how it works out for you
+
+41
+00:01:41,000 --> 00:01:43,000
+Drop me a WhatsApp message for the same, okay?
+
+42
+00:01:43,000 --> 00:01:44,000
+Okay, okay
+
+43
+00:01:44,000 --> 00:01:46,000
+Sure, okay, okay Teja
+
+44
+00:01:46,000 --> 00:01:47,000
+Thank you
+
+45
+00:01:47,000 --> 00:01:48,000
+Thank you
+

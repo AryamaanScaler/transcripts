@@ -1,0 +1,320 @@
+1
+00:00:00,000 --> 00:00:12,000
+Hello, Am I talking to Fiyaz? This is Vishnu here from Scalar Academy. Good time to talk.
+
+2
+00:00:12,000 --> 00:00:22,000
+Fiyaz, I was trying to connect with you when you enrolled into the program. I am calling you from the onboarding team of Scalar.
+
+3
+00:00:22,000 --> 00:00:28,000
+Actually Bhavana and Ahmed shared you a detail with me as you enrolled for the software engineering program with us.
+
+4
+00:00:28,000 --> 00:00:33,000
+So just wanted to have a discussion of 5 to 10 minutes. Is it possible for you now?
+
+5
+00:00:33,000 --> 00:00:35,000
+Yeah, yeah.
+
+6
+00:00:35,000 --> 00:00:39,000
+Is this number not available in WhatsApp actually?
+
+7
+00:00:39,000 --> 00:00:42,000
+No, that is not available in WhatsApp.
+
+8
+00:00:42,000 --> 00:00:46,000
+Can you help me with any alternate number in that case?
+
+9
+00:00:46,000 --> 00:00:48,000
+It's 9-4
+
+10
+00:00:48,000 --> 00:00:52,000
+You may sit there. 9-4
+
+11
+00:00:52,000 --> 00:00:55,000
+6-2-7
+
+12
+00:00:55,000 --> 00:00:57,000
+6-2-7
+
+13
+00:00:57,000 --> 00:01:02,000
+8-5
+
+14
+00:01:02,000 --> 00:01:07,000
+9-6-7
+
+15
+00:01:07,000 --> 00:01:09,000
+9-6-7
+
+16
+00:01:09,000 --> 00:01:12,000
+Okay.
+
+17
+00:01:12,000 --> 00:01:24,000
+So you were registered, mailer is Fiyaz Khaira 2780 Mlr.
+
+18
+00:01:24,000 --> 00:01:26,000
+Yes, yeah.
+
+19
+00:01:26,000 --> 00:01:39,000
+So how was the experience so far with Scalar? You got pretty much clarity regarding the program and what exactly the course is offering. You got an understanding of that or you still confused a little bit?
+
+20
+00:01:39,000 --> 00:01:42,000
+I am not understanding of it.
+
+21
+00:01:42,000 --> 00:01:44,000
+Sorry, the timing.
+
+22
+00:01:44,000 --> 00:01:50,000
+Yes, I am pretty much clear on what the course is offering.
+
+23
+00:01:50,000 --> 00:01:55,000
+Okay, fine, fine. Thank you. And also you are currently working, right?
+
+24
+00:01:55,000 --> 00:01:58,000
+It's cognizant.
+
+25
+00:01:58,000 --> 00:02:01,000
+Okay, and how many years of experience you have in total?
+
+26
+00:02:01,000 --> 00:02:04,000
+3 years of experience.
+
+27
+00:02:04,000 --> 00:02:09,000
+And 3 years, you are going to do like back end or you will do full stack and then roll?
+
+28
+00:02:09,000 --> 00:02:13,000
+Like you are talking about my aspirations or my past experience?
+
+29
+00:02:13,000 --> 00:02:15,000
+No, your past experience.
+
+30
+00:02:15,000 --> 00:02:17,000
+My friend and actually.
+
+31
+00:02:17,000 --> 00:02:20,000
+Friend and developer in the last 3 years.
+
+32
+00:02:20,000 --> 00:02:23,000
+You are working with JavaScript or in React?
+
+33
+00:02:23,000 --> 00:02:26,000
+Both, obviously.
+
+34
+00:02:26,000 --> 00:02:29,000
+You are both working with both.
+
+35
+00:02:29,000 --> 00:02:37,000
+So what exactly you are looking for into the program? Like what exactly is your expectation from the course? Are you particularly targeting anything?
+
+36
+00:02:37,000 --> 00:02:40,000
+Switch to product build.
+
+37
+00:02:40,000 --> 00:02:42,000
+Okay, fine.
+
+38
+00:02:42,000 --> 00:02:45,000
+Better opportunities at the end of the program.
+
+39
+00:02:45,000 --> 00:02:47,000
+Better opportunities as well.
+
+40
+00:02:47,000 --> 00:02:56,000
+I have seen that you have accessed the dashboard. We are having a session today at night, 9 o'clock. Are you aware about that?
+
+41
+00:02:56,000 --> 00:02:58,000
+Yes, I am.
+
+42
+00:02:58,000 --> 00:03:02,000
+Okay, so did you see the link in the dashboard?
+
+43
+00:03:02,000 --> 00:03:03,000
+Yeah.
+
+44
+00:03:03,000 --> 00:03:05,000
+That's exactly what you can find.
+
+45
+00:03:05,000 --> 00:03:10,000
+So just attend that particular class and I will be giving you a dashboard walkthrough also.
+
+46
+00:03:10,000 --> 00:03:15,000
+We will do this in this week itself because our live class will be starting from next Monday onwards.
+
+47
+00:03:15,000 --> 00:03:21,000
+So have you selected the start assessment or are you planning to start from the beginning or the beginner batch? What is in your mind?
+
+48
+00:03:21,000 --> 00:03:24,000
+I will be giving the start assessment actually.
+
+49
+00:03:24,000 --> 00:03:28,000
+You will be giving the start assessment. I hope you know the deadline. It's before Saturday.
+
+50
+00:03:28,000 --> 00:03:29,000
+Yeah.
+
+51
+00:03:29,000 --> 00:03:31,000
+By Saturday you have to take it.
+
+52
+00:03:31,000 --> 00:03:37,000
+Okay. What about time commitment? What is generally your office hours?
+
+53
+00:03:37,000 --> 00:03:41,000
+Probably at night.
+
+54
+00:03:41,000 --> 00:03:45,000
+At night. So you want to go with morning batch? That's what you are looking for?
+
+55
+00:03:45,000 --> 00:03:48,000
+No, I want to go with the evening batch.
+
+56
+00:03:48,000 --> 00:03:59,000
+Evening batch. Okay. So will you be at this current schedule and will you be able to give around 15 hours on a weekly basis to the program?
+
+57
+00:03:59,000 --> 00:04:02,000
+Is it possible from your end? Okay.
+
+58
+00:04:02,000 --> 00:04:07,000
+So let's attempt the class today. Mostly tomorrow, day after tomorrow.
+
+59
+00:04:07,000 --> 00:04:11,000
+What's the actual time? Can you please tell me the morning time?
+
+60
+00:04:11,000 --> 00:04:13,000
+Morning is 7 to 9.
+
+61
+00:04:13,000 --> 00:04:15,000
+Okay. 7 to 9. Okay.
+
+62
+00:04:15,000 --> 00:04:17,000
+So you are involved with the start assessment?
+
+63
+00:04:17,000 --> 00:04:25,000
+Yeah. So when you select the start assessment, you will be getting an option based upon which all timings are available.
+
+64
+00:04:25,000 --> 00:04:28,000
+So based upon that you can switch.
+
+65
+00:04:28,000 --> 00:04:34,000
+Okay. So it will vary depending upon where you are going to begin or intermediate or advanced.
+
+66
+00:04:34,000 --> 00:04:40,000
+So once you take the starting exam, I will also get a better understanding of what is the possible catchers for you.
+
+67
+00:04:40,000 --> 00:04:44,000
+Then we can discuss and we can even shift also.
+
+68
+00:04:44,000 --> 00:04:45,000
+Okay.
+
+69
+00:04:45,000 --> 00:04:52,000
+But yeah, if you are generally asking me whether you can shift, yes, you can shift basically as you are into the software engineering program.
+
+70
+00:04:52,000 --> 00:04:54,000
+Okay.
+
+71
+00:04:54,000 --> 00:04:58,000
+Anything else that you have any doubts with or you wanted to discuss?
+
+72
+00:04:58,000 --> 00:04:59,000
+No, no.
+
+73
+00:04:59,000 --> 00:05:02,000
+Okay. So let's just attend the session today.
+
+74
+00:05:02,000 --> 00:05:08,000
+Okay. I will connect with you later and we will arrange a session for you for dashboard back through.
+
+75
+00:05:08,000 --> 00:05:15,000
+Okay. I think Amrit or Bhavana who explained regarding the dashboard since you already go and follow Bhavana already given you a walkthrough.
+
+76
+00:05:15,000 --> 00:05:17,000
+Okay. Cool. Great. Great to know that.
+
+77
+00:05:17,000 --> 00:05:20,000
+Okay. We will connect with you later then. Okay.
+
+78
+00:05:20,000 --> 00:05:21,000
+Okay.
+
+79
+00:05:21,000 --> 00:05:22,000
+Okay. Fine. Thank you.
+
+80
+00:05:22,000 --> 00:05:23,000
+Thank you.
+

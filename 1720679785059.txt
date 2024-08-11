@@ -1,0 +1,1340 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Hi Ramesh, how are you?
+
+4
+00:00:06,000 --> 00:00:08,000
+I am fine
+
+5
+00:00:08,000 --> 00:00:10,000
+So, is it a good time to talk?
+
+6
+00:00:10,000 --> 00:00:12,000
+Yes
+
+7
+00:00:12,000 --> 00:00:16,000
+So, you are already done with the test
+
+8
+00:00:16,000 --> 00:00:18,000
+and I hope you received the details as well
+
+9
+00:00:18,000 --> 00:00:20,000
+which I shared you that day
+
+10
+00:00:20,000 --> 00:00:22,000
+So, did you get a chance to go through the details?
+
+11
+00:00:22,000 --> 00:00:24,000
+Yes, yes
+
+12
+00:00:24,000 --> 00:00:26,000
+I did went to the PDFs yesterday
+
+13
+00:00:26,000 --> 00:00:28,000
+which I shared on WhatsApp
+
+14
+00:00:28,000 --> 00:00:30,000
+And what about the email details
+
+15
+00:00:30,000 --> 00:00:32,000
+which I shared you as research materials
+
+16
+00:00:32,000 --> 00:00:34,000
+about the modules
+
+17
+00:00:34,000 --> 00:00:36,000
+how exactly it will be DSA
+
+18
+00:00:36,000 --> 00:00:38,000
+beginner, intermediate, advanced
+
+19
+00:00:38,000 --> 00:00:40,000
+Oh, yeah
+
+20
+00:00:40,000 --> 00:00:42,000
+the email I had to go through that once
+
+21
+00:00:42,000 --> 00:00:44,000
+There is nothing
+
+22
+00:00:44,000 --> 00:00:46,000
+but it's just about
+
+23
+00:00:46,000 --> 00:00:48,000
+my program
+
+24
+00:00:48,000 --> 00:00:50,000
+which we have discussed over the call
+
+25
+00:00:50,000 --> 00:00:52,000
+the curriculum and all
+
+26
+00:00:52,000 --> 00:00:54,000
+I have attached in that email
+
+27
+00:00:54,000 --> 00:00:56,000
+So, I am going to
+
+28
+00:00:56,000 --> 00:00:58,000
+I will go through that once
+
+29
+00:00:58,000 --> 00:01:00,000
+as I said
+
+30
+00:01:00,000 --> 00:01:02,000
+I was having some cold yesterday
+
+31
+00:01:02,000 --> 00:01:04,000
+so I am not able to do anything
+
+32
+00:01:04,000 --> 00:01:06,000
+And you were busy with the
+
+33
+00:01:06,000 --> 00:01:08,000
+release as well
+
+34
+00:01:08,000 --> 00:01:10,000
+Yes, I had that one as well
+
+35
+00:01:10,000 --> 00:01:12,000
+Even I thought
+
+36
+00:01:12,000 --> 00:01:14,000
+I will connect with
+
+37
+00:01:14,000 --> 00:01:16,000
+Mani Deep yesterday
+
+38
+00:01:16,000 --> 00:01:18,000
+I am not sure
+
+39
+00:01:18,000 --> 00:01:20,000
+if I will be able to
+
+40
+00:01:20,000 --> 00:01:22,000
+connect with Mani Deep
+
+41
+00:01:22,000 --> 00:01:24,000
+I am not sure
+
+42
+00:01:24,000 --> 00:01:26,000
+I will try to do that today
+
+43
+00:01:26,000 --> 00:01:28,000
+I will try to do it today
+
+44
+00:01:30,000 --> 00:01:32,000
+Okay, okay
+
+45
+00:01:32,000 --> 00:01:34,000
+So, apart from that
+
+46
+00:01:34,000 --> 00:01:36,000
+I just want to understand one thing
+
+47
+00:01:36,000 --> 00:01:38,000
+from your end
+
+48
+00:01:38,000 --> 00:01:40,000
+Since you have already run a program into Cryo
+
+49
+00:01:40,000 --> 00:01:42,000
+Yes
+
+50
+00:01:42,000 --> 00:01:44,000
+So, when was that?
+
+51
+00:01:44,000 --> 00:01:46,000
+It was 2022
+
+52
+00:01:46,000 --> 00:01:48,000
+So, what do you think
+
+53
+00:01:48,000 --> 00:01:50,000
+now when you are going for
+
+54
+00:01:50,000 --> 00:01:52,000
+interviews
+
+55
+00:01:52,000 --> 00:01:54,000
+I have mentioned that you have gone for some interviews also
+
+56
+00:01:54,000 --> 00:01:56,000
+in the past few months
+
+57
+00:01:56,000 --> 00:01:58,000
+So, what do you think
+
+58
+00:01:58,000 --> 00:02:00,000
+after doing that program
+
+59
+00:02:00,000 --> 00:02:02,000
+where exactly
+
+60
+00:02:02,000 --> 00:02:04,000
+you are feeling that you are lacking?
+
+61
+00:02:08,000 --> 00:02:10,000
+The only part is
+
+62
+00:02:10,000 --> 00:02:12,000
+the design part
+
+63
+00:02:12,000 --> 00:02:14,000
+design patterns
+
+64
+00:02:14,000 --> 00:02:16,000
+and system design
+
+65
+00:02:16,000 --> 00:02:18,000
+Other than that
+
+66
+00:02:18,000 --> 00:02:20,000
+I
+
+67
+00:02:20,000 --> 00:02:22,000
+even before yesterday
+
+68
+00:02:22,000 --> 00:02:24,000
+I had an interview there
+
+69
+00:02:24,000 --> 00:02:26,000
+They asked the DSA, I covered the ground as well
+
+70
+00:02:28,000 --> 00:02:30,000
+But, yeah, so the system design
+
+71
+00:02:30,000 --> 00:02:32,000
+part was the one thing that I was looking into
+
+72
+00:02:34,000 --> 00:02:36,000
+Okay
+
+73
+00:02:36,000 --> 00:02:38,000
+So, you build a project there, no?
+
+74
+00:02:38,000 --> 00:02:40,000
+You mentioned that you built some
+
+75
+00:02:40,000 --> 00:02:42,000
+scale projects
+
+76
+00:02:42,000 --> 00:02:44,000
+So, what was that project?
+
+77
+00:02:44,000 --> 00:02:46,000
+Yeah, so
+
+78
+00:02:46,000 --> 00:02:48,000
+one was like a two-card project
+
+79
+00:02:48,000 --> 00:02:50,000
+It was like a five-card kind of project
+
+80
+00:02:52,000 --> 00:02:54,000
+It was not like scale to
+
+81
+00:02:54,000 --> 00:02:56,000
+millions of users
+
+82
+00:02:56,000 --> 00:02:58,000
+but it was normal
+
+83
+00:02:58,000 --> 00:03:00,000
+AP creations and
+
+84
+00:03:00,000 --> 00:03:02,000
+authentication part was covered
+
+85
+00:03:02,000 --> 00:03:04,000
+AP creation, all the card adaptations
+
+86
+00:03:04,000 --> 00:03:06,000
+for the product
+
+87
+00:03:06,000 --> 00:03:08,000
+and routing those
+
+88
+00:03:08,000 --> 00:03:10,000
+all the routes
+
+89
+00:03:10,000 --> 00:03:12,000
+and AP security
+
+90
+00:03:12,000 --> 00:03:14,000
+So, all these parts were covered in that project
+
+91
+00:03:14,000 --> 00:03:16,000
+But the scaling part
+
+92
+00:03:16,000 --> 00:03:18,000
+The initial part which we discussed
+
+93
+00:03:18,000 --> 00:03:20,000
+what will happen if all
+
+94
+00:03:20,000 --> 00:03:22,000
+customer size
+
+95
+00:03:22,000 --> 00:03:24,000
+will increase or load
+
+96
+00:03:24,000 --> 00:03:26,000
+balances, how we have to load all the
+
+97
+00:03:26,000 --> 00:03:28,000
+incoming requests
+
+98
+00:03:28,000 --> 00:03:30,000
+So that part was not covered
+
+99
+00:03:30,000 --> 00:03:32,000
+We didn't cover that one
+
+100
+00:03:32,000 --> 00:03:34,000
+It was mostly
+
+101
+00:03:34,000 --> 00:03:36,000
+focused on the project building
+
+102
+00:03:36,000 --> 00:03:38,000
+and the DSA part
+
+103
+00:03:38,000 --> 00:03:40,000
+Those were covered properly
+
+104
+00:03:40,000 --> 00:03:42,000
+We have covered them properly
+
+105
+00:03:42,000 --> 00:03:44,000
+So, that was the first time
+
+106
+00:03:44,000 --> 00:03:46,000
+that I was able to
+
+107
+00:03:46,000 --> 00:03:48,000
+do those parts properly
+
+108
+00:03:48,000 --> 00:03:50,000
+So, the system design
+
+109
+00:03:50,000 --> 00:03:52,000
+it was not covered that much
+
+110
+00:03:52,000 --> 00:03:54,000
+Okay, okay
+
+111
+00:03:54,000 --> 00:03:56,000
+And was there any kind of
+
+112
+00:03:56,000 --> 00:03:58,000
+conceptual learning also before the project building?
+
+113
+00:04:02,000 --> 00:04:04,000
+Conceptual learning in the sense
+
+114
+00:04:04,000 --> 00:04:06,000
+Did you have any classes where
+
+115
+00:04:06,000 --> 00:04:08,000
+you were just practicing on
+
+116
+00:04:08,000 --> 00:04:10,000
+the programming skills, practicing on the
+
+117
+00:04:10,000 --> 00:04:12,000
+life problem statements
+
+118
+00:04:12,000 --> 00:04:14,000
+doing some assignments
+
+119
+00:04:14,000 --> 00:04:16,000
+like that?
+
+120
+00:04:16,000 --> 00:04:18,000
+It was started with the DSA itself
+
+121
+00:04:18,000 --> 00:04:20,000
+Initially, we had
+
+122
+00:04:20,000 --> 00:04:22,000
+there were
+
+123
+00:04:22,000 --> 00:04:24,000
+two DSA models, DSA 2 and DSA 3
+
+124
+00:04:24,000 --> 00:04:26,000
+After that, it started
+
+125
+00:04:26,000 --> 00:04:28,000
+with the front end
+
+126
+00:04:28,000 --> 00:04:30,000
+and the Moonstack
+
+127
+00:04:30,000 --> 00:04:32,000
+We started with the Moonstack and then
+
+128
+00:04:32,000 --> 00:04:34,000
+once that Moonstack
+
+129
+00:04:34,000 --> 00:04:36,000
+was completed, it was
+
+130
+00:04:36,000 --> 00:04:38,000
+the due preparations
+
+131
+00:04:38,000 --> 00:04:40,000
+Okay, okay. After that, it was interview preparation
+
+132
+00:04:40,000 --> 00:04:42,000
+Okay
+
+133
+00:04:42,000 --> 00:04:44,000
+We were doing the projects in each module
+
+134
+00:04:44,000 --> 00:04:46,000
+The DSA was
+
+135
+00:04:46,000 --> 00:04:48,000
+we had to solve the problems
+
+136
+00:04:48,000 --> 00:04:50,000
+on our end
+
+137
+00:04:50,000 --> 00:04:52,000
+For the Moonstack and the front end, we had to create
+
+138
+00:04:52,000 --> 00:04:54,000
+a project from our end
+
+139
+00:04:54,000 --> 00:04:56,000
+Okay, okay. So, you created
+
+140
+00:04:56,000 --> 00:04:58,000
+one project there?
+
+141
+00:04:58,000 --> 00:05:00,000
+Two or three projects
+
+142
+00:05:00,000 --> 00:05:02,000
+We actually had
+
+143
+00:05:02,000 --> 00:05:04,000
+a front end as well
+
+144
+00:05:04,000 --> 00:05:06,000
+and then Moonstack
+
+145
+00:05:06,000 --> 00:05:08,000
+For the front end also, it was
+
+146
+00:05:08,000 --> 00:05:10,000
+small
+
+147
+00:05:10,000 --> 00:05:12,000
+We had this application right here
+
+148
+00:05:12,000 --> 00:05:14,000
+In short application, we will see all of the
+
+149
+00:05:14,000 --> 00:05:16,000
+news at a quick
+
+150
+00:05:16,000 --> 00:05:18,000
+go
+
+151
+00:05:18,000 --> 00:05:20,000
+We had built
+
+152
+00:05:20,000 --> 00:05:22,000
+that front end part
+
+153
+00:05:22,000 --> 00:05:24,000
+We were getting a few responses from the bank
+
+154
+00:05:24,000 --> 00:05:26,000
+We were getting a few news
+
+155
+00:05:26,000 --> 00:05:28,000
+and we were showing them
+
+156
+00:05:28,000 --> 00:05:30,000
+There was the
+
+157
+00:05:30,000 --> 00:05:32,000
+recording part
+
+158
+00:05:32,000 --> 00:05:34,000
+Initially, we were serving
+
+159
+00:05:34,000 --> 00:05:36,000
+less data
+
+160
+00:05:36,000 --> 00:05:38,000
+and then we clicked on that
+
+161
+00:05:38,000 --> 00:05:40,000
+They were
+
+162
+00:05:40,000 --> 00:05:42,000
+getting the entire
+
+163
+00:05:42,000 --> 00:05:44,000
+news page, we were showing the entire news
+
+164
+00:05:44,000 --> 00:05:46,000
+Okay
+
+165
+00:05:46,000 --> 00:05:48,000
+That's the thing we were collecting
+
+166
+00:05:48,000 --> 00:05:50,000
+In short, which you have
+
+167
+00:05:50,000 --> 00:05:52,000
+Yeah
+
+168
+00:05:52,000 --> 00:05:54,000
+I've used that app
+
+169
+00:05:54,000 --> 00:05:56,000
+Okay. So, you
+
+170
+00:05:56,000 --> 00:05:58,000
+developed that product
+
+171
+00:05:58,000 --> 00:06:00,000
+on your own
+
+172
+00:06:00,000 --> 00:06:02,000
+You have done the end-to-end development
+
+173
+00:06:02,000 --> 00:06:04,000
+Yes, AP was already
+
+174
+00:06:04,000 --> 00:06:06,000
+based on the front end
+
+175
+00:06:06,000 --> 00:06:08,000
+We created
+
+176
+00:06:08,000 --> 00:06:10,000
+the front end application there
+
+177
+00:06:10,000 --> 00:06:12,000
+Only front end you worked?
+
+178
+00:06:12,000 --> 00:06:14,000
+Yeah. In short, only front end I worked
+
+179
+00:06:14,000 --> 00:06:16,000
+Okay
+
+180
+00:06:16,000 --> 00:06:18,000
+We had written all the news
+
+181
+00:06:18,000 --> 00:06:20,000
+On the QCard
+
+182
+00:06:20,000 --> 00:06:22,000
+we created the APS as well
+
+183
+00:06:22,000 --> 00:06:24,000
+Also, there was
+
+184
+00:06:24,000 --> 00:06:26,000
+another project
+
+185
+00:06:26,000 --> 00:06:28,000
+as well
+
+186
+00:06:28,000 --> 00:06:30,000
+It was
+
+187
+00:06:30,000 --> 00:06:32,000
+regarding the videos
+
+188
+00:06:32,000 --> 00:06:34,000
+We were getting all the videos
+
+189
+00:06:34,000 --> 00:06:36,000
+and we were showing them properly
+
+190
+00:06:36,000 --> 00:06:38,000
+on the content and also
+
+191
+00:06:38,000 --> 00:06:40,000
+We also
+
+192
+00:06:40,000 --> 00:06:42,000
+had a few
+
+193
+00:06:42,000 --> 00:06:44,000
+requests
+
+194
+00:06:46,000 --> 00:06:48,000
+So, have you
+
+195
+00:06:48,000 --> 00:06:50,000
+Did you get a chance to work on things like layering
+
+196
+00:06:50,000 --> 00:06:52,000
+architecture or the deployment
+
+197
+00:06:52,000 --> 00:06:54,000
+on the cloud like that?
+
+198
+00:06:56,000 --> 00:06:58,000
+Deployment we had
+
+199
+00:06:58,000 --> 00:07:00,000
+We were doing the deployment on the hero core
+
+200
+00:07:00,000 --> 00:07:02,000
+The hero core
+
+201
+00:07:02,000 --> 00:07:04,000
+We were doing the deployment
+
+202
+00:07:06,000 --> 00:07:08,000
+We were creating the application
+
+203
+00:07:08,000 --> 00:07:10,000
+and we were putting it on the hero core
+
+204
+00:07:10,000 --> 00:07:12,000
+We were deploying it on the hero core
+
+205
+00:07:12,000 --> 00:07:14,000
+That was the scaling of
+
+206
+00:07:14,000 --> 00:07:16,000
+architecture application
+
+207
+00:07:16,000 --> 00:07:18,000
+That part you didn't get a chance to work with
+
+208
+00:07:18,000 --> 00:07:20,000
+Yes
+
+209
+00:07:20,000 --> 00:07:22,000
+So, see now you are having
+
+210
+00:07:22,000 --> 00:07:24,000
+around 4 years of experience, correct?
+
+211
+00:07:24,000 --> 00:07:26,000
+Yes
+
+212
+00:07:26,000 --> 00:07:28,000
+And you are like
+
+213
+00:07:28,000 --> 00:07:30,000
+SDE1 at your organization
+
+214
+00:07:30,000 --> 00:07:32,000
+if I'm not wrong
+
+215
+00:07:32,000 --> 00:07:34,000
+Yes
+
+216
+00:07:34,000 --> 00:07:36,000
+So, let's say tomorrow if you are going for a switch
+
+217
+00:07:36,000 --> 00:07:38,000
+definitely you will be targeting better firms
+
+218
+00:07:38,000 --> 00:07:40,000
+as compared to your current
+
+219
+00:07:40,000 --> 00:07:42,000
+organization and definitely you will be targeting
+
+220
+00:07:42,000 --> 00:07:44,000
+better roles also
+
+221
+00:07:44,000 --> 00:07:46,000
+So, tomorrow let's say if you are getting a chance
+
+222
+00:07:46,000 --> 00:07:48,000
+to work with any let's say high
+
+223
+00:07:48,000 --> 00:07:50,000
+skilled startup or any big tech giant
+
+224
+00:07:50,000 --> 00:07:52,000
+for example
+
+225
+00:07:52,000 --> 00:07:54,000
+startups like Flipkart or
+
+226
+00:07:54,000 --> 00:07:56,000
+let's say Cred or PhonePay
+
+227
+00:07:56,000 --> 00:07:58,000
+So, their users are also in millions
+
+228
+00:07:58,000 --> 00:08:00,000
+They have a very huge
+
+229
+00:08:00,000 --> 00:08:02,000
+target audience
+
+230
+00:08:02,000 --> 00:08:04,000
+and if you are going for a big tech giant
+
+231
+00:08:04,000 --> 00:08:06,000
+for example Amazon, Google, Microsoft
+
+232
+00:08:06,000 --> 00:08:08,000
+or Meta kind of companies
+
+233
+00:08:08,000 --> 00:08:10,000
+So, their users are in billions
+
+234
+00:08:10,000 --> 00:08:12,000
+Correct
+
+235
+00:08:12,000 --> 00:08:14,000
+They are catering to their target audience globally
+
+236
+00:08:14,000 --> 00:08:16,000
+So, you are going there
+
+237
+00:08:16,000 --> 00:08:18,000
+to work on the existing system
+
+238
+00:08:18,000 --> 00:08:20,000
+For example, if you are going
+
+239
+00:08:20,000 --> 00:08:22,000
+for Flipkart and your
+
+240
+00:08:22,000 --> 00:08:24,000
+users are in millions
+
+241
+00:08:24,000 --> 00:08:26,000
+that is already a highly skilled system
+
+242
+00:08:26,000 --> 00:08:28,000
+on which you have never worked. You don't have a hands on
+
+243
+00:08:28,000 --> 00:08:30,000
+Correct me if I'm wrong
+
+244
+00:08:30,000 --> 00:08:32,000
+Yes, yes, that was already said
+
+245
+00:08:32,000 --> 00:08:34,000
+Exactly. So, today
+
+246
+00:08:34,000 --> 00:08:36,000
+let's say if I help you to build a
+
+247
+00:08:36,000 --> 00:08:38,000
+completely new product from
+
+248
+00:08:38,000 --> 00:08:40,000
+scratch where you are working on the design
+
+249
+00:08:40,000 --> 00:08:42,000
+part, you are working on the end to end
+
+250
+00:08:42,000 --> 00:08:44,000
+development, you are working on the
+
+251
+00:08:44,000 --> 00:08:46,000
+deployment part
+
+252
+00:08:46,000 --> 00:08:48,000
+and that too you are making the product
+
+253
+00:08:48,000 --> 00:08:50,000
+scaled also into millions of users
+
+254
+00:08:50,000 --> 00:08:52,000
+30, 40, 50 million users
+
+255
+00:08:52,000 --> 00:08:54,000
+There I'm just trying to give you an understanding
+
+256
+00:08:54,000 --> 00:08:56,000
+how exactly a highly skilled system is built
+
+257
+00:08:56,000 --> 00:08:58,000
+because before
+
+258
+00:08:58,000 --> 00:09:00,000
+that I am teaching you
+
+259
+00:09:00,000 --> 00:09:02,000
+I am giving you conceptual knowledge
+
+260
+00:09:02,000 --> 00:09:04,000
+and the learnings which you are getting here
+
+261
+00:09:04,000 --> 00:09:06,000
+at Scaler that is from industry
+
+262
+00:09:06,000 --> 00:09:08,000
+experts who have built platforms like Hotstar
+
+263
+00:09:08,000 --> 00:09:10,000
+Snapdeal
+
+264
+00:09:10,000 --> 00:09:12,000
+who have built platforms like
+
+265
+00:09:12,000 --> 00:09:14,000
+Fab.com which is the biggest
+
+266
+00:09:14,000 --> 00:09:16,000
+marketplace of New York
+
+267
+00:09:16,000 --> 00:09:18,000
+that is built by our second co-founder
+
+268
+00:09:18,000 --> 00:09:20,000
+Abhimanyu Saxena
+
+269
+00:09:20,000 --> 00:09:22,000
+Yes, even Anshuman
+
+270
+00:09:22,000 --> 00:09:24,000
+if you will see he is the person who has built
+
+271
+00:09:24,000 --> 00:09:26,000
+this Facebook messenger application
+
+272
+00:09:26,000 --> 00:09:28,000
+I'm sure you will be also using that
+
+273
+00:09:28,000 --> 00:09:30,000
+So when you see like
+
+274
+00:09:30,000 --> 00:09:32,000
+if we are using messenger
+
+275
+00:09:32,000 --> 00:09:34,000
+and when we are looking for just one
+
+276
+00:09:34,000 --> 00:09:36,000
+message, let's say how many times
+
+277
+00:09:36,000 --> 00:09:38,000
+I have sent hello to my friends
+
+278
+00:09:38,000 --> 00:09:40,000
+So if I'm searching that hello word
+
+279
+00:09:40,000 --> 00:09:42,000
+in the search bar, it is taking
+
+280
+00:09:42,000 --> 00:09:44,000
+let's say 0.5
+
+281
+00:09:44,000 --> 00:09:46,000
+second times for example
+
+282
+00:09:46,000 --> 00:09:48,000
+Let's say if you have to reduce that time
+
+283
+00:09:48,000 --> 00:09:50,000
+from 0.5 to 0.3
+
+284
+00:09:50,000 --> 00:09:52,000
+definitely you need to have a better
+
+285
+00:09:52,000 --> 00:09:54,000
+understanding which data type you have to use here
+
+286
+00:09:54,000 --> 00:09:56,000
+how exactly you are going to solve that problem
+
+287
+00:09:56,000 --> 00:09:58,000
+So that is a real time problem
+
+288
+00:09:58,000 --> 00:10:00,000
+which you have to
+
+289
+00:10:00,000 --> 00:10:02,000
+solve once you are going
+
+290
+00:10:02,000 --> 00:10:04,000
+there, it could be anything
+
+291
+00:10:04,000 --> 00:10:06,000
+So basically the understanding is
+
+292
+00:10:06,000 --> 00:10:08,000
+you are going to work on the existing systems
+
+293
+00:10:08,000 --> 00:10:10,000
+which are already highly skilled
+
+294
+00:10:10,000 --> 00:10:12,000
+So at Scaler
+
+295
+00:10:12,000 --> 00:10:14,000
+we are not only
+
+296
+00:10:14,000 --> 00:10:16,000
+helping you to just become a developer
+
+297
+00:10:16,000 --> 00:10:18,000
+we are helping you to become a full-fledged
+
+298
+00:10:18,000 --> 00:10:20,000
+engineer so that your next 10-15
+
+299
+00:10:20,000 --> 00:10:22,000
+years of career
+
+300
+00:10:22,000 --> 00:10:24,000
+should be full of growth and stability
+
+301
+00:10:26,000 --> 00:10:28,000
+Alright, yes
+
+302
+00:10:28,000 --> 00:10:30,000
+So what I will
+
+303
+00:10:30,000 --> 00:10:32,000
+suggest to you, what is your
+
+304
+00:10:32,000 --> 00:10:34,000
+plan for today, how exactly your day looks like
+
+305
+00:10:38,000 --> 00:10:40,000
+So I actually
+
+306
+00:10:40,000 --> 00:10:42,000
+have like
+
+307
+00:10:42,000 --> 00:10:44,000
+few tickets today
+
+308
+00:10:44,000 --> 00:10:46,000
+like highest clarity tickets
+
+309
+00:10:46,000 --> 00:10:48,000
+that I have to look into today
+
+310
+00:10:50,000 --> 00:10:52,000
+Other than
+
+311
+00:10:52,000 --> 00:10:54,000
+current work, I don't have any other tasks
+
+312
+00:10:56,000 --> 00:10:58,000
+We can do that, the current work
+
+313
+00:10:58,000 --> 00:11:00,000
+Alright, so
+
+314
+00:11:00,000 --> 00:11:02,000
+I will share you one fresh email
+
+315
+00:11:02,000 --> 00:11:04,000
+You go through it
+
+316
+00:11:04,000 --> 00:11:06,000
+you will get some more clarity
+
+317
+00:11:06,000 --> 00:11:08,000
+and after that
+
+318
+00:11:08,000 --> 00:11:10,000
+we will be just having another
+
+319
+00:11:10,000 --> 00:11:12,000
+call where we will be
+
+320
+00:11:12,000 --> 00:11:14,000
+solving your doubts and concerns
+
+321
+00:11:14,000 --> 00:11:16,000
+we will be discussing on those things
+
+322
+00:11:16,000 --> 00:11:18,000
+whatever you will be having
+
+323
+00:11:18,000 --> 00:11:20,000
+And since you are already a
+
+324
+00:11:20,000 --> 00:11:22,000
+4 years experience person, so definitely companies
+
+325
+00:11:22,000 --> 00:11:24,000
+are going to expect hands-on
+
+326
+00:11:24,000 --> 00:11:26,000
+on the design part
+
+327
+00:11:26,000 --> 00:11:28,000
+because you are going to work on the design along with the development
+
+328
+00:11:28,000 --> 00:11:30,000
+So go through
+
+329
+00:11:30,000 --> 00:11:32,000
+the details, I will share you one fresh email
+
+330
+00:11:32,000 --> 00:11:34,000
+on your email id and just ping me
+
+331
+00:11:34,000 --> 00:11:36,000
+once you are available after going through the details
+
+332
+00:11:36,000 --> 00:11:38,000
+so that we can have a better call
+
+333
+00:11:38,000 --> 00:11:40,000
+Alright Ramesh
+
+334
+00:11:40,000 --> 00:11:42,000
+Thanks
+
+335
+00:11:42,000 --> 00:11:44,000
+Welcome
+

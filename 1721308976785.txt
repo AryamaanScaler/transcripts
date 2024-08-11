@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:04,320
+Hello, sorry to disturb sir.
+
+2
+00:00:04,320 --> 00:00:07,600
+Yes, Parat, Harshit tell me.
+
+3
+00:00:07,600 --> 00:00:12,000
+Sir, one more problem is happening in the system.
+
+4
+00:00:12,000 --> 00:00:20,360
+There is a module of pre resource material, the module of operator and control statement.
+
+5
+00:00:20,360 --> 00:00:23,400
+Okay, I have seen complete module.
+
+6
+00:00:23,400 --> 00:00:28,760
+Okay, but the class attendance is being stuck in 1.69% only.
+
+7
+00:00:29,320 --> 00:00:33,320
+It is pre resource material is not counted.
+
+8
+00:00:33,320 --> 00:00:35,640
+I think let me check once.
+
+9
+00:00:35,640 --> 00:00:41,080
+Okay, because your live classes attendance only you are talking about.
+
+10
+00:00:41,080 --> 00:00:44,040
+This class is not useful.
+
+11
+00:00:44,040 --> 00:00:49,480
+This is not mandatory, so that's why it is not showing in attendance.
+
+12
+00:00:49,480 --> 00:00:55,800
+But it's showing the attendance, all the parts introduction setup getting start, it will
+
+13
+00:00:55,800 --> 00:00:58,680
+provide the 98%, 99% okay.
+
+14
+00:00:58,680 --> 00:01:03,480
+But when I select for the operator control statement module.
+
+15
+00:01:03,480 --> 00:01:07,800
+Okay, but it show only 1.69%.
+
+16
+00:01:07,800 --> 00:01:09,960
+It will stuck in that person.
+
+17
+00:01:09,960 --> 00:01:12,120
+I have seen complete video.
+
+18
+00:01:12,120 --> 00:01:12,920
+Once again.
+
+19
+00:01:12,920 --> 00:01:16,200
+In pre course resources you are telling right?
+
+20
+00:01:16,200 --> 00:01:20,680
+Yes, pre course resources.
+
+21
+00:01:20,680 --> 00:01:23,800
+Okay, let me check that once.
+
+22
+00:01:23,800 --> 00:01:25,080
+It is being stuck.
+
+23
+00:01:25,080 --> 00:01:28,760
+Which one you are mentioning in pre course?
+
+24
+00:01:28,760 --> 00:01:36,200
+Sir, in pre course there is a module for introduction to Java.
+
+25
+00:01:36,200 --> 00:01:36,920
+Okay.
+
+26
+00:01:36,920 --> 00:01:42,440
+Okay, and in that introduction to Java the operator and control module.
+
+27
+00:01:42,440 --> 00:01:52,440
+Okay, in operator and control module the class attendance is 1.69%.
+
+28
+00:01:52,680 --> 00:01:57,000
+I have seen completely video.
+
+29
+00:01:57,000 --> 00:01:59,640
+But it is being stuck.
+
+30
+00:01:59,640 --> 00:02:00,840
+I have seen two times.
+
+31
+00:02:00,840 --> 00:02:02,840
+Okay, I will check it.
+
+32
+00:02:02,840 --> 00:02:05,800
+I have seen the video.
+
+33
+00:02:05,800 --> 00:02:07,000
+Let me check it once.
+
+34
+00:02:07,000 --> 00:02:10,360
+Okay, sir.
+
+35
+00:02:10,360 --> 00:02:13,400
+I will call you after updating the vendor.
+
+36
+00:02:13,400 --> 00:02:15,640
+Because I have a meeting at 7 o'clock.
+
+37
+00:02:15,640 --> 00:02:18,360
+Okay, sir.
+
+38
+00:02:18,360 --> 00:02:21,320
+One question, one question sir.
+
+39
+00:02:21,320 --> 00:02:22,040
+Sorry sir.
+
+40
+00:02:22,040 --> 00:02:23,240
+No, no, you ask me.
+
+41
+00:02:23,240 --> 00:02:25,240
+Yeah.
+
+42
+00:02:25,240 --> 00:02:29,960
+Sir, in mobile app the free courses is available.
+
+43
+00:02:29,960 --> 00:02:31,400
+Yes.
+
+44
+00:02:31,400 --> 00:02:32,440
+Okay.
+
+45
+00:02:32,440 --> 00:02:37,240
+So how in the desktop application we can see the free courses?
+
+46
+00:02:37,240 --> 00:02:39,320
+Yes, you can.
+
+47
+00:02:39,320 --> 00:02:40,280
+How sir?
+
+48
+00:02:40,280 --> 00:02:45,320
+Go to scalar topics.
+
+49
+00:02:45,320 --> 00:02:47,320
+Sir, where is the option scalar?
+
+50
+00:02:47,320 --> 00:02:49,400
+It is another web page.
+
+51
+00:02:49,400 --> 00:02:52,840
+You can go to scalar topics.
+
+52
+00:02:52,840 --> 00:02:54,840
+Another web page, scalar topics.
+
+53
+00:02:54,840 --> 00:02:55,640
+Yeah, go to there.
+
+54
+00:02:55,640 --> 00:02:58,760
+You will be able to see there.
+
+55
+00:02:58,760 --> 00:02:59,960
+Scalar topics.
+
+56
+00:02:59,960 --> 00:03:04,120
+Yes.
+
+57
+00:03:04,120 --> 00:03:06,840
+Okay.
+
+58
+00:03:06,840 --> 00:03:07,400
+Okay.
+
+59
+00:03:07,400 --> 00:03:09,960
+Okay.
+
+60
+00:03:09,960 --> 00:03:10,680
+Thank you, sir.
+
+61
+00:03:10,680 --> 00:03:12,840
+Okay.
+

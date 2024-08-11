@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:13,200
+Hello, say hi Pratik Akshusha from Scalar. Hi, what's up? How are you? How is everything?
+
+2
+00:00:13,200 --> 00:00:21,720
+How is your family? I see my father met with an accident so I had to come back home. You're
+
+3
+00:00:21,720 --> 00:00:33,320
+fine? What happened? Someone hit you?
+
+4
+00:00:51,720 --> 00:01:06,920
+I know. Is it too much of injury for you? Are you really not keeping well? No, not for me.
+
+5
+00:01:06,920 --> 00:01:12,920
+You're fine? Yes, I'm fine but father is injured.
+
+6
+00:01:12,920 --> 00:01:26,920
+So, is your father home? Yes, he is at home. I'm waiting for him to come back tomorrow.
+
+7
+00:01:26,920 --> 00:01:38,920
+I'm in the hospital right now. I'm waiting for him to come back tomorrow. I'll be there in a few minutes.
+
+8
+00:01:38,920 --> 00:01:44,920
+Can you take me back once I reach some place where I'll be able to make it?
+
+9
+00:01:44,920 --> 00:01:52,920
+You can ping me once you reach some place. I'll have a call with you.
+
+10
+00:01:52,920 --> 00:02:00,920
+You can ping me on WhatsApp. Take care of yourself and your family.
+
+11
+00:02:00,920 --> 00:02:08,920
+You can ping me. Take care. Bye.
+

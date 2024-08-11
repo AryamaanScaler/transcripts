@@ -1,0 +1,2732 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello, Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Yes?
+
+3
+00:00:04,000 --> 00:00:06,000
+Mr. Shaswath
+
+4
+00:00:06,000 --> 00:00:08,000
+Mr. Shaswath, this is Asif
+
+5
+00:00:08,000 --> 00:00:10,000
+I'm actually connecting on behalf of Scalar
+
+6
+00:00:10,000 --> 00:00:12,000
+Scalar Academy, okay, yes
+
+7
+00:00:12,000 --> 00:00:14,000
+You had recently registered for a
+
+8
+00:00:14,000 --> 00:00:16,000
+Master Class I believe on 24th of July
+
+9
+00:00:16,000 --> 00:00:18,000
+Yes, yes
+
+10
+00:00:18,000 --> 00:00:20,000
+I just searched it out, yeah
+
+11
+00:00:20,000 --> 00:00:22,000
+Yeah, but you were not able to join for the same
+
+12
+00:00:22,000 --> 00:00:24,000
+So, anything that happened from our end?
+
+13
+00:00:24,000 --> 00:00:26,000
+No, no, no, actually I got
+
+14
+00:00:26,000 --> 00:00:28,000
+Actually, right now I'm doing job, right?
+
+15
+00:00:28,000 --> 00:00:30,000
+So, I was not able to connect at that particular time
+
+16
+00:00:30,000 --> 00:00:32,000
+Oh, right
+
+17
+00:00:32,000 --> 00:00:34,000
+The meeting which was scheduled
+
+18
+00:00:34,000 --> 00:00:36,000
+It was between my
+
+19
+00:00:36,000 --> 00:00:38,000
+Work, work time
+
+20
+00:00:38,000 --> 00:00:40,000
+So, I was not able to connect
+
+21
+00:00:40,000 --> 00:00:42,000
+Okay, no worries, Mr. Shaswath, I was trying to
+
+22
+00:00:42,000 --> 00:00:44,000
+Understand what outcome you were looking after
+
+23
+00:00:44,000 --> 00:00:46,000
+Actually
+
+24
+00:00:46,000 --> 00:00:48,000
+I was searching for a
+
+25
+00:00:48,000 --> 00:00:50,000
+Course for DevOps
+
+26
+00:00:50,000 --> 00:00:52,000
+Yes
+
+27
+00:00:52,000 --> 00:00:54,000
+You were searching for a course of DevOps?
+
+28
+00:00:54,000 --> 00:00:56,000
+Yes
+
+29
+00:00:56,000 --> 00:00:58,000
+You registered for
+
+30
+00:00:58,000 --> 00:01:00,000
+Becoming a great software developer on the other hand
+
+31
+00:01:00,000 --> 00:01:02,000
+So, you come already from DevOps?
+
+32
+00:01:02,000 --> 00:01:04,000
+No, actually
+
+33
+00:01:04,000 --> 00:01:06,000
+I'm right now working in cloud computing
+
+34
+00:01:06,000 --> 00:01:08,000
+Cloud computing
+
+35
+00:01:08,000 --> 00:01:10,000
+So, I was searching for DevOps
+
+36
+00:01:10,000 --> 00:01:12,000
+But I did not register for SDE
+
+37
+00:01:12,000 --> 00:01:14,000
+Might be
+
+38
+00:01:14,000 --> 00:01:16,000
+It might have been done, but I did not
+
+39
+00:01:16,000 --> 00:01:18,000
+Get for SDE
+
+40
+00:01:18,000 --> 00:01:20,000
+I did for DevOps
+
+41
+00:01:20,000 --> 00:01:22,000
+So, you were searching for a
+
+42
+00:01:22,000 --> 00:01:24,000
+Course in DevOps
+
+43
+00:01:24,000 --> 00:01:26,000
+What exactly would be your requirements
+
+44
+00:01:26,000 --> 00:01:28,000
+If you go for any?
+
+45
+00:01:28,000 --> 00:01:30,000
+There is no particular requirement
+
+46
+00:01:30,000 --> 00:01:32,000
+I just want to see what was the
+
+47
+00:01:32,000 --> 00:01:34,000
+Curriculum, what are the
+
+48
+00:01:34,000 --> 00:01:36,000
+Process, how many months
+
+49
+00:01:36,000 --> 00:01:38,000
+Scaler will be teaching, what all will be
+
+50
+00:01:38,000 --> 00:01:40,000
+Teaching and it was a live session I think
+
+51
+00:01:40,000 --> 00:01:42,000
+In which they will be discussing
+
+52
+00:01:42,000 --> 00:01:44,000
+Like what they will
+
+53
+00:01:44,000 --> 00:01:46,000
+Like a first class like what
+
+54
+00:01:46,000 --> 00:01:48,000
+Introduction class
+
+55
+00:01:48,000 --> 00:01:50,000
+I mean we don't have an introduction class
+
+56
+00:01:50,000 --> 00:01:52,000
+For that
+
+57
+00:01:52,000 --> 00:01:54,000
+I can just
+
+58
+00:01:54,000 --> 00:01:56,000
+Narrate you some of these, like I can just
+
+59
+00:01:56,000 --> 00:01:58,000
+Brief you about it
+
+60
+00:01:58,000 --> 00:02:00,000
+First of all, I believe when you are going for DevOps
+
+61
+00:02:00,000 --> 00:02:02,000
+DevOps right now is pretty much in the
+
+62
+00:02:02,000 --> 00:02:04,000
+High demand
+
+63
+00:02:04,000 --> 00:02:06,000
+And you are already working into
+
+64
+00:02:06,000 --> 00:02:08,000
+The cloud
+
+65
+00:02:08,000 --> 00:02:10,000
+And DevOps
+
+66
+00:02:10,000 --> 00:02:12,000
+Obviously being in high demand role
+
+67
+00:02:12,000 --> 00:02:14,000
+In the market, it also has a very
+
+68
+00:02:14,000 --> 00:02:16,000
+Broad skill set
+
+69
+00:02:16,000 --> 00:02:18,000
+So, it often requires the
+
+70
+00:02:18,000 --> 00:02:20,000
+Knowledge of various tools
+
+71
+00:02:20,000 --> 00:02:22,000
+And since you are from the cloud
+
+72
+00:02:22,000 --> 00:02:24,000
+So you must have a knowledge about
+
+73
+00:02:24,000 --> 00:02:26,000
+The cloud platforms, you know
+
+74
+00:02:26,000 --> 00:02:28,000
+AWS is your Google Cloud
+
+75
+00:02:28,000 --> 00:02:30,000
+Platform as well
+
+76
+00:02:30,000 --> 00:02:32,000
+And you have infrastructure as code as well
+
+77
+00:02:32,000 --> 00:02:34,000
+Where in you have Terraform, Ansible
+
+78
+00:02:34,000 --> 00:02:36,000
+You have CI, CD monitoring
+
+79
+00:02:36,000 --> 00:02:38,000
+In DevOps role as well
+
+80
+00:02:38,000 --> 00:02:40,000
+So, you know
+
+81
+00:02:40,000 --> 00:02:42,000
+The impact on efficiency in the DevOps
+
+82
+00:02:42,000 --> 00:02:44,000
+It can be significantly
+
+83
+00:02:44,000 --> 00:02:46,000
+Impact on a company's software development
+
+84
+00:02:46,000 --> 00:02:48,000
+By improving the efficiency
+
+85
+00:02:48,000 --> 00:02:50,000
+And mostly
+
+86
+00:02:50,000 --> 00:02:52,000
+You must be into the same as with
+
+87
+00:02:52,000 --> 00:02:54,000
+Right now, reducing time to the market
+
+88
+00:02:54,000 --> 00:02:56,000
+Enhancing collaboration
+
+89
+00:02:56,000 --> 00:02:58,000
+I want to switch to DevOps
+
+90
+00:02:58,000 --> 00:03:00,000
+Because right now I am in administration
+
+91
+00:03:00,000 --> 00:03:02,000
+Department
+
+92
+00:03:02,000 --> 00:03:04,000
+I used to, yes, infrastructure
+
+93
+00:03:04,000 --> 00:03:06,000
+Clouding administration, like maintaining
+
+94
+00:03:06,000 --> 00:03:08,000
+The services and all
+
+95
+00:03:08,000 --> 00:03:10,000
+So, you just want to broaden up
+
+96
+00:03:10,000 --> 00:03:12,000
+For that, you know
+
+97
+00:03:12,000 --> 00:03:14,000
+Obviously there would be a lot of
+
+98
+00:03:14,000 --> 00:03:16,000
+Opportunities for you as well
+
+99
+00:03:16,000 --> 00:03:18,000
+And DevOps
+
+100
+00:03:18,000 --> 00:03:20,000
+If we talk about
+
+101
+00:03:20,000 --> 00:03:22,000
+DevOps, so
+
+102
+00:03:22,000 --> 00:03:24,000
+Cloud infrastructure automation and
+
+103
+00:03:24,000 --> 00:03:26,000
+Improving software delivery process
+
+104
+00:03:26,000 --> 00:03:28,000
+So that is something
+
+105
+00:03:28,000 --> 00:03:30,000
+You have to be pretty much passionate about
+
+106
+00:03:30,000 --> 00:03:32,000
+If you are choosing the DevOps
+
+107
+00:03:32,000 --> 00:03:34,000
+So if that is aligning with you
+
+108
+00:03:34,000 --> 00:03:36,000
+Then you are very much good to go with DevOps
+
+109
+00:03:36,000 --> 00:03:38,000
+And then what exactly actually
+
+110
+00:03:38,000 --> 00:03:40,000
+Happens in the DevOps courses
+
+111
+00:03:40,000 --> 00:03:42,000
+You will have hands on experience on
+
+112
+00:03:42,000 --> 00:03:44,000
+Various technologies
+
+113
+00:03:44,000 --> 00:03:46,000
+And all these
+
+114
+00:03:46,000 --> 00:03:48,000
+Skillset that you will be
+
+115
+00:03:48,000 --> 00:03:50,000
+Having, you will be working on a project
+
+116
+00:03:50,000 --> 00:03:52,000
+For the same, so you will have case studies
+
+117
+00:03:52,000 --> 00:03:54,000
+As well, the projects that
+
+118
+00:03:54,000 --> 00:03:56,000
+You will be working on, these projects
+
+119
+00:03:56,000 --> 00:03:58,000
+Will come from top organizations, so you will
+
+120
+00:03:58,000 --> 00:04:00,000
+Be working on industry requirements
+
+121
+00:04:00,000 --> 00:04:02,000
+Basically right from the very start
+
+122
+00:04:02,000 --> 00:04:04,000
+So, starting off
+
+123
+00:04:04,000 --> 00:04:06,000
+With the language, of course
+
+124
+00:04:06,000 --> 00:04:08,000
+Because Python would be
+
+125
+00:04:08,000 --> 00:04:10,000
+A non-negotiable skill
+
+126
+00:04:10,000 --> 00:04:12,000
+For DevOps, DevOps is here
+
+127
+00:04:12,000 --> 00:04:14,000
+Because it allows you to build your
+
+128
+00:04:14,000 --> 00:04:16,000
+Foundation essentially
+
+129
+00:04:16,000 --> 00:04:18,000
+And then DSA would be there
+
+130
+00:04:18,000 --> 00:04:20,000
+Which is very important
+
+131
+00:04:20,000 --> 00:04:22,000
+For your interviews, landing a job
+
+132
+00:04:22,000 --> 00:04:24,000
+In any product based company, you want
+
+133
+00:04:24,000 --> 00:04:26,000
+DSA with you
+
+134
+00:04:26,000 --> 00:04:28,000
+And Linux is something
+
+135
+00:04:28,000 --> 00:04:30,000
+That is your day to day job
+
+136
+00:04:30,000 --> 00:04:32,000
+So in Linux you have to go through
+
+137
+00:04:32,000 --> 00:04:34,000
+Linux, shell scripting, you have computer
+
+138
+00:04:34,000 --> 00:04:36,000
+Networks, operating systems, process
+
+139
+00:04:36,000 --> 00:04:38,000
+Management, and a lot of other stuff
+
+140
+00:04:38,000 --> 00:04:40,000
+As well, and then
+
+141
+00:04:40,000 --> 00:04:42,000
+And most important being your DevOps tools
+
+142
+00:04:44,000 --> 00:04:46,000
+So, DevOps tools consist of Docker
+
+143
+00:04:46,000 --> 00:04:48,000
+Ubilities, Jenkins, Terraform
+
+144
+00:04:48,000 --> 00:04:50,000
+You have Encible Chef
+
+145
+00:04:50,000 --> 00:04:52,000
+And Puppet, you have GitHub
+
+146
+00:04:52,000 --> 00:04:54,000
+Actions, and a lot more of course
+
+147
+00:04:54,000 --> 00:04:56,000
+And AWS is
+
+148
+00:04:56,000 --> 00:04:58,000
+Something you already have some experience in
+
+149
+00:04:58,000 --> 00:05:00,000
+Or you have been working on Azure
+
+150
+00:05:00,000 --> 00:05:02,000
+Azure, okay
+
+151
+00:05:02,000 --> 00:05:04,000
+So here you will be starting off with your AWS
+
+152
+00:05:04,000 --> 00:05:06,000
+Okay
+
+153
+00:05:06,000 --> 00:05:08,000
+It's most popular cloud provider actually
+
+154
+00:05:08,000 --> 00:05:10,000
+My company is being used as Azure
+
+155
+00:05:10,000 --> 00:05:12,000
+But AWS is more famous
+
+156
+00:05:12,000 --> 00:05:14,000
+Yes, exactly
+
+157
+00:05:14,000 --> 00:05:16,000
+And I believe you must be looking for
+
+158
+00:05:16,000 --> 00:05:18,000
+A very tier one organization on the other
+
+159
+00:05:18,000 --> 00:05:20,000
+Hand as well
+
+160
+00:05:20,000 --> 00:05:22,000
+Where you can develop your career
+
+161
+00:05:22,000 --> 00:05:24,000
+So, value growth would also
+
+162
+00:05:24,000 --> 00:05:26,000
+Be something in your mind I believe
+
+163
+00:05:26,000 --> 00:05:28,000
+Yes, yes
+
+164
+00:05:28,000 --> 00:05:30,000
+So scalable system, you must have all
+
+165
+00:05:30,000 --> 00:05:32,000
+The skills of the DevOps
+
+166
+00:05:32,000 --> 00:05:34,000
+And cloud computing tools
+
+167
+00:05:34,000 --> 00:05:36,000
+So with most companies have their software
+
+168
+00:05:36,000 --> 00:05:38,000
+And systems on cloud, definitely
+
+169
+00:05:38,000 --> 00:05:40,000
+Then you have EC2, ECS
+
+170
+00:05:40,000 --> 00:05:42,000
+EKS, and a lot of
+
+171
+00:05:42,000 --> 00:05:44,000
+Other stuff is there
+
+172
+00:05:44,000 --> 00:05:46,000
+And then you will go up
+
+173
+00:05:46,000 --> 00:05:48,000
+To the system design
+
+174
+00:05:48,000 --> 00:05:50,000
+System design, yes
+
+175
+00:05:50,000 --> 00:05:52,000
+That is also the most important thing
+
+176
+00:05:52,000 --> 00:05:54,000
+In product based companies
+
+177
+00:05:54,000 --> 00:05:56,000
+And since you will be
+
+178
+00:05:56,000 --> 00:05:58,000
+Starting off with the DSA
+
+179
+00:05:58,000 --> 00:06:00,000
+And now you have to go for the advanced DSA as well
+
+180
+00:06:00,000 --> 00:06:02,000
+Because DevOps
+
+181
+00:06:02,000 --> 00:06:04,000
+Is not only giving you the opportunity of
+
+182
+00:06:04,000 --> 00:06:06,000
+Getting into the DevOps role
+
+183
+00:06:06,000 --> 00:06:08,000
+It is a very broad spectrum
+
+184
+00:06:08,000 --> 00:06:10,000
+Getting into site reliability engineering
+
+185
+00:06:10,000 --> 00:06:12,000
+And later on you can even shift
+
+186
+00:06:12,000 --> 00:06:14,000
+To platform engineering as well
+
+187
+00:06:14,000 --> 00:06:16,000
+So you are not only bound to the DevOps role
+
+188
+00:06:16,000 --> 00:06:18,000
+You can get into DevOps, you can get into cloud
+
+189
+00:06:18,000 --> 00:06:20,000
+You can get into platform engineering
+
+190
+00:06:20,000 --> 00:06:22,000
+You can get into SRE
+
+191
+00:06:22,000 --> 00:06:24,000
+So you have a lot of options on the other hand as well
+
+192
+00:06:24,000 --> 00:06:26,000
+And it is a very high-level job
+
+193
+00:06:26,000 --> 00:06:28,000
+Can you just brief me about platform engineering
+
+194
+00:06:28,000 --> 00:06:30,000
+What is platform I never
+
+195
+00:06:30,000 --> 00:06:32,000
+Searched about
+
+196
+00:06:32,000 --> 00:06:34,000
+Platform engineering
+
+197
+00:06:34,000 --> 00:06:36,000
+So platform engineering is actually just the advanced version
+
+198
+00:06:36,000 --> 00:06:38,000
+Of your DevOps
+
+199
+00:06:38,000 --> 00:06:40,000
+So wherein
+
+200
+00:06:40,000 --> 00:06:42,000
+For DevOps
+
+201
+00:06:42,000 --> 00:06:44,000
+Role if you are going for any company
+
+202
+00:06:44,000 --> 00:06:46,000
+So even if you have
+
+203
+00:06:46,000 --> 00:06:48,000
+The information about all the
+
+204
+00:06:48,000 --> 00:06:50,000
+DevOps tool
+
+205
+00:06:50,000 --> 00:06:52,000
+That would be enough to land a job
+
+206
+00:06:52,000 --> 00:06:54,000
+But for platform engineering
+
+207
+00:06:54,000 --> 00:06:56,000
+It is much more broader
+
+208
+00:06:56,000 --> 00:06:58,000
+I mean a very deeper dive
+
+209
+00:06:58,000 --> 00:07:00,000
+Into the same
+
+210
+00:07:00,000 --> 00:07:02,000
+And your role in platform engineering
+
+211
+00:07:02,000 --> 00:07:04,000
+Would be most of
+
+212
+00:07:06,000 --> 00:07:08,000
+Do you have any friend who has been working
+
+213
+00:07:08,000 --> 00:07:10,000
+As a cloud engineer
+
+214
+00:07:10,000 --> 00:07:12,000
+Yes I have some friends
+
+215
+00:07:12,000 --> 00:07:14,000
+So it would be more of into
+
+216
+00:07:14,000 --> 00:07:16,000
+Infrastructure management
+
+217
+00:07:16,000 --> 00:07:18,000
+You have to design, implement
+
+218
+00:07:18,000 --> 00:07:20,000
+You have to maintain the scalable and reliable
+
+219
+00:07:20,000 --> 00:07:22,000
+Infrastructures
+
+220
+00:07:22,000 --> 00:07:24,000
+But some of the DevOps
+
+221
+00:07:24,000 --> 00:07:26,000
+Engineers also do
+
+222
+00:07:26,000 --> 00:07:28,000
+So using infrastructure that code
+
+223
+00:07:28,000 --> 00:07:30,000
+You must have heard of IAC
+
+224
+00:07:30,000 --> 00:07:32,000
+Yeah
+
+225
+00:07:32,000 --> 00:07:34,000
+Infrastructure as a service
+
+226
+00:07:34,000 --> 00:07:36,000
+So you have
+
+227
+00:07:36,000 --> 00:07:38,000
+Tools which you have already
+
+228
+00:07:38,000 --> 00:07:40,000
+Gotten the hands on experience in the DevOps
+
+229
+00:07:40,000 --> 00:07:42,000
+Like Terraform
+
+230
+00:07:42,000 --> 00:07:44,000
+You have cloud formation
+
+231
+00:07:44,000 --> 00:07:46,000
+Or you have Ansible to manage cloud
+
+232
+00:07:46,000 --> 00:07:48,000
+Or
+
+233
+00:07:48,000 --> 00:07:50,000
+On premises environments as well
+
+234
+00:07:50,000 --> 00:07:52,000
+And what your
+
+235
+00:07:52,000 --> 00:07:54,000
+More key responsibilities would be
+
+236
+00:07:54,000 --> 00:07:56,000
+Automation and CICD
+
+237
+00:07:56,000 --> 00:07:58,000
+CICD pipelines
+
+238
+00:07:58,000 --> 00:08:00,000
+So building and managing CICD pipelines
+
+239
+00:08:00,000 --> 00:08:02,000
+To enable smooth and fast deployments
+
+240
+00:08:02,000 --> 00:08:04,000
+Mostly
+
+241
+00:08:04,000 --> 00:08:06,000
+And you also have in platform engineering
+
+242
+00:08:06,000 --> 00:08:08,000
+You get tooling and services as well
+
+243
+00:08:08,000 --> 00:08:10,000
+So developing, maintaining internal
+
+244
+00:08:10,000 --> 00:08:12,000
+Tools and platforms
+
+245
+00:08:12,000 --> 00:08:14,000
+That other engineering teams might use
+
+246
+00:08:14,000 --> 00:08:16,000
+You must have heard of
+
+247
+00:08:16,000 --> 00:08:18,000
+Kubernetes clusters
+
+248
+00:08:18,000 --> 00:08:20,000
+Monitoring systems
+
+249
+00:08:20,000 --> 00:08:22,000
+AKS
+
+250
+00:08:22,000 --> 00:08:24,000
+So ensuring that
+
+251
+00:08:24,000 --> 00:08:26,000
+These tools and services are easy to use
+
+252
+00:08:26,000 --> 00:08:28,000
+Reliable and scalable
+
+253
+00:08:28,000 --> 00:08:30,000
+That would be your job as platform engineer
+
+254
+00:08:30,000 --> 00:08:32,000
+You have also a lot of other responsibilities
+
+255
+00:08:32,000 --> 00:08:34,000
+Like you have security and compliance
+
+256
+00:08:34,000 --> 00:08:36,000
+You have collaborations obviously
+
+257
+00:08:36,000 --> 00:08:38,000
+And for that
+
+258
+00:08:38,000 --> 00:08:40,000
+You would be already
+
+259
+00:08:40,000 --> 00:08:42,000
+Yes, yes, yes, please continue, continue please
+
+260
+00:08:42,000 --> 00:08:44,000
+I mean the skill set that you already
+
+261
+00:08:44,000 --> 00:08:46,000
+Carry you have a cloud expertise
+
+262
+00:08:46,000 --> 00:08:48,000
+Right, I mean into ICO
+
+263
+00:08:48,000 --> 00:08:50,000
+To be very true it is not
+
+264
+00:08:50,000 --> 00:08:52,000
+A very good experience
+
+265
+00:08:52,000 --> 00:08:54,000
+Because
+
+266
+00:08:54,000 --> 00:08:56,000
+I will tell you like
+
+267
+00:08:56,000 --> 00:08:58,000
+My job doesn't have anything
+
+268
+00:08:58,000 --> 00:09:00,000
+Concerned with the DevOps right now
+
+269
+00:09:00,000 --> 00:09:02,000
+Because it's been two years for me to
+
+270
+00:09:02,000 --> 00:09:04,000
+Doing a job and
+
+271
+00:09:04,000 --> 00:09:06,000
+All what I got from my
+
+272
+00:09:06,000 --> 00:09:08,000
+Company is only the
+
+273
+00:09:08,000 --> 00:09:10,000
+Administration part
+
+274
+00:09:10,000 --> 00:09:12,000
+Administration only the maintenance is there
+
+275
+00:09:12,000 --> 00:09:14,000
+Patching updates, server maintenance
+
+276
+00:09:14,000 --> 00:09:16,000
+Taking care of users, that's all
+
+277
+00:09:16,000 --> 00:09:18,000
+So very less exposure I see
+
+278
+00:09:18,000 --> 00:09:20,000
+Yes, very less exposure
+
+279
+00:09:20,000 --> 00:09:22,000
+As compared to cloud thing
+
+280
+00:09:22,000 --> 00:09:24,000
+Yes
+
+281
+00:09:24,000 --> 00:09:26,000
+For that we need, so how many month course
+
+282
+00:09:26,000 --> 00:09:28,000
+Will be this in Scalar
+
+283
+00:09:28,000 --> 00:09:30,000
+It depends actually we have three
+
+284
+00:09:30,000 --> 00:09:32,000
+Batches running
+
+285
+00:09:32,000 --> 00:09:34,000
+So three batches go as
+
+286
+00:09:34,000 --> 00:09:36,000
+Intermediate, beginner and advanced
+
+287
+00:09:36,000 --> 00:09:38,000
+So
+
+288
+00:09:38,000 --> 00:09:40,000
+When you decide to join Scalar
+
+289
+00:09:40,000 --> 00:09:42,000
+First of all you will be having an SAT
+
+290
+00:09:42,000 --> 00:09:44,000
+Which you know
+
+291
+00:09:44,000 --> 00:09:46,000
+Kind of an examination
+
+292
+00:09:46,000 --> 00:09:48,000
+Then we try to assess the skill set that
+
+293
+00:09:48,000 --> 00:09:50,000
+You get
+
+294
+00:09:50,000 --> 00:09:52,000
+So based upon that you will be assigned
+
+295
+00:09:52,000 --> 00:09:54,000
+The batch
+
+296
+00:09:54,000 --> 00:09:56,000
+So for example if you have a beginner batch
+
+297
+00:09:56,000 --> 00:09:58,000
+So beginner batch actually goes for a little longer
+
+298
+00:09:58,000 --> 00:10:00,000
+Longer that means more
+
+299
+00:10:00,000 --> 00:10:02,000
+Than 12 months
+
+300
+00:10:02,000 --> 00:10:04,000
+But if you talk about
+
+301
+00:10:04,000 --> 00:10:06,000
+Intermediate it goes two months less than the beginner
+
+302
+00:10:08,000 --> 00:10:10,000
+And if you are landing up into
+
+303
+00:10:10,000 --> 00:10:12,000
+You know advanced which would be actually
+
+304
+00:10:12,000 --> 00:10:14,000
+In a very high place
+
+305
+00:10:14,000 --> 00:10:16,000
+So that goes around 6 to 7 months
+
+306
+00:10:16,000 --> 00:10:18,000
+Ok
+
+307
+00:10:18,000 --> 00:10:20,000
+Now your placement opportunities would begin from 9th month
+
+308
+00:10:20,000 --> 00:10:22,000
+If you are landing up into either
+
+309
+00:10:22,000 --> 00:10:24,000
+Intermediate or beginner
+
+310
+00:10:24,000 --> 00:10:26,000
+8 to 9 months is
+
+311
+00:10:26,000 --> 00:10:28,000
+Your an ideal time
+
+312
+00:10:28,000 --> 00:10:30,000
+Because at that moment you will be ready
+
+313
+00:10:30,000 --> 00:10:32,000
+For two roles
+
+314
+00:10:32,000 --> 00:10:34,000
+You will be ready for the DevOps engineering
+
+315
+00:10:34,000 --> 00:10:36,000
+Part, you will be ready for platform engineering
+
+316
+00:10:36,000 --> 00:10:38,000
+As well
+
+317
+00:10:38,000 --> 00:10:40,000
+And later on if you are
+
+318
+00:10:40,000 --> 00:10:42,000
+Still upskilling yourself because your placement
+
+319
+00:10:42,000 --> 00:10:44,000
+Opportunities would remain with you
+
+320
+00:10:44,000 --> 00:10:46,000
+Even when you are done with the course
+
+321
+00:10:46,000 --> 00:10:48,000
+From that moment till 6 months from then on
+
+322
+00:10:48,000 --> 00:10:50,000
+Ok
+
+323
+00:10:50,000 --> 00:10:52,000
+It will be like 18 months program in which
+
+324
+00:10:52,000 --> 00:10:54,000
+12 months will be the beginner thing which you will be
+
+325
+00:10:54,000 --> 00:10:56,000
+Teaching us and 6 months will be
+
+326
+00:10:56,000 --> 00:10:58,000
+For searching out the jobs
+
+327
+00:10:58,000 --> 00:11:00,000
+I mean 6 months would be even if you have
+
+328
+00:11:00,000 --> 00:11:02,000
+A placement already
+
+329
+00:11:02,000 --> 00:11:04,000
+And later on if you want to have
+
+330
+00:11:04,000 --> 00:11:06,000
+Other organization for example you didn't like
+
+331
+00:11:06,000 --> 00:11:08,000
+The work culture or you know
+
+332
+00:11:08,000 --> 00:11:10,000
+It's not something that you are looking forward to
+
+333
+00:11:10,000 --> 00:11:12,000
+Then there is some other company because
+
+334
+00:11:12,000 --> 00:11:14,000
+Obviously the exposure would increase whenever you join
+
+335
+00:11:14,000 --> 00:11:16,000
+Any tier 1 organization
+
+336
+00:11:16,000 --> 00:11:18,000
+And you would get to know a lot of
+
+337
+00:11:18,000 --> 00:11:20,000
+Other things so then we have just one
+
+338
+00:11:20,000 --> 00:11:22,000
+Major criteria that has to be followed
+
+339
+00:11:22,000 --> 00:11:24,000
+That is
+
+340
+00:11:24,000 --> 00:11:26,000
+For example if you got in package of more than 16
+
+341
+00:11:26,000 --> 00:11:28,000
+Or 17 LPA
+
+342
+00:11:28,000 --> 00:11:30,000
+The next package that
+
+343
+00:11:30,000 --> 00:11:32,000
+You can apply for should be
+
+344
+00:11:32,000 --> 00:11:34,000
+1.6 times greater than the previous offer
+
+345
+00:11:34,000 --> 00:11:36,000
+That's the only great thing
+
+346
+00:11:36,000 --> 00:11:38,000
+Because we also have
+
+347
+00:11:38,000 --> 00:11:40,000
+You know
+
+348
+00:11:40,000 --> 00:11:42,000
+I would say an opportunity to give to all
+
+349
+00:11:42,000 --> 00:11:44,000
+So that's why we have
+
+350
+00:11:44,000 --> 00:11:46,000
+This criteria so that you know we can have
+
+351
+00:11:46,000 --> 00:11:48,000
+That fair play among the candidates
+
+352
+00:11:50,000 --> 00:11:52,000
+And you look though
+
+353
+00:11:52,000 --> 00:11:54,000
+I guess the most important criteria
+
+354
+00:11:54,000 --> 00:11:56,000
+For you should would be
+
+355
+00:11:56,000 --> 00:11:58,000
+First of all if you want to move
+
+356
+00:11:58,000 --> 00:12:00,000
+Into the expectations obviously
+
+357
+00:12:00,000 --> 00:12:02,000
+What sort of you know
+
+358
+00:12:02,000 --> 00:12:04,000
+Compensation would you be looking forward to
+
+359
+00:12:04,000 --> 00:12:06,000
+First thing the other thing
+
+360
+00:12:06,000 --> 00:12:08,000
+The organizations that you are looking
+
+361
+00:12:08,000 --> 00:12:10,000
+Forward to what is your dream company
+
+362
+00:12:10,000 --> 00:12:12,000
+Right now
+
+363
+00:12:12,000 --> 00:12:14,000
+And how much of a time commitment
+
+364
+00:12:14,000 --> 00:12:16,000
+Can you give
+
+365
+00:12:16,000 --> 00:12:18,000
+As per if you talk about in a day because as
+
+366
+00:12:18,000 --> 00:12:20,000
+A professional a working professional we
+
+367
+00:12:20,000 --> 00:12:22,000
+Cannot expect you to
+
+368
+00:12:22,000 --> 00:12:24,000
+Lend up 6 or 7 hours
+
+369
+00:12:24,000 --> 00:12:26,000
+Or maybe 4 hours in a day
+
+370
+00:12:26,000 --> 00:12:28,000
+Right it's not possible
+
+371
+00:12:28,000 --> 00:12:30,000
+So we need a time commitment of at least 2 hours
+
+372
+00:12:30,000 --> 00:12:32,000
+2 or 2 and a half hours per day
+
+373
+00:12:32,000 --> 00:12:34,000
+That makes a time commitment of
+
+374
+00:12:34,000 --> 00:12:36,000
+14 hours in a week
+
+375
+00:12:36,000 --> 00:12:38,000
+Yes
+
+376
+00:12:38,000 --> 00:12:40,000
+I'm understanding
+
+377
+00:12:40,000 --> 00:12:42,000
+So what will
+
+378
+00:12:42,000 --> 00:12:44,000
+The cost for this thing
+
+379
+00:12:44,000 --> 00:12:46,000
+What will be the cost
+
+380
+00:12:46,000 --> 00:12:48,000
+Like what will be the cost
+
+381
+00:12:48,000 --> 00:12:50,000
+The total cost if you see without scholarship
+
+382
+00:12:50,000 --> 00:12:52,000
+It goes around 3.69 lakhs
+
+383
+00:12:52,000 --> 00:12:54,000
+Okay
+
+384
+00:12:54,000 --> 00:12:56,000
+And how exactly it has to be paid is
+
+385
+00:12:56,000 --> 00:12:58,000
+You have an registration amount of 20
+
+386
+00:12:58,000 --> 00:13:00,000
+Okay
+
+387
+00:13:00,000 --> 00:13:02,000
+So after we give you full information about
+
+388
+00:13:02,000 --> 00:13:04,000
+Scaler because you have a lot of
+
+389
+00:13:04,000 --> 00:13:06,000
+Rounds actually before getting into
+
+390
+00:13:06,000 --> 00:13:08,000
+Scaler you have an entrance test which
+
+391
+00:13:08,000 --> 00:13:10,000
+Comprises of problem solving skills
+
+392
+00:13:10,000 --> 00:13:12,000
+So which we anyway suggest you to take
+
+393
+00:13:12,000 --> 00:13:14,000
+It's not only just because you know you want to
+
+394
+00:13:14,000 --> 00:13:16,000
+Get into Scaler so you have to take it
+
+395
+00:13:16,000 --> 00:13:18,000
+It's to analyze where exactly you stand in the market
+
+396
+00:13:18,000 --> 00:13:20,000
+And for us it is more of
+
+397
+00:13:20,000 --> 00:13:22,000
+To providing your scholarship
+
+398
+00:13:22,000 --> 00:13:24,000
+And based upon the examination
+
+399
+00:13:24,000 --> 00:13:26,000
+We also try to assess where exactly you
+
+400
+00:13:26,000 --> 00:13:28,000
+Stand and what skills do we have
+
+401
+00:13:28,000 --> 00:13:30,000
+To work more upon
+
+402
+00:13:30,000 --> 00:13:32,000
+Got it
+
+403
+00:13:32,000 --> 00:13:34,000
+So out of curiosity
+
+404
+00:13:34,000 --> 00:13:36,000
+I'm asking
+
+405
+00:13:36,000 --> 00:13:38,000
+So actually I'm little bit
+
+406
+00:13:38,000 --> 00:13:40,000
+Lack of knowledge
+
+407
+00:13:40,000 --> 00:13:42,000
+That's why I'm asking
+
+408
+00:13:42,000 --> 00:13:44,000
+So you have many other courses
+
+409
+00:13:44,000 --> 00:13:46,000
+Data science, data analyst, data engineer
+
+410
+00:13:46,000 --> 00:13:48,000
+Yeah yeah exactly
+
+411
+00:13:48,000 --> 00:13:50,000
+We have data science
+
+412
+00:13:50,000 --> 00:13:52,000
+Which is ESM
+
+413
+00:13:52,000 --> 00:13:54,000
+Where you have the data analytics and data
+
+414
+00:13:54,000 --> 00:13:56,000
+Scientist option
+
+415
+00:13:56,000 --> 00:13:58,000
+We have full stack
+
+416
+00:13:58,000 --> 00:14:00,000
+Back and front end
+
+417
+00:14:00,000 --> 00:14:02,000
+Okay
+
+418
+00:14:02,000 --> 00:14:04,000
+And full stack is also like
+
+419
+00:14:04,000 --> 00:14:06,000
+6 months, 7 months thing
+
+420
+00:14:06,000 --> 00:14:08,000
+Yeah it's almost the same the time duration
+
+421
+00:14:08,000 --> 00:14:10,000
+Like we have 3 batches among all of them
+
+422
+00:14:10,000 --> 00:14:12,000
+Yeah okay no actually
+
+423
+00:14:12,000 --> 00:14:14,000
+For full stack actually
+
+424
+00:14:14,000 --> 00:14:16,000
+One of my
+
+425
+00:14:16,000 --> 00:14:18,000
+Cousin wants to be there and he's just
+
+426
+00:14:18,000 --> 00:14:20,000
+Newbie like he's in 3rd year right now
+
+427
+00:14:20,000 --> 00:14:22,000
+Okay
+
+428
+00:14:22,000 --> 00:14:24,000
+3rd year
+
+429
+00:14:24,000 --> 00:14:26,000
+By the time he finish
+
+430
+00:14:26,000 --> 00:14:28,000
+He's starting in 3rd year
+
+431
+00:14:28,000 --> 00:14:30,000
+Yes
+
+432
+00:14:30,000 --> 00:14:32,000
+Then it's not possible for him to join skill
+
+433
+00:14:32,000 --> 00:14:34,000
+Yeah so it will be like
+
+434
+00:14:34,000 --> 00:14:36,000
+After 1 year he can join
+
+435
+00:14:36,000 --> 00:14:38,000
+Yeah after 1 year he can join
+
+436
+00:14:38,000 --> 00:14:40,000
+Because right now even if he wants to take
+
+437
+00:14:40,000 --> 00:14:42,000
+Up the course he will up skill
+
+438
+00:14:42,000 --> 00:14:44,000
+Because obviously the things that we learn at college
+
+439
+00:14:44,000 --> 00:14:46,000
+And the things that are industry level
+
+440
+00:14:46,000 --> 00:14:48,000
+Are very different
+
+441
+00:14:48,000 --> 00:14:50,000
+So here
+
+442
+00:14:50,000 --> 00:14:52,000
+Things are very industry specific
+
+443
+00:14:52,000 --> 00:14:54,000
+Even the projects you work on
+
+444
+00:14:54,000 --> 00:14:56,000
+The teacher you know the
+
+445
+00:14:56,000 --> 00:14:58,000
+Teacher you are from Google
+
+446
+00:14:58,000 --> 00:15:00,000
+From Microsoft
+
+447
+00:15:00,000 --> 00:15:02,000
+So it would be
+
+448
+00:15:02,000 --> 00:15:04,000
+Yeah I saw that everything
+
+449
+00:15:04,000 --> 00:15:06,000
+Actually one of two of my friend
+
+450
+00:15:06,000 --> 00:15:08,000
+They are twin sisters
+
+451
+00:15:08,000 --> 00:15:10,000
+They are studying from scalar from past 1 year
+
+452
+00:15:10,000 --> 00:15:12,000
+They are in Bangalore right now
+
+453
+00:15:12,000 --> 00:15:14,000
+Yeah yeah so
+
+454
+00:15:14,000 --> 00:15:16,000
+They must have gotten the opportunity already
+
+455
+00:15:16,000 --> 00:15:18,000
+From 9 months onwards
+
+456
+00:15:18,000 --> 00:15:20,000
+Actually right now they did not got because
+
+457
+00:15:20,000 --> 00:15:22,000
+They went to the interview
+
+458
+00:15:22,000 --> 00:15:24,000
+But there are 6
+
+459
+00:15:24,000 --> 00:15:26,000
+They have a 5 year gap
+
+460
+00:15:26,000 --> 00:15:28,000
+Because they were preparing for UPSC exams
+
+461
+00:15:28,000 --> 00:15:30,000
+Oh okay
+
+462
+00:15:30,000 --> 00:15:32,000
+Yeah because they were
+
+463
+00:15:32,000 --> 00:15:34,000
+Preparing for UPSC exams
+
+464
+00:15:34,000 --> 00:15:36,000
+So out of a sudden
+
+465
+00:15:36,000 --> 00:15:38,000
+When they were not able to take
+
+466
+00:15:38,000 --> 00:15:40,000
+So they came back to scalar
+
+467
+00:15:40,000 --> 00:15:42,000
+Yeah I mean there are lot of success stories
+
+468
+00:15:42,000 --> 00:15:44,000
+When people have even more than 8 years of gap
+
+469
+00:15:44,000 --> 00:15:46,000
+I mean I have a success story wherein a person
+
+470
+00:15:46,000 --> 00:15:48,000
+Got into book my show after 7 years of gap
+
+471
+00:15:48,000 --> 00:15:50,000
+Yeah yeah
+
+472
+00:15:50,000 --> 00:15:52,000
+I mean companies are only looking after your skills
+
+473
+00:15:52,000 --> 00:15:54,000
+Not about your age
+
+474
+00:15:54,000 --> 00:15:56,000
+Nothing else
+
+475
+00:15:56,000 --> 00:15:58,000
+It's just the skill set that you carry
+
+476
+00:15:58,000 --> 00:16:00,000
+The skills that you bring on the table
+
+477
+00:16:00,000 --> 00:16:02,000
+Because you bring profit to them
+
+478
+00:16:02,000 --> 00:16:04,000
+That's the only thing that they look at
+
+479
+00:16:04,000 --> 00:16:06,000
+So definitely I will let you know
+
+480
+00:16:06,000 --> 00:16:08,000
+I will search it out
+
+481
+00:16:08,000 --> 00:16:10,000
+Something more things which are suitable for me
+
+482
+00:16:10,000 --> 00:16:12,000
+I will do one thing
+
+483
+00:16:12,000 --> 00:16:14,000
+I will be sending you across the research items for the same
+
+484
+00:16:14,000 --> 00:16:16,000
+So right now I will
+
+485
+00:16:16,000 --> 00:16:18,000
+Can you just send me for data analyst and data scientist also please
+
+486
+00:16:18,000 --> 00:16:20,000
+Data analyst and scientist
+
+487
+00:16:20,000 --> 00:16:22,000
+Yeah for sure
+
+488
+00:16:22,000 --> 00:16:24,000
+I mean I can suggest you
+
+489
+00:16:24,000 --> 00:16:26,000
+I am actually a career counselor at scalar
+
+490
+00:16:26,000 --> 00:16:28,000
+So if you could just help me out
+
+491
+00:16:28,000 --> 00:16:30,000
+With one thing before
+
+492
+00:16:30,000 --> 00:16:32,000
+Sending you the research items of the data science
+
+493
+00:16:32,000 --> 00:16:34,000
+Sure
+
+494
+00:16:34,000 --> 00:16:36,000
+So do you have any coding
+
+495
+00:16:36,000 --> 00:16:38,000
+Experience in the past
+
+496
+00:16:38,000 --> 00:16:40,000
+That's what like from past 2 and a half
+
+497
+00:16:40,000 --> 00:16:42,000
+In my company I am not doing any coding
+
+498
+00:16:42,000 --> 00:16:44,000
+You are not doing any coding
+
+499
+00:16:44,000 --> 00:16:46,000
+And because of some personal
+
+500
+00:16:46,000 --> 00:16:48,000
+Reasons I am stuck in this company
+
+501
+00:16:48,000 --> 00:16:50,000
+I would have studied something else
+
+502
+00:16:50,000 --> 00:16:52,000
+Or shifted to
+
+503
+00:16:52,000 --> 00:16:54,000
+New jobs but because of personal
+
+504
+00:16:54,000 --> 00:16:56,000
+Reason I was not able to move it
+
+505
+00:16:56,000 --> 00:16:58,000
+From this company
+
+506
+00:16:58,000 --> 00:17:00,000
+So I have some
+
+507
+00:17:00,000 --> 00:17:02,000
+Responsibility so I was stuck in this
+
+508
+00:17:02,000 --> 00:17:04,000
+So I thought that
+
+509
+00:17:04,000 --> 00:17:06,000
+Coding will be coming
+
+510
+00:17:06,000 --> 00:17:08,000
+After like 2 months 3 months
+
+511
+00:17:08,000 --> 00:17:10,000
+But now it's been 2-2.5 years now
+
+512
+00:17:10,000 --> 00:17:12,000
+Starting nothing
+
+513
+00:17:12,000 --> 00:17:14,000
+So I have done my coding
+
+514
+00:17:14,000 --> 00:17:16,000
+In the last 2021 December
+
+515
+00:17:16,000 --> 00:17:18,000
+Till my college
+
+516
+00:17:18,000 --> 00:17:20,000
+You have the basic understanding
+
+517
+00:17:20,000 --> 00:17:22,000
+Yes yes I have basic understanding
+
+518
+00:17:22,000 --> 00:17:24,000
+Of C, C++ I know about
+
+519
+00:17:24,000 --> 00:17:26,000
+DSA I know about everything
+
+520
+00:17:26,000 --> 00:17:28,000
+Sorting, searching
+
+521
+00:17:28,000 --> 00:17:30,000
+Binary trees
+
+522
+00:17:30,000 --> 00:17:32,000
+Loops everything I know
+
+523
+00:17:32,000 --> 00:17:34,000
+I know like
+
+524
+00:17:34,000 --> 00:17:36,000
+Actually in 12th
+
+525
+00:17:36,000 --> 00:17:38,000
+I have computer science as my fifth subject
+
+526
+00:17:38,000 --> 00:17:40,000
+From CVSC board
+
+527
+00:17:40,000 --> 00:17:42,000
+So I have
+
+528
+00:17:42,000 --> 00:17:44,000
+DSA clarity
+
+529
+00:17:44,000 --> 00:17:46,000
+But it is out of touch from past 2 years
+
+530
+00:17:46,000 --> 00:17:48,000
+I mean 2 years is not a huge gap
+
+531
+00:17:48,000 --> 00:17:50,000
+If I see
+
+532
+00:17:50,000 --> 00:17:52,000
+I can show you a profile where people have
+
+533
+00:17:52,000 --> 00:17:54,000
+Even like you know people have come from
+
+534
+00:17:54,000 --> 00:17:56,000
+Different areas like finance
+
+535
+00:17:56,000 --> 00:17:58,000
+To scalar and they have
+
+536
+00:17:58,000 --> 00:18:00,000
+Gotten the opportunity in tier 1 organizations
+
+537
+00:18:00,000 --> 00:18:02,000
+You will get the right
+
+538
+00:18:02,000 --> 00:18:04,000
+Guidance for the same but what matters
+
+539
+00:18:04,000 --> 00:18:06,000
+The most is what is your interest
+
+540
+00:18:06,000 --> 00:18:08,000
+And if you are going for data science
+
+541
+00:18:08,000 --> 00:18:10,000
+I would suggest to you first of all
+
+542
+00:18:10,000 --> 00:18:12,000
+If your
+
+543
+00:18:12,000 --> 00:18:14,000
+If your maths is very good
+
+544
+00:18:14,000 --> 00:18:16,000
+I mean if you are very good at maths
+
+545
+00:18:16,000 --> 00:18:18,000
+And if maths is something that does interest you
+
+546
+00:18:18,000 --> 00:18:20,000
+Then obviously DS
+
+547
+00:18:20,000 --> 00:18:22,000
+Would be something really great for you
+
+548
+00:18:22,000 --> 00:18:24,000
+Because it is all about machine learning
+
+549
+00:18:24,000 --> 00:18:26,000
+In the end because you know data
+
+550
+00:18:26,000 --> 00:18:28,000
+Analytics is just a sub part of data scientists
+
+551
+00:18:28,000 --> 00:18:30,000
+So you can
+
+552
+00:18:30,000 --> 00:18:32,000
+Have a data
+
+553
+00:18:32,000 --> 00:18:34,000
+Analytics job which would be paid
+
+554
+00:18:34,000 --> 00:18:36,000
+Among like 12th to 15th range
+
+555
+00:18:36,000 --> 00:18:38,000
+And later on
+
+556
+00:18:38,000 --> 00:18:40,000
+You have data scientists which is very much highly
+
+557
+00:18:40,000 --> 00:18:42,000
+Paid the advanced version of data
+
+558
+00:18:42,000 --> 00:18:44,000
+Analytics you can see
+
+559
+00:18:44,000 --> 00:18:46,000
+So you are saying like for data science
+
+560
+00:18:46,000 --> 00:18:48,000
+And data analyst maths should be
+
+561
+00:18:48,000 --> 00:18:50,000
+A good part
+
+562
+00:18:50,000 --> 00:18:52,000
+Yeah maths play a very good knowledge
+
+563
+00:18:52,000 --> 00:18:54,000
+Yeah maths play a very crucial role
+
+564
+00:18:54,000 --> 00:18:56,000
+So you are talking about the simple maths
+
+565
+00:18:56,000 --> 00:18:58,000
+Or the engineering maths
+
+566
+00:18:58,000 --> 00:19:00,000
+Engineering maths
+
+567
+00:19:00,000 --> 00:19:02,000
+Not the simple
+
+568
+00:19:02,000 --> 00:19:04,000
+I mean for engineering because
+
+569
+00:19:04,000 --> 00:19:06,000
+You know your data analytics
+
+570
+00:19:06,000 --> 00:19:08,000
+Part would be something that would be
+
+571
+00:19:08,000 --> 00:19:10,000
+Manageable for you
+
+572
+00:19:10,000 --> 00:19:12,000
+But when you are going for up in the hierarchy
+
+573
+00:19:12,000 --> 00:19:14,000
+You have to go for machine learning
+
+574
+00:19:14,000 --> 00:19:16,000
+Yes yes
+
+575
+00:19:16,000 --> 00:19:18,000
+So if I just give you some idea
+
+576
+00:19:18,000 --> 00:19:20,000
+Of it's mostly classification
+
+577
+00:19:20,000 --> 00:19:22,000
+Hyperplanes, half spaces, calculus
+
+578
+00:19:22,000 --> 00:19:24,000
+Optimization or
+
+579
+00:19:24,000 --> 00:19:26,000
+Gradient descent
+
+580
+00:19:26,000 --> 00:19:28,000
+You have principal component analysis
+
+581
+00:19:28,000 --> 00:19:30,000
+So these topics
+
+582
+00:19:30,000 --> 00:19:32,000
+Yeah
+
+583
+00:19:32,000 --> 00:19:34,000
+So these topics are very important
+
+584
+00:19:34,000 --> 00:19:36,000
+You know getting into data analytics
+
+585
+00:19:36,000 --> 00:19:38,000
+So if maths comforts you then fine
+
+586
+00:19:38,000 --> 00:19:40,000
+I mean you can get along with that
+
+587
+00:19:40,000 --> 00:19:42,000
+But if maths is a difficult part
+
+588
+00:19:42,000 --> 00:19:44,000
+Then I won't suggest you that
+
+589
+00:19:46,000 --> 00:19:48,000
+Okay if maths is not a good part
+
+590
+00:19:48,000 --> 00:19:50,000
+Then I should go for DevOps right?
+
+591
+00:19:50,000 --> 00:19:52,000
+Yeah yeah then DevOps is definitely
+
+592
+00:19:52,000 --> 00:19:54,000
+Because DevOps is more of working with the tools
+
+593
+00:19:54,000 --> 00:19:56,000
+So you have to master
+
+594
+00:19:56,000 --> 00:19:58,000
+Yourself with the tools itself
+
+595
+00:19:58,000 --> 00:20:00,000
+But here you should be
+
+596
+00:20:00,000 --> 00:20:02,000
+Good with maths because
+
+597
+00:20:02,000 --> 00:20:04,000
+Obviously you are playing with the data here
+
+598
+00:20:04,000 --> 00:20:06,000
+So a lot of equations you have to use
+
+599
+00:20:06,000 --> 00:20:08,000
+While you know
+
+600
+00:20:08,000 --> 00:20:10,000
+Driving the data out
+
+601
+00:20:10,000 --> 00:20:12,000
+Making the classifications
+
+602
+00:20:12,000 --> 00:20:14,000
+Managing the data you want the
+
+603
+00:20:14,000 --> 00:20:16,000
+Classifications with you
+
+604
+00:20:18,000 --> 00:20:20,000
+Got it yeah
+
+605
+00:20:20,000 --> 00:20:22,000
+So can you give me some time I will save your number
+
+606
+00:20:22,000 --> 00:20:24,000
+I will call you back
+
+607
+00:20:24,000 --> 00:20:26,000
+My name is Asif
+
+608
+00:20:26,000 --> 00:20:28,000
+Asif
+
+609
+00:20:28,000 --> 00:20:30,000
+Yeah for sure
+
+610
+00:20:30,000 --> 00:20:32,000
+Yes definitely
+
+611
+00:20:32,000 --> 00:20:34,000
+I am a career counselor
+
+612
+00:20:34,000 --> 00:20:36,000
+Yes yes I am a career counselor
+
+613
+00:20:36,000 --> 00:20:38,000
+Career counselor and you
+
+614
+00:20:38,000 --> 00:20:40,000
+Are from Delhi or somewhere else
+
+615
+00:20:40,000 --> 00:20:42,000
+No no from Bangalore itself
+
+616
+00:20:42,000 --> 00:20:44,000
+Oh fine
+
+617
+00:20:44,000 --> 00:20:46,000
+Actually the scaler's office is at Bangalore
+
+618
+00:20:46,000 --> 00:20:48,000
+Okay Delhi in Delhi it is a
+
+619
+00:20:48,000 --> 00:20:50,000
+Subpart I think right
+
+620
+00:20:50,000 --> 00:20:52,000
+I believe like
+
+621
+00:20:52,000 --> 00:20:54,000
+I am not pretty sure if we have a subpart at Delhi
+
+622
+00:20:54,000 --> 00:20:56,000
+Okay but it could be
+
+623
+00:20:56,000 --> 00:20:58,000
+I just know about the Hyderabad and
+
+624
+00:20:58,000 --> 00:21:00,000
+Bangalore
+
+625
+00:21:00,000 --> 00:21:02,000
+So I can reach to this number right
+
+626
+00:21:02,000 --> 00:21:04,000
+Yes I will be sending you all the details
+
+627
+00:21:04,000 --> 00:21:06,000
+About your mail today I mean now itself
+
+628
+00:21:06,000 --> 00:21:08,000
+And I want you to take the
+
+629
+00:21:08,000 --> 00:21:10,000
+You know the assessment it is
+
+630
+00:21:10,000 --> 00:21:12,000
+It will take you probably 15 to 20 minutes
+
+631
+00:21:12,000 --> 00:21:14,000
+I will give you a slot of
+
+632
+00:21:14,000 --> 00:21:16,000
+You know before
+
+633
+00:21:16,000 --> 00:21:18,000
+7.30 you can take it up today
+
+634
+00:21:18,000 --> 00:21:20,000
+Any 15 to 20 minutes you can take it up
+
+635
+00:21:20,000 --> 00:21:22,000
+Actually I have my job starting from
+
+636
+00:21:22,000 --> 00:21:24,000
+2 o'clock right now and it will go
+
+637
+00:21:24,000 --> 00:21:26,000
+For 10 so can we
+
+638
+00:21:26,000 --> 00:21:28,000
+Like can we collect more on Saturday
+
+639
+00:21:28,000 --> 00:21:30,000
+Tomorrow Saturday
+
+640
+00:21:30,000 --> 00:21:32,000
+You mean
+
+641
+00:21:32,000 --> 00:21:34,000
+Oh yeah Saturday Saturday alright
+
+642
+00:21:34,000 --> 00:21:36,000
+Till then you can have a very thorough research
+
+643
+00:21:36,000 --> 00:21:38,000
+Yes yes and Saturday is like
+
+644
+00:21:38,000 --> 00:21:40,000
+You have working on Saturday
+
+645
+00:21:40,000 --> 00:21:42,000
+Yeah we have actually Tuesday
+
+646
+00:21:42,000 --> 00:21:44,000
+Mondays and Tuesdays are all first
+
+647
+00:21:44,000 --> 00:21:46,000
+Okay fine fine fine
+
+648
+00:21:46,000 --> 00:21:48,000
+So I will probably connect you on
+
+649
+00:21:48,000 --> 00:21:50,000
+Saturday I think
+
+650
+00:21:50,000 --> 00:21:52,000
+Yeah anytime on Saturday is fine
+
+651
+00:21:52,000 --> 00:21:54,000
+I will be sending you across the research items
+
+652
+00:21:54,000 --> 00:21:56,000
+I just want you to have a very thorough research before you connect
+
+653
+00:21:56,000 --> 00:21:58,000
+Yes yes sure sure
+
+654
+00:21:58,000 --> 00:22:00,000
+Alright Mr. Shastri great talking to you and I wish you
+
+655
+00:22:00,000 --> 00:22:02,000
+Best of luck
+
+656
+00:22:02,000 --> 00:22:04,000
+Thank you so much for giving your time to me
+
+657
+00:22:04,000 --> 00:22:06,000
+Excellent
+
+658
+00:22:06,000 --> 00:22:08,000
+One more thing sorry I forgot to ask
+
+659
+00:22:08,000 --> 00:22:10,000
+The you know
+
+660
+00:22:10,000 --> 00:22:12,000
+Expectations of you
+
+661
+00:22:12,000 --> 00:22:14,000
+I mean you know I asked
+
+662
+00:22:14,000 --> 00:22:16,000
+Actually I have
+
+663
+00:22:16,000 --> 00:22:18,000
+I don't want to like my expectation
+
+664
+00:22:18,000 --> 00:22:20,000
+Is right now the knowledge part
+
+665
+00:22:20,000 --> 00:22:22,000
+And the skills part which I will be gaining from
+
+666
+00:22:22,000 --> 00:22:24,000
+A skill
+
+667
+00:22:24,000 --> 00:22:26,000
+Because I don't want to
+
+668
+00:22:26,000 --> 00:22:28,000
+Stuck right now for money
+
+669
+00:22:28,000 --> 00:22:30,000
+Yeah money is important
+
+670
+00:22:30,000 --> 00:22:32,000
+Yeah but right now I have
+
+671
+00:22:32,000 --> 00:22:34,000
+To take a step towards skills
+
+672
+00:22:34,000 --> 00:22:36,000
+Definitely
+
+673
+00:22:36,000 --> 00:22:38,000
+Which is beneficial and make money
+
+674
+00:22:38,000 --> 00:22:40,000
+Definitely which will actually help you to make
+
+675
+00:22:40,000 --> 00:22:42,000
+Money in the future and right now how much
+
+676
+00:22:42,000 --> 00:22:44,000
+Are you drawing
+
+677
+00:22:44,000 --> 00:22:46,000
+It's around like how much I am
+
+678
+00:22:46,000 --> 00:22:48,000
+Paying like
+
+679
+00:22:48,000 --> 00:22:50,000
+Yeah your CTC
+
+680
+00:22:50,000 --> 00:22:52,000
+6.57
+
+681
+00:22:52,000 --> 00:22:54,000
+Alright thank you Mr. Shastri
+
+682
+00:22:54,000 --> 00:22:56,000
+Thank you
+
+683
+00:22:56,000 --> 00:22:58,000
+Have a nice day
+

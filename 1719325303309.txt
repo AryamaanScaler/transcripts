@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:06,080
+Hello, I'm speaking to Prateek. Yes ma'am. Prateek Anjali here calling you from Scalier
+
+2
+00:00:06,080 --> 00:00:12,920
+Academy from the Learner Success Team. Hi, how are you? Okay. Yeah, I'm doing fine. Great,
+
+3
+00:00:12,920 --> 00:00:17,600
+okay. I'm good. Okay, I just need you 15 to 20 minutes if you're available now to complete
+
+4
+00:00:17,600 --> 00:00:26,160
+your onboarding process. Are you outside somewhere? I'm outside ma'am. Okay. At my place, yeah.
+
+5
+00:00:26,160 --> 00:00:31,160
+At what time will be reaching back to your home? No idea ma'am, but I will definitely
+
+6
+00:00:31,160 --> 00:00:36,440
+ping you once I reach. Sure, sure. Would work. Okay, thank you. Yes, yeah.
+

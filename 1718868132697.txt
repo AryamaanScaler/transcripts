@@ -1,0 +1,1504 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:06,000
+Hi Samoy, I'm really sorry I was not able to pick you up
+
+3
+00:00:06,000 --> 00:00:10,000
+Hi Anuj, how are you? That's okay, no issues
+
+4
+00:00:10,000 --> 00:00:15,000
+I was kind of busy, I was there with service with my issue
+
+5
+00:00:15,000 --> 00:00:17,000
+We did some official work
+
+6
+00:00:17,000 --> 00:00:22,000
+Okay, no worries sir, I think on Sunday later you wanted to reach out to me right? I was unavailable
+
+7
+00:00:22,000 --> 00:00:27,000
+So just last few days I was on week off and leave also
+
+8
+00:00:27,000 --> 00:00:29,000
+So that's okay, we can talk now right?
+
+9
+00:00:29,000 --> 00:00:31,000
+Yeah, we can talk
+
+10
+00:00:31,000 --> 00:00:35,000
+So Anuj, first of all, very warm welcome to Scalar Academy
+
+11
+00:00:35,000 --> 00:00:36,000
+Thank you
+
+12
+00:00:36,000 --> 00:00:41,000
+Yeah, so I'm a learner success manager here and I'll be helping you with the onboarding process
+
+13
+00:00:41,000 --> 00:00:43,000
+Okay
+
+14
+00:00:43,000 --> 00:00:49,000
+So Anuj, few details first thing I wanted to confirm with you before I reach out to my team to build your profile
+
+15
+00:00:49,000 --> 00:00:53,000
+So you've enrolled here for the software development program, correct?
+
+16
+00:00:53,000 --> 00:00:55,000
+Sorry, data science and machine learning program
+
+17
+00:00:55,000 --> 00:00:57,000
+Data science and machine learning, yeah
+
+18
+00:00:57,000 --> 00:00:58,000
+Yeah, I know that
+
+19
+00:00:58,000 --> 00:01:04,000
+So your registered Google account here is pandya.anuj at gmail.net
+
+20
+00:01:04,000 --> 00:01:05,000
+At gmail, yeah
+
+21
+00:01:05,000 --> 00:01:08,000
+And this is the registered mobile number where we're talking?
+
+22
+00:01:08,000 --> 00:01:09,000
+Yes
+
+23
+00:01:09,000 --> 00:01:13,000
+Okay, same on WhatsApp?
+
+24
+00:01:13,000 --> 00:01:15,000
+Yeah, same on WhatsApp
+
+25
+00:01:15,000 --> 00:01:19,000
+Okay, Anuj, what is your residential PIN code as of now?
+
+26
+00:01:19,000 --> 00:01:26,000
+Residential PIN code, so my permanent address is in Dhanpur, the PIN code is 20802
+
+27
+00:01:26,000 --> 00:01:29,000
+20802
+
+28
+00:01:29,000 --> 00:01:31,000
+Okay
+
+29
+00:01:31,000 --> 00:01:34,000
+Which company are you employed in, Anuj?
+
+30
+00:01:34,000 --> 00:01:40,000
+I'm working with Sint, it's a market research company based on stock homes
+
+31
+00:01:40,000 --> 00:01:47,000
+And there's a partner company, sorry, a child company which goes by the name of Richard Holdings
+
+32
+00:01:47,000 --> 00:01:49,000
+So that is registered in India
+
+33
+00:01:49,000 --> 00:01:53,000
+But I'm working remotely, I'm under the payroll of Sint
+
+34
+00:01:53,000 --> 00:02:02,000
+And recently there was a merger between Sint and Lucid, so that's why now my pay clips are coming under the name of Lucid Holdings
+
+35
+00:02:02,000 --> 00:02:04,000
+Okay, okay
+
+36
+00:02:04,000 --> 00:02:05,000
+And currently...
+
+37
+00:02:05,000 --> 00:02:07,000
+I was working like a contractual basis
+
+38
+00:02:07,000 --> 00:02:09,000
+Contractual basis, okay
+
+39
+00:02:09,000 --> 00:02:13,000
+Yeah, initially I was working like for six months I was working on contract
+
+40
+00:02:13,000 --> 00:02:20,000
+Then I was observed in the Sint, but there was still payroll issues regarding
+
+41
+00:02:21,000 --> 00:02:31,000
+The things were not under Indian policies of taxation, so they merged with a company there in India which is Lucid Holdings
+
+42
+00:02:31,000 --> 00:02:35,000
+Which is a US based company, but they have an Indian office of their own
+
+43
+00:02:35,000 --> 00:02:37,000
+So now things are like that
+
+44
+00:02:37,000 --> 00:02:41,000
+Okay, currently what's your package rate for this company?
+
+45
+00:02:41,000 --> 00:02:43,000
+I'm getting 18
+
+46
+00:02:43,000 --> 00:02:48,000
+18, 18 or 80?
+
+47
+00:02:48,000 --> 00:02:49,000
+0
+
+48
+00:02:49,000 --> 00:02:50,000
+1
+
+49
+00:02:50,000 --> 00:02:51,000
+18
+
+50
+00:02:51,000 --> 00:02:52,000
+18 or 80
+
+51
+00:02:52,000 --> 00:02:53,000
+18 or 80, yeah
+
+52
+00:02:53,000 --> 00:02:56,000
+Okay, alright, alright
+
+53
+00:02:56,000 --> 00:03:00,000
+Apart from this, like your designation as a firm, Anuj, in this company?
+
+54
+00:03:00,000 --> 00:03:03,000
+I'm working as a senior analyst here, senior quality analyst
+
+55
+00:03:03,000 --> 00:03:07,000
+Okay, so is it like a QA role or developer role?
+
+56
+00:03:07,000 --> 00:03:08,000
+Exactly
+
+57
+00:03:08,000 --> 00:03:10,000
+It's more of a QA role
+
+58
+00:03:10,000 --> 00:03:13,000
+Not like a developer role
+
+59
+00:03:13,000 --> 00:03:19,000
+However, I do help my team and supply team with reporting and stuff
+
+60
+00:03:19,000 --> 00:03:29,000
+By reporting stuff I mean helping them with reporting requirements that I have to coordinate with the BI team
+
+61
+00:03:29,000 --> 00:03:34,000
+There is a dedicated BI team which helps with any sort of data requirement
+
+62
+00:03:34,000 --> 00:03:42,000
+And apart from that I also help them develop our internal dashboards and our BI and see if they're successful
+
+63
+00:03:42,000 --> 00:03:43,000
+Okay, okay
+
+64
+00:03:43,000 --> 00:03:50,000
+So apart from this, like total experience that you have in this tech domain, how much is it exactly?
+
+65
+00:03:50,000 --> 00:03:53,000
+I'm sorry, I beg your pardon?
+
+66
+00:03:53,000 --> 00:03:59,000
+I'm asking like the total experience that you have as of now in the IT domain, how much is it?
+
+67
+00:03:59,000 --> 00:04:01,000
+It's of 7 years
+
+68
+00:04:01,000 --> 00:04:03,000
+7 years, okay
+
+69
+00:04:03,000 --> 00:04:08,000
+And your coding experience if I ask you among this, will it be equal to 7 years or less than that?
+
+70
+00:04:08,000 --> 00:04:11,000
+No, no, no, it's obviously not 7 years
+
+71
+00:04:11,000 --> 00:04:17,000
+See, I was working, I never had a technical exposure throughout my entire career
+
+72
+00:04:17,000 --> 00:04:21,000
+It was just my own efforts that I was trying to develop things
+
+73
+00:04:21,000 --> 00:04:25,000
+So when I was working with, I started working with Cognizant
+
+74
+00:04:25,000 --> 00:04:27,000
+I can explain you in detail, right?
+
+75
+00:04:27,000 --> 00:04:29,000
+I hope you don't mind that
+
+76
+00:04:31,000 --> 00:04:32,000
+Hello?
+
+77
+00:04:32,000 --> 00:04:33,000
+Yeah, yeah, I can hear you
+
+78
+00:04:33,000 --> 00:04:38,000
+So basically how much would you say like you have coding experience among the 7 years?
+
+79
+00:04:38,000 --> 00:04:40,000
+So that's what I was trying to explain
+
+80
+00:04:40,000 --> 00:04:46,000
+I worked for 2 years because when I was working with Cognizant at the back, you know, when I started working
+
+81
+00:04:46,000 --> 00:04:54,000
+I first started working as a workforce analyst with Cognizant in a DPO process
+
+82
+00:04:54,000 --> 00:04:59,000
+So there I was, you know, managing all the MIS things
+
+83
+00:04:59,000 --> 00:05:09,000
+And for like there I was also my senior manager to do integrations and automations
+
+84
+00:05:09,000 --> 00:05:13,000
+So there I used to do codes, you know, on Google suit
+
+85
+00:05:13,000 --> 00:05:27,000
+So there is an option of scripting where you can use VDA language to integrate emails, automate emails, automate Salesforce related reports, attraction, ETL process basically what I say
+
+86
+00:05:27,000 --> 00:05:33,000
+So those kind of stuff, like small small projects, nothing big in terms of coding
+
+87
+00:05:33,000 --> 00:05:43,000
+But yeah, like more of what I was doing was really big stuff like reporting statistical analysis, developing dashboards and all that
+
+88
+00:05:43,000 --> 00:05:45,000
+Okay, okay
+
+89
+00:05:45,000 --> 00:05:54,000
+So Anuj, as of now, since you have enrolled here in Scalar.ly, I want you to understand a little bit like what's your exact expectations from this program?
+
+90
+00:05:54,000 --> 00:05:58,000
+And what are the main goals that you're looking to achieve after this?
+
+91
+00:05:58,000 --> 00:06:03,000
+Yeah, sure. So, see, I am a beauty graduate from electronics and communication
+
+92
+00:06:03,000 --> 00:06:09,000
+And due to some issues, back then when I was in college, I was never able to, you know, sit in the front row
+
+93
+00:06:09,000 --> 00:06:16,000
+And never got an opportunity to work in a core field that I actually belonged to
+
+94
+00:06:16,000 --> 00:06:20,000
+So that's my main expectation with Scalar.ly, you know
+
+95
+00:06:20,000 --> 00:06:27,000
+I saw this opportunity and it's a booming field right now, I understand, but that is not my main goal here
+
+96
+00:06:27,000 --> 00:06:35,000
+Why I want to join Scalar.ly? Because I found it as an opportunity which can actually get me somewhere
+
+97
+00:06:35,000 --> 00:06:43,000
+To a position where I can actually rejoin the core field that I actually wanted to work on
+
+98
+00:06:43,000 --> 00:06:52,000
+So that's the main thing, like, you know, I chose my electives like machine learning, digital signal processing, all that
+
+99
+00:06:52,000 --> 00:07:00,000
+So those kind of subjects were my electives during my fourth year, but never got an opportunity to work on those again
+
+100
+00:07:00,000 --> 00:07:08,000
+So I want to touch base again on all those things, want to work on those subjects, want to develop something that I can contribute to society
+
+101
+00:07:08,000 --> 00:07:10,000
+And that's what I mean
+
+102
+00:07:10,000 --> 00:07:12,000
+Got it, got it
+
+103
+00:07:12,000 --> 00:07:18,000
+So that's the second thing, but my only goal is to increase my learning curve
+
+104
+00:07:18,000 --> 00:07:20,000
+Okay, okay
+
+105
+00:07:20,000 --> 00:07:26,000
+And before Scalar.ly, Anuj, any other online programs you have tried in the past basically for upscaling purpose?
+
+106
+00:07:26,000 --> 00:07:28,000
+Or this is the first time?
+
+107
+00:07:28,000 --> 00:07:39,000
+I used to go through small courses, lectures, like the courses I went to, the course that I was there, then UDNU
+
+108
+00:07:39,000 --> 00:07:52,000
+There were courses that I tried to pursue there, but later on the interest got loosened up because the curriculum was not that suited
+
+109
+00:07:52,000 --> 00:07:54,000
+Or the lectures were not that interesting
+
+110
+00:07:54,000 --> 00:07:57,000
+So slowly and gradually the interest got loosened up
+
+111
+00:07:57,000 --> 00:08:06,000
+But there are situations where you find some block, hurdle in your job, right?
+
+112
+00:08:06,000 --> 00:08:13,000
+And you are trying to find the solution that okay, this is the problem, how to resolve it, and you don't know the need
+
+113
+00:08:13,000 --> 00:08:20,000
+So those were the situations when I actually used up all these courses to find out the answers, especially for the IAM-PICAM program
+
+114
+00:08:20,000 --> 00:08:23,000
+So that's what I did
+
+115
+00:08:23,000 --> 00:08:30,000
+So as of now, Anuj, at Scalar.ly, your loan process is complete or is it still pending?
+
+116
+00:08:30,000 --> 00:08:32,000
+Yeah, it's still pending
+
+117
+00:08:32,000 --> 00:08:36,000
+So you have gone for what tenure exactly? Loan?
+
+118
+00:08:36,000 --> 00:08:38,000
+2 years
+
+119
+00:08:38,000 --> 00:08:40,000
+2 years, okay, no cost to EMI basically
+
+120
+00:08:40,000 --> 00:08:42,000
+2 years EMI, yeah
+
+121
+00:08:42,000 --> 00:08:47,000
+So I hope you are clear with the EMI dates, monthly EMI, all the details, right?
+
+122
+00:08:47,000 --> 00:08:55,000
+Yes, yes, yes, I have updated for the EMI from 5th of August and every 5th of every month it goes up
+
+123
+00:08:55,000 --> 00:08:58,000
+And the amount will be 12.50 rupees
+
+124
+00:08:58,000 --> 00:09:00,000
+Oh, got it
+
+125
+00:09:00,000 --> 00:09:04,000
+And regarding curriculum, Anuj, you have it clarity properly?
+
+126
+00:09:04,000 --> 00:09:06,000
+Yes, yes, yes
+
+127
+00:09:06,000 --> 00:09:13,000
+So, you want to explain everything, yeah, you want to explain everything in detail
+
+128
+00:09:13,000 --> 00:09:23,000
+I had a call with her later on after I had done all the admission and collected the formality, like submitting the admission fee and everything
+
+129
+00:09:23,000 --> 00:09:32,000
+She had a call where she explained to me about the dashboard, how it can be and what are the utilities that are available in the application
+
+130
+00:09:32,000 --> 00:09:36,000
+And I can take a look and she explained everything
+
+131
+00:09:36,000 --> 00:09:39,000
+In fact, after that she gave me the financial dashboard as well
+
+132
+00:09:39,000 --> 00:09:42,000
+So I logged in and actually see the dashboard
+
+133
+00:09:42,000 --> 00:09:52,000
+So I logged in, there was the first initial step where I had to give initial details of my profile, like what is my experience in terms of technology
+
+134
+00:09:52,000 --> 00:09:55,000
+So that was the first step that I did
+
+135
+00:09:55,000 --> 00:09:58,000
+Now the second step that I was seeing was to change the batch
+
+136
+00:09:58,000 --> 00:10:01,000
+But I believe I want to do something
+
+137
+00:10:01,000 --> 00:10:03,000
+We will talk about that also, Anuj
+
+138
+00:10:03,000 --> 00:10:09,000
+But regarding the curriculum, Anuj, what I will do, I will show one PDF with your after this call on boarding guide
+
+139
+00:10:09,000 --> 00:10:14,000
+Just go through it properly to get a clarity on the curriculum in depth and also what are the things you need to do on priority
+
+140
+00:10:14,000 --> 00:10:17,000
+Some important dates and all, everything is mentioned
+
+141
+00:10:17,000 --> 00:10:19,000
+Okay, sure, sure
+
+142
+00:10:19,000 --> 00:10:22,000
+And I hope you know when your batch is starting, Anuj
+
+143
+00:10:22,000 --> 00:10:24,000
+Yeah, it's on 17th of July
+
+144
+00:10:24,000 --> 00:10:26,000
+Correct, correct
+
+145
+00:10:26,000 --> 00:10:33,000
+And let's talk a little bit about your work schedule also so I'm able to understand how this program will fit into your schedule as well
+
+146
+00:10:33,000 --> 00:10:37,000
+So usually you're working from home, you said, I think, right? Remote work, you're working
+
+147
+00:10:37,000 --> 00:10:39,000
+I'm working remotely
+
+148
+00:10:39,000 --> 00:10:43,000
+Okay, and what are your working hours like, Anuj?
+
+149
+00:10:43,000 --> 00:10:48,000
+So it's basically a relationship, which is three month rotation
+
+150
+00:10:48,000 --> 00:10:50,000
+And currently I'm working nine to six
+
+151
+00:10:50,000 --> 00:10:52,000
+Okay
+
+152
+00:10:52,000 --> 00:10:58,000
+And probably I'm going to move to evening shift from the start of this July
+
+153
+00:10:58,000 --> 00:11:01,000
+That is going to be a what exactly?
+
+154
+00:11:01,000 --> 00:11:05,000
+If it's going to be, it's going to be from 5.3 to 2.8
+
+155
+00:11:05,000 --> 00:11:07,000
+5.2 to 2.8
+
+156
+00:11:07,000 --> 00:11:12,000
+And I'm trying, I have talked to a manager regarding this
+
+157
+00:11:12,000 --> 00:11:17,000
+And probably it's going to be like change to 11.2.8
+
+158
+00:11:17,000 --> 00:11:21,000
+Or the ATM to 5.3
+
+159
+00:11:21,000 --> 00:11:26,000
+Probably that, so I'm aiming to have a shift out of ATM to 5.3
+
+160
+00:11:26,000 --> 00:11:29,000
+But anyhow, you know, after three months it's all over again
+
+161
+00:11:29,000 --> 00:11:31,000
+So that's how it is
+
+162
+00:11:31,000 --> 00:11:35,000
+Okay, so basically why I was asking this
+
+163
+00:11:35,000 --> 00:11:40,000
+Because you might know already, Anuj, that there are three classes in a week, Monday, Wednesday, Friday
+
+164
+00:11:40,000 --> 00:11:42,000
+Right? Three classes are there
+
+165
+00:11:42,000 --> 00:11:44,000
+Each class is around two and a half hours duration
+
+166
+00:11:44,000 --> 00:11:46,000
+And after each class you get some assignments also
+
+167
+00:11:46,000 --> 00:11:49,000
+That might take another hour or so that you do in your own time
+
+168
+00:11:49,000 --> 00:11:51,000
+Alright?
+
+169
+00:11:51,000 --> 00:11:55,000
+Overall in a week we recommend that at least 15 hours per week you are able to commit to this program
+
+170
+00:11:55,000 --> 00:11:58,000
+Including everything, life classes, self-study, practice, everything
+
+171
+00:11:58,000 --> 00:12:00,000
+Right?
+
+172
+00:12:00,000 --> 00:12:03,000
+So I hope the time commitment thing is clear with you, right?
+
+173
+00:12:03,000 --> 00:12:05,000
+Yes, yes, yes, of course
+
+174
+00:12:05,000 --> 00:12:07,000
+Okay, great
+
+175
+00:12:07,000 --> 00:12:13,000
+I thought about all these things only then I submitted my admission piece
+
+176
+00:12:13,000 --> 00:12:15,000
+Great, great, perfect
+
+177
+00:12:15,000 --> 00:12:20,000
+So Anuj, you might know there is an option you can choose either morning or evening, right?
+
+178
+00:12:20,000 --> 00:12:21,000
+Yes
+
+179
+00:12:21,000 --> 00:12:23,000
+So which method would you prefer?
+
+180
+00:12:23,000 --> 00:12:25,000
+Between day and evening
+
+181
+00:12:25,000 --> 00:12:30,000
+So I'm still waiting for the final voting from my manager
+
+182
+00:12:30,000 --> 00:12:33,000
+Based on the current shift, whatever is going to be decided
+
+183
+00:12:33,000 --> 00:12:34,000
+Okay
+
+184
+00:12:34,000 --> 00:12:37,000
+I will choose the timings
+
+185
+00:12:37,000 --> 00:12:38,000
+Great
+
+186
+00:12:38,000 --> 00:12:44,000
+Shivani also told me in the future, after three months if my shift gets rotated
+
+187
+00:12:44,000 --> 00:12:48,000
+And let's say if I work for the evening batch right now
+
+188
+00:12:48,000 --> 00:12:50,000
+Like evening classes that is happening
+
+189
+00:12:50,000 --> 00:12:52,000
+And after three months it gets rotated
+
+190
+00:12:52,000 --> 00:12:54,000
+So I have this option available to me
+
+191
+00:12:54,000 --> 00:12:56,000
+Wherein I have to pre-inform you guys
+
+192
+00:12:56,000 --> 00:12:58,000
+But okay, this is the situation
+
+193
+00:12:58,000 --> 00:13:00,000
+So I can switch to the morning batch
+
+194
+00:13:00,000 --> 00:13:02,000
+You can do that on your own from the dashboard itself
+
+195
+00:13:02,000 --> 00:13:03,000
+That's pretty simple
+
+196
+00:13:03,000 --> 00:13:06,000
+But once in a while you can do it, not every now and then
+
+197
+00:13:06,000 --> 00:13:07,000
+Okay
+
+198
+00:13:07,000 --> 00:13:09,000
+No, not every now and then
+
+199
+00:13:09,000 --> 00:13:11,000
+After three months this would have happened
+
+200
+00:13:11,000 --> 00:13:12,000
+Definitely happened
+
+201
+00:13:12,000 --> 00:13:15,000
+You can definitely, they are not an issue at all
+
+202
+00:13:15,000 --> 00:13:18,000
+So Anuj, yesterday I think you logged into a dashboard
+
+203
+00:13:18,000 --> 00:13:19,000
+Yes
+
+204
+00:13:19,000 --> 00:13:21,000
+So you logged into a dashboard
+
+205
+00:13:21,000 --> 00:13:22,000
+Yes
+
+206
+00:13:22,000 --> 00:13:24,000
+So you logged into a dashboard
+
+207
+00:13:24,000 --> 00:13:25,000
+Yes
+
+208
+00:13:25,000 --> 00:13:28,000
+Anuj, yesterday I think you logged into a dashboard
+
+209
+00:13:28,000 --> 00:13:29,000
+Right
+
+210
+00:13:29,000 --> 00:13:30,000
+Yes, I did
+
+211
+00:13:30,000 --> 00:13:31,000
+Okay
+
+212
+00:13:31,000 --> 00:13:33,000
+So first thing what you need to do now
+
+213
+00:13:33,000 --> 00:13:36,000
+You need to update your profile in the dashboard top right side
+
+214
+00:13:36,000 --> 00:13:38,000
+Go ahead and update it
+
+215
+00:13:38,000 --> 00:13:40,000
+Second thing you need to select your mentor
+
+216
+00:13:40,000 --> 00:13:44,000
+Now mentors are the people who help you with your career related doubts and queries
+
+217
+00:13:44,000 --> 00:13:45,000
+Okay
+
+218
+00:13:45,000 --> 00:13:49,000
+Third thing, there is a test which you are supposed to get called SAT
+
+219
+00:13:49,000 --> 00:13:50,000
+Scalar Assessment Test
+
+220
+00:13:50,000 --> 00:13:52,000
+And it's a mandatory coding test
+
+221
+00:13:52,000 --> 00:13:55,000
+Based on your score here you will get an idea of which batch you will start with
+
+222
+00:13:55,000 --> 00:13:58,000
+As a beginner, intermediate or advanced
+
+223
+00:13:58,000 --> 00:14:00,000
+Okay
+
+224
+00:14:00,000 --> 00:14:03,000
+And apart from this, there is a form also in the dashboard homepage
+
+225
+00:14:03,000 --> 00:14:05,000
+Which is called Expectation Setting Form
+
+226
+00:14:05,000 --> 00:14:07,000
+Hardly it will take two to three minutes
+
+227
+00:14:07,000 --> 00:14:10,000
+Please ensure that you fill this form in priority once you have logged in
+
+228
+00:14:10,000 --> 00:14:11,000
+Okay
+
+229
+00:14:11,000 --> 00:14:14,000
+While you are exploring these things
+
+230
+00:14:14,000 --> 00:14:16,000
+It's in the dashboard homepage itself
+
+231
+00:14:16,000 --> 00:14:17,000
+Expectation form
+
+232
+00:14:17,000 --> 00:14:19,000
+Expectation form
+
+233
+00:14:19,000 --> 00:14:20,000
+Okay
+
+234
+00:14:20,000 --> 00:14:22,000
+I think that was
+
+235
+00:14:22,000 --> 00:14:25,000
+Shivani, you already made me fill that
+
+236
+00:14:25,000 --> 00:14:28,000
+Okay, let me just cross check once
+
+237
+00:14:28,000 --> 00:14:32,000
+Yeah, where in you know there are certain issues regarding
+
+238
+00:14:32,000 --> 00:14:35,000
+Basically it's a sort of an
+
+239
+00:14:35,000 --> 00:14:39,000
+Alignment sort of thing that you are aligned with what scalar has to offer and
+
+240
+00:14:39,000 --> 00:14:40,000
+Yes, yes, yes
+
+241
+00:14:40,000 --> 00:14:42,000
+Yeah, what are your expectations, everything is aligned
+
+242
+00:14:42,000 --> 00:14:43,000
+Yes, yes, yes
+
+243
+00:14:43,000 --> 00:14:44,000
+Okay
+
+244
+00:14:44,000 --> 00:14:45,000
+I think that is done
+
+245
+00:14:45,000 --> 00:14:47,000
+Okay, let me just check
+
+246
+00:14:47,000 --> 00:14:48,000
+Anyway
+
+247
+00:14:48,000 --> 00:14:50,000
+Yes, yes, that is done
+
+248
+00:14:50,000 --> 00:14:51,000
+Okay
+
+249
+00:14:51,000 --> 00:14:53,000
+As of now, focus then on selecting your mentor
+
+250
+00:14:53,000 --> 00:14:55,000
+And giving the test
+
+251
+00:14:55,000 --> 00:14:56,000
+Okay
+
+252
+00:14:56,000 --> 00:14:58,000
+Okay, so there is a thing
+
+253
+00:14:58,000 --> 00:14:59,000
+I'm sorry to interrupt
+
+254
+00:14:59,000 --> 00:15:02,000
+But when I logged into the dashboard
+
+255
+00:15:02,000 --> 00:15:05,000
+After the steps that were showing to me
+
+256
+00:15:05,000 --> 00:15:06,000
+Like what I need to do next
+
+257
+00:15:06,000 --> 00:15:09,000
+So it was suggesting me first to go through the test
+
+258
+00:15:09,000 --> 00:15:12,000
+Of SAT examination
+
+259
+00:15:12,000 --> 00:15:13,000
+Of CIS
+
+260
+00:15:13,000 --> 00:15:14,000
+And then after that
+
+261
+00:15:14,000 --> 00:15:17,000
+Based on the result, I would be able to choose
+
+262
+00:15:17,000 --> 00:15:18,000
+My mentor
+
+263
+00:15:18,000 --> 00:15:19,000
+It's not like that
+
+264
+00:15:19,000 --> 00:15:20,000
+No, no, not like that
+
+265
+00:15:20,000 --> 00:15:22,000
+Mentor by mentor you can select before
+
+266
+00:15:22,000 --> 00:15:23,000
+No you choose
+
+267
+00:15:23,000 --> 00:15:24,000
+Okay, okay
+
+268
+00:15:24,000 --> 00:15:27,000
+Okay, there is no specific order like you have to select mentor before or after
+
+269
+00:15:27,000 --> 00:15:29,000
+You can do it in either way
+
+270
+00:15:29,000 --> 00:15:30,000
+Okay
+
+271
+00:15:30,000 --> 00:15:31,000
+Complete this thing
+
+272
+00:15:31,000 --> 00:15:34,000
+In case any doubts about the dashboard program or anything
+
+273
+00:15:34,000 --> 00:15:36,000
+Feel free to reach out to me
+
+274
+00:15:36,000 --> 00:15:39,000
+Wednesday to Sunday 11 a.m. to 8 p.m. I'm available
+
+275
+00:15:39,000 --> 00:15:40,000
+Okay
+
+276
+00:15:40,000 --> 00:15:42,000
+Outside that also if you want to reach out just drop me a text
+
+277
+00:15:42,000 --> 00:15:44,000
+I'll get back to you as soon as I can
+
+278
+00:15:44,000 --> 00:15:45,000
+Okay
+
+279
+00:15:45,000 --> 00:15:46,000
+Alright
+
+280
+00:15:46,000 --> 00:15:48,000
+One thing I want to ask
+
+281
+00:15:48,000 --> 00:15:49,000
+Yeah go ahead
+
+282
+00:15:49,000 --> 00:15:51,000
+I will ask you anything
+
+283
+00:15:51,000 --> 00:15:53,000
+Yeah, so basically there is a dedicated support team also
+
+284
+00:15:53,000 --> 00:15:55,000
+It will be a point of contact for the program
+
+285
+00:15:55,000 --> 00:15:56,000
+Okay
+
+286
+00:15:56,000 --> 00:15:57,000
+Okay
+
+287
+00:15:57,000 --> 00:15:59,000
+In case any queries about the
+
+288
+00:15:59,000 --> 00:16:02,000
+Let's say program or in general you want to discuss anything
+
+289
+00:16:02,000 --> 00:16:05,000
+Monday to Friday 11 a.m. to 8 p.m. You can reach out to me
+
+290
+00:16:05,000 --> 00:16:06,000
+Yes, of course
+
+291
+00:16:06,000 --> 00:16:07,000
+Okay
+
+292
+00:16:07,000 --> 00:16:08,000
+So
+
+293
+00:16:08,000 --> 00:16:09,000
+Yeah, you asked me something
+
+294
+00:16:09,000 --> 00:16:10,000
+Please continue
+
+295
+00:16:10,000 --> 00:16:12,000
+Yeah, I will just
+
+296
+00:16:12,000 --> 00:16:14,000
+I was just wondering that you know
+
+297
+00:16:14,000 --> 00:16:18,000
+For the test there is a duration of 30 days that was showing yesterday
+
+298
+00:16:18,000 --> 00:16:21,000
+And that is sort of even the last date
+
+299
+00:16:21,000 --> 00:16:22,000
+Okay
+
+300
+00:16:22,000 --> 00:16:25,000
+But I would say no need to keep it pending for so long
+
+301
+00:16:25,000 --> 00:16:27,000
+Since it's just a sort of an LGBT test
+
+302
+00:16:27,000 --> 00:16:29,000
+Maybe by the weekend
+
+303
+00:16:29,000 --> 00:16:31,000
+Upcoming weekend you complete the test
+
+304
+00:16:31,000 --> 00:16:33,000
+Yeah, so that's the idea
+
+305
+00:16:33,000 --> 00:16:36,000
+Basically I just wanted some time to you know touch base
+
+306
+00:16:36,000 --> 00:16:38,000
+The things because you know
+
+307
+00:16:38,000 --> 00:16:41,000
+Like the data structures
+
+308
+00:16:41,000 --> 00:16:43,000
+And you know basic
+
+309
+00:16:43,000 --> 00:16:46,000
+See whatever I have learned so far
+
+310
+00:16:46,000 --> 00:16:48,000
+I just want to go through the basic concepts
+
+311
+00:16:48,000 --> 00:16:51,000
+So that you know at least I can portray what I know exactly
+
+312
+00:16:51,000 --> 00:16:54,000
+I don't want to go during the examination
+
+313
+00:16:54,000 --> 00:16:56,000
+Yeah, do some practice
+
+314
+00:16:56,000 --> 00:16:59,000
+Yeah, do some practice since today is Thursday only
+
+315
+00:16:59,000 --> 00:17:02,000
+By the weekend at least try that you are completing the test
+
+316
+00:17:02,000 --> 00:17:03,000
+Okay
+
+317
+00:17:03,000 --> 00:17:04,000
+And
+
+318
+00:17:04,000 --> 00:17:06,000
+I can go through the
+
+319
+00:17:06,000 --> 00:17:10,000
+I can go through there are certain pre-course material that is there
+
+320
+00:17:10,000 --> 00:17:12,000
+Those are optional
+
+321
+00:17:12,000 --> 00:17:14,000
+Yeah, yeah those are optional Anuj
+
+322
+00:17:14,000 --> 00:17:16,000
+But however if you want to revise few things
+
+323
+00:17:16,000 --> 00:17:17,000
+Very basic concepts are there
+
+324
+00:17:17,000 --> 00:17:18,000
+You can go through those videos
+
+325
+00:17:18,000 --> 00:17:20,000
+I can go through those
+
+326
+00:17:20,000 --> 00:17:21,000
+Yes, definitely
+
+327
+00:17:21,000 --> 00:17:23,000
+And if I want to connect with you Anuj
+
+328
+00:17:23,000 --> 00:17:25,000
+You are available on this number right
+
+329
+00:17:25,000 --> 00:17:26,000
+During the weekdays, weekends
+
+330
+00:17:26,000 --> 00:17:28,000
+Yes, yes I am always available
+
+331
+00:17:28,000 --> 00:17:30,000
+The only thing is right now
+
+332
+00:17:30,000 --> 00:17:33,000
+Why I was not able to call you back
+
+333
+00:17:33,000 --> 00:17:37,000
+Actually on 21st of May my data expired
+
+334
+00:17:37,000 --> 00:17:39,000
+So sorry to hear that
+
+335
+00:17:39,000 --> 00:17:42,000
+Yeah, it's okay man, thank you
+
+336
+00:17:42,000 --> 00:17:43,000
+But yeah
+
+337
+00:17:43,000 --> 00:17:45,000
+So the situation here is right now
+
+338
+00:17:45,000 --> 00:17:47,000
+Like I am the elder brother
+
+339
+00:17:47,000 --> 00:17:48,000
+And
+
+340
+00:17:48,000 --> 00:17:51,000
+You know he was a government officer
+
+341
+00:17:51,000 --> 00:17:54,000
+And there are certain formalities that I need to do
+
+342
+00:17:54,000 --> 00:17:59,000
+Because my mom cannot you know rush around there for the different government offices
+
+343
+00:17:59,000 --> 00:18:02,000
+To complete the formalities that are available you know for
+
+344
+00:18:02,000 --> 00:18:06,000
+For the funds and everything whatever is there to you know get created to my mom's account
+
+345
+00:18:06,000 --> 00:18:12,000
+So I am just busy with that you know everything needs to get done during the first half of the day
+
+346
+00:18:12,000 --> 00:18:14,000
+Because it's all government offices
+
+347
+00:18:14,000 --> 00:18:19,000
+So just because of that I am kind of a little busy these days
+
+348
+00:18:19,000 --> 00:18:21,000
+I also shared the same thing to Shivani
+
+349
+00:18:21,000 --> 00:18:27,000
+And I asked that if there is a possibility that you know I can delay this thing a bit like month or two
+
+350
+00:18:27,000 --> 00:18:30,000
+But she made it very clear that there are no such batches that we are running
+
+351
+00:18:30,000 --> 00:18:33,000
+There are programs which are like people dedicated
+
+352
+00:18:33,000 --> 00:18:41,000
+So the batch is going to start from 17th of July and there is no more delays that she can actually help me with
+
+353
+00:18:41,000 --> 00:18:43,000
+So that was the situation
+
+354
+00:18:43,000 --> 00:18:47,000
+I mean that's the only reason why like I would respond definitely on the same day
+
+355
+00:18:47,000 --> 00:18:53,000
+But there must be at times I would be available with you at the same moment when you are trying to reach me out
+
+356
+00:18:53,000 --> 00:18:57,000
+But at times there might be some delay at night and I am really sorry about that
+
+357
+00:18:57,000 --> 00:18:59,000
+But I hope you understand right
+
+358
+00:18:59,000 --> 00:19:01,000
+Definitely I understand
+
+359
+00:19:01,000 --> 00:19:09,000
+So in case I am trying to reach out to you if you are busy or something just drop me a text that I am busy here
+
+360
+00:19:09,000 --> 00:19:11,000
+I will definitely save the contact actually
+
+361
+00:19:11,000 --> 00:19:13,000
+Definitely save it number Anuj
+
+362
+00:19:13,000 --> 00:19:15,000
+My name is Chinma you can just save it
+
+363
+00:19:15,000 --> 00:19:18,000
+In case any help is needed or anything feel free to reach out to me
+
+364
+00:19:18,000 --> 00:19:22,000
+Okay usually in the business hours I will be available as I mentioned Wednesday to Sunday
+
+365
+00:19:22,000 --> 00:19:24,000
+Otherwise I can reach back to you as soon as I can
+
+366
+00:19:24,000 --> 00:19:26,000
+Okay
+
+367
+00:19:26,000 --> 00:19:32,000
+And whatever things we discussed like the mentor selection, SAT all these things make sure you are completed
+
+368
+00:19:32,000 --> 00:19:36,000
+I will connect with you in the upcoming few days for a quick session regarding the dashboard work
+
+369
+00:19:36,000 --> 00:19:40,000
+Sure sure we can be in touch on whatsapp actually right
+
+370
+00:19:40,000 --> 00:19:42,000
+Sorry
+
+371
+00:19:42,000 --> 00:19:44,000
+We can be in touch on whatsapp actually right
+
+372
+00:19:44,000 --> 00:19:46,000
+Yes
+
+373
+00:19:46,000 --> 00:19:48,000
+I feel free to reach out to me
+
+374
+00:19:48,000 --> 00:19:50,000
+Okay
+
+375
+00:19:50,000 --> 00:19:52,000
+Alright Anuj take care
+
+376
+00:19:52,000 --> 00:19:54,000
+Bye bye
+

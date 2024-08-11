@@ -1,0 +1,640 @@
+1
+00:00:00,000 --> 00:00:08,240
+Hello, yeah hi Prakash, how are you? Yeah, yeah fine. Okay so is it a good time to connect
+
+2
+00:00:08,240 --> 00:00:13,680
+for the onboarding now? Yeah, we can connect. Great, great. So Prakash, first of all a warm
+
+3
+00:00:13,680 --> 00:00:20,240
+welcome to Scalar Academy program. So personally I am very excited that you're starting a journey
+
+4
+00:00:20,240 --> 00:00:26,880
+with us and I hope you're also excited for the same right? Yeah, yeah I'm very excited. Great.
+
+5
+00:00:26,880 --> 00:00:32,080
+So and thanks a lot Prakash for taking out time today to connect for the onboarding.
+
+6
+00:00:33,520 --> 00:00:39,600
+Okay. So I hope we have a like you have a great learning experience with us.
+
+7
+00:00:41,520 --> 00:00:47,520
+Okay, so yeah great. So Prakash, firstly I wanted to start off by understanding how are you feeling
+
+8
+00:00:47,520 --> 00:00:50,880
+about the decision to move ahead with Scalar? Are you excited for the same?
+
+9
+00:00:50,880 --> 00:01:00,960
+Yeah, I'm very excited to be here in Scalar for next 9 to 11 months. Yes and enhance your skillset,
+
+10
+00:01:00,960 --> 00:01:14,560
+right? Yes, I want to enhance my field and DevOps. So I wanted to switch over my career
+
+11
+00:01:14,880 --> 00:01:24,400
+to DevOps engineer. So I have more than 12 plus years of experience.
+
+12
+00:01:25,520 --> 00:01:32,400
+Overall you have as in 12 plus years of experience? Yeah. Okay and which domain you have this experience?
+
+13
+00:01:34,160 --> 00:01:39,040
+Currently I'm working as a system programmer in main-frame system.
+
+14
+00:01:39,040 --> 00:01:46,960
+Like you're working as a system engineer you could say? System programmer, support, infrastructure support.
+
+15
+00:01:51,280 --> 00:01:54,880
+Yeah so predominantly I have experience in main-frame system.
+
+16
+00:01:55,760 --> 00:02:05,920
+Prior that I have some deployment activity like in Tega system I worked with three years
+
+17
+00:02:06,800 --> 00:02:16,960
+before main-frame system. So it's all together I mean it's a mixed experience in all the
+
+18
+00:02:17,840 --> 00:02:28,480
+technical platform. So I heard that I mean I came to know that I have completed my AWS
+
+19
+00:02:29,200 --> 00:02:38,560
+solution architect course outside from my company. So and I also completed
+
+20
+00:02:39,920 --> 00:02:46,000
+solution architect certification recently. So in which year you have completed that?
+
+21
+00:02:47,520 --> 00:02:54,080
+This year I completed March completed on March. Okay this year March only. So how was your overall
+
+22
+00:02:54,080 --> 00:02:59,360
+experience with the upskilling journey that you have taken? Yeah it was a great experience
+
+23
+00:03:00,400 --> 00:03:12,800
+learning AWS solution architect course. I had some good learning in AWS services.
+
+24
+00:03:13,200 --> 00:03:17,920
+I even worked for some practical things. That's really great.
+
+25
+00:03:20,240 --> 00:03:24,240
+Yeah so I came to know that this AWS DevOps I mean not the DevOps engineer
+
+26
+00:03:25,680 --> 00:03:31,200
+question is very very hard now I mean.
+
+27
+00:03:31,440 --> 00:03:39,280
+I want to secure my career in DevOps engineer. So I I attend the session with
+
+28
+00:03:39,280 --> 00:03:47,040
+Kayla and one session with Kayla with Naman Mimbala. So after that I
+
+29
+00:03:48,480 --> 00:03:56,720
+I have done some research and I have done some research on the
+
+30
+00:03:57,040 --> 00:04:05,280
+Naman Mimbala. So after that I came to know Bob Scaler and the training program.
+
+31
+00:04:07,840 --> 00:04:18,880
+So that's how I have some relations with the scalers. That's really great. So Prakash it's
+
+32
+00:04:18,880 --> 00:04:24,480
+really nice to hear your interest about your upskilling journey and even about your wish to
+
+33
+00:04:24,480 --> 00:04:29,920
+do a transition to a DevOps engineer. So we have all kind of tools and curriculum with us that
+
+34
+00:04:29,920 --> 00:04:35,360
+would be helping you in you know being a good DevOps engineer with all the base and concept clear.
+
+35
+00:04:36,080 --> 00:04:41,440
+All right so Prakash since now you are a part of Scaler so I will make sure you make the most out
+
+36
+00:04:41,440 --> 00:04:46,720
+of it. So for this I would like to understand few things from your side Prakash. So Prakash you are
+
+37
+00:04:46,720 --> 00:04:52,480
+working for a company right now. So how is the work over here like do you have to commute to office
+
+38
+00:04:52,480 --> 00:04:58,880
+for the same or you're working from home? Basically I'm in Chennai. I was born and
+
+39
+00:04:58,880 --> 00:05:09,120
+brought up in Chennai. So I'm working with Kindle Solutions. Previously it was actually
+
+40
+00:05:09,840 --> 00:05:16,400
+it was IBM. So the infrastructure support moved to Kindle. So right now you're working with which
+
+41
+00:05:16,400 --> 00:05:22,160
+company? Kindle Solutions. Kindle. Kindle. Can you come up with the spelling of the company's name?
+
+42
+00:05:23,040 --> 00:05:34,400
+K-Y-N-D-R-E-L-L. D-R-Y-L. D-R-Y-L. Kindle. Okay. Kindle. Yeah.
+
+43
+00:05:36,400 --> 00:05:43,440
+So yeah yeah we were telling you about your job to me. Yeah yeah so now I'm working
+
+44
+00:05:44,240 --> 00:05:50,160
+from home only. Weekly once I'll go to office. So where is your office location? Is it in Chennai
+
+45
+00:05:50,160 --> 00:05:54,800
+only or any other city? Chennai. So you haven't started going to office now right?
+
+46
+00:05:55,920 --> 00:06:02,640
+Yeah I started going to office weekly once. Weekly once. Every Wednesday we go to office.
+
+47
+00:06:02,640 --> 00:06:06,800
+Okay every Wednesday you go to office. So your office is nearby your home only or you have to
+
+48
+00:06:06,800 --> 00:06:16,000
+commute for a longer time? That's only 15 kilometers from my home. Okay it is 15 kilometers from your
+
+49
+00:06:16,000 --> 00:06:20,320
+home. So you would be taking about 40 to 45 minutes to reach office right? Yeah.
+
+50
+00:06:21,040 --> 00:06:27,440
+But you just go to office once in a week? Yes. Okay great. So how is the work flow in the office
+
+51
+00:06:27,440 --> 00:06:31,360
+Prakash? Is it like too much or do you complete your work in the stipulated time only?
+
+52
+00:06:33,600 --> 00:06:44,400
+I mean to be honest in a week there will not be much work in my project. So weekend we will have
+
+53
+00:06:44,400 --> 00:06:52,400
+some change. We'll do some change. We'll have some upgrade. We'll have some maintenance. Those
+
+54
+00:06:52,400 --> 00:07:00,960
+things we'll have in weekends. So for that I need to do some I mean I need to support from my end.
+
+55
+00:07:00,960 --> 00:07:06,240
+Okay basically on weekends you have some flow of work right? Yeah. On weekdays it's pretty much
+
+56
+00:07:06,240 --> 00:07:11,280
+sorted. All right. As a primary support, on call support I need to support. You need to go on call
+
+57
+00:07:11,280 --> 00:07:18,800
+for weekends? Yes. All right great no problem. So basically we have classes on alternate day
+
+58
+00:07:20,000 --> 00:07:26,080
+that is Monday, Wednesday and Friday and I believe this should shoot your schedule well. So we have
+
+59
+00:07:26,080 --> 00:07:34,720
+classes in the evening 9 pm. So I hope you'll be able to come. So I have a question. So we have only
+
+60
+00:07:34,720 --> 00:07:41,760
+one timing? Yeah we have only one timing that is from 9 pm onwards. Okay fine. Yeah so you will
+
+61
+00:07:41,760 --> 00:07:47,200
+have to take. I will be free in the morning so that's why I asked. But Prakash as of now we don't
+
+62
+00:07:47,200 --> 00:07:52,560
+have any morning slot so you'll have to manage it in the evening only but since you said the
+
+63
+00:07:52,560 --> 00:07:57,520
+flow of work is little less in the weekdays so I believe you'll be able to manage the same right?
+
+64
+00:07:58,560 --> 00:08:03,840
+Yeah okay. Great. So Prakash along with the classes you will be having assignments also so that also
+
+65
+00:08:03,840 --> 00:08:09,760
+you have to keep up to date. So all of this will require weekly commitment of 15 hours. So I hope
+
+66
+00:08:09,760 --> 00:08:16,800
+you'll be able to manage the same right? Yeah sure. All right great. So Prakash the thing is like from
+
+67
+00:08:16,800 --> 00:08:21,680
+starting onwards if you keep a consistent approach in practicing and learning so it will be really
+
+68
+00:08:21,680 --> 00:08:26,960
+super easy and comfortable and once you build the habit of attending classes like it would be
+
+69
+00:08:27,680 --> 00:08:32,880
+it will go on super easy flow. It is just that you'll have to start putting your effort from day one
+
+70
+00:08:32,880 --> 00:08:37,600
+and I believe you're ready for the same right? I'm sorry can we come again? I'm saying like I believe
+
+71
+00:08:37,600 --> 00:08:43,440
+you're ready for the same to put the effort into this program. Yeah yeah I'm ready. That's really
+
+72
+00:08:43,440 --> 00:08:47,920
+great Prakash. So Prakash I wanted to check your finances also like you'll be moving for one
+
+73
+00:08:47,920 --> 00:08:55,600
+short payment or you'll be going with EMI options? Yeah I opt for EMI options. Okay quality options.
+
+74
+00:08:55,600 --> 00:09:06,640
+Yeah actually I paid initially amount 20,000. So I have paid for 16 months EMI option. 16 months 6-0.
+
+75
+00:09:07,520 --> 00:09:20,640
+Yeah because I have financial problem right now. I actually initially I didn't have any idea to
+
+76
+00:09:21,120 --> 00:09:24,640
+join because it's a huge amount.
+
+77
+00:09:27,920 --> 00:09:33,120
+So somehow I want to switch over my career so that's why. That's why you have taken this step
+
+78
+00:09:33,120 --> 00:09:39,680
+forward right? Yeah. See I completely understand about your financial constraint. So like
+
+79
+00:09:39,680 --> 00:09:42,880
+financial constraint as in which way like in supporting your family
+
+80
+00:09:43,600 --> 00:09:45,920
+or any other responsibilities that you're having in your head?
+
+81
+00:09:45,920 --> 00:09:55,200
+Sorry I'm saying like you said that there is some financial constraint for yourself right?
+
+82
+00:09:55,760 --> 00:09:59,840
+So I really wanted to understand like is it is it respect to supporting your family or do you
+
+83
+00:09:59,840 --> 00:10:08,480
+have any other financial burden with you? Yeah yeah sure I actually I'm supporting my family.
+
+84
+00:10:08,480 --> 00:10:13,920
+I have two kids now so my eldest son is studying now.
+
+85
+00:10:17,520 --> 00:10:23,360
+And I also have a couple of loans running now. Housing loan and personal loan.
+
+86
+00:10:25,840 --> 00:10:30,240
+That's why I hesitate to join initially.
+
+87
+00:10:30,960 --> 00:10:40,400
+Okay. See I completely I am completely aligned to the situation so that is why
+
+88
+00:10:40,960 --> 00:10:45,680
+that's really great that you have opted for a 16 month EMI option. Where competitively you have to
+
+89
+00:10:45,680 --> 00:10:49,600
+pay a lower amount. I know right now obviously in the starting of the program there will be a little
+
+90
+00:10:49,600 --> 00:10:54,720
+bit of you know stress for yourself but once you have that you know skill set with you where you'll
+
+91
+00:10:54,720 --> 00:10:59,200
+be able to target some good job where your CTC will be good so you can support your family in
+
+92
+00:10:59,200 --> 00:11:08,320
+a better way I believe right? So Prakash have you discussed the same with your family as well?
+
+93
+00:11:08,320 --> 00:11:14,560
+Are they supporting you on this program? Sorry? I'm saying like have you discussed the same with
+
+94
+00:11:14,560 --> 00:11:17,600
+your family as well like you're going for an abatement journey? Yeah yeah I discussed with my
+
+95
+00:11:18,560 --> 00:11:26,000
+wife. So is she also working or she's a housewife? She was working now.
+
+96
+00:11:26,640 --> 00:11:32,080
+She's not working right now but she's looking for a job. Okay she's also looking for a job.
+
+97
+00:11:32,080 --> 00:11:40,160
+She's also in the IT or different industry? No she was working with medical related I mean
+
+98
+00:11:40,160 --> 00:11:44,560
+medical billing. Okay medical billing thanks. Okay so she is also looking for a job right?
+
+99
+00:11:46,000 --> 00:11:51,360
+Okay so in case if she gets a job in like some months obviously this she will be also able to
+
+100
+00:11:51,360 --> 00:11:56,880
+support the family financially right? Yeah. So don't worry Prakash the things will be positive
+
+101
+00:11:56,880 --> 00:12:03,200
+for you in the coming future so see in today's world I believe if you want to survive and earn
+
+102
+00:12:03,200 --> 00:12:09,280
+well enough skill set is at most necessary. So once you have that definitely you will feel super
+
+103
+00:12:09,280 --> 00:12:14,480
+confident about yourself and you'll be able to target that in a much good way right? Yeah. And
+
+104
+00:12:14,480 --> 00:12:18,320
+we are there to help you out on the same anytime if you want to feel like talking about anything
+
+105
+00:12:19,200 --> 00:12:24,160
+just a call up before you. Yeah sure. All right great. So the head on the question
+
+106
+00:12:25,920 --> 00:12:34,480
+so even I mean so I'm currently working in one company so I'm taking up this training program
+
+107
+00:12:34,480 --> 00:12:43,680
+once I completed what should I mention in my profile when I'm going for interview so what
+
+108
+00:12:43,680 --> 00:12:49,600
+should I mention in the profile? Like for this program? Yeah for this program I mean should I
+
+109
+00:12:49,600 --> 00:12:58,240
+mention like completed program? You will be getting a certification with us. Okay that is fine but yeah
+
+110
+00:12:58,240 --> 00:13:05,760
+you can mention that currently upscaling with scaler for the DevOps program you can mention that
+
+111
+00:13:05,840 --> 00:13:13,600
+lot of learners do that in LinkedIn. Yeah that is fine but should I mention like
+
+112
+00:13:14,560 --> 00:13:24,240
+currently I'm working as a system programmer I mean should I like change my current experience
+
+113
+00:13:24,240 --> 00:13:29,120
+as a DevOps engineer? No no you should keep your previous experience the same only and I believe
+
+114
+00:13:29,120 --> 00:13:34,720
+Prakash you should have this discussion with your mentor the DevOps related mentor so he would be
+
+115
+00:13:34,720 --> 00:13:39,520
+giving you a better suggestion whether you should change your profile or not as in the previous
+
+116
+00:13:39,520 --> 00:13:46,000
+profile designation so you will be having a one-on-one mentor connect from 17th of July onwards
+
+117
+00:13:46,000 --> 00:13:50,320
+so he would be from the related field only DevOps only he'll be able to give you the better suggestion
+
+118
+00:13:50,320 --> 00:14:00,000
+for the same. Okay so after the training program I will be getting some assistance from scaler or
+
+119
+00:14:00,640 --> 00:14:08,960
+I mean like for job searching like yeah yeah definitely the placement is there with us
+
+120
+00:14:09,760 --> 00:14:18,880
+and once you are clearing certain. I heard that scaler is trying with service based program
+
+121
+00:14:19,840 --> 00:14:29,520
+companies like 900 companies. No no it's nothing as such we have a lot of placement opportunities
+
+122
+00:14:29,520 --> 00:14:34,240
+will be coming up for you so once you clear your mock interview certain mock interviews and once
+
+123
+00:14:34,240 --> 00:14:37,920
+you are ready for the placement the company offers will be available in your dashboard.
+
+124
+00:14:39,280 --> 00:14:46,160
+Oh all right yeah so Prakash your learner dashboard is also activated so you'll have to log in for
+
+125
+00:14:46,160 --> 00:14:52,640
+that so I will tell you what are the process of logging in the dashboard and whenever you're
+
+126
+00:14:52,640 --> 00:14:57,600
+available today you can do the login process. Sure. All right so Prakash in order to log in
+
+127
+00:14:57,600 --> 00:15:02,720
+into your dashboard you will have to go to www.scaler.com and on the right hand side you
+
+128
+00:15:02,720 --> 00:15:07,600
+will see a login option so you can log in either with your registered email id or with your phone
+
+129
+00:15:07,600 --> 00:15:13,040
+number. Phone number. Okay so once you log in into your dashboard you will have to fill in some
+
+130
+00:15:13,040 --> 00:15:18,160
+details of yours and then your dashboard will get activated after that also you have to update
+
+131
+00:15:18,160 --> 00:15:24,560
+your profile details in your dashboard like your academic profile and your job profile and then
+
+132
+00:15:24,640 --> 00:15:31,360
+accordingly you'll be able to do that. Okay so in your dashboard. So this will be visible to anyone?
+
+133
+00:15:31,360 --> 00:15:35,600
+I mean this dashboard. No no this will be your personal dashboard learner's dashboard your
+
+134
+00:15:35,600 --> 00:15:40,080
+individual dashboard so you have to log in that and all the classes and everything will be happy
+
+135
+00:15:40,080 --> 00:15:46,880
+so do you had a glimpse of your dashboard before? No no I haven't. You haven't checked your dashboard
+
+136
+00:15:46,880 --> 00:15:51,600
+before so let's do one thing Prakash let me send you a one-on-one call with you I will be giving
+
+137
+00:15:51,600 --> 00:15:57,920
+you a proper overview of how to use your dashboard and everything so when can I keep this call for
+
+138
+00:15:57,920 --> 00:16:08,720
+tomorrow or maybe today also 7 pm will work for you? No today I am going outside. Okay so what
+
+139
+00:16:08,720 --> 00:16:18,720
+about tomorrow? Tomorrow we can have a call right? Before 2 o'clock. Before 2 o'clock so is it fine if
+
+140
+00:16:18,720 --> 00:16:26,400
+I schedule your call for 1 pm? 1 pm. 1 to 1.30 it is fine for you right? Okay I'll do one thing
+
+141
+00:16:26,400 --> 00:16:32,480
+Prakash I'm scheduling your call for 1 to 1.30 pm tomorrow and I will be sharing you the link as well
+
+142
+00:16:32,480 --> 00:16:38,880
+just go through the same and then for like before 1 pm call tomorrow please log in in your dashboard
+
+143
+00:16:40,720 --> 00:16:45,840
+all right yeah so let's get connected tomorrow and then we will be I'll be telling you what
+
+144
+00:16:45,840 --> 00:16:49,920
+are the steps that will have to do it from your side so Prakash just wanted to give you one more
+
+145
+00:16:49,920 --> 00:16:56,320
+head start that from now onwards I will be your point of contact and in case if you come across
+
+146
+00:16:56,320 --> 00:17:02,080
+any kind of doubt or query you will be directly reaching out to me I'll be your first POC so I'll
+
+147
+00:17:02,080 --> 00:17:06,480
+be helping you in clearing all your doubts and queries so you already have my number with you
+
+148
+00:17:06,480 --> 00:17:10,000
+so just save this number you can you know drop me a whatsapp message for the same
+
+149
+00:17:10,000 --> 00:17:12,160
+day.
+
+150
+00:17:12,160 --> 00:17:14,160
+Yeah sure.
+
+151
+00:17:14,160 --> 00:17:19,280
+I just dropped a message yesterday.
+
+152
+00:17:20,720 --> 00:17:21,520
+Oh yeah.
+
+153
+00:17:21,520 --> 00:17:22,560
+Yeah I'm the same person.
+
+154
+00:17:23,120 --> 00:17:23,620
+Oh.
+
+155
+00:17:26,960 --> 00:17:28,560
+Do you remember I dropped you a message?
+
+156
+00:17:29,520 --> 00:17:34,080
+Yeah sure yeah yeah okay yeah yeah I thought it's a mail.
+
+157
+00:17:34,080 --> 00:17:36,640
+No no no I am the same person Prakash.
+
+158
+00:17:37,600 --> 00:17:42,400
+Okay yeah so yeah so Prakash I'm sharing with you the link for tomorrow's meeting do join
+
+159
+00:17:42,400 --> 00:17:46,800
+this meeting tomorrow and let's get connected and explain you how to use your dashboard.
+
+160
+00:17:47,440 --> 00:17:55,840
+Okay sure great thank you okay Prakash thank you good day bye.
+

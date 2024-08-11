@@ -1,0 +1,1464 @@
+1
+00:00:00,000 --> 00:00:06,400
+Hello, yeah hi, I'm Havishkar. Hi. Havishkar, Adnan from Scalar. How are you?
+
+2
+00:00:06,400 --> 00:00:13,800
+Good. How are your breakfasts? Enjoying your weekend? Yes, yes. Just one day off, right?
+
+3
+00:00:13,800 --> 00:00:22,200
+Tomorrow again back to work. Yes, right. Where are you going today? Loonavala? No, stay home and take a rest.
+
+4
+00:00:22,200 --> 00:00:28,400
+Very much needed, very much needed. But yes, congratulations on your one yesterday, man.
+
+5
+00:00:28,600 --> 00:00:35,000
+I'm sure that you were supporting and unfortunately you were working as well, but I'm sure you got up home and then you gave the test, right?
+
+6
+00:00:35,000 --> 00:00:40,000
+Right, right. I'm actually very happy that you appeared for the test before the time that was allocated.
+
+7
+00:00:40,000 --> 00:00:45,600
+So you took the test before, like you started the test before 8pm. It's a good job. Right.
+
+8
+00:00:45,600 --> 00:00:48,800
+How was the experience of the test, Havishkar? Tell me.
+
+9
+00:00:49,800 --> 00:00:58,400
+It is a little bit difficult. It means actually I'm in the work actually that time I worked.
+
+10
+00:00:58,400 --> 00:01:05,400
+How did you find the test? Was it difficult for you? Was it easy for you? Was it mediocre for you? How would you sum up the test?
+
+11
+00:01:05,400 --> 00:01:15,000
+Medium maybe. Okay. When you say it was medium, which was the easiest part for you? Which was the difficult part for you?
+
+12
+00:01:16,000 --> 00:01:27,600
+The programming part is little bit easy, but some logical questions like age of between and all, it is nearly difficult for me.
+
+13
+00:01:27,600 --> 00:01:36,400
+Okay. I saw your test report last night itself and I spoke to one of the senior software developer of Google last night because after India won the match,
+
+14
+00:01:36,400 --> 00:01:44,000
+then we were in just for a quick call. We were just wishing each other congratulations and then suddenly I discussed about you with him.
+
+15
+00:01:44,000 --> 00:01:53,000
+About 7 or 8 minutes I spoke about with you and then when I saw your test report, he was even seeing your test report because I shared in the link of the test.
+
+16
+00:01:53,000 --> 00:02:01,000
+So the first logical question that you attempted out of all the four logical questions you attempted, the first one, only two were right.
+
+17
+00:02:01,000 --> 00:02:12,000
+It was 50-50. If I go to basics maths, in basics maths out of all the four questions that you attempted, only two were right again. Again 50-50.
+
+18
+00:02:13,000 --> 00:02:20,000
+And it is very obvious that some things, few things about your maths you have forgotten. Right?
+
+19
+00:02:20,000 --> 00:02:27,000
+You must have noticed while solving the problem you were taking a little more time as you used to take before. Right?
+
+20
+00:02:27,000 --> 00:02:34,000
+But what happened in time complexity? Out of all the four questions you attempted, only one was right.
+
+21
+00:02:37,000 --> 00:02:39,000
+I don't know what happened.
+
+22
+00:02:40,000 --> 00:02:48,000
+Out of all the four questions, only one was correct and coding output, where it was input-output coding, 50-50 again over there.
+
+23
+00:02:48,000 --> 00:02:49,000
+Okay.
+
+24
+00:02:50,000 --> 00:02:57,000
+That shows that, do you know what is time complexity by the way? Why do we take up a time complexity? What is time complexity according to you?
+
+25
+00:02:58,000 --> 00:03:03,000
+To execute the program. How much time to take a program to execute?
+
+26
+00:03:03,000 --> 00:03:11,000
+Yes, how much time it is taking to run the entire program. For example, if you search anything on Google, Google replies you in 0.0 seconds.
+
+27
+00:03:11,000 --> 00:03:12,000
+Right.
+
+28
+00:03:12,000 --> 00:03:20,000
+That's how their code is efficient. Let me ask you this question and it's a very interesting question that I want to see how your answer would be.
+
+29
+00:03:20,000 --> 00:03:24,000
+Like there are two ways that you can watch a movie, Aviskar.
+
+30
+00:03:24,000 --> 00:03:25,000
+Right.
+
+31
+00:03:25,000 --> 00:03:30,000
+There is one way that you can download the movie, which will take you three hours.
+
+32
+00:03:30,000 --> 00:03:39,000
+Let's say you buy a DVD from Amazon Prime and Amazon Prime generally gets you delivered in the next 24 hours because if you buy anything from Amazon, it's next day delivery.
+
+33
+00:03:39,000 --> 00:03:47,000
+That's the next day you get delivered. Now you want to watch a movie. What method would you choose to watch a movie?
+
+34
+00:03:47,000 --> 00:03:53,000
+First preference, because it only take three hours to download and then watch it.
+
+35
+00:03:53,000 --> 00:04:06,000
+But let's say yesterday was Saturday and you came back home and you knew that tomorrow is weekend and you would want to watch movie whole night from Saturday night till Sunday morning.
+
+36
+00:04:06,000 --> 00:04:10,000
+You want to watch a lot of movies. Let's say you want to watch 10 movies approximately.
+
+37
+00:04:10,000 --> 00:04:11,000
+Right.
+
+38
+00:04:11,000 --> 00:04:19,000
+That is what you have decided that you will watch at least a Marvel series or a Friends or a Suits or whatever Harry Potter, whatever it could be.
+
+39
+00:04:19,000 --> 00:04:22,000
+You want to watch 10 movies. Now what would you do?
+
+40
+00:04:22,000 --> 00:04:24,000
+Order it.
+
+41
+00:04:24,000 --> 00:04:25,000
+Why?
+
+42
+00:04:25,000 --> 00:04:33,000
+Because one movie take three hours and number of movies will be increasing. The time will be increasing.
+
+43
+00:04:33,000 --> 00:04:36,000
+Increasing the time that will be?
+
+44
+00:04:36,000 --> 00:04:51,000
+Yes, because one movie can take three hours to download. Then if consider any series, it will take nearly 24 hours. It is equivalent to order to DVD.
+
+45
+00:04:51,000 --> 00:04:53,000
+That's it.
+
+46
+00:04:53,000 --> 00:05:01,000
+Your answer is right and your answer which you have given me the way explanation that you have given me. It's almost right.
+
+47
+00:05:01,000 --> 00:05:11,000
+It's almost right. It could be more better if you say the answer that if I download the movie, 10 movies, which I have told you that you want to watch 10 movies.
+
+48
+00:05:11,000 --> 00:05:17,000
+If you download 10 movies, it will take you 30 hours. And if you buy DVD, it will all get delivered in the next 24 hours.
+
+49
+00:05:17,000 --> 00:05:18,000
+Right.
+
+50
+00:05:18,000 --> 00:05:25,000
+So that is what the interviewer would want to see in you. The interviewer knows that you know the answer. You will tell the answer right.
+
+51
+00:05:25,000 --> 00:05:29,000
+But what logical answer that you will give me? That is what I want to hear.
+
+52
+00:05:29,000 --> 00:05:38,000
+And I've asked this question to a lot of people. Some people tell me that Adnan, I'll download because then my cost will be less. There's no cost involved.
+
+53
+00:05:38,000 --> 00:05:41,000
+I was like, no, you're free. You have a lot of money.
+
+54
+00:05:41,000 --> 00:05:53,000
+So that is what the interviewer sees that whatever piece of information that has been shared with you, all of that piece of information, what answers that you're getting, that is important.
+
+55
+00:05:53,000 --> 00:05:58,000
+That is the reason I wanted to see. So that is what the interview will see as well.
+
+56
+00:05:58,000 --> 00:06:07,000
+That when you will give a solution, how are you explaining it? Why did you use this approach? Explain it.
+
+57
+00:06:07,000 --> 00:06:15,000
+And yes, I'm sure after the test, even you would have realized, Aviskar, that yes, there are a lot of areas that you have to improve.
+
+58
+00:06:15,000 --> 00:06:16,000
+Correct.
+
+59
+00:06:16,000 --> 00:06:20,000
+Otherwise, it's going to be very difficult. Right.
+
+60
+00:06:20,000 --> 00:06:34,000
+Tell me after the test, when you got back home, were you watching India versus India match with South Africa, the finals, you were watching that.
+
+61
+00:06:34,000 --> 00:06:37,000
+I'm actually I'm not a fan of cricket.
+
+62
+00:06:37,000 --> 00:06:43,000
+Okay. But tell me after the test, did you sit down and did you realize that you need to work hard?
+
+63
+00:06:43,000 --> 00:07:03,000
+Yes, actually, after a test, 40 to one hour nearly to identify what happened in the current scenario, like how to get out, means how to scale up from that side.
+
+64
+00:07:03,000 --> 00:07:10,000
+But did you do any research on scale or like what is the scale of the academy? What happens over here? It's Kayla.
+
+65
+00:07:10,000 --> 00:07:12,000
+Do you try to do any research like this?
+
+66
+00:07:12,000 --> 00:07:19,000
+No, actually, I'm actually means that I have get give a test.
+
+67
+00:07:19,000 --> 00:07:24,000
+Then I realized key and it to some improve myself.
+
+68
+00:07:24,000 --> 00:07:28,000
+I did defy it and note down it.
+
+69
+00:07:28,000 --> 00:07:32,000
+What did you note it down?
+
+70
+00:07:32,000 --> 00:07:36,000
+Some math issues and all.
+
+71
+00:07:36,000 --> 00:07:43,000
+Then time complexity. I need to identify the main core things.
+
+72
+00:07:43,000 --> 00:07:44,000
+Okay.
+
+73
+00:07:44,000 --> 00:07:54,000
+Did you did you realize that when you were trying to analyze that and when you were trying to write it down, did you notice that some of your time is getting involved?
+
+74
+00:07:55,000 --> 00:08:03,000
+Let's say, for example, if two hours you're planning to learn, one hour is getting spent every day in doing research that what to learn, what not to learn.
+
+75
+00:08:03,000 --> 00:08:05,000
+Yes.
+
+76
+00:08:05,000 --> 00:08:15,000
+That is what exactly happens that and even it happened with me like I when I started learning things out, I was noticing that I'm planning every day and I'm sitting every day three hours.
+
+77
+00:08:15,000 --> 00:08:22,000
+But when I sit with three hours of learning, I generally end up investing at least one hour in finding what to learn.
+
+78
+00:08:22,000 --> 00:08:31,000
+I'm wasting my own resources because then anyone where I feel that I'm getting stuck, I am actually saying to myself that, okay, let me do it tomorrow.
+
+79
+00:08:31,000 --> 00:08:34,000
+I'm tired today.
+
+80
+00:08:34,000 --> 00:08:37,000
+And I'm sure this must have happened with you.
+
+81
+00:08:37,000 --> 00:08:40,000
+Yes, multiple times.
+
+82
+00:08:40,000 --> 00:08:57,000
+Multiple times, very obvious because this process will become so slow, slow, slow, slow, slow, that later on you will lose the interest of even trying and then your work will be increasing so much because as your number of experience will grow, your responsibility will be more.
+
+83
+00:08:57,000 --> 00:09:00,000
+It will not be that your responsibility will be less.
+
+84
+00:09:00,000 --> 00:09:03,000
+And again, next year you will become a four year of experience guy.
+
+85
+00:09:03,000 --> 00:09:05,000
+You won't be a come a two year of experience guy.
+
+86
+00:09:05,000 --> 00:09:06,000
+Right.
+
+87
+00:09:07,000 --> 00:09:11,000
+So that is the reason it is very, very important that you learn in the right way.
+
+88
+00:09:11,000 --> 00:09:18,000
+And my whole goal was to say you in 2025 earning nothing short of at least 20 LPA.
+
+89
+00:09:18,000 --> 00:09:20,000
+That's the target that even I made yesterday.
+
+90
+00:09:20,000 --> 00:09:25,000
+Look at one Ankit, the guy that I spoke with him, he's a senior software developer of Google.
+
+91
+00:09:25,000 --> 00:09:27,000
+And I spoke to Salik Sefi as well.
+
+92
+00:09:27,000 --> 00:09:33,000
+So Salik is a guy who is working in Oracle with almost similar year of experience that you have.
+
+93
+00:09:33,000 --> 00:09:34,000
+So somewhere setting a 28 LPA.
+
+94
+00:09:34,000 --> 00:09:38,000
+So I spoke with him, had a discussion with him because he's somewhere very close to me.
+
+95
+00:09:38,000 --> 00:09:39,000
+He's younger than me.
+
+96
+00:09:39,000 --> 00:09:40,000
+So he's very close to me.
+
+97
+00:09:40,000 --> 00:09:43,000
+He always reach out to me for any help.
+
+98
+00:09:43,000 --> 00:09:47,000
+I discussed with him as well that do you feel Salik this guy is an ideal fit?
+
+99
+00:09:47,000 --> 00:09:51,000
+Now when they shared me a feedback about you, they told me that you are an ideal fit.
+
+100
+00:09:51,000 --> 00:09:56,000
+Even they were ready to refer you out that they could have told you that Adnan I'm ready to refer him out.
+
+101
+00:09:56,000 --> 00:09:58,000
+But I would not refer him right now.
+
+102
+00:09:58,000 --> 00:10:01,000
+The reason is because he needs to upskill himself a lot.
+
+103
+00:10:01,000 --> 00:10:03,000
+Or like that.
+
+104
+00:10:03,000 --> 00:10:06,000
+That is the reason I spoke to those people.
+
+105
+00:10:06,000 --> 00:10:11,000
+I know that I can get you referred even today for Walmart, Oracle, maybe Google, any big company.
+
+106
+00:10:11,000 --> 00:10:13,000
+That's not a problem.
+
+107
+00:10:13,000 --> 00:10:14,000
+I can get you referred.
+
+108
+00:10:14,000 --> 00:10:19,000
+But the problem is that if you will not be able to clear it now, two things will happen.
+
+109
+00:10:19,000 --> 00:10:24,000
+First thing will happen that you cannot reapply in that company for the next three months at least.
+
+110
+00:10:24,000 --> 00:10:27,000
+There's a cooling period.
+
+111
+00:10:27,000 --> 00:10:33,000
+And the other thing will be that your confidence will go down by 10% at least.
+
+112
+00:10:33,000 --> 00:10:36,000
+And you'll feel bad that I couldn't crack.
+
+113
+00:10:36,000 --> 00:10:38,000
+Alright.
+
+114
+00:10:38,000 --> 00:10:44,000
+That's the reason they told me that Adnan if this guy get trained really really well, we know that he will do.
+
+115
+00:10:44,000 --> 00:10:48,000
+And even if there's no one that he will be sitting in a bracket of nothing short of at least 20 LP.
+
+116
+00:10:48,000 --> 00:10:50,000
+But does he wants to do it?
+
+117
+00:10:50,000 --> 00:10:54,000
+Then that question hit me really hard that yes sir.
+
+118
+00:10:54,000 --> 00:10:58,000
+I am actually telling every single thing to Avishkar.
+
+119
+00:10:58,000 --> 00:11:01,000
+But does he want to do it?
+
+120
+00:11:01,000 --> 00:11:02,000
+Right.
+
+121
+00:11:02,000 --> 00:11:04,000
+That was my question that came to my life.
+
+122
+00:11:04,000 --> 00:11:05,000
+Yeah, that's true.
+
+123
+00:11:05,000 --> 00:11:09,000
+But I am doing all the hard work trying to find the right people that can help him out.
+
+124
+00:11:09,000 --> 00:11:11,000
+Trying to speak feedback, get understanding.
+
+125
+00:11:11,000 --> 00:11:17,000
+But does that Avishkar even really want or Avishkar is really happy where he is?
+
+126
+00:11:17,000 --> 00:11:18,000
+Yes.
+
+127
+00:11:18,000 --> 00:11:20,000
+Are you happy wherever you are?
+
+128
+00:11:20,000 --> 00:11:21,000
+Then I'm okay.
+
+129
+00:11:21,000 --> 00:11:24,000
+I will let you continue your journey wherever you want.
+
+130
+00:11:24,000 --> 00:11:27,000
+No, I currently...
+
+131
+00:11:27,000 --> 00:11:32,000
+You actually know the working on Saturdays.
+
+132
+00:11:32,000 --> 00:11:40,000
+It is too hard to work on Saturdays because you already work nearly 9 to 10 hours.
+
+133
+00:11:40,000 --> 00:11:43,000
+What time you go to office?
+
+134
+00:11:43,000 --> 00:11:46,000
+10...
+
+135
+00:11:46,000 --> 00:11:50,000
+10 AM in the morning till 8 PM you work every day.
+
+136
+00:11:50,000 --> 00:11:55,000
+It is nearly 8 PM or it is nearly 10 PM also.
+
+137
+00:11:55,000 --> 00:11:56,000
+That's wrong.
+
+138
+00:11:56,000 --> 00:11:59,000
+You know there was a very good guy Jitesh Sharma.
+
+139
+00:11:59,000 --> 00:12:03,000
+He is actually working in this company called Kasai.
+
+140
+00:12:03,000 --> 00:12:05,000
+I don't know if you have heard.
+
+141
+00:12:05,000 --> 00:12:07,000
+It's a very good company.
+
+142
+00:12:07,000 --> 00:12:09,000
+It's a very big SaaS based company.
+
+143
+00:12:09,000 --> 00:12:12,000
+He and I work together so very long.
+
+144
+00:12:12,000 --> 00:12:14,000
+He told me a very good thing.
+
+145
+00:12:14,000 --> 00:12:15,000
+Let it not know.
+
+146
+00:12:15,000 --> 00:12:17,000
+If you are working on your weekends,
+
+147
+00:12:17,000 --> 00:12:20,000
+now weekends are something which is very precious.
+
+148
+00:12:20,000 --> 00:12:24,000
+You enjoy, you travel out, you go out with your friends.
+
+149
+00:12:24,000 --> 00:12:26,000
+And if you see that your friends are going out,
+
+150
+00:12:26,000 --> 00:12:32,000
+they are traveling and they are enjoying and you have work and you have to work.
+
+151
+00:12:32,000 --> 00:12:35,000
+But if you are not getting paid on your weekend that really well,
+
+152
+00:12:35,000 --> 00:12:40,000
+that if you are not making at least 15,000 rupees or 20,000 rupees on that day working
+
+153
+00:12:40,000 --> 00:12:44,000
+or even let's say 10,000 rupees if you are not getting to work for that day on your weekend,
+
+154
+00:12:44,000 --> 00:12:46,000
+then never compromise.
+
+155
+00:12:46,000 --> 00:12:48,000
+Right.
+
+156
+00:12:48,000 --> 00:12:52,000
+And that thing really hurt me that yeah it's my weekend.
+
+157
+00:12:52,000 --> 00:12:55,000
+I know that my friends will go to party, get some drinks,
+
+158
+00:12:55,000 --> 00:12:58,000
+they will booze up, they will end up spending 5000 rupees at least
+
+159
+00:12:58,000 --> 00:13:01,000
+or 6000, 7000 whatever they will end up spending.
+
+160
+00:13:01,000 --> 00:13:04,000
+But if I am not earning that much on my weekend,
+
+161
+00:13:04,000 --> 00:13:07,000
+on that day I should get paid at least that much.
+
+162
+00:13:07,000 --> 00:13:09,000
+Then sir there is something wrong.
+
+163
+00:13:09,000 --> 00:13:12,000
+Right now your enhanced salary is somewhere around 70,000.
+
+164
+00:13:12,000 --> 00:13:13,000
+Right.
+
+165
+00:13:13,000 --> 00:13:15,000
+What do you do with it?
+
+166
+00:13:15,000 --> 00:13:20,000
+Actually I am down, I have some EMI's.
+
+167
+00:13:20,000 --> 00:13:22,000
+Like what EMI's?
+
+168
+00:13:22,000 --> 00:13:24,000
+Home loan and all.
+
+169
+00:13:24,000 --> 00:13:25,000
+Home loan, okay.
+
+170
+00:13:25,000 --> 00:13:27,000
+Where did you take the apartment?
+
+171
+00:13:27,000 --> 00:13:29,000
+It is in Nehru Katraj.
+
+172
+00:13:29,000 --> 00:13:30,000
+Katraj.
+
+173
+00:13:30,000 --> 00:13:33,000
+So you and your family are living over there?
+
+174
+00:13:33,000 --> 00:13:34,000
+Yes.
+
+175
+00:13:34,000 --> 00:13:35,000
+Okay.
+
+176
+00:13:35,000 --> 00:13:37,000
+How much is the property that you took?
+
+177
+00:13:37,000 --> 00:13:39,000
+What is the worth of the property?
+
+178
+00:13:39,000 --> 00:13:41,000
+It is 60 lakhs.
+
+179
+00:13:41,000 --> 00:13:42,000
+60 lakhs.
+
+180
+00:13:42,000 --> 00:13:45,000
+And how many years of loan that you have taken?
+
+181
+00:13:45,000 --> 00:13:50,000
+Actually it is near, means it is nearly 20 years.
+
+182
+00:13:50,000 --> 00:13:55,000
+So that means if you pay in 20 years you are basically paying around,
+
+183
+00:13:55,000 --> 00:13:59,000
+for 60 lakhs you will almost pay around 90 lakhs or maybe more than that?
+
+184
+00:13:59,000 --> 00:14:01,000
+It is 30 lakhs.
+
+185
+00:14:01,000 --> 00:14:02,000
+30 lakhs.
+
+186
+00:14:02,000 --> 00:14:06,000
+30,000 per month.
+
+187
+00:14:06,000 --> 00:14:12,000
+Yeah, that is the reason if I do a calculation where you are paying 30,000 rupees per month.
+
+188
+00:14:12,000 --> 00:14:13,000
+Correct?
+
+189
+00:14:13,000 --> 00:14:14,000
+Right.
+
+190
+00:14:14,000 --> 00:14:16,000
+Somewhere in your hand salary is 70,000 right?
+
+191
+00:14:16,000 --> 00:14:17,000
+Right.
+
+192
+00:14:17,000 --> 00:14:20,000
+You are paying 30,000 every month.
+
+193
+00:14:20,000 --> 00:14:24,000
+That means on a yearly basis you end up paying 3 lakhs somewhere.
+
+194
+00:14:24,000 --> 00:14:25,000
+Yes.
+
+195
+00:14:25,000 --> 00:14:30,000
+30,000 you are paying it for 12 months.
+
+196
+00:14:30,000 --> 00:14:32,000
+Like 3,60,000.
+
+197
+00:14:32,000 --> 00:14:36,000
+And you will be paying it for the next 20 years.
+
+198
+00:14:36,000 --> 00:14:38,000
+So you are actually paying 72 lakhs.
+
+199
+00:14:38,000 --> 00:14:40,000
+Right.
+
+200
+00:14:40,000 --> 00:14:45,000
+So basically that is how you pay 12 lakhs rupees more.
+
+201
+00:14:45,000 --> 00:14:48,000
+What is the rate of interest that you got?
+
+202
+00:14:48,000 --> 00:14:52,000
+It is nearly 8.5.
+
+203
+00:14:52,000 --> 00:14:56,000
+It is very between 8.5 and 4 lakhs.
+
+204
+00:14:56,000 --> 00:14:58,000
+Is it a floating or a fixed rate of interest?
+
+205
+00:14:58,000 --> 00:15:00,000
+It is a floating.
+
+206
+00:15:00,000 --> 00:15:03,000
+Okay, they can change.
+
+207
+00:15:03,000 --> 00:15:05,000
+Okay, makes sense.
+
+208
+00:15:05,000 --> 00:15:07,000
+So what does your father do?
+
+209
+00:15:07,000 --> 00:15:09,000
+Like your mom and dad?
+
+210
+00:15:09,000 --> 00:15:12,000
+Actually, father was retired.
+
+211
+00:15:12,000 --> 00:15:14,000
+Mother is a housewife.
+
+212
+00:15:14,000 --> 00:15:17,000
+Oh, so your father gets pensioned?
+
+213
+00:15:17,000 --> 00:15:28,000
+No, whichever man he saves for the world, that will be returned.
+
+214
+00:15:28,000 --> 00:15:33,000
+Let's say you make 70k. Out of 70k you end up spending 30k.
+
+215
+00:15:33,000 --> 00:15:37,000
+How much do you spend on your lifestyle, your family, home expenses?
+
+216
+00:15:37,000 --> 00:15:39,000
+How much do you spend every month?
+
+217
+00:15:39,000 --> 00:15:43,000
+It is nearly 10 to 20.
+
+218
+00:15:43,000 --> 00:15:49,000
+20,000 that means you will spend 20,000 more on food, shelter and everything.
+
+219
+00:15:49,000 --> 00:15:50,000
+Right.
+
+220
+00:15:50,000 --> 00:15:52,000
+Bejjili Beliwani including in that.
+
+221
+00:15:52,000 --> 00:15:53,000
+Right.
+
+222
+00:15:53,000 --> 00:15:56,000
+20,000. Then what do you do with the remaining 20,000?
+
+223
+00:15:56,000 --> 00:16:02,000
+Basically, it is some savings for some SIPs and all.
+
+224
+00:16:02,000 --> 00:16:08,000
+And remaining 5,000 in my hand, it will be worked for a month.
+
+225
+00:16:08,000 --> 00:16:10,000
+5,000 will be?
+
+226
+00:16:10,000 --> 00:16:14,000
+Work, it is help for the complete of month.
+
+227
+00:16:14,000 --> 00:16:16,000
+Okay, makes sense.
+
+228
+00:16:16,000 --> 00:16:20,000
+So you save at least 5k at least every month you try to keep it in your account, right?
+
+229
+00:16:20,000 --> 00:16:21,000
+Right.
+
+230
+00:16:21,000 --> 00:16:22,000
+Makes sense.
+
+231
+00:16:22,000 --> 00:16:23,000
+Makes sense.
+
+232
+00:16:23,000 --> 00:16:26,000
+Have you ever noticed that why did you bought a property?
+
+233
+00:16:26,000 --> 00:16:30,000
+Why did you took a home loan? Like why did you took a property?
+
+234
+00:16:30,000 --> 00:16:35,000
+Actually, it is required when we are in relation.
+
+235
+00:16:35,000 --> 00:16:40,000
+Right. And more importantly that property is an asset, correct?
+
+236
+00:16:40,000 --> 00:16:41,000
+Yes.
+
+237
+00:16:41,000 --> 00:16:45,000
+In 20 years if you are paying 72 lakh and let's say after 20 years,
+
+238
+00:16:45,000 --> 00:16:50,000
+that 60 lakh of property will be at least worst case 90 lakh.
+
+239
+00:16:50,000 --> 00:16:51,000
+Right.
+
+240
+00:16:51,000 --> 00:16:54,000
+Something will increase in 20 years, something will change.
+
+241
+00:16:54,000 --> 00:16:56,000
+And if you tell it, you will get anyways 20 lakhs.
+
+242
+00:16:56,000 --> 00:16:57,000
+Right.
+
+243
+00:16:57,000 --> 00:16:59,000
+Right, more than that.
+
+244
+00:16:59,000 --> 00:17:04,000
+So you invested why in a property because that is a thing that is generating an income
+
+245
+00:17:04,000 --> 00:17:06,000
+or it will generate an income in future.
+
+246
+00:17:06,000 --> 00:17:07,000
+Right.
+
+247
+00:17:07,000 --> 00:17:11,000
+But in last 3 years, have you invested anything on yourself?
+
+248
+00:17:11,000 --> 00:17:14,000
+No, not yet. Means?
+
+249
+00:17:14,000 --> 00:17:17,000
+But you are a person who is generating income.
+
+250
+00:17:17,000 --> 00:17:18,000
+Right.
+
+251
+00:17:18,000 --> 00:17:23,000
+If today you will have your own startup or you will have your own business,
+
+252
+00:17:23,000 --> 00:17:28,000
+any business, any shop or anything, when you will make profit in that business,
+
+253
+00:17:28,000 --> 00:17:29,000
+what would you do that profit?
+
+254
+00:17:29,000 --> 00:17:33,000
+Would you spend all the profit, home loan, family expenses, other things?
+
+255
+00:17:33,000 --> 00:17:39,000
+Or would you reinvest small profit on your business back again?
+
+256
+00:17:39,000 --> 00:17:40,000
+Would you do that?
+
+257
+00:17:40,000 --> 00:17:41,000
+Right.
+
+258
+00:17:41,000 --> 00:17:44,000
+Why would you do that? Why people do that? Why?
+
+259
+00:17:44,000 --> 00:17:48,000
+Self-protest is more important.
+
+260
+00:17:48,000 --> 00:17:51,000
+Because that business will give you more income.
+
+261
+00:17:51,000 --> 00:17:52,000
+Right.
+
+262
+00:17:52,000 --> 00:17:57,000
+The business will be able, not only income, because there would be competition as well.
+
+263
+00:17:57,000 --> 00:18:01,000
+So you have to build the competition by keeping stocks and every single thing.
+
+264
+00:18:01,000 --> 00:18:06,000
+The same reason, when you are a person who is generating an income,
+
+265
+00:18:06,000 --> 00:18:09,000
+you should always invest something in yourself.
+
+266
+00:18:09,000 --> 00:18:14,000
+The last time when you invested was three years back when you were doing your MCA.
+
+267
+00:18:14,000 --> 00:18:15,000
+Right.
+
+268
+00:18:15,000 --> 00:18:16,000
+Post which you never.
+
+269
+00:18:16,000 --> 00:18:17,000
+Right.
+
+270
+00:18:17,000 --> 00:18:20,000
+Like tell me, do you have brothers and sisters or anyone?
+
+271
+00:18:20,000 --> 00:18:21,000
+You are the only son.
+
+272
+00:18:21,000 --> 00:18:23,000
+No, I am the only son.
+
+273
+00:18:23,000 --> 00:18:26,000
+Okay. So that means you have lot of responsibility.
+
+274
+00:18:26,000 --> 00:18:29,000
+I am sure after two or three years you will get married.
+
+275
+00:18:29,000 --> 00:18:31,000
+Yes, of course.
+
+276
+00:18:31,000 --> 00:18:36,000
+Do you think in 10, 12 LPA that will be a good salary to get married?
+
+277
+00:18:37,000 --> 00:18:38,000
+No.
+
+278
+00:18:38,000 --> 00:18:39,000
+No, it's not.
+
+279
+00:18:39,000 --> 00:18:43,000
+I am realizing it because I thought it would be the same thing for me that
+
+280
+00:18:43,000 --> 00:18:46,000
+10 percent is making 90,000 rupees a month.
+
+281
+00:18:46,000 --> 00:18:48,000
+That's good enough to have a wife.
+
+282
+00:18:48,000 --> 00:18:51,000
+But then I realized that no, it's a blunder.
+
+283
+00:18:51,000 --> 00:18:53,000
+Right.
+
+284
+00:18:53,000 --> 00:18:56,000
+If you are not making at least 1.5 lakh every month,
+
+285
+00:18:56,000 --> 00:19:01,000
+because it's not about I have to take care of my family and my wife.
+
+286
+00:19:01,000 --> 00:19:05,000
+I have to sometimes take care of the parents of my wife.
+
+287
+00:19:05,000 --> 00:19:09,000
+The parents of my wife as well, because there is a responsibility over there.
+
+288
+00:19:09,000 --> 00:19:13,000
+Then comes the children, then comes education, their fees and all.
+
+289
+00:19:13,000 --> 00:19:19,000
+So that is the reason I was trying to understand and make you realize that yes,
+
+290
+00:19:19,000 --> 00:19:23,000
+that I am sure you have to invest in yourself to make yourself better.
+
+291
+00:19:23,000 --> 00:19:27,000
+I have one request for you today.
+
+292
+00:19:27,000 --> 00:19:30,000
+I would like to show you your test for definitely I'll do that.
+
+293
+00:19:30,000 --> 00:19:32,000
+But I have one request.
+
+294
+00:19:32,000 --> 00:19:34,000
+I am sure today you are not going anywhere out.
+
+295
+00:19:34,000 --> 00:19:35,000
+Right.
+
+296
+00:19:35,000 --> 00:19:38,000
+Did you have your breakfast or you will be having it?
+
+297
+00:19:38,000 --> 00:19:42,000
+Actually, it is time to lunch actually.
+
+298
+00:19:42,000 --> 00:19:45,000
+I know, but I am sure you had your breakfast, right?
+
+299
+00:19:45,000 --> 00:19:49,000
+Right. I mean actually I woke up late.
+
+300
+00:19:49,000 --> 00:19:51,000
+What time you woke up?
+
+301
+00:19:51,000 --> 00:19:53,000
+It is nearly 11.
+
+302
+00:19:53,000 --> 00:19:56,000
+Oh, you just woke up one hour ago.
+
+303
+00:19:56,000 --> 00:19:59,000
+So you don't even have your breakfast, you will be having lunch?
+
+304
+00:19:59,000 --> 00:20:01,000
+Yes, directly lunch.
+
+305
+00:20:01,000 --> 00:20:02,000
+We call it brunch.
+
+306
+00:20:02,000 --> 00:20:03,000
+Good, perfect.
+
+307
+00:20:03,000 --> 00:20:06,000
+So now you should at least have something, have a glass of water,
+
+308
+00:20:06,000 --> 00:20:08,000
+a cup of tea or something.
+
+309
+00:20:08,000 --> 00:20:14,000
+What I want that before 3 p.m., when you are before lunch or even right now
+
+310
+00:20:14,000 --> 00:20:17,000
+when you feel free before 3 p.m., just open up your laptop.
+
+311
+00:20:17,000 --> 00:20:19,000
+I just want you to open up your laptop.
+
+312
+00:20:19,000 --> 00:20:21,000
+Sit down.
+
+313
+00:20:21,000 --> 00:20:23,000
+I am sure you have your personal laptop, right?
+
+314
+00:20:23,000 --> 00:20:24,000
+Yes.
+
+315
+00:20:24,000 --> 00:20:28,000
+Open up your laptop, just sit down and do some research on Scalar.
+
+316
+00:20:28,000 --> 00:20:29,000
+Just manage one hour.
+
+317
+00:20:29,000 --> 00:20:31,000
+Before 3 p.m., just manage one hour.
+
+318
+00:20:31,000 --> 00:20:33,000
+Do research.
+
+319
+00:20:33,000 --> 00:20:37,000
+The research about whether Scalar can help you or not.
+
+320
+00:20:37,000 --> 00:20:39,000
+Right.
+
+321
+00:20:39,000 --> 00:20:41,000
+Can you do that at least?
+
+322
+00:20:41,000 --> 00:20:42,000
+Yes, yes, sure.
+
+323
+00:20:42,000 --> 00:20:43,000
+One hour.
+
+324
+00:20:43,000 --> 00:20:45,000
+And there are some videos within that one hour,
+
+325
+00:20:45,000 --> 00:20:47,000
+I am sharing you some very interesting videos.
+
+326
+00:20:47,000 --> 00:20:49,000
+These are like five minutes of videos.
+
+327
+00:20:49,000 --> 00:20:53,000
+These are not like 10, 15, half an hour video, no.
+
+328
+00:20:53,000 --> 00:20:55,000
+These are just five minutes of videos.
+
+329
+00:20:55,000 --> 00:20:57,000
+Maybe I will share you six or seven.
+
+330
+00:20:57,000 --> 00:20:58,000
+That's it.
+
+331
+00:20:58,000 --> 00:21:00,000
+And if you watch them out, no.
+
+332
+00:21:00,000 --> 00:21:03,000
+Even if you watch them, trust me,
+
+333
+00:21:03,000 --> 00:21:07,000
+after maybe a week or one month,
+
+334
+00:21:07,000 --> 00:21:09,000
+you will be able to help yourself more.
+
+335
+00:21:09,000 --> 00:21:12,000
+That what you should do, where exactly you need to learn things more.
+
+336
+00:21:12,000 --> 00:21:14,000
+Right.
+
+337
+00:21:14,000 --> 00:21:17,000
+If I am going to share you those videos, would you watch them?
+
+338
+00:21:17,000 --> 00:21:19,000
+Yes, yes, of course.
+
+339
+00:21:19,000 --> 00:21:22,000
+And I am sure, would you be able to do your research before 3 p.m.?
+
+340
+00:21:22,000 --> 00:21:23,000
+Or maximum by 4 p.m.?
+
+341
+00:21:23,000 --> 00:21:24,000
+Can you?
+
+342
+00:21:24,000 --> 00:21:25,000
+Yes.
+
+343
+00:21:25,000 --> 00:21:27,000
+Or are you going to take an afternoon sleep again?
+
+344
+00:21:27,000 --> 00:21:28,000
+No, no.
+
+345
+00:21:28,000 --> 00:21:30,000
+It's 3 p.m. it's okay.
+
+346
+00:21:30,000 --> 00:21:34,000
+I mean, actually, I will sit on my laptop.
+
+347
+00:21:34,000 --> 00:21:36,000
+Do that.
+
+348
+00:21:36,000 --> 00:21:40,000
+Because I know, maybe you are thinking that Radhan is pushing me for it.
+
+349
+00:21:40,000 --> 00:21:42,000
+But it's actually I am motivating you.
+
+350
+00:21:42,000 --> 00:21:43,000
+I am making you do things.
+
+351
+00:21:43,000 --> 00:21:45,000
+And this way you will be able to do it.
+
+352
+00:21:45,000 --> 00:21:47,000
+And this way you will get motivated.
+
+353
+00:21:47,000 --> 00:21:49,000
+And this way that your time that is sitting idle,
+
+354
+00:21:49,000 --> 00:21:51,000
+you will be able to take use of it.
+
+355
+00:21:51,000 --> 00:21:52,000
+Right.
+
+356
+00:21:52,000 --> 00:21:54,000
+So that is what will happen.
+
+357
+00:21:54,000 --> 00:21:55,000
+Okay.
+
+358
+00:21:55,000 --> 00:21:56,000
+So can you do that?
+
+359
+00:21:56,000 --> 00:21:57,000
+Yes, you are sure.
+
+360
+00:21:57,000 --> 00:21:58,000
+Okay, perfect.
+
+361
+00:21:58,000 --> 00:22:01,000
+So I will connect with you at around 3.30 or 4 p.m.
+
+362
+00:22:01,000 --> 00:22:04,000
+And then I will see whether you have done your research or not.
+
+363
+00:22:04,000 --> 00:22:05,000
+Okay?
+
+364
+00:22:05,000 --> 00:22:06,000
+Sure.
+
+365
+00:22:06,000 --> 00:22:07,000
+I wish you all the best, man.
+
+366
+00:22:07,000 --> 00:22:08,000
+Thank you.
+

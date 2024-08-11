@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,560
+Hello. Yes Mr. Gulaam, I just gave a call. I hope you will be joining the meeting.
+
+2
+00:00:06,560 --> 00:00:10,040
+Yeah sorry actually I just completely forgot about this. Just give me five minutes.
+
+3
+00:00:10,040 --> 00:00:14,600
+Five minutes okay. I'll be there.
+

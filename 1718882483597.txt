@@ -1,0 +1,388 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Yes, Bhavna speaking
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes, Bhavna speaking
+
+5
+00:00:08,000 --> 00:00:12,000
+Do you think this girl is 24 months or 5 years old?
+
+6
+00:00:12,000 --> 00:00:14,000
+There are two categories
+
+7
+00:00:14,000 --> 00:00:20,000
+24 months means without interest, 5 years means with interest
+
+8
+00:00:20,000 --> 00:00:24,000
+Do you think she is 24 months without interest?
+
+9
+00:00:24,000 --> 00:00:26,000
+Yes, she can pay all the interest
+
+10
+00:00:26,000 --> 00:00:28,000
+Yes, she can pay all the interest
+
+11
+00:00:28,000 --> 00:00:30,000
+Even in 24 months
+
+12
+00:00:30,000 --> 00:00:34,000
+But the division of 2,94 lakhs is done in 24 months
+
+13
+00:00:34,000 --> 00:00:36,000
+Yes
+
+14
+00:00:36,000 --> 00:00:40,000
+Do you think she is going without interest or 5 years?
+
+15
+00:00:40,000 --> 00:00:42,000
+How much is it for 5 years?
+
+16
+00:00:42,000 --> 00:00:44,000
+7600 per month
+
+17
+00:00:44,000 --> 00:00:46,000
+That is the interest
+
+18
+00:00:46,000 --> 00:00:50,000
+You can pre-close it anytime
+
+19
+00:00:50,000 --> 00:00:52,000
+But she also has to pay the interest
+
+20
+00:00:52,000 --> 00:00:58,000
+No, when you pre-close it, only 2-3% of pre-closing charges are there
+
+21
+00:00:58,000 --> 00:01:02,000
+For example, if you pre-close it in 2 years, you will pay only 2 years interest
+
+22
+00:01:02,000 --> 00:01:04,000
+You will not pay the rest of the 3 years interest
+
+23
+00:01:04,000 --> 00:01:08,000
+You will pay the difference amount and pay the pre-closing charges
+
+24
+00:01:12,000 --> 00:01:14,000
+Please repeat it one more time
+
+25
+00:01:14,000 --> 00:01:20,000
+If you say 5 years interest, you are planning to pre-close it in 2 years
+
+26
+00:01:20,000 --> 00:01:28,000
+So, if you pre-close it in 2 years, you will pay the interest only for 2 years
+
+27
+00:01:28,000 --> 00:01:32,000
+You will pay the interest only for that year
+
+28
+00:01:32,000 --> 00:01:36,000
+So, the interest is the same for the 3 years amount
+
+29
+00:01:36,000 --> 00:01:38,000
+Because the money is given back by the person
+
+30
+00:01:38,000 --> 00:01:40,000
+So, you will pay the interest for 2 years
+
+31
+00:01:40,000 --> 00:01:44,000
+So, the pre-closing charges are 2% or 3%
+
+32
+00:01:44,000 --> 00:01:50,000
+So, the pre-closing charges are 2% or 2%
+
+33
+00:01:50,000 --> 00:01:52,000
+Or is it full amount?
+
+34
+00:01:52,000 --> 00:01:54,000
+Pre-closing is like that
+
+35
+00:01:54,000 --> 00:01:58,000
+Pre-closing is the amount given by the person
+
+36
+00:01:58,000 --> 00:02:04,000
+So, you will pay the interest for 3 years
+
+37
+00:02:04,000 --> 00:02:06,000
+You will pay the difference amount only
+
+38
+00:02:06,000 --> 00:02:08,000
+In pre-closing
+
+39
+00:02:08,000 --> 00:02:12,000
+But, in Bank of India, you will pay the interest first
+
+40
+00:02:12,000 --> 00:02:14,000
+Then the real amount will start
+
+41
+00:02:14,000 --> 00:02:16,000
+Is it like that?
+
+42
+00:02:16,000 --> 00:02:18,000
+It is not like that
+
+43
+00:02:18,000 --> 00:02:22,000
+You will have to calculate 7600
+
+44
+00:02:22,000 --> 00:02:24,000
+If you want, you can cross check
+
+45
+00:02:24,000 --> 00:02:26,000
+I will call you with a Telugu guy
+
+46
+00:02:26,000 --> 00:02:28,000
+There will be a variation in the property
+
+47
+00:02:28,000 --> 00:02:30,000
+So, you can ask him if you want
+
+48
+00:02:30,000 --> 00:02:32,000
+It is not like that
+
+49
+00:02:32,000 --> 00:02:34,000
+Because my learner took 2 years
+
+50
+00:02:34,000 --> 00:02:38,000
+My learner took 5 years and pre-closed in 2 years
+
+51
+00:02:38,000 --> 00:02:42,000
+So, he has only 2 years interest
+
+52
+00:02:42,000 --> 00:02:46,000
+Do you have any idea about his pre-closing?
+
+53
+00:02:46,000 --> 00:02:48,000
+I don't have any idea
+
+54
+00:02:48,000 --> 00:02:50,000
+What he told me was that
+
+55
+00:02:50,000 --> 00:02:54,000
+The other 3 years interest was waived off
+
+56
+00:02:54,000 --> 00:02:56,000
+So, it is like the education loan?
+
+57
+00:02:56,000 --> 00:02:58,000
+Yes, it is like that
+
+58
+00:02:58,000 --> 00:03:00,000
+It will come up to 10%
+
+59
+00:03:00,000 --> 00:03:02,000
+It will not be like that in our personal loan
+
+60
+00:03:02,000 --> 00:03:04,000
+It will be floating
+
+61
+00:03:04,000 --> 00:03:06,000
+10% flat interest
+
+62
+00:03:06,000 --> 00:03:10,000
+If we take a loan of 294
+
+63
+00:03:10,000 --> 00:03:12,000
+It will take 30,000
+
+64
+00:03:12,000 --> 00:03:14,000
+It will take up to 30,000
+
+65
+00:03:14,000 --> 00:03:18,000
+I don't know how to calculate the interest
+
+66
+00:03:18,000 --> 00:03:20,000
+But, 10% is not my problem
+
+67
+00:03:20,000 --> 00:03:22,000
+I will calculate 10%
+
+68
+00:03:22,000 --> 00:03:24,000
+10% floating is like that
+
+69
+00:03:24,000 --> 00:03:26,000
+It will be different for every bank
+
+70
+00:03:26,000 --> 00:03:28,000
+It will be different for every finance partner
+
+71
+00:03:28,000 --> 00:03:30,000
+Their calculator is different
+
+72
+00:03:32,000 --> 00:03:34,000
+I will arrange a call for the finance team
+
+73
+00:03:34,000 --> 00:03:36,000
+You can calculate both
+
+74
+00:03:36,000 --> 00:03:38,000
+How is the 24 months and 5 years?
+
+75
+00:03:38,000 --> 00:03:40,000
+Okay
+
+76
+00:03:40,000 --> 00:03:44,000
+How much will it cost for the 24 months?
+
+77
+00:03:44,000 --> 00:03:46,000
+It will cost 12,250
+
+78
+00:03:46,000 --> 00:03:48,000
+12,250
+
+79
+00:03:48,000 --> 00:03:50,000
+Okay
+
+80
+00:03:50,000 --> 00:03:52,000
+It will be better to go for 5 years
+
+81
+00:03:52,000 --> 00:03:54,000
+It is better to cut it once
+
+82
+00:03:54,000 --> 00:03:56,000
+Yes, that is better
+
+83
+00:03:56,000 --> 00:03:58,000
+You can ask them
+
+84
+00:03:58,000 --> 00:04:00,000
+I will arrange a call for 5 years
+
+85
+00:04:00,000 --> 00:04:02,000
+You can go for 5 years with them
+
+86
+00:04:02,000 --> 00:04:04,000
+You can go for 5 years with them
+
+87
+00:04:04,000 --> 00:04:06,000
+You can ask them
+
+88
+00:04:06,000 --> 00:04:08,000
+I will go ahead with 5 years
+
+89
+00:04:08,000 --> 00:04:10,000
+They will do the EKYC
+
+90
+00:04:10,000 --> 00:04:12,000
+Okay
+
+91
+00:04:12,000 --> 00:04:14,000
+I will put the finance preferred
+
+92
+00:04:14,000 --> 00:04:16,000
+I will put the preferred form
+
+93
+00:04:16,000 --> 00:04:18,000
+I am filling the form
+
+94
+00:04:18,000 --> 00:04:20,000
+I will fill the form
+
+95
+00:04:20,000 --> 00:04:22,000
+You can go with clarity
+
+96
+00:04:22,000 --> 00:04:24,000
+Okay
+
+97
+00:04:24,000 --> 00:04:26,000
+Thank you
+

@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello, I was in a meeting at that time.
+
+2
+00:00:05,000 --> 00:00:15,000
+Yes, I was telling you that if the test is not done, what will happen if the net goes away?
+
+3
+00:00:15,000 --> 00:00:18,000
+Yes, you can give it again.
+
+4
+00:00:18,000 --> 00:00:20,000
+Can I give it again?
+
+5
+00:00:20,000 --> 00:00:22,000
+Yes, you can give it again.
+
+6
+00:00:22,000 --> 00:00:24,000
+Okay, I wanted to ask you.
+
+7
+00:00:24,000 --> 00:00:26,000
+Are you giving the test now?
+
+8
+00:00:26,000 --> 00:00:27,000
+No, no, no.
+
+9
+00:00:27,000 --> 00:00:33,000
+Okay, you can give it again.
+
+10
+00:00:33,000 --> 00:00:35,000
+Okay, okay.
+
+11
+00:00:35,000 --> 00:00:37,000
+Okay.
+

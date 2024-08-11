@@ -1,0 +1,968 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:08,000
+Hi, I am speaking with Prakash
+
+4
+00:00:08,000 --> 00:00:10,000
+Yes Prakash
+
+5
+00:00:10,000 --> 00:00:14,000
+Prakash, Hi, Varshani side, I am giving a call from the
+
+6
+00:00:14,000 --> 00:00:18,000
+from the Groups RAN C-Drash team of Taylor Academy
+
+7
+00:00:18,000 --> 00:00:20,000
+Okay
+
+8
+00:00:20,000 --> 00:00:28,000
+So Prakash, I believe you had a conversation with one of the technical consultants regarding your requirements for upskilling, correct?
+
+9
+00:00:28,000 --> 00:00:32,000
+Yeah, last week he called me
+
+10
+00:00:32,000 --> 00:00:38,000
+So I just wanted to have a feedback, I mean how was the experience talking to him?
+
+11
+00:00:38,000 --> 00:00:42,000
+I mean did he clear everything what you required over the platform?
+
+12
+00:00:42,000 --> 00:00:56,000
+Yes, he explained all the things and I actually attended a session where I am working in a different
+
+13
+00:00:56,000 --> 00:01:10,000
+I just completed my AWS position update so I just want to know about AWS DevOps
+
+14
+00:01:10,000 --> 00:01:18,000
+So I just had that session with that day
+
+15
+00:01:18,000 --> 00:01:26,000
+After that he called me about the career planning and all
+
+16
+00:01:26,000 --> 00:01:36,000
+So I just told him that I just had a session for just want to know about the DevOps principles
+
+17
+00:01:36,000 --> 00:01:44,000
+Okay, so you mentioned that you have just learned from AWS certification, right?
+
+18
+00:01:44,000 --> 00:01:48,000
+You have just taken some sort of training on AWS, correct?
+
+19
+00:01:48,000 --> 00:01:58,000
+So when you have just taken the AWS training, how was the experience going through the cloud technology, cloud computing?
+
+20
+00:01:58,000 --> 00:02:14,000
+No, actually I am not working in cloud technology but I just want to switch over to cloud technology for DevOps or cloud engineering or something like that
+
+21
+00:02:14,000 --> 00:02:18,000
+So I just threw on to him
+
+22
+00:02:18,000 --> 00:02:24,000
+I mean I just wanted to talk about the experience in the cloud technology
+
+23
+00:02:24,000 --> 00:02:26,000
+So I just had that session
+
+24
+00:02:26,000 --> 00:02:28,000
+Okay, okay
+
+25
+00:02:28,000 --> 00:02:32,000
+So I can see that you have been working as a support engineer, right?
+
+26
+00:02:32,000 --> 00:02:36,000
+Hello?
+
+27
+00:02:36,000 --> 00:02:38,000
+I just not clear actually
+
+28
+00:02:38,000 --> 00:02:40,000
+Is it clear now?
+
+29
+00:02:40,000 --> 00:02:42,000
+Yes, fine
+
+30
+00:02:42,000 --> 00:02:50,000
+Okay, so I am asking, I mean when you said that you want to get into DevOps, do you have working as a support engineer, correct?
+
+31
+00:02:50,000 --> 00:03:00,000
+Actually my profile is entirely different because I am working in cloud actually, I am working in mainframe tool now
+
+32
+00:03:00,000 --> 00:03:08,000
+So I just learning cloud and DevOps
+
+33
+00:03:08,000 --> 00:03:16,000
+So I had that, I mean the web teacher is having a lot of opportunities
+
+34
+00:03:16,000 --> 00:03:20,000
+So I wanted to know something
+
+35
+00:03:20,000 --> 00:03:22,000
+Okay, great, great
+
+36
+00:03:22,000 --> 00:03:28,000
+So since how long you have started preparing for DevOps?
+
+37
+00:03:28,000 --> 00:03:30,000
+I am sorry?
+
+38
+00:03:30,000 --> 00:03:36,000
+Since how long you have started preparing for DevOps?
+
+39
+00:03:36,000 --> 00:03:40,000
+I haven't started my training in DevOps
+
+40
+00:03:40,000 --> 00:03:46,000
+I completed my course in cloud, AWS cloud
+
+41
+00:03:46,000 --> 00:03:52,000
+And I have done my certification as a solution architect
+
+42
+00:03:52,000 --> 00:04:16,000
+I just wanted to know if any requirement or if I completed any DevOps course like Kubernetes or Docker, something like that, if I completed, is there an opportunity in the outside?
+
+43
+00:04:16,000 --> 00:04:20,000
+Do we get an opportunity?
+
+44
+00:04:20,000 --> 00:04:30,000
+Yes, yes, actually what happens now, at Scalar, what we do actually, like you know you have seen the master class as well on Docker and Kubernetes
+
+45
+00:04:30,000 --> 00:04:34,000
+So at Scalar what we do, first we train you on the real life projects
+
+46
+00:04:34,000 --> 00:04:36,000
+Okay
+
+47
+00:04:36,000 --> 00:04:44,000
+Yeah, first we train you, I don't know whatever the certifications you have done for AWS, that is a theoretical part or maybe you know practical implementation
+
+48
+00:04:44,000 --> 00:04:48,000
+But here at Scalar we talk about scalability
+
+49
+00:04:48,000 --> 00:04:56,000
+So we make you work on the scalable projects, we teach you end-to-end development in DevOps domain plus deployment and then we place you
+
+50
+00:04:56,000 --> 00:05:02,000
+We have hiring partners, we have 900 plus hiring partners as of now, all product based companies
+
+51
+00:05:02,000 --> 00:05:04,000
+So first we train and then we provide placements as well
+
+52
+00:05:04,000 --> 00:05:10,000
+So this is what Scalar is doing
+
+53
+00:05:10,000 --> 00:05:20,000
+So there are actually, yeah, I am having more than 10 years experience overall
+
+54
+00:05:20,000 --> 00:05:22,000
+How many experience?
+
+55
+00:05:22,000 --> 00:05:26,000
+So 10 plus years experience overall
+
+56
+00:05:26,000 --> 00:05:38,000
+So is there any concern, I mean is there any age factor, I completed my subreddit course, any DevOps?
+
+57
+00:05:38,000 --> 00:05:48,000
+See, trust me, I am telling you what happens, so if you are having the skill set right, skill set and the talent to crack the interview
+
+58
+00:05:48,000 --> 00:05:58,000
+To work the assigned task in an organization, on a position, so definitely the companies, the hiring companies won't be considering your age factor
+
+59
+00:05:58,000 --> 00:06:04,000
+As well as your domain factor, whether you come from a support background, whether you come from a CEO background
+
+60
+00:06:04,000 --> 00:06:12,000
+If you are able to answer the questions they are asking in the interviews, if you are having the skill set which is required to perform the particular task in that job
+
+61
+00:06:12,000 --> 00:06:18,000
+Definitely, nothing will be considered, everything will be based upon your interview, how you are cracking the interview
+
+62
+00:06:18,000 --> 00:06:24,000
+What kind of skill set, how exactly you are presenting your side to them
+
+63
+00:06:24,000 --> 00:06:26,000
+That is what truly company requires these days
+
+64
+00:06:26,000 --> 00:06:34,000
+Companies are only requiring skill set, they are not requiring your age factor, they are not considering your degree, which college you come from
+
+65
+00:06:34,000 --> 00:06:36,000
+Nothing matters right now in the market
+
+66
+00:06:36,000 --> 00:06:44,000
+So only thing is your experience, your hands on experience, your knowledge, your companies, your projects, that's all
+
+67
+00:06:44,000 --> 00:06:48,000
+Okay, got it
+
+68
+00:06:48,000 --> 00:06:55,000
+So my question to you is very simple, could you please help me out, like you have done AWS articulation, how is it helping you in your journey?
+
+69
+00:06:55,000 --> 00:07:01,000
+In your learning, like you know, when you are applying for the job, is it really helping you?
+
+70
+00:07:01,000 --> 00:07:13,000
+Not really, actually my company, they had a few one week sessions in AWS solution architects
+
+71
+00:07:13,000 --> 00:07:20,000
+And post that they provided voucher for the certification
+
+72
+00:07:20,000 --> 00:07:30,000
+So apart from that, I have done a course in AWS solution architect outside from my company
+
+73
+00:07:30,000 --> 00:07:36,000
+So that helped me to clear the solution architect certification
+
+74
+00:07:36,000 --> 00:07:47,000
+So but it is not quite helping me in my company
+
+75
+00:07:47,000 --> 00:07:55,000
+So what challenges you are facing? I mean when you are saying it is not helping me, I believe you have been going through the interview rounds for DevOps, right?
+
+76
+00:07:55,000 --> 00:07:59,000
+So what are the challenges you have been facing?
+
+77
+00:07:59,000 --> 00:08:08,000
+No, I haven't had any interviews so far, I have completed my certification on March
+
+78
+00:08:08,000 --> 00:08:19,000
+So after that, actually I thought of once I completed my certification, I thought of moving into my internal project inside my company
+
+79
+00:08:19,000 --> 00:08:26,000
+So the main focus is to move internally
+
+80
+00:08:26,000 --> 00:08:41,000
+I am just very curious to understand, Takash, please answer me with very transparency
+
+81
+00:08:41,000 --> 00:08:47,000
+I mean you are carrying 10 plus years of experience, right? In IT industry
+
+82
+00:08:47,000 --> 00:08:51,000
+And now you want to switch your domain, you want to get into a new domain
+
+83
+00:08:51,000 --> 00:08:59,000
+What exactly is your goal? Is it like the goal is to get a job right now or goal is to survive in that domain?
+
+84
+00:08:59,000 --> 00:09:07,000
+To do on my side, I want to switch my career into cloud
+
+85
+00:09:07,000 --> 00:09:12,000
+So that is my goal actually
+
+86
+00:09:12,000 --> 00:09:20,000
+So I am looking for a job even if it is inside the company or outside the company
+
+87
+00:09:20,000 --> 00:09:24,000
+I want to switch over to cloud technologies
+
+88
+00:09:24,000 --> 00:09:34,000
+I haven't tried something that is stopping me but I haven't tried it
+
+89
+00:09:34,000 --> 00:09:39,000
+I haven't given any interviews as of now
+
+90
+00:09:39,000 --> 00:09:47,000
+Are you getting calls from outside? Have you put your resume on Okri, LinkedIn, Indir?
+
+91
+00:09:47,000 --> 00:09:52,000
+I have applied for a couple of companies, I got a call actually
+
+92
+00:09:52,000 --> 00:09:56,000
+So they need a person who is joining in the industry
+
+93
+00:09:56,000 --> 00:10:06,000
+Would you mind if I ask you the salary bracket you are taking right now and what are your expectations if you are joining DevOps domain?
+
+94
+00:10:06,000 --> 00:10:12,000
+Currently getting 12 lakhs
+
+95
+00:10:12,000 --> 00:10:20,000
+I don't have any expectations, I want to get some experience
+
+96
+00:10:20,000 --> 00:10:26,000
+Would you be okay if I give you an opportunity, just to give you an example
+
+97
+00:10:26,000 --> 00:10:31,000
+Just take a hypothetical situation wherein I am giving you an opportunity in DevOps
+
+98
+00:10:31,000 --> 00:10:36,000
+But the salary package would be comparatively low what you are getting right now
+
+99
+00:10:36,000 --> 00:10:39,000
+It would be comparatively 8 lakhs or 9 lakhs
+
+100
+00:10:39,000 --> 00:10:42,000
+Would you be joining the opportunity?
+
+101
+00:10:42,000 --> 00:10:48,000
+Sorry, I am having family, I have a lot of commitments
+
+102
+00:10:48,000 --> 00:10:53,000
+This 12 lakhs is actually not helping me financially
+
+103
+00:10:53,000 --> 00:10:57,000
+But somehow I am surviving
+
+104
+00:10:57,000 --> 00:11:04,000
+So if you want me to continue with the same package then I can continue with this one
+
+105
+00:11:04,000 --> 00:11:11,000
+It's not possible, I can completely understand that
+
+106
+00:11:11,000 --> 00:11:16,000
+Even the person who is having 13-15 lakhs of package now and he or she is single
+
+107
+00:11:16,000 --> 00:11:19,000
+They are not able to afford that in metro cities
+
+108
+00:11:19,000 --> 00:11:24,000
+So being a family man I can understand that you are having some sort of responsibilities
+
+109
+00:11:24,000 --> 00:11:29,000
+I just wanted to make you realize if you are going for any company in a new domain
+
+110
+00:11:29,000 --> 00:11:32,000
+The company won't be hesitating saying you are going for 12 lakhs
+
+111
+00:11:32,000 --> 00:11:35,000
+Like what exactly you are getting after 10 years of experience
+
+112
+00:11:35,000 --> 00:11:38,000
+They won't be paying you, they will be negotiating with you
+
+113
+00:11:38,000 --> 00:11:43,000
+They will be hiring their own reasons, you don't have any sort of experience in DevOps, right?
+
+114
+00:11:43,000 --> 00:11:47,000
+They will be getting so many people who are having 2-3 years of experience
+
+115
+00:11:47,000 --> 00:11:51,000
+They will be paying them 9-10 lakhs and they will be hiring those people
+
+116
+00:11:51,000 --> 00:11:55,000
+If you really want to make a switch in DevOps you need to have proper training
+
+117
+00:11:55,000 --> 00:12:00,000
+Without having proper training, without working on scalable projects
+
+118
+00:12:00,000 --> 00:12:04,000
+How would you get into any big company? Try to understand the fact
+
+119
+00:12:04,000 --> 00:12:07,000
+Right now the markets are not looking for certifications
+
+120
+00:12:07,000 --> 00:12:11,000
+You have done the certification, is it really helping you? You answer the question
+
+121
+00:12:11,000 --> 00:12:16,000
+No, right? You have just taken the certification, it is not helping you
+
+122
+00:12:16,000 --> 00:12:20,000
+Because you know whenever you will be taking that certification and going for the interviews
+
+123
+00:12:20,000 --> 00:12:24,000
+They will be asking about your hands-on experience and you don't have that
+
+124
+00:12:25,000 --> 00:12:28,000
+That's what companies like right now
+
+125
+00:12:28,000 --> 00:12:31,000
+Even if you go for any service based companies
+
+126
+00:12:31,000 --> 00:12:33,000
+Let's not talk about product based companies
+
+127
+00:12:33,000 --> 00:12:35,000
+Even if you go for start-up companies
+
+128
+00:12:35,000 --> 00:12:38,000
+They will be asking about your experience, past experience
+
+129
+00:12:38,000 --> 00:12:41,000
+Nobody is going to hire freshers for 5-6 lakhs even
+
+130
+00:12:41,000 --> 00:12:45,000
+There are so many people who have gotten laid off by the companies
+
+131
+00:12:45,000 --> 00:12:48,000
+They are having experience, they are looking for the job
+
+132
+00:12:48,000 --> 00:12:53,000
+Companies would be pressing them as compared to the person who don't have any sort of experience
+
+133
+00:12:53,000 --> 00:12:55,000
+My question to you is very simple
+
+134
+00:12:55,000 --> 00:12:58,000
+I mean when you said that you want
+
+135
+00:12:58,000 --> 00:13:00,000
+I can see the intent, intent is very good
+
+136
+00:13:00,000 --> 00:13:04,000
+I have just like whatever the conversation we have had during this conversation
+
+137
+00:13:04,000 --> 00:13:06,000
+I can see the intent
+
+138
+00:13:06,000 --> 00:13:10,000
+My question to you is why are you hesitant of taking practical training?
+
+139
+00:13:10,000 --> 00:13:12,000
+Why are you going for theoretical learning only?
+
+140
+00:13:14,000 --> 00:13:16,000
+I am sorry I had them get it
+
+141
+00:13:16,000 --> 00:13:18,000
+I am asking
+
+142
+00:13:19,000 --> 00:13:21,000
+I am sorry I had them get it
+
+143
+00:13:21,000 --> 00:13:25,000
+I am asking why are you hesitant to get a practical training?
+
+144
+00:13:25,000 --> 00:13:27,000
+Why don't you get trained?
+
+145
+00:13:34,000 --> 00:13:36,000
+I told you already
+
+146
+00:13:36,000 --> 00:13:39,000
+I have completed the solution outside
+
+147
+00:13:39,000 --> 00:13:43,000
+I paid 15,000 per the course
+
+148
+00:13:43,000 --> 00:13:46,000
+Which was a three-month course
+
+149
+00:13:46,000 --> 00:13:48,000
+So I completed recently
+
+150
+00:13:48,000 --> 00:13:53,000
+So again if I am going for any training
+
+151
+00:13:53,000 --> 00:13:56,000
+Again I need to pay a rate of score
+
+152
+00:13:56,000 --> 00:14:00,000
+That is why I am hesitating to do it immediately
+
+153
+00:14:00,000 --> 00:14:04,000
+15,000 rupees you have paid for only certification
+
+154
+00:14:04,000 --> 00:14:06,000
+You have not done any sort of project
+
+155
+00:14:06,000 --> 00:14:08,000
+What sort of projects you have done in that training?
+
+156
+00:14:10,000 --> 00:14:12,000
+No I have
+
+157
+00:14:12,000 --> 00:14:14,000
+You didn't do any sort of project right?
+
+158
+00:14:14,000 --> 00:14:16,000
+No no I didn't
+
+159
+00:14:16,000 --> 00:14:18,000
+Actually I have
+
+160
+00:14:18,000 --> 00:14:23,000
+With the help of my trainer
+
+161
+00:14:23,000 --> 00:14:25,000
+I have done I mean
+
+162
+00:14:25,000 --> 00:14:27,000
+With all the services
+
+163
+00:14:27,000 --> 00:14:29,000
+I worked on all the services
+
+164
+00:14:29,000 --> 00:14:31,000
+So it was helping me
+
+165
+00:14:31,000 --> 00:14:37,000
+To understand the concept of database cloud computing
+
+166
+00:14:37,000 --> 00:14:42,000
+But a real project I didn't work on it
+
+167
+00:14:42,000 --> 00:14:46,000
+So that is where you are exactly lagging
+
+168
+00:14:46,000 --> 00:14:49,000
+You don't have any practical projects to show up on
+
+169
+00:14:49,000 --> 00:14:51,000
+You can't put any project in your resume
+
+170
+00:14:51,000 --> 00:14:53,000
+That you have worked on a scalable project
+
+171
+00:14:53,000 --> 00:14:55,000
+Right?
+
+172
+00:14:55,000 --> 00:14:58,000
+Only certifications and knowing about AWS
+
+173
+00:14:58,000 --> 00:15:00,000
+Will not help you to get a job
+
+174
+00:15:00,000 --> 00:15:02,000
+Try to understand the margin
+
+175
+00:15:02,000 --> 00:15:04,000
+You need to show the project
+
+176
+00:15:04,000 --> 00:15:07,000
+You need to show your practical implementation of it
+
+177
+00:15:07,000 --> 00:15:09,000
+You just know about the AWS
+
+178
+00:15:09,000 --> 00:15:11,000
+What about the other tools in DevOps
+
+179
+00:15:11,000 --> 00:15:13,000
+Have you worked on Ansible?
+
+180
+00:15:13,000 --> 00:15:14,000
+Have you used Grafana?
+
+181
+00:15:14,000 --> 00:15:16,000
+Have you used CI-CD pipelines?
+
+182
+00:15:18,000 --> 00:15:20,000
+I heard about it
+
+183
+00:15:20,000 --> 00:15:22,000
+No
+
+184
+00:15:22,000 --> 00:15:24,000
+No you don't have any sort of knowledge
+
+185
+00:15:24,000 --> 00:15:26,000
+You have heard about it
+
+186
+00:15:26,000 --> 00:15:28,000
+But obviously
+
+187
+00:15:28,000 --> 00:15:30,000
+We have heard about a lot of tools and technologies
+
+188
+00:15:30,000 --> 00:15:32,000
+But it doesn't mean that we have worked upon that right?
+
+189
+00:15:32,000 --> 00:15:37,000
+But try to understand that you are targeting a particular position
+
+190
+00:15:37,000 --> 00:15:40,000
+Right now you are earning 12 LPA
+
+191
+00:15:40,000 --> 00:15:43,000
+When you will be going for DevOps engineering position
+
+192
+00:15:43,000 --> 00:15:46,000
+The company will be going to pay you around 25-30 LPA
+
+193
+00:15:46,000 --> 00:15:51,000
+But the company will be going to pay only 25-30 LPA only
+
+194
+00:15:51,000 --> 00:15:54,000
+When you will be knowing the tools and technologies
+
+195
+00:15:54,000 --> 00:15:56,000
+Correct?
+
+196
+00:15:56,000 --> 00:15:58,000
+Okay
+
+197
+00:15:58,000 --> 00:16:00,000
+So don't underestimate your earning capacity
+
+198
+00:16:00,000 --> 00:16:02,000
+Please try to learn first things
+
+199
+00:16:02,000 --> 00:16:04,000
+Then try to make a switch
+
+200
+00:16:04,000 --> 00:16:08,000
+Otherwise no doubt you will be able to make an entry in a company
+
+201
+00:16:08,000 --> 00:16:11,000
+But I am telling you very straight
+
+202
+00:16:11,000 --> 00:16:13,000
+You won't be able to survive in the company
+
+203
+00:16:15,000 --> 00:16:17,000
+So first, explain yourself
+
+204
+00:16:17,000 --> 00:16:21,000
+Try to understand how exactly the job requirements are in the organization
+
+205
+00:16:21,000 --> 00:16:24,000
+How you will perform a particular task in the company
+
+206
+00:16:25,000 --> 00:16:28,000
+If you won't be having any sort of knowledge
+
+207
+00:16:28,000 --> 00:16:30,000
+And you are entering into the company
+
+208
+00:16:30,000 --> 00:16:34,000
+You will be asking for each and everything to another person
+
+209
+00:16:34,000 --> 00:16:39,000
+And there you will be losing your credibility as an employee in that company
+
+210
+00:16:39,000 --> 00:16:41,000
+Am I able to make sense?
+
+211
+00:16:43,000 --> 00:16:45,000
+No, correct
+
+212
+00:16:45,000 --> 00:16:47,000
+That's what I am trying to say
+
+213
+00:16:47,000 --> 00:16:49,000
+Now my question to you is
+
+214
+00:16:49,000 --> 00:16:53,000
+I can see my consultant Sudarshan connected to you from Scalar, right?
+
+215
+00:16:53,000 --> 00:16:55,000
+He told you about how Scalar works
+
+216
+00:16:55,000 --> 00:16:57,000
+Has he told you?
+
+217
+00:16:59,000 --> 00:17:01,000
+He told me
+
+218
+00:17:01,000 --> 00:17:02,000
+Sorry I lost you
+
+219
+00:17:02,000 --> 00:17:04,000
+What did you say?
+
+220
+00:17:04,000 --> 00:17:08,000
+Well, he told me about Scalar
+
+221
+00:17:08,000 --> 00:17:12,000
+So basically in your profile what exactly the laggings are
+
+222
+00:17:12,000 --> 00:17:14,000
+You don't have any practical implementation
+
+223
+00:17:14,000 --> 00:17:18,000
+You don't have any practical hands-on experience on the real-life projects
+
+224
+00:17:18,000 --> 00:17:21,000
+And that's what Scalar is providing to you
+
+225
+00:17:21,000 --> 00:17:24,000
+I don't care about the amount you have spent
+
+226
+00:17:24,000 --> 00:17:26,000
+Only 15,000 rupees you have spent
+
+227
+00:17:26,000 --> 00:17:29,000
+Right? In the certification, EWR certification
+
+228
+00:17:29,000 --> 00:17:31,000
+But here what Scalar does?
+
+229
+00:17:31,000 --> 00:17:33,000
+That is for course
+
+230
+00:17:33,000 --> 00:17:37,000
+Course fee was 15,000
+
+231
+00:17:37,000 --> 00:17:41,000
+Certification was free actually
+
+232
+00:17:41,000 --> 00:17:44,000
+I got the voucher from the company
+
+233
+00:17:44,000 --> 00:17:46,000
+Okay, certificate
+
+234
+00:17:46,000 --> 00:17:48,000
+Course fee was 15,000, right?
+
+235
+00:17:48,000 --> 00:17:50,000
+Yes
+
+236
+00:17:50,000 --> 00:17:52,000
+Okay, at Scalar what we do
+
+237
+00:17:52,000 --> 00:17:54,000
+We are in DevOps program now
+
+238
+00:17:54,000 --> 00:17:56,000
+So it's a complete training program
+
+239
+00:17:56,000 --> 00:17:58,000
+You will be working on real-life projects
+
+240
+00:17:58,000 --> 00:18:02,000
+You will be working on a project of Google, Netflix, Amazon, Microsoft
+
+241
+00:18:02,000 --> 00:18:05,000
+You will be working on the real-life projects of these companies
+
+242
+00:18:05,000 --> 00:18:08,000
+You will be using real-life tools and technology
+

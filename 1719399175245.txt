@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hi Umang Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Meeting is at 4.30 right?
+
+3
+00:00:04,000 --> 00:00:06,000
+Yes yes the meeting is at 4.30
+
+4
+00:00:06,000 --> 00:00:10,000
+Umang is it fine if I will be late for 5 to 10 minutes max?
+
+5
+00:00:10,000 --> 00:00:12,000
+Ya ya ya fine no issues
+
+6
+00:00:12,000 --> 00:00:14,000
+I just want to let you know that's why I called you
+
+7
+00:00:14,000 --> 00:00:16,000
+Ok ok no issues
+
+8
+00:00:16,000 --> 00:00:18,000
+Thank you Umang
+
+9
+00:00:18,000 --> 00:00:20,000
+Welcome
+

@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:04,000
+Am I talking to Prabhat Kumar?
+
+2
+00:00:04,000 --> 00:00:06,000
+Yes
+
+3
+00:00:06,000 --> 00:00:08,000
+Hi Prabhat how are you?
+
+4
+00:00:10,000 --> 00:00:12,000
+Can you hear me?
+
+5
+00:00:14,000 --> 00:00:16,000
+Prabhat am I audible?
+
+6
+00:00:20,000 --> 00:00:22,000
+Hello, hello
+
+7
+00:00:22,000 --> 00:00:24,000
+I can hear you, can you hear me?
+
+8
+00:00:26,000 --> 00:00:28,000
+No, the voice is breaking actually
+
+9
+00:00:30,000 --> 00:00:32,000
+I can hear you
+

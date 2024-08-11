@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:12,000
+Hello, yes good afternoon Shasubh. Yeah yeah hi Asif. How are you? Yeah I'm fine. Asif I just talked to Manisha...Mansi.
+
+2
+00:00:12,000 --> 00:00:21,000
+Oh okay, you got a call from operations team. Yes. Yeah I just got a text from the same like your test has just been expired.
+
+3
+00:00:21,000 --> 00:00:25,000
+Yes yes yes actually Mansi told me that she will extend it to...
+
+4
+00:00:25,000 --> 00:00:30,000
+We'll have to provide you a new window actually.
+
+5
+00:00:30,000 --> 00:00:35,000
+But just wanted to let you know that there is a limit of the same.
+
+6
+00:00:35,000 --> 00:00:41,000
+Yes yes yes I know that very surely actually Mansi asked me why I did not give the exam.
+
+7
+00:00:41,000 --> 00:00:45,000
+Till 6 am I was working. I had wake up from her call only at 12.
+
+8
+00:00:45,000 --> 00:00:50,000
+Oh okay. So I was not able to give exams.
+
+9
+00:00:50,000 --> 00:00:53,000
+6 am so you had a lot of work yesterday as well.
+
+10
+00:00:53,000 --> 00:01:01,000
+Yes I worked at...I started at 4.30 and some issue was there in service.
+
+11
+00:01:01,000 --> 00:01:06,000
+Okay so you had to be awake for a week. Yes yes.
+
+12
+00:01:06,000 --> 00:01:08,000
+What do you see the free time now for yourself?
+
+13
+00:01:08,000 --> 00:01:14,000
+Basically I will roll out for you again I have no problem. I have that. I know generally you want to take it.
+
+14
+00:01:14,000 --> 00:01:19,000
+But another thing being you know if I roll it out right now and you happen to miss it again.
+
+15
+00:01:19,000 --> 00:01:24,000
+Then it will be kind of difficult for me to roll it out again.
+
+16
+00:01:24,000 --> 00:01:28,000
+Because you know I also have to request the operation teams for the same.
+
+17
+00:01:28,000 --> 00:01:34,000
+If you arrange it one more time I will give it. That is for sure.
+
+18
+00:01:34,000 --> 00:01:37,000
+But what time do you think would be comfortable for you?
+
+19
+00:01:37,000 --> 00:01:45,000
+We can like...what are the options? I will give today before 11 pm.
+
+20
+00:01:45,000 --> 00:01:50,000
+Before 11 pm. Yes yes. You can schedule it at 4.30.
+
+21
+00:01:50,000 --> 00:01:57,000
+I can schedule it but another thing being you know I had actually done all the profiling of yours for you.
+
+22
+00:01:57,000 --> 00:02:06,000
+I had made that road map wherein which person would be exactly fine for you to connect with as well for the DevOps.
+
+23
+00:02:06,000 --> 00:02:09,000
+So I had a conversation with Ms. Jigyasini as well.
+
+24
+00:02:09,000 --> 00:02:14,000
+So Jigyasini is actually one of the Illuminizers working at Goldman Sachs right now.
+
+25
+00:02:14,000 --> 00:02:18,000
+Okay. So she also came with experience of like around one or two years.
+
+26
+00:02:18,000 --> 00:02:24,000
+So that was a fit. So I had asked for her timeline as well in the evening.
+
+27
+00:02:24,000 --> 00:02:28,000
+Because I thought of you know you must be done with your examination by the morning.
+
+28
+00:02:29,000 --> 00:02:35,000
+So that was the reason actually I wanted you to take up early so that you can have the ECS in the evening.
+
+29
+00:02:35,000 --> 00:02:43,000
+Okay. So like I can give in half an hour? 2 o'clock is fine?
+
+30
+00:02:43,000 --> 00:02:49,000
+Yeah sure 2 o'clock is fine. But again see these problem solving questions would be there.
+
+31
+00:02:49,000 --> 00:02:56,000
+You know actually the profiles I have with me right now is more than 10. So you are one of them.
+
+32
+00:02:56,000 --> 00:03:02,000
+So yesterday three of the people have taken the examination with experience of greater than 10 years.
+
+33
+00:03:02,000 --> 00:03:10,000
+So he was not serious. He has ended up you know not being serious according to he has unfortunately failed in the same.
+
+34
+00:03:10,000 --> 00:03:17,000
+Okay. So you have basic maths. I have sent you a video for the same which would help you to understand what exactly the questions will be.
+
+35
+00:03:17,000 --> 00:03:21,000
+So it is a video by Mr. Anshuman. I have shared it on your WhatsApp.
+
+36
+00:03:21,000 --> 00:03:24,000
+So you have a look. You will get the idea what kind of questions you will be getting.
+
+37
+00:03:24,000 --> 00:03:27,000
+And then you can proceed with the exam.
+
+38
+00:03:27,000 --> 00:03:30,000
+And what will be the limit of the exam?
+
+39
+00:03:30,000 --> 00:03:35,000
+See for me I can only give you a window that you can take it in.
+
+40
+00:03:35,000 --> 00:03:38,000
+Till what time it will get expired that's what I am asking.
+
+41
+00:03:38,000 --> 00:03:42,000
+Yeah yeah. Once you open the link you will have only 40 minutes.
+
+42
+00:03:42,000 --> 00:03:49,000
+So that is the maximum time we can give because people end up finishing it in 15 minutes and it in 20 minutes.
+
+43
+00:03:49,000 --> 00:03:53,000
+So it depends upon you know how good of a problem solver you are.
+
+44
+00:03:53,000 --> 00:03:57,000
+Yes yes yes I understand. No I am asking what will be the expiry of that link.
+
+45
+00:03:57,000 --> 00:04:02,000
+Oh expiry. You said you will be taking it in half an hour. So I will be giving you 3 hours of window.
+
+46
+00:04:02,000 --> 00:04:03,000
+Yeah sure.
+
+47
+00:04:03,000 --> 00:04:09,000
+Alright. I will be giving you 3 hours of window so that makes it till 5.
+
+48
+00:04:09,000 --> 00:04:11,000
+Till 5 I will give you the window.
+
+49
+00:04:11,000 --> 00:04:14,000
+Same link or different link you are sending?
+
+50
+00:04:14,000 --> 00:04:15,000
+Sorry?
+
+51
+00:04:15,000 --> 00:04:17,000
+Same link or different link you are sending?
+
+52
+00:04:17,000 --> 00:04:21,000
+No no I will be sending you the link over your mail again. So you will get a different link over your mail.
+
+53
+00:04:22,000 --> 00:04:26,000
+We can take up the test and later on I will be sending you 2 to 3 profiles as well.
+
+54
+00:04:26,000 --> 00:04:30,000
+So let me see which would be the best for you to connect with.
+
+55
+00:04:30,000 --> 00:04:35,000
+Because you know we have an ACS team Alex who I have to request and they will connect with the alumni.
+
+56
+00:04:35,000 --> 00:04:37,000
+That Mansi was from your team?
+
+57
+00:04:37,000 --> 00:04:38,000
+Yes yes yes.
+
+58
+00:04:38,000 --> 00:04:40,000
+Okay fine fine.
+

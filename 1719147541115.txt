@@ -1,0 +1,364 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hello, Hello, Yes Kamal, Sakshi this side.
+
+2
+00:00:06,000 --> 00:00:08,000
+Yeah, well.
+
+3
+00:00:08,000 --> 00:00:14,000
+Kamal, operations team is generating a link of 50,000.
+
+4
+00:00:14,000 --> 00:00:18,000
+It will be valid for one, one and a half hours.
+
+5
+00:00:18,000 --> 00:00:23,000
+So when you get the link, you just tell me when you will pay.
+
+6
+00:00:23,000 --> 00:00:26,000
+Then tell me one thing.
+
+7
+00:00:26,000 --> 00:00:29,000
+How much is the C pending now?
+
+8
+00:00:29,000 --> 00:00:30,000
+I have to check once.
+
+9
+00:00:30,000 --> 00:00:33,000
+You are talking to Amritsar, right?
+
+10
+00:00:33,000 --> 00:00:34,000
+Yes.
+
+11
+00:00:34,000 --> 00:00:36,000
+Yes, we are just generating the link.
+
+12
+00:00:36,000 --> 00:00:37,000
+So you have to.
+
+13
+00:00:37,000 --> 00:00:38,000
+Okay.
+
+14
+00:00:38,000 --> 00:00:40,000
+How much have you paid so far?
+
+15
+00:00:40,000 --> 00:00:43,000
+I paid 70, maybe.
+
+16
+00:00:43,000 --> 00:00:44,000
+Okay, 70, right?
+
+17
+00:00:44,000 --> 00:00:48,000
+So you are, I think you are going for one shot option, is it?
+
+18
+00:00:48,000 --> 00:00:49,000
+Yeah.
+
+19
+00:00:49,000 --> 00:00:53,000
+Okay, then it will be close to I think 294 something.
+
+20
+00:00:53,000 --> 00:00:56,000
+Okay, I'll just check with the team.
+
+21
+00:00:56,000 --> 00:00:59,000
+Anyways, I will be generating a 50K link.
+
+22
+00:00:59,000 --> 00:01:00,000
+Okay.
+
+23
+00:01:00,000 --> 00:01:02,000
+Okay, one more thing like.
+
+24
+00:01:02,000 --> 00:01:04,000
+Why is it happening so much?
+
+25
+00:01:04,000 --> 00:01:08,000
+Classes have started since July 17, so what is the hurry?
+
+26
+00:01:08,000 --> 00:01:10,000
+What did you say?
+
+27
+00:01:10,000 --> 00:01:14,000
+You will get the primary content from now on.
+
+28
+00:01:14,000 --> 00:01:16,000
+You have got the dashboard, correct?
+
+29
+00:01:16,000 --> 00:01:18,000
+Yes, what is the primary content?
+
+30
+00:01:18,000 --> 00:01:20,000
+Have you got the primary content in your dashboard?
+
+31
+00:01:20,000 --> 00:01:22,000
+Have you started your studies now?
+
+32
+00:01:22,000 --> 00:01:24,000
+Yes, I have started my studies.
+
+33
+00:01:24,000 --> 00:01:38,000
+I am doing the introduction classes of the math and their Java.
+
+34
+00:01:38,000 --> 00:01:39,000
+Correct.
+
+35
+00:01:39,000 --> 00:01:46,000
+So if you take admission one night before and sit in the next class, then the will does not sit.
+
+36
+00:01:46,000 --> 00:01:48,000
+Any learner, correct?
+
+37
+00:01:48,000 --> 00:01:53,000
+Right now you have to make yourself comfortable with the curriculum so that you can sit at one place and get used to studying.
+
+38
+00:01:53,000 --> 00:02:00,000
+Right, because once the classes start, then it is possible that some people are comfortable and some people are not.
+
+39
+00:02:00,000 --> 00:02:01,000
+Correct.
+
+40
+00:02:01,000 --> 00:02:08,000
+All the primary content has been given to you so that you can start your studies a little bit and when the classes start, you will become comfortable with the curriculum.
+
+41
+00:02:08,000 --> 00:02:12,000
+Okay, one more thing ma'am.
+
+42
+00:02:12,000 --> 00:02:13,000
+Have you selected the mentor?
+
+43
+00:02:13,000 --> 00:02:15,000
+What did you say?
+
+44
+00:02:15,000 --> 00:02:17,000
+Have you selected the mentor?
+
+45
+00:02:17,000 --> 00:02:20,000
+Yes, I have selected the mentor but tell me one thing.
+
+46
+00:02:20,000 --> 00:02:24,000
+Hello.
+
+47
+00:02:24,000 --> 00:02:26,000
+Yes, yes, come on. Please come.
+
+48
+00:02:26,000 --> 00:02:33,000
+Ma'am, I had asked earlier if my laptop will be good for this.
+
+49
+00:02:33,000 --> 00:02:37,000
+So I was told that it will be good because it is I5.
+
+50
+00:02:37,000 --> 00:02:40,000
+But now I am downloading anything.
+
+51
+00:02:40,000 --> 00:02:46,000
+Like I have downloaded the Intel IDEA video, Java, etc.
+
+52
+00:02:46,000 --> 00:02:47,000
+Nothing is being downloaded.
+
+53
+00:02:47,000 --> 00:02:49,000
+Downloads are being installed.
+
+54
+00:02:49,000 --> 00:02:50,000
+The notes are being uploaded.
+
+55
+00:02:50,000 --> 00:02:54,000
+The ports that you have to run will be run in your dashboard.
+
+56
+00:02:54,000 --> 00:02:57,000
+They will be told to you in the classes.
+
+57
+00:02:57,000 --> 00:02:59,000
+No, it will not be run.
+
+58
+00:02:59,000 --> 00:03:02,000
+The classes that I have put for Java, they have told me to download it.
+
+59
+00:03:02,000 --> 00:03:04,000
+So it is not running in that?
+
+60
+00:03:04,000 --> 00:03:09,000
+It is not being downloaded because Windows Note 40 is being written.
+
+61
+00:03:09,000 --> 00:03:12,000
+It is a 32-bit operating system.
+
+62
+00:03:12,000 --> 00:03:14,000
+It is asking for 64.
+
+63
+00:03:14,000 --> 00:03:15,000
+Okay.
+
+64
+00:03:15,000 --> 00:03:17,000
+Yes.
+
+65
+00:03:17,000 --> 00:03:20,000
+So you will have to find a solution for that.
+
+66
+00:03:20,000 --> 00:03:25,000
+Have you talked to the operations team?
+
+67
+00:03:25,000 --> 00:03:27,000
+Did you get a call from the operations team?
+
+68
+00:03:27,000 --> 00:03:31,000
+You were the one who was asking for the operations team.
+
+69
+00:03:32,000 --> 00:03:35,000
+You will get it for the dashboard.
+
+70
+00:03:35,000 --> 00:03:39,000
+You will have to see it with a little bit of patience.
+
+71
+00:03:39,000 --> 00:03:41,000
+I will talk to Kamal.
+
+72
+00:03:41,000 --> 00:03:43,000
+When I first got admission, I talked to them.
+
+73
+00:03:43,000 --> 00:03:46,000
+They told me that they have told me about the laptop.
+
+74
+00:03:46,000 --> 00:03:48,000
+They said that it is good.
+
+75
+00:03:48,000 --> 00:03:50,000
+Yes, it should not be a problem.
+
+76
+00:03:50,000 --> 00:03:52,000
+It will not be a problem.
+
+77
+00:03:52,000 --> 00:03:54,000
+It will be a problem in my finances.
+
+78
+00:03:54,000 --> 00:03:56,000
+I managed it in that way.
+
+79
+00:03:56,000 --> 00:03:58,000
+I will get a new laptop.
+
+80
+00:03:58,000 --> 00:04:00,000
+No, you will not have to buy a laptop.
+
+81
+00:04:00,000 --> 00:04:03,000
+There are a lot of code runners in the market.
+
+82
+00:04:03,000 --> 00:04:07,000
+I just talked to a friend.
+
+83
+00:04:07,000 --> 00:04:14,000
+He said that because of your laptop, this is my 2012 model.
+
+84
+00:04:14,000 --> 00:04:16,000
+Okay.
+
+85
+00:04:16,000 --> 00:04:28,000
+He said that if you install Windows, RAM, and 32-bit operating system, it will not work.
+
+86
+00:04:28,000 --> 00:04:30,000
+I will talk to Kamal.
+
+87
+00:04:30,000 --> 00:04:34,000
+I was in contact with Mr. Amrit.
+
+88
+00:04:34,000 --> 00:04:38,000
+I will talk to Mr. Amrit.
+
+89
+00:04:38,000 --> 00:04:40,000
+Okay.
+
+90
+00:04:40,000 --> 00:04:44,000
+Give me two minutes.
+
+91
+00:04:44,000 --> 00:04:46,000
+Okay.
+

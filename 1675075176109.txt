@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:07,600
+Hello, hello, yeah hi is it Seva Selvam Kumar?
+
+2
+00:00:07,600 --> 00:00:08,600
+Yes.
+
+3
+00:00:08,600 --> 00:00:11,200
+Yeah hi Seva Selvam Kumar and this is Nikhil.
+
+4
+00:00:11,200 --> 00:00:16,400
+I am calling you from scalar academy from the data science program team.
+
+5
+00:00:16,400 --> 00:00:17,400
+Okay.
+
+6
+00:00:17,400 --> 00:00:22,160
+Yes, so, is it right time to talk to you?
+
+7
+00:00:22,160 --> 00:00:25,000
+No, after 8 o'clock.
+
+8
+00:00:25,000 --> 00:00:27,200
+After 8 o'clock, okay.
+
+9
+00:00:28,200 --> 00:00:32,200
+We just wanted a small piece of information to understand the brief feedback from your
+
+10
+00:00:32,200 --> 00:00:33,200
+end.
+
+11
+00:00:33,200 --> 00:00:37,200
+About what was the disconnect that went down in the conversation with your previous representative?
+
+12
+00:00:37,200 --> 00:00:42,200
+I am coming around my personal office.
+
+13
+00:00:42,200 --> 00:00:43,200
+Hello.
+
+14
+00:00:43,200 --> 00:00:44,200
+Hello.
+
+15
+00:00:44,200 --> 00:00:45,200
+Yeah, sorry.
+
+16
+00:00:45,200 --> 00:00:51,200
+Yeah, I am engaged with my personal office.
+
+17
+00:00:51,200 --> 00:00:53,200
+That's my...
+
+18
+00:00:53,200 --> 00:00:54,200
+Okay.
+
+19
+00:00:54,200 --> 00:00:59,200
+So, what time can we connect back to have a conversation with you?
+
+20
+00:00:59,200 --> 00:01:02,200
+Around 8 o'clock today.
+
+21
+00:01:02,200 --> 00:01:03,200
+Okay, alright.
+
+22
+00:01:03,200 --> 00:01:05,200
+We will reach you at after 8, 8.30.
+
+23
+00:01:05,200 --> 00:01:06,200
+Yeah.
+
+24
+00:01:06,200 --> 00:01:06,700
+Thank you.
+

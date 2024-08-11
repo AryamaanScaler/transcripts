@@ -1,0 +1,2832 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello
+
+2
+00:00:02,000 --> 00:00:04,000
+Hello
+
+3
+00:00:04,000 --> 00:00:06,000
+Yes
+
+4
+00:00:06,000 --> 00:00:08,000
+Ma'am
+
+5
+00:00:08,000 --> 00:00:10,000
+Who was calling me from this number
+
+6
+00:00:10,000 --> 00:00:12,000
+Your name
+
+7
+00:00:12,000 --> 00:00:14,000
+Pratik
+
+8
+00:00:14,000 --> 00:00:16,000
+Sorry Pratik
+
+9
+00:00:16,000 --> 00:00:18,000
+Pratik Manali this side
+
+10
+00:00:18,000 --> 00:00:20,000
+Actually I think
+
+11
+00:00:20,000 --> 00:00:22,000
+I called you and said
+
+12
+00:00:22,000 --> 00:00:24,000
+I want to talk to you from Scalar Academy team
+
+13
+00:00:24,000 --> 00:00:26,000
+Oh, EHS
+
+14
+00:00:26,000 --> 00:00:28,000
+Ma'am I was talking to Anjali Ma'am
+
+15
+00:00:28,000 --> 00:00:30,000
+Yes, I know
+
+16
+00:00:30,000 --> 00:00:32,000
+That you had
+
+17
+00:00:32,000 --> 00:00:34,000
+I think you wanted to know about
+
+18
+00:00:34,000 --> 00:00:36,000
+University, you wanted to know about it, right?
+
+19
+00:00:36,000 --> 00:00:38,000
+Okay
+
+20
+00:00:38,000 --> 00:00:40,000
+Okay
+
+21
+00:00:40,000 --> 00:00:42,000
+Ishi told me, she told me
+
+22
+00:00:42,000 --> 00:00:44,000
+That you wanted to know
+
+23
+00:00:44,000 --> 00:00:46,000
+some details about
+
+24
+00:00:46,000 --> 00:00:48,000
+University program
+
+25
+00:00:48,000 --> 00:00:50,000
+Yes, yes ma'am
+
+26
+00:00:50,000 --> 00:00:52,000
+What is your background Pratik?
+
+27
+00:00:52,000 --> 00:00:54,000
+Can you tell me before that
+
+28
+00:00:54,000 --> 00:00:56,000
+So that I can tell you in details
+
+29
+00:00:56,000 --> 00:00:58,000
+Yes, sure ma'am
+
+30
+00:00:58,000 --> 00:01:00,000
+Ma'am I completed my
+
+31
+00:01:00,000 --> 00:01:02,000
+graduation
+
+32
+00:01:02,000 --> 00:01:04,000
+Bachelor in 2020 in computer engineering
+
+33
+00:01:04,000 --> 00:01:06,000
+And then
+
+34
+00:01:06,000 --> 00:01:08,000
+I have been working in
+
+35
+00:01:08,000 --> 00:01:10,000
+corporate in Capgemini
+
+36
+00:01:10,000 --> 00:01:12,000
+for last 3 years
+
+37
+00:01:12,000 --> 00:01:14,000
+Okay
+
+38
+00:01:14,000 --> 00:01:16,000
+Now I have joined Scalar Academy
+
+39
+00:01:16,000 --> 00:01:18,000
+Okay
+
+40
+00:01:18,000 --> 00:01:20,000
+And you graduated in which stream Pratik?
+
+41
+00:01:20,000 --> 00:01:22,000
+I mean computer engineering
+
+42
+00:01:22,000 --> 00:01:24,000
+What was B.Tech, B.E?
+
+43
+00:01:24,000 --> 00:01:26,000
+B.E
+
+44
+00:01:26,000 --> 00:01:28,000
+Okay, got it
+
+45
+00:01:28,000 --> 00:01:30,000
+And what is the role in Capgemini?
+
+46
+00:01:30,000 --> 00:01:32,000
+Is it development or
+
+47
+00:01:32,000 --> 00:01:34,000
+Yes, yes, development role
+
+48
+00:01:34,000 --> 00:01:36,000
+I was Java developer
+
+49
+00:01:36,000 --> 00:01:38,000
+for last 3 years
+
+50
+00:01:38,000 --> 00:01:40,000
+Okay, got it
+
+51
+00:01:40,000 --> 00:01:42,000
+So you mean
+
+52
+00:01:42,000 --> 00:01:44,000
+they give proper projects or
+
+53
+00:01:44,000 --> 00:01:46,000
+how is it?
+
+54
+00:01:48,000 --> 00:01:50,000
+Ma'am project is going on
+
+55
+00:01:50,000 --> 00:01:52,000
+I think that
+
+56
+00:01:52,000 --> 00:01:54,000
+for the last
+
+57
+00:01:54,000 --> 00:01:56,000
+2 years I have been doing
+
+58
+00:01:56,000 --> 00:01:58,000
+same work
+
+59
+00:01:58,000 --> 00:02:00,000
+Yeah, same work again
+
+60
+00:02:00,000 --> 00:02:02,000
+and again
+
+61
+00:02:02,000 --> 00:02:04,000
+Learning come out, got it
+
+62
+00:02:04,000 --> 00:02:06,000
+Yes
+
+63
+00:02:06,000 --> 00:02:08,000
+I was looking for a change now
+
+64
+00:02:08,000 --> 00:02:10,000
+Today is my
+
+65
+00:02:10,000 --> 00:02:12,000
+last working day
+
+66
+00:02:12,000 --> 00:02:14,000
+So I will be
+
+67
+00:02:14,000 --> 00:02:16,000
+joining a new company soon
+
+68
+00:02:16,000 --> 00:02:18,000
+Which company is it?
+
+69
+00:02:18,000 --> 00:02:20,000
+I have
+
+70
+00:02:20,000 --> 00:02:22,000
+an offer from TCS but
+
+71
+00:02:22,000 --> 00:02:24,000
+I am sure I won't be joining the TCS
+
+72
+00:02:24,000 --> 00:02:26,000
+So simultaneously
+
+73
+00:02:26,000 --> 00:02:28,000
+I will be appearing for the interviews
+
+74
+00:02:28,000 --> 00:02:30,000
+also
+
+75
+00:02:30,000 --> 00:02:32,000
+So why did you leave before joining somewhere?
+
+76
+00:02:34,000 --> 00:02:36,000
+No, I have an offer from
+
+77
+00:02:36,000 --> 00:02:38,000
+I had an offer from
+
+78
+00:02:38,000 --> 00:02:40,000
+TCS so
+
+79
+00:02:40,000 --> 00:02:42,000
+I thought that
+
+80
+00:02:42,000 --> 00:02:44,000
+Okay Pratik
+
+81
+00:02:44,000 --> 00:02:46,000
+I mean
+
+82
+00:02:46,000 --> 00:02:48,000
+it's your personal choice
+
+83
+00:02:48,000 --> 00:02:50,000
+It's your decision
+
+84
+00:02:50,000 --> 00:02:52,000
+However, generally
+
+85
+00:02:52,000 --> 00:02:54,000
+you have to join
+
+86
+00:02:54,000 --> 00:02:56,000
+somewhere
+
+87
+00:02:56,000 --> 00:02:58,000
+and leave it
+
+88
+00:02:58,000 --> 00:03:00,000
+So that is better
+
+89
+00:03:00,000 --> 00:03:02,000
+Right?
+
+90
+00:03:02,000 --> 00:03:04,000
+Because let's say
+
+91
+00:03:04,000 --> 00:03:06,000
+you will be doing the interviews
+
+92
+00:03:06,000 --> 00:03:08,000
+and you will try for better companies
+
+93
+00:03:08,000 --> 00:03:10,000
+Correct?
+
+94
+00:03:10,000 --> 00:03:12,000
+Then you will have to join
+
+95
+00:03:12,000 --> 00:03:14,000
+TCS
+
+96
+00:03:14,000 --> 00:03:16,000
+Right? See first thing is
+
+97
+00:03:16,000 --> 00:03:18,000
+you have to prepare
+
+98
+00:03:18,000 --> 00:03:20,000
+Right?
+
+99
+00:03:20,000 --> 00:03:22,000
+You need to work on your skillset
+
+100
+00:03:22,000 --> 00:03:24,000
+before you can enter good product based
+
+101
+00:03:24,000 --> 00:03:26,000
+companies
+
+102
+00:03:26,000 --> 00:03:28,000
+Right?
+
+103
+00:03:28,000 --> 00:03:30,000
+So if you feel okay
+
+104
+00:03:30,000 --> 00:03:32,000
+you can take up TCS. Current CTC
+
+105
+00:03:32,000 --> 00:03:34,000
+Pratik, what was the
+
+106
+00:03:34,000 --> 00:03:36,000
+CTC of Capgemini?
+
+107
+00:03:36,000 --> 00:03:38,000
+It was 8
+
+108
+00:03:38,000 --> 00:03:40,000
+LP. 8 LP. And
+
+109
+00:03:40,000 --> 00:03:42,000
+TCS is offering how much?
+
+110
+00:03:42,000 --> 00:03:44,000
+9 LPX
+
+111
+00:03:44,000 --> 00:03:46,000
+Okay
+
+112
+00:03:46,000 --> 00:03:48,000
+Got it
+
+113
+00:03:48,000 --> 00:03:50,000
+No problem
+
+114
+00:03:50,000 --> 00:03:52,000
+So how did you
+
+115
+00:03:52,000 --> 00:03:54,000
+get introduced to Scaler?
+
+116
+00:03:54,000 --> 00:03:56,000
+How did you get to know about Scaler?
+
+117
+00:03:56,000 --> 00:03:58,000
+Actually a friend
+
+118
+00:03:58,000 --> 00:04:00,000
+of mine was placed in
+
+119
+00:04:00,000 --> 00:04:02,000
+Amazon in 2020
+
+120
+00:04:02,000 --> 00:04:04,000
+I guess
+
+121
+00:04:04,000 --> 00:04:06,000
+Yes and then after that
+
+122
+00:04:06,000 --> 00:04:08,000
+my other friend
+
+123
+00:04:08,000 --> 00:04:10,000
+the course is still
+
+124
+00:04:10,000 --> 00:04:12,000
+going on and
+
+125
+00:04:12,000 --> 00:04:14,000
+he was also
+
+126
+00:04:14,000 --> 00:04:16,000
+enrolled for Masters
+
+127
+00:04:16,000 --> 00:04:18,000
+What is his name?
+
+128
+00:04:18,000 --> 00:04:20,000
+Sishur
+
+129
+00:04:20,000 --> 00:04:22,000
+Oh I think
+
+130
+00:04:22,000 --> 00:04:24,000
+I know this name
+
+131
+00:04:24,000 --> 00:04:26,000
+Okay got it
+
+132
+00:04:26,000 --> 00:04:28,000
+Okay
+
+133
+00:04:28,000 --> 00:04:30,000
+No problem Pratik
+
+134
+00:04:30,000 --> 00:04:32,000
+So regarding Masters, do you have any idea
+
+135
+00:04:32,000 --> 00:04:34,000
+what we are providing?
+
+136
+00:04:34,000 --> 00:04:36,000
+What is the difference
+
+137
+00:04:36,000 --> 00:04:38,000
+or anything?
+
+138
+00:04:38,000 --> 00:04:40,000
+No ma'am
+
+139
+00:04:40,000 --> 00:04:42,000
+So currently the course you are doing
+
+140
+00:04:42,000 --> 00:04:44,000
+right Pratik, that is a certification course
+
+141
+00:04:44,000 --> 00:04:46,000
+Okay
+
+142
+00:04:46,000 --> 00:04:48,000
+The same you can convert
+
+143
+00:04:48,000 --> 00:04:50,000
+to a Masters degree program
+
+144
+00:04:50,000 --> 00:04:52,000
+Okay
+
+145
+00:04:52,000 --> 00:04:54,000
+So we have collaborated with a European
+
+146
+00:04:54,000 --> 00:04:56,000
+University, right?
+
+147
+00:04:56,000 --> 00:04:58,000
+Through which you can get an
+
+148
+00:04:58,000 --> 00:05:00,000
+MS in Computer Science
+
+149
+00:05:00,000 --> 00:05:02,000
+Right? And
+
+150
+00:05:02,000 --> 00:05:04,000
+you get 90 ECPS
+
+151
+00:05:04,000 --> 00:05:06,000
+or European Transferable Credits
+
+152
+00:05:06,000 --> 00:05:08,000
+through it
+
+153
+00:05:08,000 --> 00:05:10,000
+Okay
+
+154
+00:05:10,000 --> 00:05:12,000
+What does this mean is that this degree is valid
+
+155
+00:05:12,000 --> 00:05:14,000
+in 60 countries
+
+156
+00:05:14,000 --> 00:05:16,000
+which includes USA, Canada
+
+157
+00:05:16,000 --> 00:05:18,000
+Germany and many more
+
+158
+00:05:18,000 --> 00:05:20,000
+Okay
+
+159
+00:05:20,000 --> 00:05:22,000
+So these credits are transferable
+
+160
+00:05:22,000 --> 00:05:24,000
+in any of these countries
+
+161
+00:05:24,000 --> 00:05:26,000
+if you want to relocate or if you want to
+
+162
+00:05:26,000 --> 00:05:28,000
+try right for jobs abroad
+
+163
+00:05:28,000 --> 00:05:30,000
+or anything
+
+164
+00:05:30,000 --> 00:05:32,000
+Okay? As well as
+
+165
+00:05:32,000 --> 00:05:34,000
+you get additional modules
+
+166
+00:05:34,000 --> 00:05:36,000
+like Machine Learning, Deep Learning
+
+167
+00:05:36,000 --> 00:05:38,000
+that you get to learn in the degree
+
+168
+00:05:38,000 --> 00:05:40,000
+and there will be a total of
+
+169
+00:05:40,000 --> 00:05:42,000
+18 modules
+
+170
+00:05:42,000 --> 00:05:44,000
+Each module's weightage
+
+171
+00:05:44,000 --> 00:05:46,000
+will be 5 credits
+
+172
+00:05:46,000 --> 00:05:48,000
+That's how you get a total of 90 credits
+
+173
+00:05:50,000 --> 00:05:52,000
+Okay? Now again
+
+174
+00:05:52,000 --> 00:05:54,000
+what extra you will
+
+175
+00:05:54,000 --> 00:05:56,000
+get is that you get extra
+
+176
+00:05:56,000 --> 00:05:58,000
+time also
+
+177
+00:05:58,000 --> 00:06:00,000
+around 6 months
+
+178
+00:06:00,000 --> 00:06:02,000
+to 1 year in the degree
+
+179
+00:06:02,000 --> 00:06:04,000
+Post you complete the
+
+180
+00:06:04,000 --> 00:06:06,000
+modules and
+
+181
+00:06:06,000 --> 00:06:08,000
+you get benefits of
+
+182
+00:06:08,000 --> 00:06:10,000
+shortlisting
+
+183
+00:06:10,000 --> 00:06:12,000
+as well as because see
+
+184
+00:06:12,000 --> 00:06:14,000
+you already have a Bachelor's in Computer Engineering
+
+185
+00:06:14,000 --> 00:06:16,000
+Right?
+
+186
+00:06:16,000 --> 00:06:18,000
+If you add up
+
+187
+00:06:18,000 --> 00:06:20,000
+a Masters again in Computer Science
+
+188
+00:06:20,000 --> 00:06:22,000
+it's a very good combo
+
+189
+00:06:24,000 --> 00:06:26,000
+So that also increases the chances
+
+190
+00:06:26,000 --> 00:06:28,000
+of shortlisting that increases
+
+191
+00:06:28,000 --> 00:06:30,000
+the chances of initial
+
+192
+00:06:30,000 --> 00:06:32,000
+rounds and the last few rounds
+
+193
+00:06:32,000 --> 00:06:34,000
+around salary negotiation
+
+194
+00:06:36,000 --> 00:06:38,000
+Because we have some companies
+
+195
+00:06:38,000 --> 00:06:40,000
+that look for specific
+
+196
+00:06:40,000 --> 00:06:42,000
+things right? So Samsung was hiring
+
+197
+00:06:42,000 --> 00:06:44,000
+from us I think for
+
+198
+00:06:44,000 --> 00:06:46,000
+their R&D team research and development
+
+199
+00:06:46,000 --> 00:06:48,000
+team right? So their minimum
+
+200
+00:06:48,000 --> 00:06:50,000
+requirement was that they wanted a
+
+201
+00:06:50,000 --> 00:06:52,000
+Master Holder
+
+202
+00:06:52,000 --> 00:06:54,000
+Okay? So here
+
+203
+00:06:54,000 --> 00:06:56,000
+what will happen is we can push your profile
+
+204
+00:06:56,000 --> 00:06:58,000
+right?
+
+205
+00:06:58,000 --> 00:07:00,000
+Plus you get around 6 months
+
+206
+00:07:00,000 --> 00:07:02,000
+like you know post you complete
+
+207
+00:07:02,000 --> 00:07:04,000
+the course right? For your backlog
+
+208
+00:07:04,000 --> 00:07:06,000
+for your revision
+
+209
+00:07:06,000 --> 00:07:08,000
+and you get 6 months of extension
+
+210
+00:07:08,000 --> 00:07:10,000
+in your placement support
+
+211
+00:07:12,000 --> 00:07:14,000
+Okay? In the Masters degree
+
+212
+00:07:14,000 --> 00:07:16,000
+Right? As well as let's say
+
+213
+00:07:16,000 --> 00:07:18,000
+there are module tests
+
+214
+00:07:18,000 --> 00:07:20,000
+and contests that we conduct after
+
+215
+00:07:20,000 --> 00:07:22,000
+each module
+
+216
+00:07:22,000 --> 00:07:24,000
+Okay? In both
+
+217
+00:07:24,000 --> 00:07:26,000
+the cases we do that
+
+218
+00:07:26,000 --> 00:07:28,000
+However let's say if you are missing out
+
+219
+00:07:28,000 --> 00:07:30,000
+on anything right? You get
+
+220
+00:07:30,000 --> 00:07:32,000
+chance to reattempt that in the
+
+221
+00:07:32,000 --> 00:07:34,000
+degree also
+
+222
+00:07:34,000 --> 00:07:36,000
+Okay?
+
+223
+00:07:36,000 --> 00:07:38,000
+Okay? So overall I mean
+
+224
+00:07:38,000 --> 00:07:40,000
+this is the difference
+
+225
+00:07:40,000 --> 00:07:42,000
+benefits are also there right?
+
+226
+00:07:42,000 --> 00:07:44,000
+And the time you are going to
+
+227
+00:07:44,000 --> 00:07:46,000
+invest right? It is similar
+
+228
+00:07:46,000 --> 00:07:48,000
+Like any
+
+229
+00:07:48,000 --> 00:07:50,000
+if you go in beginner right?
+
+230
+00:07:50,000 --> 00:07:52,000
+Or or in intermediate
+
+231
+00:07:52,000 --> 00:07:54,000
+In both the cases
+
+232
+00:07:54,000 --> 00:07:56,000
+at least 12 to 15
+
+233
+00:07:56,000 --> 00:07:58,000
+months any candidate
+
+234
+00:07:58,000 --> 00:08:00,000
+invests I mean overall
+
+235
+00:08:00,000 --> 00:08:02,000
+including everything
+
+236
+00:08:02,000 --> 00:08:04,000
+Right? And
+
+237
+00:08:04,000 --> 00:08:06,000
+in the degree it is total of 18
+
+238
+00:08:06,000 --> 00:08:08,000
+months
+
+239
+00:08:08,000 --> 00:08:10,000
+Okay? Right?
+
+240
+00:08:10,000 --> 00:08:12,000
+So by adding 2 to 3 months
+
+241
+00:08:12,000 --> 00:08:14,000
+instead of a certificate you can
+
+242
+00:08:14,000 --> 00:08:16,000
+get a masters degree
+
+243
+00:08:22,000 --> 00:08:24,000
+Hello
+
+244
+00:08:24,000 --> 00:08:26,000
+Yeah, so that is the
+
+245
+00:08:26,000 --> 00:08:28,000
+difference
+
+246
+00:08:28,000 --> 00:08:30,000
+Okay so
+
+247
+00:08:30,000 --> 00:08:32,000
+after the completion I won't be
+
+248
+00:08:32,000 --> 00:08:34,000
+getting a scalar academy
+
+249
+00:08:34,000 --> 00:08:36,000
+certificate if I upgrade I will
+
+250
+00:08:36,000 --> 00:08:38,000
+directly get the masters degree
+
+251
+00:08:38,000 --> 00:08:40,000
+Yes, yes, correct. Scalar is
+
+252
+00:08:40,000 --> 00:08:42,000
+already mentioned in the degree also
+
+253
+00:08:42,000 --> 00:08:44,000
+And the university
+
+254
+00:08:44,000 --> 00:08:46,000
+name will also be mentioned
+
+255
+00:08:46,000 --> 00:08:48,000
+Okay
+
+256
+00:08:48,000 --> 00:08:50,000
+Okay, yeah
+
+257
+00:08:50,000 --> 00:08:52,000
+Right?
+
+258
+00:08:52,000 --> 00:08:54,000
+So that is
+
+259
+00:08:54,000 --> 00:08:56,000
+Currently
+
+260
+00:08:56,000 --> 00:08:58,000
+this thing is done
+
+261
+00:08:58,000 --> 00:09:00,000
+yeah? EMI process
+
+262
+00:09:00,000 --> 00:09:02,000
+and all?
+
+263
+00:09:02,000 --> 00:09:04,000
+Yes, for the scalar academy
+
+264
+00:09:04,000 --> 00:09:06,000
+it is done
+
+265
+00:09:06,000 --> 00:09:08,000
+Okay, got it
+
+266
+00:09:08,000 --> 00:09:10,000
+I can do one
+
+267
+00:09:10,000 --> 00:09:12,000
+Yeah
+
+268
+00:09:12,000 --> 00:09:14,000
+You have any doubts?
+
+269
+00:09:14,000 --> 00:09:16,000
+Questions, yeah
+
+270
+00:09:16,000 --> 00:09:18,000
+So the thing
+
+271
+00:09:18,000 --> 00:09:20,000
+that we are doing for the masters
+
+272
+00:09:20,000 --> 00:09:22,000
+is it like
+
+273
+00:09:22,000 --> 00:09:24,000
+part time degree or
+
+274
+00:09:24,000 --> 00:09:26,000
+that it is 8 months and
+
+275
+00:09:26,000 --> 00:09:28,000
+full time?
+
+276
+00:09:28,000 --> 00:09:30,000
+See here the calculation happens on
+
+277
+00:09:30,000 --> 00:09:32,000
+the basis of the ECPS
+
+278
+00:09:32,000 --> 00:09:34,000
+So the 90
+
+279
+00:09:34,000 --> 00:09:36,000
+ECPS convert to
+
+280
+00:09:36,000 --> 00:09:38,000
+2250 hours
+
+281
+00:09:38,000 --> 00:09:40,000
+as per the degree
+
+282
+00:09:40,000 --> 00:09:42,000
+Which is considered equivalent
+
+283
+00:09:42,000 --> 00:09:44,000
+to a full time degree
+
+284
+00:09:44,000 --> 00:09:46,000
+Okay
+
+285
+00:09:46,000 --> 00:09:48,000
+However, like while you are
+
+286
+00:09:48,000 --> 00:09:50,000
+like let's say you are working
+
+287
+00:09:50,000 --> 00:09:52,000
+the concept or the
+
+288
+00:09:52,000 --> 00:09:54,000
+sessions like you
+
+289
+00:09:54,000 --> 00:09:56,000
+are going to go through
+
+290
+00:09:56,000 --> 00:09:58,000
+will be conducted in a manner where you can
+
+291
+00:09:58,000 --> 00:10:00,000
+continue working also
+
+292
+00:10:00,000 --> 00:10:02,000
+Okay
+
+293
+00:10:02,000 --> 00:10:04,000
+The same format, the 3
+
+294
+00:10:04,000 --> 00:10:06,000
+sessions on the weekly basis
+
+295
+00:10:06,000 --> 00:10:08,000
+Right? The timings
+
+296
+00:10:08,000 --> 00:10:10,000
+everything will continue
+
+297
+00:10:10,000 --> 00:10:12,000
+the same
+
+298
+00:10:12,000 --> 00:10:14,000
+Okay
+
+299
+00:10:14,000 --> 00:10:16,000
+So
+
+300
+00:10:16,000 --> 00:10:18,000
+I have the
+
+301
+00:10:18,000 --> 00:10:20,000
+scalar academy code for
+
+302
+00:10:20,000 --> 00:10:22,000
+like 9, 2, 11
+
+303
+00:10:22,000 --> 00:10:24,000
+I guess
+
+304
+00:10:24,000 --> 00:10:26,000
+the timing for the scalar
+
+305
+00:10:26,000 --> 00:10:28,000
+academy and then for the masters
+
+306
+00:10:28,000 --> 00:10:30,000
+it will be different
+
+307
+00:10:30,000 --> 00:10:32,000
+No, it will be same
+
+308
+00:10:32,000 --> 00:10:34,000
+So the modules that you are going to cover
+
+309
+00:10:34,000 --> 00:10:36,000
+is system design, right?
+
+310
+00:10:36,000 --> 00:10:38,000
+Yes
+
+311
+00:10:38,000 --> 00:10:40,000
+All will be counted in the degree also
+
+312
+00:10:40,000 --> 00:10:42,000
+Okay
+
+313
+00:10:42,000 --> 00:10:44,000
+So the assignments that I am doing
+
+314
+00:10:44,000 --> 00:10:46,000
+for the scalar academy
+
+315
+00:10:46,000 --> 00:10:48,000
+that will be calculated for the master's
+
+316
+00:10:48,000 --> 00:10:50,000
+academy
+
+317
+00:10:50,000 --> 00:10:52,000
+Yeah, but what will happen is
+
+318
+00:10:52,000 --> 00:10:54,000
+your dashboard will be upgraded to
+
+319
+00:10:54,000 --> 00:10:56,000
+masters
+
+320
+00:10:56,000 --> 00:10:58,000
+Okay, currently your dashboard will be
+
+321
+00:10:58,000 --> 00:11:00,000
+a certification dashboard
+
+322
+00:11:00,000 --> 00:11:02,000
+that we upgrade to masters
+
+323
+00:11:02,000 --> 00:11:04,000
+where you have to complete your
+
+324
+00:11:04,000 --> 00:11:06,000
+onboarding as per the university
+
+325
+00:11:06,000 --> 00:11:08,000
+Right? You have to upload your
+
+326
+00:11:08,000 --> 00:11:10,000
+degree and everything, you get your student
+
+327
+00:11:10,000 --> 00:11:12,000
+ID and then
+
+328
+00:11:12,000 --> 00:11:14,000
+each of your module
+
+329
+00:11:14,000 --> 00:11:16,000
+starts getting recorded
+
+330
+00:11:16,000 --> 00:11:18,000
+I mean for the degree
+
+331
+00:11:18,000 --> 00:11:20,000
+Right?
+
+332
+00:11:20,000 --> 00:11:22,000
+So the evaluation happens on the basis
+
+333
+00:11:22,000 --> 00:11:24,000
+of your assignment, right?
+
+334
+00:11:24,000 --> 00:11:26,000
+That's your problem solved
+
+335
+00:11:26,000 --> 00:11:28,000
+and on the basis of your
+
+336
+00:11:28,000 --> 00:11:30,000
+module test
+
+337
+00:11:30,000 --> 00:11:32,000
+Okay? So 40% of the
+
+338
+00:11:32,000 --> 00:11:34,000
+weightage is given to your PSP
+
+339
+00:11:34,000 --> 00:11:36,000
+and 60% is given to the contest
+
+340
+00:11:36,000 --> 00:11:38,000
+or the module test
+
+341
+00:11:40,000 --> 00:11:42,000
+Okay?
+
+342
+00:11:42,000 --> 00:11:44,000
+For example, say
+
+343
+00:11:44,000 --> 00:11:46,000
+you are doing the DSM module
+
+344
+00:11:46,000 --> 00:11:48,000
+The same way you are going to
+
+345
+00:11:48,000 --> 00:11:50,000
+do in certification
+
+346
+00:11:50,000 --> 00:11:52,000
+the same process is followed in the masters
+
+347
+00:11:52,000 --> 00:11:54,000
+Okay?
+
+348
+00:11:54,000 --> 00:11:56,000
+But for this masters
+
+349
+00:11:56,000 --> 00:11:58,000
+you will get graded for that
+
+350
+00:11:58,000 --> 00:12:00,000
+module
+
+351
+00:12:00,000 --> 00:12:02,000
+Okay? That is the difference
+
+352
+00:12:04,000 --> 00:12:06,000
+You understood
+
+353
+00:12:06,000 --> 00:12:08,000
+what I am trying to say?
+
+354
+00:12:08,000 --> 00:12:10,000
+Yes, yes, yes, I am getting
+
+355
+00:12:10,000 --> 00:12:12,000
+I can see the picture
+
+356
+00:12:12,000 --> 00:12:14,000
+Yes
+
+357
+00:12:14,000 --> 00:12:16,000
+So there
+
+358
+00:12:16,000 --> 00:12:18,000
+there are like
+
+359
+00:12:18,000 --> 00:12:20,000
+there is no extra classes in all
+
+360
+00:12:20,000 --> 00:12:22,000
+there is nothing extra for
+
+361
+00:12:22,000 --> 00:12:24,000
+For masters there are around 8 modules
+
+362
+00:12:24,000 --> 00:12:26,000
+So total you will get
+
+363
+00:12:26,000 --> 00:12:28,000
+around 14 modules extra
+
+364
+00:12:28,000 --> 00:12:30,000
+which is almost 14 months of content
+
+365
+00:12:30,000 --> 00:12:32,000
+Okay?
+
+366
+00:12:32,000 --> 00:12:34,000
+Out of which you have
+
+367
+00:12:34,000 --> 00:12:36,000
+to select few
+
+368
+00:12:36,000 --> 00:12:38,000
+Right? So that you complete 18 modules
+
+369
+00:12:38,000 --> 00:12:40,000
+So you have 4 modules
+
+370
+00:12:40,000 --> 00:12:42,000
+on machine learning
+
+371
+00:12:42,000 --> 00:12:44,000
+6 modules on deep learning
+
+372
+00:12:44,000 --> 00:12:46,000
+Python, right?
+
+373
+00:12:46,000 --> 00:12:48,000
+You have others like product
+
+374
+00:12:48,000 --> 00:12:50,000
+management
+
+375
+00:12:50,000 --> 00:12:52,000
+data engineering
+
+376
+00:12:52,000 --> 00:12:54,000
+these electives also
+
+377
+00:12:56,000 --> 00:12:58,000
+So it is not that there will be no
+
+378
+00:12:58,000 --> 00:13:00,000
+So once you complete your
+
+379
+00:13:00,000 --> 00:13:02,000
+software development modules
+
+380
+00:13:02,000 --> 00:13:04,000
+Right?
+
+381
+00:13:04,000 --> 00:13:06,000
+The add-on modules will be started
+
+382
+00:13:18,000 --> 00:13:20,000
+Anything else?
+
+383
+00:13:24,000 --> 00:13:26,000
+For the Taylor Academy we have
+
+384
+00:13:26,000 --> 00:13:28,000
+we have some modules but
+
+385
+00:13:28,000 --> 00:13:30,000
+for the masters there are some additional
+
+386
+00:13:30,000 --> 00:13:32,000
+like that
+
+387
+00:13:32,000 --> 00:13:34,000
+Okay, okay
+
+388
+00:13:34,000 --> 00:13:36,000
+All this has to be completed
+
+389
+00:13:36,000 --> 00:13:38,000
+like what is the time for
+
+390
+00:13:38,000 --> 00:13:40,000
+For the Taylor Academy
+
+391
+00:13:40,000 --> 00:13:42,000
+they have told me that
+
+392
+00:13:42,000 --> 00:13:44,000
+nearly like we need 9 to
+
+393
+00:13:44,000 --> 00:13:46,000
+12 months from my side
+
+394
+00:13:46,000 --> 00:13:48,000
+to complete all that
+
+395
+00:13:48,000 --> 00:13:50,000
+and complete everything
+
+396
+00:13:50,000 --> 00:13:52,000
+and then prepare me
+
+397
+00:13:52,000 --> 00:13:54,000
+like to prepare myself
+
+398
+00:13:54,000 --> 00:13:56,000
+I will be having to
+
+399
+00:13:56,000 --> 00:13:58,000
+at least a year
+
+400
+00:13:58,000 --> 00:14:00,000
+So for
+
+401
+00:14:00,000 --> 00:14:02,000
+this masters degree how much
+
+402
+00:14:02,000 --> 00:14:04,000
+is there any time limit?
+
+403
+00:14:04,000 --> 00:14:06,000
+Masters is total of 18
+
+404
+00:14:06,000 --> 00:14:08,000
+months
+
+405
+00:14:10,000 --> 00:14:12,000
+Okay, so
+
+406
+00:14:12,000 --> 00:14:14,000
+like 18
+
+407
+00:14:14,000 --> 00:14:16,000
+months has to be
+
+408
+00:14:16,000 --> 00:14:18,000
+So basically I will tell you
+
+409
+00:14:18,000 --> 00:14:22,000
+In both the cases
+
+410
+00:14:22,000 --> 00:14:24,000
+Right?
+
+411
+00:14:24,000 --> 00:14:26,000
+You can start setting for placements
+
+412
+00:14:26,000 --> 00:14:28,000
+in the 8th or 9th month
+
+413
+00:14:32,000 --> 00:14:34,000
+Okay
+
+414
+00:14:34,000 --> 00:14:36,000
+Once you complete your DSA and few modules
+
+415
+00:14:36,000 --> 00:14:38,000
+But we suggest
+
+416
+00:14:38,000 --> 00:14:40,000
+like 9 to 12 months
+
+417
+00:14:40,000 --> 00:14:42,000
+because by then you have completed
+
+418
+00:14:42,000 --> 00:14:44,000
+majority of the modules
+
+419
+00:14:44,000 --> 00:14:46,000
+Right?
+
+420
+00:14:46,000 --> 00:14:48,000
+So in the degree also you can start
+
+421
+00:14:48,000 --> 00:14:50,000
+setting for placements at the same time
+
+422
+00:14:50,000 --> 00:14:52,000
+Okay?
+
+423
+00:14:52,000 --> 00:14:54,000
+But whatever are the additional modules
+
+424
+00:14:54,000 --> 00:14:56,000
+Right?
+
+425
+00:14:56,000 --> 00:14:58,000
+That need to be completed
+
+426
+00:14:58,000 --> 00:15:00,000
+for which you need around 4 to 6 months
+
+427
+00:15:00,000 --> 00:15:02,000
+Okay
+
+428
+00:15:02,000 --> 00:15:04,000
+Okay
+
+429
+00:15:04,000 --> 00:15:06,000
+Now I am
+
+430
+00:15:06,000 --> 00:15:08,000
+at the next idea
+
+431
+00:15:08,000 --> 00:15:10,000
+I am getting an idea now
+
+432
+00:15:10,000 --> 00:15:12,000
+All doubts clear?
+
+433
+00:15:14,000 --> 00:15:16,000
+Regarding the finances
+
+434
+00:15:16,000 --> 00:15:18,000
+I have
+
+435
+00:15:18,000 --> 00:15:20,000
+like if I want to upgrade
+
+436
+00:15:20,000 --> 00:15:22,000
+in let's say
+
+437
+00:15:22,000 --> 00:15:24,000
+from
+
+438
+00:15:24,000 --> 00:15:26,000
+like
+
+439
+00:15:26,000 --> 00:15:28,000
+certification
+
+440
+00:15:28,000 --> 00:15:30,000
+Yes
+
+441
+00:15:30,000 --> 00:15:32,000
+If I want to upgrade it
+
+442
+00:15:32,000 --> 00:15:34,000
+so how will be the
+
+443
+00:15:34,000 --> 00:15:36,000
+EMI process in all
+
+444
+00:15:36,000 --> 00:15:38,000
+I was told that
+
+445
+00:15:38,000 --> 00:15:40,000
+additional 1.5 lakhs will be
+
+446
+00:15:40,000 --> 00:15:42,000
+like in the fee for
+
+447
+00:15:42,000 --> 00:15:44,000
+the masters degree
+
+448
+00:15:44,000 --> 00:15:46,000
+Correct yes
+
+449
+00:15:46,000 --> 00:15:48,000
+So how will be the
+
+450
+00:15:48,000 --> 00:15:50,000
+EMI process in all
+
+451
+00:15:50,000 --> 00:15:52,000
+Will it be added to it
+
+452
+00:15:52,000 --> 00:15:54,000
+or else
+
+453
+00:15:54,000 --> 00:15:56,000
+new EMI
+
+454
+00:15:56,000 --> 00:15:58,000
+will be complete like that
+
+455
+00:15:58,000 --> 00:16:00,000
+When is your first EMI starting
+
+456
+00:16:00,000 --> 00:16:02,000
+I think August
+
+457
+00:16:02,000 --> 00:16:04,000
+Right?
+
+458
+00:16:04,000 --> 00:16:06,000
+Yes August
+
+459
+00:16:06,000 --> 00:16:08,000
+So I think what I can do is I can add
+
+460
+00:16:08,000 --> 00:16:10,000
+this amount to your existing EMI
+
+461
+00:16:10,000 --> 00:16:12,000
+Right? For that
+
+462
+00:16:12,000 --> 00:16:14,000
+what we will have to do is
+
+463
+00:16:14,000 --> 00:16:16,000
+that we might have to cancel your
+
+464
+00:16:16,000 --> 00:16:18,000
+old EMI
+
+465
+00:16:18,000 --> 00:16:20,000
+and start an entire
+
+466
+00:16:20,000 --> 00:16:22,000
+EMI for the remaining amount
+
+467
+00:16:22,000 --> 00:16:24,000
+You have paid 20,000 right
+
+468
+00:16:24,000 --> 00:16:26,000
+down payment
+
+469
+00:16:26,000 --> 00:16:28,000
+Yes
+
+470
+00:16:28,000 --> 00:16:30,000
+So the remaining amount that is
+
+471
+00:16:30,000 --> 00:16:32,000
+294 plus
+
+472
+00:16:32,000 --> 00:16:34,000
+another
+
+473
+00:16:34,000 --> 00:16:36,000
+151
+
+474
+00:16:48,000 --> 00:16:50,000
+Around
+
+475
+00:16:50,000 --> 00:16:52,000
+444 that is the remaining
+
+476
+00:16:52,000 --> 00:16:54,000
+amount right
+
+477
+00:16:54,000 --> 00:16:56,000
+The entire amount EMI
+
+478
+00:16:56,000 --> 00:16:58,000
+I can convert to 24 months
+
+479
+00:16:58,000 --> 00:17:00,000
+Right? Or second option
+
+480
+00:17:00,000 --> 00:17:02,000
+is that you keep your
+
+481
+00:17:02,000 --> 00:17:04,000
+this EMI as it is that you have done
+
+482
+00:17:04,000 --> 00:17:06,000
+Okay? And we initiate
+
+483
+00:17:06,000 --> 00:17:08,000
+a new EMI for 1 lakh 50,000
+
+484
+00:17:08,000 --> 00:17:10,000
+Right?
+
+485
+00:17:10,000 --> 00:17:12,000
+That is the remaining amount
+
+486
+00:17:12,000 --> 00:17:14,000
+So there we have a
+
+487
+00:17:14,000 --> 00:17:16,000
+EMI option of 18 months
+
+488
+00:17:16,000 --> 00:17:18,000
+No cost
+
+489
+00:17:18,000 --> 00:17:20,000
+Okay?
+
+490
+00:17:20,000 --> 00:17:22,000
+So these are the two options for you
+
+491
+00:17:22,000 --> 00:17:24,000
+Because your EMI is starting from August
+
+492
+00:17:24,000 --> 00:17:26,000
+Right? Then hence
+
+493
+00:17:26,000 --> 00:17:28,000
+we can cancel this EMI and
+
+494
+00:17:28,000 --> 00:17:30,000
+start a new one for the entire amount
+
+495
+00:17:30,000 --> 00:17:32,000
+also
+
+496
+00:17:32,000 --> 00:17:34,000
+Okay?
+
+497
+00:17:34,000 --> 00:17:36,000
+Difference will be
+
+498
+00:17:36,000 --> 00:17:38,000
+there you will get 24 months
+
+499
+00:17:38,000 --> 00:17:40,000
+Okay?
+
+500
+00:17:40,000 --> 00:17:42,000
+Here you will get 18 months for 150
+
+501
+00:17:46,000 --> 00:17:48,000
+Okay?
+
+502
+00:17:48,000 --> 00:17:50,000
+So
+
+503
+00:17:50,000 --> 00:17:52,000
+What if
+
+504
+00:17:52,000 --> 00:17:54,000
+I don't join right away
+
+505
+00:17:54,000 --> 00:17:56,000
+I don't enroll
+
+506
+00:17:56,000 --> 00:17:58,000
+for the master's right away
+
+507
+00:17:58,000 --> 00:18:00,000
+and then after some like
+
+508
+00:18:00,000 --> 00:18:02,000
+after 2 months I will join
+
+509
+00:18:02,000 --> 00:18:04,000
+What will be the other
+
+510
+00:18:04,000 --> 00:18:06,000
+any problems for that
+
+511
+00:18:06,000 --> 00:18:08,000
+See
+
+512
+00:18:08,000 --> 00:18:10,000
+In terms of problems
+
+513
+00:18:10,000 --> 00:18:12,000
+What will happen is that until then
+
+514
+00:18:12,000 --> 00:18:14,000
+Right? Everything that
+
+515
+00:18:14,000 --> 00:18:16,000
+you will be doing
+
+516
+00:18:16,000 --> 00:18:18,000
+will be doing through the certification dashboard
+
+517
+00:18:18,000 --> 00:18:20,000
+Okay?
+
+518
+00:18:20,000 --> 00:18:22,000
+Because you need to understand
+
+519
+00:18:22,000 --> 00:18:24,000
+after you come to us
+
+520
+00:18:24,000 --> 00:18:26,000
+after 2 months 3 months
+
+521
+00:18:26,000 --> 00:18:28,000
+Then we will be enrolling you for master's
+
+522
+00:18:28,000 --> 00:18:30,000
+Right?
+
+523
+00:18:30,000 --> 00:18:32,000
+For those 3 months you might have completed
+
+524
+00:18:32,000 --> 00:18:34,000
+one or two modules
+
+525
+00:18:34,000 --> 00:18:36,000
+Right?
+
+526
+00:18:36,000 --> 00:18:38,000
+Then those need to be added for
+
+527
+00:18:38,000 --> 00:18:40,000
+there will be some reputations you will have to do
+
+528
+00:18:40,000 --> 00:18:42,000
+Right?
+
+529
+00:18:42,000 --> 00:18:44,000
+So these things will differ
+
+530
+00:18:44,000 --> 00:18:46,000
+Anyway
+
+531
+00:18:46,000 --> 00:18:48,000
+we suggest anyone to do it
+
+532
+00:18:48,000 --> 00:18:50,000
+See if it is possible
+
+533
+00:18:50,000 --> 00:18:52,000
+we suggest that you go
+
+534
+00:18:52,000 --> 00:18:54,000
+initially only
+
+535
+00:18:54,000 --> 00:18:56,000
+That's our normal suggestion because
+
+536
+00:18:56,000 --> 00:18:58,000
+from the first module itself you will be
+
+537
+00:18:58,000 --> 00:19:00,000
+graded for and you will have your
+
+538
+00:19:00,000 --> 00:19:02,000
+modules sorted
+
+539
+00:19:02,000 --> 00:19:04,000
+Right? So that is our
+
+540
+00:19:04,000 --> 00:19:06,000
+idea and that is why we
+
+541
+00:19:06,000 --> 00:19:08,000
+say so that it doesn't get complicated
+
+542
+00:19:08,000 --> 00:19:10,000
+Plus what happens is that
+
+543
+00:19:10,000 --> 00:19:12,000
+on a limited capacity
+
+544
+00:19:12,000 --> 00:19:14,000
+even the university allows us
+
+545
+00:19:14,000 --> 00:19:16,000
+on a cohort basis
+
+546
+00:19:16,000 --> 00:19:18,000
+Right? That these are the
+
+547
+00:19:18,000 --> 00:19:20,000
+candidates we can
+
+548
+00:19:20,000 --> 00:19:22,000
+upgrade
+
+549
+00:19:22,000 --> 00:19:24,000
+Preference is always given to the newest batch
+
+550
+00:19:24,000 --> 00:19:26,000
+Right?
+
+551
+00:19:26,000 --> 00:19:28,000
+Since your batch is the new
+
+552
+00:19:28,000 --> 00:19:30,000
+the latest batch
+
+553
+00:19:30,000 --> 00:19:32,000
+Right now we are being given the preference
+
+554
+00:19:32,000 --> 00:19:34,000
+Right?
+
+555
+00:19:34,000 --> 00:19:36,000
+So that is also one thing
+
+556
+00:19:36,000 --> 00:19:38,000
+But
+
+557
+00:19:38,000 --> 00:19:40,000
+I mean see one benefit what I
+
+558
+00:19:40,000 --> 00:19:42,000
+can tell you is
+
+559
+00:19:42,000 --> 00:19:44,000
+Currently what is your in hand salary?
+
+560
+00:19:44,000 --> 00:19:46,000
+It is 8 LP
+
+561
+00:19:46,000 --> 00:19:48,000
+Like all is in hand?
+
+562
+00:19:48,000 --> 00:19:50,000
+In hand
+
+563
+00:19:50,000 --> 00:19:52,000
+Monthly
+
+564
+00:19:52,000 --> 00:19:54,000
+Monthly
+
+565
+00:19:54,000 --> 00:19:56,000
+Monthly
+
+566
+00:19:56,000 --> 00:19:58,000
+15 something
+
+567
+00:19:58,000 --> 00:20:00,000
+or like 53
+
+568
+00:20:00,000 --> 00:20:02,000
+or something like that
+
+569
+00:20:02,000 --> 00:20:04,000
+The reason I am telling you
+
+570
+00:20:04,000 --> 00:20:06,000
+Your
+
+571
+00:20:06,000 --> 00:20:08,000
+444 I can
+
+572
+00:20:08,000 --> 00:20:10,000
+one second
+
+573
+00:20:10,000 --> 00:20:12,000
+I just do
+
+574
+00:20:12,000 --> 00:20:14,000
+the calculation and tell you
+
+575
+00:20:14,000 --> 00:20:16,000
+then you can select the best option for
+
+576
+00:20:16,000 --> 00:20:18,000
+yourself what you want to do
+
+577
+00:20:18,000 --> 00:20:20,000
+Okay?
+
+578
+00:20:20,000 --> 00:20:22,000
+So if I do
+
+579
+00:20:22,000 --> 00:20:24,000
+444 divide by
+
+580
+00:20:24,000 --> 00:20:26,000
+24 okay it comes to
+
+581
+00:20:26,000 --> 00:20:28,000
+18500
+
+582
+00:20:28,000 --> 00:20:30,000
+Okay
+
+583
+00:20:30,000 --> 00:20:32,000
+What is your current 24 months
+
+584
+00:20:32,000 --> 00:20:34,000
+you have taken?
+
+585
+00:20:34,000 --> 00:20:36,000
+Right
+
+586
+00:20:36,000 --> 00:20:38,000
+So currently 294 divide by
+
+587
+00:20:38,000 --> 00:20:40,000
+24 it is
+
+588
+00:20:40,000 --> 00:20:42,000
+12250
+
+589
+00:20:42,000 --> 00:20:44,000
+Right per month
+
+590
+00:20:44,000 --> 00:20:46,000
+Minus 18.5
+
+591
+00:20:46,000 --> 00:20:48,000
+It comes to around 6.25
+
+592
+00:20:48,000 --> 00:20:50,000
+extra for you for per month
+
+593
+00:20:50,000 --> 00:20:52,000
+If you do
+
+594
+00:20:52,000 --> 00:20:54,000
+it now
+
+595
+00:20:54,000 --> 00:20:56,000
+If you do it later
+
+596
+00:20:56,000 --> 00:20:58,000
+the no cost options
+
+597
+00:20:58,000 --> 00:21:00,000
+are either 12 months or 18 months
+
+598
+00:21:00,000 --> 00:21:02,000
+Okay?
+
+599
+00:21:02,000 --> 00:21:04,000
+And 18 months is on approval
+
+600
+00:21:04,000 --> 00:21:06,000
+again one second
+
+601
+00:21:06,000 --> 00:21:08,000
+833 plus 12.25
+
+602
+00:21:08,000 --> 00:21:10,000
+or
+
+603
+00:21:12,000 --> 00:21:14,000
+Somewhere around
+
+604
+00:21:14,000 --> 00:21:16,000
+20,000 it will come
+
+605
+00:21:16,000 --> 00:21:18,000
+per month
+
+606
+00:21:18,000 --> 00:21:20,000
+for you
+
+607
+00:21:20,000 --> 00:21:22,000
+If you do it later
+
+608
+00:21:22,000 --> 00:21:24,000
+Now you will get
+
+609
+00:21:24,000 --> 00:21:26,000
+24 months no cost
+
+610
+00:21:26,000 --> 00:21:28,000
+in both
+
+611
+00:21:28,000 --> 00:21:30,000
+Later on
+
+612
+00:21:30,000 --> 00:21:32,000
+once the physics thing passes
+
+613
+00:21:32,000 --> 00:21:34,000
+like you are saying before later
+
+614
+00:21:34,000 --> 00:21:36,000
+the maximum that we can offer
+
+615
+00:21:36,000 --> 00:21:38,000
+is either 12 months or 18 months
+
+616
+00:21:38,000 --> 00:21:40,000
+as per what is going on
+
+617
+00:21:40,000 --> 00:21:42,000
+at that period
+
+618
+00:21:42,000 --> 00:21:44,000
+Right?
+
+619
+00:21:44,000 --> 00:21:46,000
+So that will be the only difference
+
+620
+00:21:46,000 --> 00:21:48,000
+in terms of finances
+
+621
+00:21:48,000 --> 00:21:50,000
+I mean it will be better for you now
+
+622
+00:21:50,000 --> 00:21:52,000
+because you will get no cost 24 months
+
+623
+00:21:52,000 --> 00:21:54,000
+for both
+
+624
+00:21:54,000 --> 00:21:56,000
+the cases basically
+
+625
+00:21:56,000 --> 00:21:58,000
+Right?
+
+626
+00:21:58,000 --> 00:22:00,000
+So it's your call to make
+
+627
+00:22:00,000 --> 00:22:02,000
+Hmm
+
+628
+00:22:02,000 --> 00:22:04,000
+I think we need to think more back
+
+629
+00:22:04,000 --> 00:22:06,000
+Yes, you can think
+
+630
+00:22:06,000 --> 00:22:08,000
+Here you are getting 18 points
+
+631
+00:22:08,000 --> 00:22:10,000
+something in both
+
+632
+00:22:10,000 --> 00:22:12,000
+Right?
+
+633
+00:22:12,000 --> 00:22:14,000
+There you might have to spend
+
+634
+00:22:14,000 --> 00:22:16,000
+Yes, in 18.5
+
+635
+00:22:16,000 --> 00:22:18,000
+Hmm
+
+636
+00:22:18,000 --> 00:22:20,000
+There you might have to extend it
+
+637
+00:22:20,000 --> 00:22:22,000
+a little either 20 or
+
+638
+00:22:22,000 --> 00:22:24,000
+it can cross 20 also
+
+639
+00:22:24,000 --> 00:22:26,000
+Hmm
+
+640
+00:22:26,000 --> 00:22:28,000
+Right, so that is the difference
+
+641
+00:22:28,000 --> 00:22:30,000
+Hmm
+
+642
+00:22:30,000 --> 00:22:32,000
+Yes
+
+643
+00:22:32,000 --> 00:22:34,000
+Okay, anything else?
+
+644
+00:22:34,000 --> 00:22:36,000
+Any other doubts, questions?
+
+645
+00:22:36,000 --> 00:22:38,000
+No, no, no, no
+
+646
+00:22:38,000 --> 00:22:40,000
+Got it. So by when can you
+
+647
+00:22:40,000 --> 00:22:42,000
+Just I would need an update
+
+648
+00:22:42,000 --> 00:22:44,000
+Prateek, by when can you
+
+649
+00:22:44,000 --> 00:22:46,000
+provide me an update on this?
+
+650
+00:22:46,000 --> 00:22:48,000
+Hmm
+
+651
+00:22:48,000 --> 00:22:50,000
+Maybe
+
+652
+00:22:50,000 --> 00:22:52,000
+tomorrow or the day after tomorrow
+
+653
+00:22:52,000 --> 00:22:54,000
+Definitely getting back to you
+
+654
+00:22:54,000 --> 00:22:56,000
+Okay, done
+
+655
+00:22:56,000 --> 00:22:58,000
+So I will send you the brochure also
+
+656
+00:22:58,000 --> 00:23:00,000
+of the degree and two links
+
+657
+00:23:00,000 --> 00:23:02,000
+Just go through that
+
+658
+00:23:02,000 --> 00:23:04,000
+Right, you will get better insights
+
+659
+00:23:06,000 --> 00:23:08,000
+Okay, yes fine
+
+660
+00:23:08,000 --> 00:23:10,000
+And apart from this
+
+661
+00:23:10,000 --> 00:23:12,000
+I think you told me one of your friends is
+
+662
+00:23:12,000 --> 00:23:14,000
+already in masters you said, right?
+
+663
+00:23:14,000 --> 00:23:16,000
+Yes, yes one
+
+664
+00:23:16,000 --> 00:23:18,000
+Okay, got it. And what is your reason
+
+665
+00:23:18,000 --> 00:23:20,000
+for doing masters?
+
+666
+00:23:20,000 --> 00:23:22,000
+I was actually
+
+667
+00:23:22,000 --> 00:23:24,000
+going out this year
+
+668
+00:23:24,000 --> 00:23:26,000
+or the next year for the
+
+669
+00:23:26,000 --> 00:23:28,000
+masters itself
+
+670
+00:23:28,000 --> 00:23:30,000
+Oh, outside India
+
+671
+00:23:30,000 --> 00:23:32,000
+Yes, outside India
+
+672
+00:23:32,000 --> 00:23:34,000
+I appeared for
+
+673
+00:23:34,000 --> 00:23:36,000
+IRL's specialized VR
+
+674
+00:23:36,000 --> 00:23:38,000
+in January
+
+675
+00:23:38,000 --> 00:23:40,000
+That's true
+
+676
+00:23:40,000 --> 00:23:42,000
+I got few offers from
+
+677
+00:23:42,000 --> 00:23:44,000
+some universities
+
+678
+00:23:44,000 --> 00:23:46,000
+but I
+
+679
+00:23:46,000 --> 00:23:48,000
+was not targeting those
+
+680
+00:23:48,000 --> 00:23:50,000
+I can see that
+
+681
+00:23:50,000 --> 00:23:52,000
+I can upscale myself
+
+682
+00:23:52,000 --> 00:23:54,000
+as well as I can get
+
+683
+00:23:54,000 --> 00:23:56,000
+a masters degree so that will be
+
+684
+00:23:56,000 --> 00:23:58,000
+very going to take out of here
+
+685
+00:23:58,000 --> 00:24:00,000
+Correct, correct, definitely
+
+686
+00:24:00,000 --> 00:24:02,000
+So any other
+
+687
+00:24:02,000 --> 00:24:04,000
+doubts, concerns that you have?
+
+688
+00:24:04,000 --> 00:24:06,000
+No, I am
+
+689
+00:24:06,000 --> 00:24:08,000
+Got it, no problem
+
+690
+00:24:08,000 --> 00:24:10,000
+You can let me know by tomorrow
+
+691
+00:24:10,000 --> 00:24:12,000
+or maybe
+
+692
+00:24:12,000 --> 00:24:14,000
+Yeah, tomorrow would be better
+
+693
+00:24:14,000 --> 00:24:16,000
+but
+
+694
+00:24:16,000 --> 00:24:18,000
+Tomorrow generally
+
+695
+00:24:18,000 --> 00:24:20,000
+on weekdays when are you available
+
+696
+00:24:20,000 --> 00:24:22,000
+Prateep?
+
+697
+00:24:22,000 --> 00:24:24,000
+Ma'am, from tomorrow onwards I will be
+
+698
+00:24:24,000 --> 00:24:26,000
+available in Sunday entire day because
+
+699
+00:24:26,000 --> 00:24:28,000
+today is my last day in India
+
+700
+00:24:28,000 --> 00:24:30,000
+Okay, correct, correct
+
+701
+00:24:30,000 --> 00:24:32,000
+Okay, fine, no problem then I will reach
+
+702
+00:24:32,000 --> 00:24:34,000
+out to you tomorrow once, right? In the afternoon
+
+703
+00:24:36,000 --> 00:24:38,000
+Yeah, tomorrow
+
+704
+00:24:38,000 --> 00:24:40,000
+I will have to
+
+705
+00:24:40,000 --> 00:24:42,000
+discuss some things with my parents as well
+
+706
+00:24:42,000 --> 00:24:44,000
+Tuesday?
+
+707
+00:24:44,000 --> 00:24:46,000
+Maybe after tomorrow I can
+
+708
+00:24:46,000 --> 00:24:48,000
+confirm
+
